@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { GuestButton } from "@/components/auth/guest-button";
 import { CategoryIcon } from "@/components/category-icon";
 import { Avatar } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
@@ -85,10 +86,13 @@ export default async function HomePage() {
             yüksel.
           </p>
 
-          <div className="mt-9 flex flex-col gap-3 sm:flex-row">
+          <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:justify-center">
             <Link href={primaryHref} className={buttonVariants({ size: "lg" })}>
               {primaryLabel}
             </Link>
+            {session ? null : (
+              <GuestButton label="Üye olmadan dene" size="lg" />
+            )}
             <Link
               href="/siralama"
               className={buttonVariants({ variant: "secondary", size: "lg" })}

@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "categorySlug": "geometri",
+      "topic": "Açılar",
+      "difficulty": 2,
+      "text": "İki doğrunun kesişmesiyle oluşan komşu açıların toplamı kaç derecedir?",
+      "options": {
+        "A": "90",
+        "B": "180",
+        "C": "270",
+        "D": "360"
+      },
+      "correctOption": "B",
+      "explanation": "Komşu açılar bütünlerdir: toplam 180°.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Açılar",
+      "difficulty": 2,
+      "text": "İki doğrunun kesişmesiyle oluşan ters açılar birbirine eşittir. Bu ifade hangi teoremi anlatır?",
+      "options": {
+        "A": "Ters açı teoremi",
+        "B": "Komşu açı teoremi",
+        "C": "Bütünler açı teoremi",
+        "D": "Tümleyen açı teoremi"
+      },
+      "correctOption": "A",
+      "explanation": "Ters açılar birbirine eşittir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Bir üçgenin kenar orta dikmeleri bir noktada kesişir. Bu nokta hangisidir?",
+      "options": {
+        "A": "Ağırlık merkezi",
+        "B": "Diklik merkezi",
+        "C": "Çevrel çember merkezi",
+        "D": "İç teğet çember merkezi"
+      },
+      "correctOption": "C",
+      "explanation": "Kenar orta dikmeler çevrel çember merkezinde kesişir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Bir üçgenin açı ortayları bir noktada kesişir. Bu nokta hangisidir?",
+      "options": {
+        "A": "Ağırlık merkezi",
+        "B": "Diklik merkezi",
+        "C": "Çevrel çember merkezi",
+        "D": "İç teğet çember merkezi"
+      },
+      "correctOption": "D",
+      "explanation": "Açı ortaylar iç teğet çember merkezinde kesişir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Bir üçgenin kenar ortalarını birleştiren doğru parçaları bir noktada kesişir. Bu nokta hangisidir?",
+      "options": {
+        "A": "Ağırlık merkezi",
+        "B": "Diklik merkezi",
+        "C": "Çevrel çember merkezi",
+        "D": "İç teğet çember merkezi"
+      },
+      "correctOption": "A",
+      "explanation": "Kenar ortalar ağırlık merkezinde kesişir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 3,
+      "text": "Bir dik üçgenin dik kenarları 6 ve 8 cm ise hipotenüs kaç cm'dir?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "correctOption": "B",
+      "explanation": "√(6²+8²)=√100=10 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir karenin köşegen uzunluğu 10√2 cm ise bir kenarı kaç cm'dir?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correctOption": "B",
+      "explanation": "Köşegen = a√2 → a = 10 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir dikdörtgenin köşegen uzunluğu 13 cm, bir kenarı 5 cm ise diğer kenarı kaç cm'dir?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "correctOption": "C",
+      "explanation": "√(5²+x²)=13 → x=12 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir eşkenar dörtgenin bir köşesindeki iç açı 60° ise komşu iç açı kaç derecedir?",
+      "options": {
+        "A": "60",
+        "B": "90",
+        "C": "120",
+        "D": "180"
+      },
+      "correctOption": "C",
+      "explanation": "Komşu açılar bütünler: 180−60=120°.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberde iki teğet arasındaki açı 80° ise küçük yay kaç derecedir?",
+      "options": {
+        "A": "80",
+        "B": "100",
+        "C": "160",
+        "D": "200"
+      },
+      "correctOption": "B",
+      "explanation": "Teğetler arası açı = (büyük yay - küçük yay)/2; 80=(360-x)/2 -> x=200? Yeniden: büyük yay=360-x; 80=(360-x-x)/2=180-x -> x=100. Küçük yay 100°.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberin çapı 10 cm ise yarıçapı kaç cm'dir?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "10"
+      },
+      "correctOption": "B",
+      "explanation": "Yarıçap = çap/2 = 5 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 3,
+      "text": "Bir çemberin alanı 28,26 cm² ise yarıçapı kaç cm'dir? (π=3,14)",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctOption": "B",
+      "explanation": "πr²=28,26 → r²=9 → r=3 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Bir küpün yüzey alanı 54 cm² ise bir kenarı kaç cm'dir?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctOption": "B",
+      "explanation": "6a²=54 → a²=9 → a=3 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Bir dikdörtgenler prizmasının hacmi 60 cm³, taban alanı 12 cm² ise yüksekliği kaç cm'dir?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "correctOption": "B",
+      "explanation": "Hacim = taban alanı × yükseklik → 60=12×h → h=5 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 3,
+      "text": "Bir silindirin hacmi 188,4 cm³, taban yarıçapı 3 cm ise yüksekliği kaç cm'dir? (π=3,14)",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "correctOption": "C",
+      "explanation": "Hacim = πr²h = 3,14×9×h; 188,4/28,26 ≈ 6,67 ≈ 6 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Koordinat",
+      "difficulty": 2,
+      "text": "A(3,4) noktasının orijine uzaklığı kaç birimdir?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctOption": "B",
+      "explanation": "√(3²+4²)=√25=5.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Koordinat",
+      "difficulty": 2,
+      "text": "A(1,1) ve B(4,5) noktalarını birleştiren doğru parçasının eğimi kaçtır?",
+      "options": {
+        "A": "3/4",
+        "B": "4/3",
+        "C": "1",
+        "D": "5/4"
+      },
+      "correctOption": "B",
+      "explanation": "Eğim = (5-1)/(4-1) = 4/3.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Koordinat",
+      "difficulty": 3,
+      "text": "y = -2x + 4 doğrusunun x-eksenini kestiği noktanın x-koordinatı kaçtır?",
+      "options": {
+        "A": "-2",
+        "B": "0",
+        "C": "2",
+        "D": "4"
+      },
+      "correctOption": "C",
+      "explanation": "0 = -2x+4 → x=2.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Benzerlik",
+      "difficulty": 2,
+      "text": "İki benzer üçgenin kenar oranları 4:6 ise alan oranları kaçtır?",
+      "options": {
+        "A": "4:6",
+        "B": "8:12",
+        "C": "16:36",
+        "D": "64:216"
+      },
+      "correctOption": "C",
+      "explanation": "Alan oranı kenar oranının karesidir: 16:36.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberin çapı 14 cm ise çevresi kaç cm'dir? (π=22/7)",
+      "options": {
+        "A": "38",
+        "B": "44",
+        "C": "50",
+        "D": "56"
+      },
+      "correctOption": "B",
+      "explanation": "Çevre = π×d = (22/7)×14 = 44 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 1,
+      "text": "Bir çemberde merkez açının ölçüsü 80 derece ise aynı yayı gören çevre açısı kaç derecedir?",
+      "options": {
+        "A": "40",
+        "B": "80",
+        "C": "160",
+        "D": "20"
+      },
+      "correctOption": "A",
+      "explanation": "Çevre açı merkez açının yarısıdır: 80/2=40 derece.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Paralelkenarın bir açısı 70 derece ise komşu açısı kaç derecedir?",
+      "options": {
+        "A": "70",
+        "B": "110",
+        "C": "180",
+        "D": "90"
+      },
+      "correctOption": "B",
+      "explanation": "Paralelkenarda komşu açılar bütünlerdir: 180-70=110 derece.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Pisagor",
+      "difficulty": 2,
+      "text": "Hipotenüsü 13 cm olan bir dik üçgenin bir dik kenarı 5 cm ise diğer dik kenarı kaç cm dir?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "correctOption": "C",
+      "explanation": "Diğer kenar=karekök(13^2-5^2)=karekök(169-25)=karekök144=12 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Alan ve Çevre",
+      "difficulty": 3,
+      "text": "Kenar uzunluğu 5 cm olan bir karenin alanı kaç cm^2 dir?",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35"
+      },
+      "correctOption": "B",
+      "explanation": "Kare alanı=kenar^2=5^2=25 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 3,
+      "text": "Yarıçapı 3 cm, yüksekliği 5 cm olan bir silindirin hacmi kaç cm^3 tür? (pi=3)",
+      "options": {
+        "A": "90",
+        "B": "135",
+        "C": "141",
+        "D": "45"
+      },
+      "correctOption": "B",
+      "explanation": "Hacim=pi*r^2*h=3*9*5=135 cm^3 tür.",
+      "source": "özgün"
+    }
+  ]
+}

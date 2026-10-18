@@ -144,9 +144,11 @@ model GameRun {
   id             String       @id @default(cuid())
   userId         String
   user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
-  mode           String       @default("QUICK") // QUICK | CATEGORY | DAILY | DUEL
+  mode           String       @default("QUICK") // QUICK | CATEGORY | DAILY | EXAM | DUEL
   categoryId     String?
   category       Category?    @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+  // EXAM modunda seçilen sınav bölümü (ör. "genel-yetenek"). Diğer modlarda null.
+  examType       String?
   status         String       @default("IN_PROGRESS") // IN_PROGRESS | COMPLETED | ABANDONED
   totalQuestions Int
   correctCount   Int          @default(0)

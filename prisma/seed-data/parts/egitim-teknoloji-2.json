@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Eğitim ve öğretim sürecinde kullanılan araç, gereç ve yöntemlerin tasarımıyla ilgilenen disiplin hangisidir?",
+      "options": { "A": "Öğretim teknolojisi", "B": "Eğitim felsefesi", "C": "Ölçme ve değerlendirme", "D": "Rehberlik" },
+      "correctOption": "A",
+      "explanation": "Öğretim teknolojisi, öğretimi daha etkili kılmak için araç, gereç ve yöntemlerin tasarımıyla ilgilenir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Öğrenme sürecini daha etkili ve verimli kılmak için teknolojinin nasıl kullanılacağını inceleyen alan hangisidir?",
+      "options": { "A": "Eğitim tarihi", "B": "Eğitim teknolojisi", "C": "Okul yönetimi", "D": "Program geliştirme" },
+      "correctOption": "B",
+      "explanation": "Eğitim teknolojisi, eğitim-öğretim ortamlarının teknoloji yoluyla düzenlenmesini inceler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Öğretimde kullanılan tepegöz, projeksiyon ve akıllı tahta gibi araçlar genel olarak hangi kavramla ifade edilir?",
+      "options": { "A": "Yöntem", "B": "Strateji", "C": "Öğretim materyali", "D": "Teknik" },
+      "correctOption": "C",
+      "explanation": "Öğretimde kullanılan araç ve gereçler öğretim materyali olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 2,
+      "text": "Eğitimde iletişim sürecinin temel ögeleri arasında aşağıdakilerden hangisi yer alır?",
+      "options": { "A": "Yalnızca kaynak", "B": "Yalnızca alıcı", "C": "Yalnızca mesaj", "D": "Kaynak, mesaj, kanal, alıcı ve geri bildirim" },
+      "correctOption": "D",
+      "explanation": "İletişim süreci kaynak, mesaj, kanal, alıcı ve geri bildirim ögelerinden oluşur."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 2,
+      "text": "İletişim sürecinde mesajın gönderildiği taraf hangi ögeyle ifade edilir?",
+      "options": { "A": "Alıcı", "B": "Kaynak", "C": "Kanal", "D": "Kodlama" },
+      "correctOption": "A",
+      "explanation": "Alıcı, mesajın ulaştırıldığı ve onu çözümleyen taraftır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 2,
+      "text": "Kaynağın ileteceği düşünceyi anlaşılır bir biçime dönüştürmesi hangi kavramla ifade edilir?",
+      "options": { "A": "Kanal", "B": "Kodlama", "C": "Geri bildirim", "D": "Gürültü" },
+      "correctOption": "B",
+      "explanation": "Kodlama, düşüncenin söz, görsel veya simgeye dönüştürülmesidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 2,
+      "text": "İletişim sürecini bozarak mesajın doğru anlaşılmasını engelleyen etken hangisidir?",
+      "options": { "A": "Kanal", "B": "Alıcı", "C": "Gürültü", "D": "Geri bildirim" },
+      "correctOption": "C",
+      "explanation": "Gürültü, mesajın iletilmesini ya da anlaşılmasını olumsuz etkileyen engeldir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir görsel materyalde birbirine ait ögelerin yakın, ilgisiz ögelerin uzak yerleştirilmesi hangi tasarım ilkesidir?",
+      "options": { "A": "Hizalama", "B": "Tekrar", "C": "Denge", "D": "Yakınlık" },
+      "correctOption": "D",
+      "explanation": "Yakınlık ilkesi, ilişkili ögelerin gruplanarak birlikte algılanmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir materyalde sayfa ögelerinin görünmez bir çizgi üzerinde sıralanması hangi tasarım ilkesidir?",
+      "options": { "A": "Hizalama", "B": "Yakınlık", "C": "Vurgu", "D": "Denge" },
+      "correctOption": "A",
+      "explanation": "Hizalama ilkesi, ögelerin ortak bir çizgi üzerinde düzenlenmesini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir materyalde aynı renk, yazı tipi ve biçimin sürekli kullanılarak görsel bütünlük sağlanması hangi ilkedir?",
+      "options": { "A": "Vurgu", "B": "Tekrar", "C": "Denge", "D": "Hizalama" },
+      "correctOption": "B",
+      "explanation": "Tekrar ilkesi, benzer ögelerin tutarlı biçimde kullanılarak bütünlük sağlanmasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir slaytta üzerinde durulması gereken kavramın diğerlerinden farklı renk ve büyüklükte verilmesi hangi tasarım ilkesidir?",
+      "options": { "A": "Yakınlık", "B": "Hizalama", "C": "Vurgu", "D": "Tekrar" },
+      "correctOption": "C",
+      "explanation": "Vurgu ilkesi, dikkati önemli ögeye yöneltmek için farklılaştırma yapılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 3,
+      "text": "Materyalde ögelerin sayfa üzerinde görsel olarak dengeli biçimde dağıtılması hangi tasarım ilkesiyle ilgilidir?",
+      "options": { "A": "Yakınlık", "B": "Hizalama", "C": "Vurgu", "D": "Denge" },
+      "correctOption": "D",
+      "explanation": "Denge ilkesi, ögelerin sayfa üzerinde görsel ağırlık açısından uyumlu dağıtılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 3,
+      "text": "Materyal tasarımında gereksiz süslemelerden kaçınıp anlatımı sade tutmak hangi ilkeye uygundur?",
+      "options": { "A": "Basitlik", "B": "Karmaşıklık", "C": "Aşırı yükleme", "D": "Süsleme" },
+      "correctOption": "A",
+      "explanation": "Basitlik ilkesi, materyalin gereksiz ayrıntıdan arındırılıp anlaşılır kılınmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 3,
+      "text": "Bir materyalde ögelerin büyüklük ve önem sırasına göre düzenlenmesi hangi tasarım ilkesiyle ilgilidir?",
+      "options": { "A": "Tekrar", "B": "Hiyerarşi", "C": "Denge", "D": "Yakınlık" },
+      "correctOption": "B",
+      "explanation": "Hiyerarşi ilkesi, önem sırasına göre ögelerin belirginleştirilmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 2,
+      "text": "Öğretmenin materyal seçerken öğrencilerin yaş ve gelişim düzeyini dikkate alması hangi ölçütle ilişkilidir?",
+      "options": { "A": "Ekonomiklik", "B": "Dayanıklılık", "C": "Öğrenciye uygunluk", "D": "Renk zenginliği" },
+      "correctOption": "C",
+      "explanation": "Öğrenciye uygunluk, materyalin hedef kitlenin düzeyine uygunluğunu ifade eder."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 2,
+      "text": "Materyalin öğretim hedefine ve konuya uygun olması hangi seçim ölçütüyle ifade edilir?",
+      "options": { "A": "Ekonomiklik", "B": "Dayanıklılık", "C": "Estetik", "D": "Amaca uygunluk" },
+      "correctOption": "D",
+      "explanation": "Amaca uygunluk, materyalin kazanımlara hizmet etme derecesidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 3,
+      "text": "Dale'nin yaşantı konisine göre öğrenmenin en zor ve en soyut kaldığı yaşantı hangisidir?",
+      "options": { "A": "Sözel semboller", "B": "Doğrudan yaşantı", "C": "Canlandırma", "D": "Gezi ve gözlem" },
+      "correctOption": "A",
+      "explanation": "Koninin tepesindeki sözel semboller en soyut, öğrenmesi en zor yaşantılardır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 3,
+      "text": "Dale'nin yaşantı konisinde öğrencinin sürece doğrudan katıldığı en somut yaşantılar koninin hangi bölümündedir?",
+      "options": { "A": "Sözel semboller", "B": "Koninin tabanı", "C": "Koninin tepesi", "D": "Görsel semboller" },
+      "correctOption": "B",
+      "explanation": "Koninin tabanında doğrudan yaşantılar yer alır ve bunlar en somut yaşantılardır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 2,
+      "text": "Ses kaseti ve radyo gibi yalnızca işitmeye hitap eden araçlar hangi grupta yer alır?",
+      "options": { "A": "Görsel araçlar", "B": "Gör-işitsel araçlar", "C": "İşitsel araçlar", "D": "Basılı araçlar" },
+      "correctOption": "C",
+      "explanation": "Yalnızca sese dayanan araçlar işitsel araçlar grubunda yer alır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 2,
+      "text": "Televizyon ve video gibi hem görüntü hem ses ileten araçlar hangi grupta yer alır?",
+      "options": { "A": "İşitsel araçlar", "B": "Görsel araçlar", "C": "Basılı araçlar", "D": "Gör-işitsel araçlar" },
+      "correctOption": "D",
+      "explanation": "Hem görüntü hem ses ileten araçlar gör-işitsel araçlardır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 1,
+      "text": "Kitap, dergi ve broşür gibi araçlar hangi materyal grubunda yer alır?",
+      "options": { "A": "Basılı araçlar", "B": "Sevk araçları", "C": "Gör-işitsel araçlar", "D": "İşitsel araçlar" },
+      "correctOption": "A",
+      "explanation": "Kitap, dergi ve broşür gibi araçlar basılı (yazılı) materyallerdir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitsel Yazılımlar",
+      "difficulty": 2,
+      "text": "Öğrenciye bilgi sunup ardından sorular sorarak ilerleyen ve geri bildirim veren yazılım türü hangisidir?",
+      "options": { "A": "Simülasyon", "B": "Alıştırma ve tekrar", "C": "Oyun", "D": "Veri tabanı" },
+      "correctOption": "B",
+      "explanation": "Alıştırma ve tekrar yazılımı, öğrenileni soru-cevap ve geri bildirimle pekiştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitsel Yazılımlar",
+      "difficulty": 3,
+      "text": "Gerçekte tehlikeli veya pahalı olan bir sürecin bilgisayar ortamında canlandırılarak öğretilmesi hangi yazılım türüdür?",
+      "options": { "A": "Alıştırma", "B": "Oyun", "C": "Simülasyon", "D": "Veri tabanı" },
+      "correctOption": "C",
+      "explanation": "Simülasyon, gerçek durumun güvenli ve ekonomik biçimde modellenmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitsel Yazılımlar",
+      "difficulty": 3,
+      "text": "Öğrencinin yaratıcılığını kullanarak kendi ürününü oluşturmasını sağlayan eğitsel yazılım türü hangisidir?",
+      "options": { "A": "Alıştırma", "B": "Simülasyon", "C": "Veri tabanı", "D": "Üretim" },
+      "correctOption": "D",
+      "explanation": "Üretim yazılımları, öğrencinin kendi içeriğini oluşturmasına imkân tanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitsel Yazılımlar",
+      "difficulty": 2,
+      "text": "Öğrencinin bir problemi çözmek için kendi stratejisini geliştirmesini gerektiren eğitsel yazılım türü hangisidir?",
+      "options": { "A": "Problem çözme", "B": "Alıştırma", "C": "Simülasyon", "D": "Sunum" },
+      "correctOption": "A",
+      "explanation": "Problem çözme yazılımları, öğrencinin çözüm yolu geliştirmesini gerektirir."
+    }
+  ]
+}

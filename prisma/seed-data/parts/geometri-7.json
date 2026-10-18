@@ -1,0 +1,378 @@
+{
+  "questions": [
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Bir üçgenin kenar uzunlukları 9,12,15 ise bu üçgen hangi tür üçgendir?",
+      "options": {
+        "A": "Dik",
+        "B": "İkizkenar",
+        "C": "Eşkenar",
+        "D": "Çeşitkenar"
+      },
+      "correctOption": "A",
+      "explanation": "9²+12²=15² (Pisagor) → dik üçgen.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Bir üçgenin iç açılarından biri 90° ise bu üçgen hangi tür üçgendir?",
+      "options": {
+        "A": "Dik",
+        "B": "İkizkenar",
+        "C": "Eşkenar",
+        "D": "Çeşitkenar"
+      },
+      "correctOption": "A",
+      "explanation": "90° iç açısı var → dik üçgen.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 3,
+      "text": "Bir dik üçgenin bir dik kenarı 15, hipotenüsü 17 ise diğer dik kenar kaçtır?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correctOption": "C",
+      "explanation": "√(17²−15²)=√64=8 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir karenin köşegen uzunluğu 10 cm ise bir kenarı kaç cm'dir?",
+      "options": {
+        "A": "5√2",
+        "B": "5",
+        "C": "10",
+        "D": "10√2"
+      },
+      "correctOption": "A",
+      "explanation": "Köşegen = a√2 → a = 10/√2 = 5√2 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir dikdörtgenin köşegen uzunluğu 10 cm, bir kenarı 6 cm ise diğer kenarı kaç cm'dir?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correctOption": "C",
+      "explanation": "√(6²+x²)=10 → x=8 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir eşkenar dörtgenin bir iç açısı 120° ise komşu iç açı kaç derecedir?",
+      "options": {
+        "A": "60",
+        "B": "90",
+        "C": "120",
+        "D": "180"
+      },
+      "correctOption": "A",
+      "explanation": "Komşu açılar bütünler: 180−120=60°.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberin yarıçapı 8 cm ise çevresi kaç cm'dir? (π=3)",
+      "options": {
+        "A": "42",
+        "B": "48",
+        "C": "54",
+        "D": "60"
+      },
+      "correctOption": "B",
+      "explanation": "Çevre = 2πr = 2×3×8 = 48 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberin alanı 113,04 cm² ise yarıçapı kaç cm'dir? (π=3,14)",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctOption": "B",
+      "explanation": "πr²=113,04 → r²=36 → r=6 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 3,
+      "text": "Bir çemberde merkez açı 100° ise gördüğü yay kaç derecedir?",
+      "options": {
+        "A": "50",
+        "B": "80",
+        "C": "100",
+        "D": "160"
+      },
+      "correctOption": "C",
+      "explanation": "Merkez açı gördüğü yayın ölçüsüne eşittir: 100°.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 3,
+      "text": "Bir çemberde çevre açı 50° ise gördüğü yay kaç derecedir?",
+      "options": {
+        "A": "50",
+        "B": "75",
+        "C": "100",
+        "D": "125"
+      },
+      "correctOption": "C",
+      "explanation": "Çevre açı gördüğü yayın yarısıdır: yay = 2×50 = 100°.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Bir küpün hacmi 216 cm³ ise bir kenarı kaç cm'dir?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctOption": "B",
+      "explanation": "a³=216 → a=6 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Bir kürenin yüzey alanı 113,04 cm² ise yarıçapı kaç cm olur? (π=3,14)",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctOption": "B",
+      "explanation": "4πr²=113,04 -> r²=9 -> r=3 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 3,
+      "text": "Bir koninin hacmi 50,24 cm³, taban yarıçapı 4 cm ise yüksekliği kaç cm'dir? (π=3,14)",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctOption": "A",
+      "explanation": "Hacim = (1/3)πr²h → 50,24 = (1/3)×3,14×16×h → h = 50,24/16,75 ≈ 3.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Koordinat",
+      "difficulty": 2,
+      "text": "A(5,0) ve B(0,12) noktaları arasındaki uzaklık kaçtır?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "14"
+      },
+      "correctOption": "C",
+      "explanation": "√(5²+12²)=√169=13.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Koordinat",
+      "difficulty": 2,
+      "text": "A(1,2) ve B(4,6) noktalarını birleştiren doğru parçasının orta noktası hangisidir?",
+      "options": {
+        "A": "(2,4)",
+        "B": "(2.5,4)",
+        "C": "(3,4)",
+        "D": "(3.5,4)"
+      },
+      "correctOption": "B",
+      "explanation": "Orta nokta = ((1+4)/2,(2+6)/2) = (2.5,4).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Koordinat",
+      "difficulty": 3,
+      "text": "y = 2x − 8 doğrusunun x-eksenini kestiği noktanın x-koordinatı kaçtır?",
+      "options": {
+        "A": "-4",
+        "B": "0",
+        "C": "2",
+        "D": "4"
+      },
+      "correctOption": "D",
+      "explanation": "0 = 2x−8 → x=4.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Benzerlik",
+      "difficulty": 2,
+      "text": "İki benzer üçgenin kenar oranları 3:4 ise alan oranları kaçtır?",
+      "options": {
+        "A": "3:4",
+        "B": "6:8",
+        "C": "9:16",
+        "D": "27:64"
+      },
+      "correctOption": "C",
+      "explanation": "Alan oranı kenar oranının karesidir: 9:16.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir dikdörtgenin köşegen uzunluğu 17 cm, bir kenarı 8 cm ise diğer kenarı kaç cm olur?",
+      "options": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
+      },
+      "correctOption": "D",
+      "explanation": "√(8²+x²)=17 → x=15 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir karenin bir kenarı 14 cm ise çevresi kaç cm'dir?",
+      "options": {
+        "A": "42",
+        "B": "48",
+        "C": "56",
+        "D": "64"
+      },
+      "correctOption": "C",
+      "explanation": "Çevre = 4×14 = 56 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberin çapı 10 cm ise çevresi kaç cm'dir? (π=3)",
+      "options": {
+        "A": "27",
+        "B": "30",
+        "C": "33",
+        "D": "36"
+      },
+      "correctOption": "B",
+      "explanation": "Çevre = π×d = 3×10 = 30 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 1,
+      "text": "Bir karenin bir kenarı 9 cm ise çevresi kaç cm dir?",
+      "options": {
+        "A": "27",
+        "B": "36",
+        "C": "45",
+        "D": "81"
+      },
+      "correctOption": "B",
+      "explanation": "Karenin çevresi=4*kenar=4*9=36 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberde yarıçap 10 cm ise çap kaç cm dir?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "40"
+      },
+      "correctOption": "C",
+      "explanation": "Çap=2*r=2*10=20 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Benzerlik",
+      "difficulty": 2,
+      "text": "Kenar uzunlukları 9 ve 12 olan bir dik üçgen ile benzer bir üçgenin hipotenüsü 15 ise büyük dik kenarı kaçtır?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "12",
+        "D": "15"
+      },
+      "correctOption": "C",
+      "explanation": "Benzerlik oranı 15/15=1 olduğundan kenarlar aynıdır: 12 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Alan ve Çevre",
+      "difficulty": 3,
+      "text": "Tabanı 12 cm, yüksekliği 7 cm olan bir üçgenin alanı kaç cm^2 dir?",
+      "options": {
+        "A": "36",
+        "B": "42",
+        "C": "48",
+        "D": "84"
+      },
+      "correctOption": "B",
+      "explanation": "Alan=(12*7)/2=42 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 3,
+      "text": "Yarıçapı 6 cm, yüksekliği 4 cm olan bir silindirin hacmi kaç cm^3 tür? (pi=3)",
+      "options": {
+        "A": "216",
+        "B": "288",
+        "C": "360",
+        "D": "432"
+      },
+      "correctOption": "D",
+      "explanation": "Hacim=pi*r^2*h=3*6^2*4=3*36*4=432 cm^3 tür."
+    }
+  ]
+}

@@ -8,6 +8,7 @@
  * - Her sunucu eylemi kendi yetki kontrolünü yapar (proxy'ye güvenilmez).
  */
 
+import { examTypeBySlug, examTypeName } from "@/lib/exam-types";
 import type {
   AnswerFeedback,
   AnsweredSummary,
@@ -18,6 +19,7 @@ import type {
   RunSummary,
   RunView,
 } from "@/lib/game-types";
+import { GUEST_RUN_LIMIT } from "@/lib/game-types";
 import { daySeed, shuffle, shuffleSeeded, startOfToday } from "@/lib/random";
 import {
   QUESTIONS_PER_RUN,
@@ -38,7 +40,8 @@ export type GameErrorCode =
   | "POSITION_OUT_OF_RANGE"
   | "NOT_ENOUGH_QUESTIONS"
   | "NO_CATEGORY"
-  | "DAILY_ALREADY_PLAYED";
+  | "DAILY_ALREADY_PLAYED"
+  | "GUEST_LIMIT";
 
 /** Kullanıcıya gösterilebilir, Türkçe mesajlı oyun hatası. */
 export class GameError extends Error {
@@ -66,6 +69,8 @@ export interface StartRunInput {
   userId: string;
   mode: RunMode;
   categoryId?: string | null;
+  /** EXAM modunda seçilen sınav bölümü (ör. "genel-yetenek"). */
+  examType?: string | null;
   questionCount?: number;
 }
 
@@ -77,6 +82,7 @@ export async function startRun({
   userId,
   mode,
   categoryId,
+  examType,
   questionCount = QUESTIONS_PER_RUN,
 }: StartRunInput): Promise<StartRunResult> {
   const count = Math.max(1, Math.min(questionCount, 50));
@@ -86,6 +92,35 @@ export async function startRun({
       "NOT_ENOUGH_QUESTIONS",
       "Düello modu henüz açık değil. Çok yakında!",
     );
+  }
+
+  // Sınav turu: kullanıcı mutlaka bir sınav bölümü seçmiş olmalı.
+  const exam = mode === "EXAM" ? examTypeBySlug(examType) : null;
+
+  if (mode === "EXAM" && !exam) {
+    throw new GameError(
+      "NO_CATEGORY",
+      "Sınav turu için bir sınav bölümü seçmelisin.",
+    );
+  }
+
+  // Üye olmadan oynayan misafirler deneme hakkıyla sınırlıdır.
+  const player = await prisma.user.findUnique({
+    where: { id: userId },
+    select: { isAnonymous: true },
+  });
+
+  if (player?.isAnonymous) {
+    const finishedRuns = await prisma.gameRun.count({
+      where: { userId, status: "COMPLETED" },
+    });
+
+    if (finishedRuns >= GUEST_RUN_LIMIT) {
+      throw new GameError(
+        "GUEST_LIMIT",
+        `Üye olmadan ${GUEST_RUN_LIMIT} tur oynayabilirsin. Ücretsiz kayıt olup ilerlemeni kalıcı hale getir!`,
+      );
+    }
   }
 
   if (mode === "DAILY") {
@@ -113,10 +148,22 @@ export async function startRun({
 
   const effectiveCategoryId = mode === "CATEGORY" ? categoryId : null;
 
+  // Sınav turunda, seçilen bölümün dersleri kısıtı uygulanır.
+  // "Karışık" bölümünde liste boştur → tüm dersler dahil edilir.
+  let examCategoryIds: string[] | null = null;
+  if (exam && exam.categorySlugs.length > 0) {
+    const examCategories = await prisma.category.findMany({
+      where: { slug: { in: exam.categorySlugs } },
+      select: { id: true },
+    });
+    examCategoryIds = examCategories.map((row) => row.id);
+  }
+
   const candidates = await prisma.question.findMany({
     where: {
       isActive: true,
       ...(effectiveCategoryId ? { categoryId: effectiveCategoryId } : {}),
+      ...(examCategoryIds ? { categoryId: { in: examCategoryIds } } : {}),
     },
     select: { id: true },
   });
@@ -138,6 +185,7 @@ export async function startRun({
       userId,
       mode,
       categoryId: effectiveCategoryId,
+      examType: exam ? exam.slug : null,
       totalQuestions: selected.length,
       status: "IN_PROGRESS",
     },
@@ -228,7 +276,7 @@ export async function getRunView(
     runId: run.id,
     mode: run.mode as RunMode,
     status: run.status,
-    categoryName: run.category?.name ?? null,
+    categoryName: run.category?.name ?? examTypeName(run.examType),
     totalQuestions: run.totalQuestions,
     score: run.answers.reduce((total, answer) => total + answer.points, 0),
     correctCount: run.answers.filter((answer) => answer.isCorrect).length,
@@ -505,7 +553,7 @@ export async function finishRun({
   return {
     runId: run.id,
     mode: run.mode as RunMode,
-    categoryName: run.category?.name ?? null,
+    categoryName: run.category?.name ?? examTypeName(run.examType),
     score,
     totalQuestions: run.answers.length,
     correctCount,

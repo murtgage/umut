@@ -191,10 +191,27 @@ async function main() {
   );
   const seededSlugs = data.categories.map((category) => category.slug);
 
-  const retiredQuestions = await prisma.question.updateMany({
-    where: { isActive: true, id: { notIn: seededQuestionIds } },
-    data: { isActive: false },
+  // SQLite parametre limiti (999) nedeniyle toplu updateMany yerine parçalı çalıştır.
+  // Daha güvenli: tüm aktif soruları çek, seeded set'e göre pasife al.
+  const allActive = await prisma.question.findMany({
+    where: { isActive: true },
+    select: { id: true },
   });
+  const seededSet = new Set(seededQuestionIds);
+  const toRetire = allActive.map((q) => q.id).filter((id) => !seededSet.has(id));
+
+  const chunkSize = 500;
+  let retiredCount = 0;
+  for (let i = 0; i < toRetire.length; i += chunkSize) {
+    const chunk = toRetire.slice(i, i + chunkSize);
+    const r = await prisma.question.updateMany({
+      where: { id: { in: chunk } },
+      data: { isActive: false },
+    });
+    retiredCount += r.count;
+  }
+
+  const retiredQuestions = { count: retiredCount };
 
   const retiredCategories = await prisma.category.updateMany({
     where: { isActive: true, slug: { notIn: seededSlugs } },

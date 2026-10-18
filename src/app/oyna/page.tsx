@@ -2,11 +2,12 @@ import type { Metadata } from "next";
 
 import { ModePicker } from "@/components/game/mode-picker";
 import { Progress } from "@/components/ui/progress";
+import { GUEST_RUN_LIMIT } from "@/lib/game-types";
 import { getPlayerRank } from "@/lib/leaderboard";
 import { prisma } from "@/lib/prisma";
 import { startOfToday } from "@/lib/random";
 import { accuracy, levelProgress } from "@/lib/scoring";
-import { requireUser } from "@/lib/session";
+import { getUserFlags, requireVerifiedUser } from "@/lib/session";
 import { formatNumber, formatPercent } from "@/lib/format";
 
 export const metadata: Metadata = {
@@ -15,14 +16,15 @@ export const metadata: Metadata = {
 };
 
 export default async function PlayPage(props: PageProps<"/oyna">) {
-  const session = await requireUser("/oyna");
+  const session = await requireVerifiedUser("/oyna");
   const userId = session.user.id;
+  const flags = await getUserFlags(userId);
   const searchParams = await props.searchParams;
 
   const rawError = searchParams.hata;
   const initialError = Array.isArray(rawError) ? rawError[0] : rawError;
 
-  const [categories, stats, dailyRun, rank] = await Promise.all([
+  const [categories, stats, dailyRun, rank, completedRuns] = await Promise.all([
     prisma.category.findMany({
       where: { isActive: true },
       orderBy: { sortOrder: "asc" },
@@ -46,11 +48,14 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
       select: { id: true, score: true },
     }),
     getPlayerRank(userId),
+    prisma.gameRun.count({ where: { userId, status: "COMPLETED" } }),
   ]);
 
   const xp = stats?.xp ?? 0;
   const level = levelProgress(xp);
   const displayName = session.user.username ?? session.user.name;
+  const isGuest = flags.isAnonymous;
+  const guestRunsLeft = Math.max(0, GUEST_RUN_LIMIT - completedRuns);
   const totalQuestions = categories.reduce(
     (total, category) => total + category._count.questions,
     0,
@@ -114,6 +119,8 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
         }))}
         dailyPlayed={Boolean(dailyRun)}
         initialError={initialError ?? null}
+        isGuest={isGuest}
+        guestRunsLeft={guestRunsLeft}
       />
 
       <p className="text-center text-xs text-ink-faint">

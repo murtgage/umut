@@ -5,13 +5,22 @@
  * kullanır.
  */
 
-export const RUN_MODES = ["QUICK", "CATEGORY", "DAILY", "DUEL"] as const;
+export const RUN_MODES = [
+  "QUICK",
+  "CATEGORY",
+  "DAILY",
+  "EXAM",
+  "DUEL",
+] as const;
 
 export type RunMode = (typeof RUN_MODES)[number];
 
 export type OptionKey = "A" | "B" | "C" | "D";
 
 export const OPTION_KEYS: OptionKey[] = ["A", "B", "C", "D"];
+
+/** Üye olmadan oynayan bir misafirin tamamlayabileceği tur sayısı. */
+export const GUEST_RUN_LIMIT = 5;
 
 /** Oyuncunun görebileceği soru biçimi — doğru cevap ASLA yer almaz. */
 export interface RunQuestion {
@@ -36,9 +45,9 @@ export interface ModeInfo {
 export const MODE_INFO: Record<RunMode, ModeInfo> = {
   QUICK: {
     id: "QUICK",
-    label: "Hızlı Tur",
+    label: "Karışık Tur",
     description:
-      "Tüm kategorilerden rastgele 10 soru. Karma çalışmak ve genel seviyeni ölçmek için ideal.",
+      "Tüm derslerden rastgele 10 soru. Karma çalışmak ve genel seviyeni ölçmek için ideal.",
     tag: "10 soru",
     available: true,
   },
@@ -56,6 +65,14 @@ export const MODE_INFO: Record<RunMode, ModeInfo> = {
     description:
       "Herkes için aynı 10 soru, günde bir kez. Kendini Türkiye geneliyle kıyasla.",
     tag: "günde 1",
+    available: true,
+  },
+  EXAM: {
+    id: "EXAM",
+    label: "Sınav Turu",
+    description:
+      "Seçtiğin sınav bölümünün derslerinden karışık 10 soru (ör. Genel Yetenek).",
+    tag: "10 soru",
     available: true,
   },
   DUEL: {

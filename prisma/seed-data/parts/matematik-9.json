@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 2,
+      "text": "Bir ürün 100 TL'dir. %10 zamlanırsa yeni fiyat kaç TL olur?",
+      "options": {
+        "A": "105",
+        "B": "110",
+        "C": "115",
+        "D": "120"
+      },
+      "correctOption": "B",
+      "explanation": "100×1,10=110 TL.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 2,
+      "text": "Bir sayının yarısı 12 ise sayı kaçtır?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "24",
+        "D": "30"
+      },
+      "correctOption": "C",
+      "explanation": "x/2=12 → x=24. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 3,
+      "text": "Bir havuzun 3/4'ü doldurulmuştur. Geriye kaçta kaçı doldurulmalıdır?",
+      "options": {
+        "A": "1/4",
+        "B": "1/3",
+        "C": "1/2",
+        "D": "3/4"
+      },
+      "correctOption": "A",
+      "explanation": "1 − 3/4 = 1/4. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir dikdörtgenin çevresi 30 cm, uzun kenarı 9 cm ise kısa kenarı kaç cm'dir?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctOption": "C",
+      "explanation": "2×(9+x)=30 → 9+x=15 → x=6.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir karenin çevresi 28 cm ise alanı kaç cm²'dir?",
+      "options": {
+        "A": "28",
+        "B": "36",
+        "C": "49",
+        "D": "64"
+      },
+      "correctOption": "C",
+      "explanation": "Kenar=7; alan=7²=49 cm².",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir dairenin alanı 78,5 cm² ise yarıçapı kaç cm'dir? (π=3,14)",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctOption": "B",
+      "explanation": "πr²=78,5 → r²=25 → r=5 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 3,
+      "text": "Bir koninin taban yarıçapı 3, yüksekliği 4 ise hacmi kaçtır? (π=3)",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "36",
+        "D": "48"
+      },
+      "correctOption": "C",
+      "explanation": "Hacim = (1/3)πr²h = (1/3)×3×9×4 = 36.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Mantık",
+      "difficulty": 2,
+      "text": "'p → q' ifadesinin değili hangisidir?",
+      "options": {
+        "A": "q → p",
+        "B": "¬p → ¬q",
+        "C": "p ∧ ¬q",
+        "D": "¬p ∧ q"
+      },
+      "correctOption": "C",
+      "explanation": "Değil(p→q) = p ∧ ¬q.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Mantık",
+      "difficulty": 3,
+      "text": "Çift koşullu önermenin değili hangisidir?",
+      "options": {
+        "A": "p → q",
+        "B": "¬p ↔ ¬q",
+        "C": "p ⊕ q",
+        "D": "p ∧ q"
+      },
+      "correctOption": "C",
+      "explanation": "Değil(p↔q) = p ⊕ q (özel veya).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Sayılar",
+      "difficulty": 2,
+      "text": "Aşağıdaki sayılardan hangisi 8'e tam bölünür?",
+      "options": {
+        "A": "24",
+        "B": "26",
+        "C": "28",
+        "D": "30"
+      },
+      "correctOption": "A",
+      "explanation": "24 = 8×3, 8'e tam bölünür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Sayılar",
+      "difficulty": 2,
+      "text": "Hangi sayı asal sayıdır?",
+      "options": {
+        "A": "59",
+        "B": "60",
+        "C": "61",
+        "D": "62"
+      },
+      "correctOption": "A",
+      "explanation": "59 asal sayıdır (yalnızca 1 ve 59a bölünür).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Dört İşlem",
+      "difficulty": 2,
+      "text": "(20 + 5) ÷ (2 + 3) işleminin sonucu kaçtır?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctOption": "B",
+      "explanation": "25 ÷ 5 = 5. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Kesirler",
+      "difficulty": 2,
+      "text": "6/7 + 1/7 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "6/7",
+        "B": "7/7",
+        "C": "7/14",
+        "D": "1"
+      },
+      "correctOption": "D",
+      "explanation": "6/7+1/7=7/7=1. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Ondalık",
+      "difficulty": 2,
+      "text": "4,8 × 0,25 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "1,0",
+        "B": "1,2",
+        "C": "1,5",
+        "D": "2,0"
+      },
+      "correctOption": "B",
+      "explanation": "4,8×0,25=1,2. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Oran-Orantı",
+      "difficulty": 2,
+      "text": "x/12 = 2/3 olduğuna göre x kaçtır?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correctOption": "C",
+      "explanation": "x=12×2/3=8. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Yüzde",
+      "difficulty": 2,
+      "text": "600'nün %3'ü kaçtır?",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "20"
+      },
+      "correctOption": "C",
+      "explanation": "600×3/100=18. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Denklemler",
+      "difficulty": 2,
+      "text": "12x − 9 = 39 denkleminde x kaçtır?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctOption": "B",
+      "explanation": "12x=48 → x=4. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Denklemler",
+      "difficulty": 3,
+      "text": "x² − 11x + 24 = 0 denkleminin kökleri toplamı kaçtır?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "24"
+      },
+      "correctOption": "C",
+      "explanation": "Kökler toplamı = 11 (Vieta).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Fonksiyonlar",
+      "difficulty": 2,
+      "text": "n(x)=9x−7 fonksiyonu için n(2) kaçtır?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
+      "correctOption": "C",
+      "explanation": "n(2)=9×2−7=11. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Olasılık",
+      "difficulty": 2,
+      "text": "Bir zar atıldığında 5'ten büyük sayı gelme olasılığı kaçtır?",
+      "options": {
+        "A": "1/6",
+        "B": "1/3",
+        "C": "1/2",
+        "D": "2/3"
+      },
+      "correctOption": "A",
+      "explanation": "Yalnızca 6 → 1/6.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Olasılık",
+      "difficulty": 2,
+      "text": "Bir madeni para üç kez atıldığında en az bir tura gelme olasılığı kaçtır?",
+      "options": {
+        "A": "1/8",
+        "B": "3/8",
+        "C": "5/8",
+        "D": "7/8"
+      },
+      "correctOption": "D",
+      "explanation": "1 − (1/2)³ = 1 − 1/8 = 7/8.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "İstatistik",
+      "difficulty": 2,
+      "text": "8, 10, 12, 14 sayılarının aritmetik ortalaması kaçtır?",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13"
+      },
+      "correctOption": "B",
+      "explanation": "(8+10+12+14)/4=44/4=11.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "İstatistik",
+      "difficulty": 2,
+      "text": "5, 5, 7, 9, 9, 9 sayılarının modu kaçtır?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "5 ve 9"
+      },
+      "correctOption": "C",
+      "explanation": "En sık tekrar eden 9'dur (3 kez).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir dik üçgenin dik kenarları 6 ve 8 cm ise hipotenüsü kaç cm olur?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "correctOption": "B",
+      "explanation": "√(6²+8²)=√100=10 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir karenin bir kenarı 9 cm ise çevresi kaç cm'dir?",
+      "options": {
+        "A": "27",
+        "B": "32",
+        "C": "36",
+        "D": "45"
+      },
+      "correctOption": "C",
+      "explanation": "Çevre = 4×9 = 36 cm.",
+      "source": "özgün"
+    }
+  ]
+}

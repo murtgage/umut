@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ölçme ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Özel eğitimde öğrencinin ilerlemesinin düzenli aralıklarla izlenmesi hangi amaca hizmet eder?",
+      "options": { "A": "Not vermeye", "B": "Süreyi doldurmaya", "C": "Öğrenciyi sıralamaya", "D": "Öğretimin etkili olup olmadığını belirleyip gerekirse düzenlemeye" },
+      "correctOption": "D",
+      "explanation": "Düzenli izleme, öğretimin etkililiğini gösterip gerekli düzenlemeleri yapmayı sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ölçme ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Özel eğitimde değerlendirmenin yalnızca yılsonunda değil süreç boyunca yapılması hangi ilkeye uygundur?",
+      "options": { "A": "Sürekli ve biçimlendirici değerlendirme", "B": "Yalnızca sonuç değerlendirmesi", "C": "Tek seferlik ölçme", "D": "Sıralama" },
+      "correctOption": "A",
+      "explanation": "Süreç boyunca yapılan biçimlendirici değerlendirme, öğretimin anlık düzenlenmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ölçme ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Özel eğitimde kullanılan ölçme araçlarının öğrencinin özelliklerine uygun biçimde uyarlanması neden gereklidir?",
+      "options": { "A": "Maliyet için", "B": "Öğrencinin gerçek performansının geçerli biçimde ölçülmesi için", "C": "Süreyi doldurmak için", "D": "Sınavı zorlaştırmak için" },
+      "correctOption": "B",
+      "explanation": "Uyarlanmış araçlar, öğrencinin gerçek performansını geçerli biçimde ölçer."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Erken Müdahale",
+      "difficulty": 2,
+      "text": "Özel eğitimde erken müdahale hizmetlerinin hedef kitlesi genel olarak hangisidir?",
+      "options": { "A": "Yalnızca yetişkinler", "B": "Yalnızca lise öğrencileri", "C": "Gelişimsel risk taşıyan küçük çocuklar ve aileleri", "D": "Yalnızca üstün yetenekliler" },
+      "correctOption": "C",
+      "explanation": "Erken müdahale, gelişimsel risk taşıyan küçük çocukları ve ailelerini hedefler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Erken Müdahale",
+      "difficulty": 3,
+      "text": "Erken müdahale programlarının erken başlamasının en önemli yararı hangisidir?",
+      "options": { "A": "Maliyetin artması", "B": "Öğretmen yükünün artması", "C": "Sınav sayısının çoğalması", "D": "Gelişimsel gecikmelerin olumsuz etkilerinin en aza indirilmesi" },
+      "correctOption": "D",
+      "explanation": "Erken müdahale, gelişimsel gecikmelerin olumsuz etkilerini en aza indirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Aile Eğitimi",
+      "difficulty": 2,
+      "text": "Özel eğitimde aile katılımının sağlanmasının önemi hangisidir?",
+      "options": { "A": "Öğrencinin eğitiminin evde de desteklenip sürekliliğin sağlanması", "B": "Öğretmenin yükünün artması", "C": "Okulun sorumluluğunun azalması", "D": "Sınavın kolaylaşması" },
+      "correctOption": "A",
+      "explanation": "Aile katılımı, eğitimin evde de desteklenerek süreklilik kazanmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Aile Eğitimi",
+      "difficulty": 3,
+      "text": "Özel gereksinimli çocuğa sahip ailelerin yaşadığı duygusal süreçlerde öğretmenin uygun yaklaşımı hangisidir?",
+      "options": { "A": "Aileyi suçlamak", "B": "Empatik destek sunup bilgilendirmek", "C": "Aileyi görmezden gelmek", "D": "Aileye yalnızca ceza önermek" },
+      "correctOption": "B",
+      "explanation": "Empatik destek ve bilgilendirme, ailenin sürece uyumunu kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Aile Eğitimi",
+      "difficulty": 3,
+      "text": "Aileye çocuğunun eğitimine nasıl destek olabileceği konusunda somut bilgi verilmesi hangi amaca hizmet eder?",
+      "options": { "A": "Süreyi doldurmaya", "B": "Okulu meşgul etmeye", "C": "Ailenin sürece etkin katılımını güçlendirmeye", "D": "Not vermeye" },
+      "correctOption": "C",
+      "explanation": "Somut bilgi, ailenin eğitim sürecine etkin katılımını güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Aile Eğitimi",
+      "difficulty": 3,
+      "text": "Özel eğitimde öğretmenin aileyle işbirliğini sürdürmesi için iletişimi nasıl olmalıdır?",
+      "options": { "A": "Suçlayıcı", "B": "Mesafeli", "C": "Tek yönlü", "D": "Açık, saygılı ve çözüm odaklı" },
+      "correctOption": "D",
+      "explanation": "Açık, saygılı ve çözüm odaklı iletişim, aileyle işbirliğini sürdürür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Destek ve Yönlendirme",
+      "difficulty": 2,
+      "text": "Özel gereksinimli öğrencinin uygun eğitim ortamına yönlendirilmesi hangi ilkeyle ilişkilidir?",
+      "options": { "A": "En az kısıtlayıcı ortam", "B": "En fazla kısıtlayıcı ortam", "C": "Ayrıştırma", "D": "Rastgele yerleştirme" },
+      "correctOption": "A",
+      "explanation": "Yerleştirmede en az kısıtlayıcı ortam ilkesi esas alınır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Destek ve Yönlendirme",
+      "difficulty": 3,
+      "text": "En az kısıtlayıcı ortam ilkesine göre öğrenci hangi ortama yerleştirilmelidir?",
+      "options": { "A": "Her zaman ayrı okula", "B": "Akranlarıyla olabildiğince birlikte olduğu, gereksinimine uygun en uygun ortama", "C": "Her zaman evde eğitime", "D": "Rastgele bir sınıfa" },
+      "correctOption": "B",
+      "explanation": "En az kısıtlayıcı ortam, öğrencinin akranlarıyla olabildiğince birlikte olduğu uygun ortamdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Destek ve Yönlendirme",
+      "difficulty": 3,
+      "text": "Özel eğitimde bireyin yeterliliklerine göre eğitim alması hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Etiketleme", "B": "Ayrıştırma", "C": "Yeterliliğe göre eğitim ve bireyselleştirme", "D": "Genellik" },
+      "correctOption": "C",
+      "explanation": "Bireyin yeterliliklerine göre eğitim, bireyselleştirme ilkesiyle ilişkilidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Destek ve Yönlendirme",
+      "difficulty": 2,
+      "text": "Özel eğitimde öğrencinin öğrenme sürecine etkin katılımını artıran uygulama hangisidir?",
+      "options": { "A": "Yalnızca anlatım", "B": "Öğrenciyi pasif bırakmak", "C": "Yalnızca sınav", "D": "Çok duyulu ve etkin katılımlı öğretim" },
+      "correctOption": "D",
+      "explanation": "Çok duyulu ve etkin katılımlı öğretim, öğrencinin sürece katılımını artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğretim Düzenlemeleri",
+      "difficulty": 3,
+      "text": "Özel eğitimde öğrenci için belirlenen hedeflerin gerçekçi ve küçük basamaklı olması neden önemlidir?",
+      "options": { "A": "Öğrencinin başarıyı yaşayıp motivasyonunu koruyabilmesi için", "B": "Süreyi doldurmak için", "C": "Not vermek için", "D": "Öğretmeni rahatlatmak için" },
+      "correctOption": "A",
+      "explanation": "Küçük basamaklı hedefler, öğrencinin başarıyı yaşayıp motive olmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğretim Düzenlemeleri",
+      "difficulty": 3,
+      "text": "Özel eğitimde akran zorbalığının önlenmesi için öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Görmezden gelmek", "B": "Kapsayıcı ve saygılı sınıf iklimi kurup farkındalık etkinlikleri düzenlemek", "C": "Zorbayı ödüllendirmek", "D": "Öğrenciyi ayırmak" },
+      "correctOption": "B",
+      "explanation": "Kapsayıcı iklim ve farkındalık etkinlikleri, akran zorbalığını önler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğretim Düzenlemeleri",
+      "difficulty": 2,
+      "text": "Özel gereksinimli öğrencinin bağımsız yaşam becerileri kazanması için verilen eğitim hangisini kapsar?",
+      "options": { "A": "Yalnızca akademik dersler", "B": "Yalnızca sınavlar", "C": "Günlük yaşam, öz bakım ve sosyal beceriler", "D": "Yalnızca spor" },
+      "correctOption": "C",
+      "explanation": "Bağımsız yaşam becerileri; günlük yaşam, öz bakım ve sosyal becerileri kapsar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Davranış Yönetimi",
+      "difficulty": 3,
+      "text": "Özel eğitimde davranış değiştirmek için kullanılan olumlu pekiştirmenin temel işlevi hangisidir?",
+      "options": { "A": "Cezayı artırmak", "B": "Öğrenciyi korkutmak", "C": "Süreyi doldurmak", "D": "İstenen davranışın sıklığını artırmak" },
+      "correctOption": "D",
+      "explanation": "Olumlu pekiştirme, istenen davranışın sıklığını artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Davranış Yönetimi",
+      "difficulty": 3,
+      "text": "Özel eğitimde öğrenciye beceri öğretiminde ipucunun kademeli olarak azaltılması hangi amaçla yapılır?",
+      "options": { "A": "Öğrencinin beceriyi bağımsız yapmasını sağlamak için", "B": "Öğrenciyi zorlamak için", "C": "Süreyi kısaltmak için", "D": "Not vermek için" },
+      "correctOption": "A",
+      "explanation": "İpucunun kademeli azaltılması, öğrencinin beceriyi bağımsız yapmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Davranış Yönetimi",
+      "difficulty": 3,
+      "text": "Özel eğitimde öğretim sırasında kullanılan yanlışsız öğretim yönteminin temel amacı hangisidir?",
+      "options": { "A": "Öğrenciyi hata yapmaya zorlamak", "B": "Hata yapma olasılığını en aza indirerek öğrenmeyi kolaylaştırmak", "C": "Süreyi doldurmak", "D": "Sınav yapmak" },
+      "correctOption": "B",
+      "explanation": "Yanlışsız öğretim, hata olasılığını en aza indirerek öğrenmeyi kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Davranış Yönetimi",
+      "difficulty": 3,
+      "text": "Özel eğitimde öğretmenin öğrenciden yapabileceğinden fazlasını istemesi hangi sonucu doğurur?",
+      "options": { "A": "Motivasyonun artması", "B": "Öğrenmenin hızlanması", "C": "Öğrencinin başarısızlık yaşayıp motivasyonunun düşmesi", "D": "Öz güvenin artması" },
+      "correctOption": "C",
+      "explanation": "Kapasitenin üzerinde beklenti, başarısızlık ve motivasyon düşüklüğüne yol açar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Davranış Yönetimi",
+      "difficulty": 2,
+      "text": "Özel eğitimde öğrencinin olumlu davranışının görülmesi durumunda öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Görmezden gelmek", "B": "Ceza vermek", "C": "Eleştirmek", "D": "Pekiştirici geri bildirim vermek" },
+      "correctOption": "D",
+      "explanation": "Olumlu davranışın pekiştirici geri bildirimle desteklenmesi davranışı güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ekip Çalışması",
+      "difficulty": 3,
+      "text": "Özel eğitimde işbirliğine dayalı ekip çalışmasında öğretmenin temel rolü hangisidir?",
+      "options": { "A": "Öğrenci yararına ekip içinde etkin ve paylaşımcı görev almak", "B": "Tek başına karar vermek", "C": "Diğer uzmanları dışlamak", "D": "Aileyle iletişimi kesmek" },
+      "correctOption": "A",
+      "explanation": "Öğretmen, ekibin paylaşımcı ve etkin bir üyesi olarak öğrenci yararına çalışır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ekip Çalışması",
+      "difficulty": 3,
+      "text": "Özel eğitimde öğrenciye sunulan hizmetlerin etkililiğini artırmak için verilerin düzenli toplanması hangi süreçtir?",
+      "options": { "A": "Tanılama", "B": "İzleme ve veriye dayalı karar verme", "C": "Etiketleme", "D": "Sıralama" },
+      "correctOption": "B",
+      "explanation": "İzleme ve veriye dayalı karar verme, hizmetlerin etkililiğini artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ekip Çalışması",
+      "difficulty": 2,
+      "text": "Özel gereksinimli öğrencinin akranlarıyla eşit hak ve fırsatlara sahip olması hangi ilkeyle ifade edilir?",
+      "options": { "A": "Ayrımcılık", "B": "Keyfilik", "C": "Eşitlik ve fırsat eşitliği", "D": "Gizlilik" },
+      "correctOption": "C",
+      "explanation": "Eşit hak ve fırsatlar, eşitlik ve fırsat eşitliği ilkesiyle ifade edilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Genel Değerlendirme",
+      "difficulty": 3,
+      "text": "Özel eğitimin başarıyla yürütülmesinde öğretmenin temel özelliği hangisidir?",
+      "options": { "A": "Öğrenciyi etiketlemesi", "B": "Tek tip öğretim uygulaması", "C": "Aileyle iletişimi kesmesi", "D": "Bireysel farklılıklara duyarlı, sabırlı ve işbirliğine açık olması" },
+      "correctOption": "D",
+      "explanation": "Özel eğitimde başarı; duyarlılık, sabır ve işbirliğine dayanır."
+    }
+  ]
+}

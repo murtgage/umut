@@ -1,0 +1,319 @@
+{
+  "questions": [
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Bir üçgenin çevresi 24 cm, kenarları 7, 8 ve x cm ise x kaç cm dir?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
+      "correctOption": "A",
+      "explanation": "x=24-7-8=9 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Kenar uzunlukları 6, 8 ve 10 cm olan bir üçgenin alanı kaç cm^2 dir?",
+      "options": {
+        "A": "24",
+        "B": "20",
+        "C": "30",
+        "D": "48"
+      },
+      "correctOption": "A",
+      "explanation": "6-8-10 dik üçgen olduğundan alan=(6*8)/2=24 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir karenin alanı 81 cm^2 ise çevresi kaç cm dir?",
+      "options": {
+        "A": "36",
+        "B": "32",
+        "C": "40",
+        "D": "45"
+      },
+      "correctOption": "A",
+      "explanation": "Kenar karekök81=9 cm, çevre=4*9=36 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 3,
+      "text": "Dikdörtgenin uzun kenarı kısa kenarının 3 katıdır; çevresi 48 cm ise uzun kenar kaç cm dir?",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "21",
+        "D": "18"
+      },
+      "correctOption": "D",
+      "explanation": "2*(a+3a)=48 -> a=6, uzun kenar=18 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 3,
+      "text": "Bir çemberin alanı 154 cm^2 ise çevresi kaç cm dir? (pi=22/7)",
+      "options": {
+        "A": "44",
+        "B": "40",
+        "C": "48",
+        "D": "52"
+      },
+      "correctOption": "A",
+      "explanation": "pi*r^2=154 -> r=7 cm, çevre=2*pi*r=44 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 1,
+      "text": "Bir üçgenin iki iç açısı 50 derece ve 60 derece ise üçüncü iç açı kaç derecedir?",
+      "options": {
+        "A": "70",
+        "B": "60",
+        "C": "80",
+        "D": "90"
+      },
+      "correctOption": "A",
+      "explanation": "Üçüncü açı=180-50-60=70 derecedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Paralelkenarın bir kenarı 10, komşu kenarı 6 ve aralarındaki açı 90 derece ise alanı kaç cm^2 dir?",
+      "options": {
+        "A": "50",
+        "B": "55",
+        "C": "65",
+        "D": "60"
+      },
+      "correctOption": "D",
+      "explanation": "Alan=10*6*sin90=60 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Bir yamuğun alt tabanı 15, üst tabanı 9, yüksekliği 4 ise alanı kaç cm^2 dir?",
+      "options": {
+        "A": "48",
+        "B": "42",
+        "C": "52",
+        "D": "60"
+      },
+      "correctOption": "A",
+      "explanation": "Alan=(15+9)/2*4=48 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 1,
+      "text": "Eşkenar üçgenin bir kenarı 8 cm ise çevresi kaç cm dir?",
+      "options": {
+        "A": "20",
+        "B": "22",
+        "C": "26",
+        "D": "24"
+      },
+      "correctOption": "D",
+      "explanation": "Çevre=3*8=24 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 3,
+      "text": "Bir dairenin çevresi 30 cm ise alanı kaç cm^2 dir? (pi=3)",
+      "options": {
+        "A": "60",
+        "B": "70",
+        "C": "90",
+        "D": "75"
+      },
+      "correctOption": "D",
+      "explanation": "2*pi*r=30 -> r=5 cm, alan=pi*r^2=3*25=75 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Pisagor",
+      "difficulty": 2,
+      "text": "Dik üçgenin dik kenarları 5 ve 12 cm ise hipotenüsü kaç cm dir?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "14",
+        "D": "13"
+      },
+      "correctOption": "D",
+      "explanation": "Hipotenüs=karekök(5^2+12^2)=karekök169=13 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberin çapı 14 cm ise alanı kaç cm^2 dir? (pi=22/7)",
+      "options": {
+        "A": "144",
+        "B": "154",
+        "C": "164",
+        "D": "174"
+      },
+      "correctOption": "B",
+      "explanation": "Yarıçap=7 cm, alan=pi*r^2=(22/7)*49=154 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 1,
+      "text": "Bir üçgenin tabanı 14 cm, yüksekliği 5 cm ise alanı kaç cm^2 dir?",
+      "options": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "70"
+      },
+      "correctOption": "B",
+      "explanation": "Alan=(14*5)/2=35 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 3,
+      "text": "Bir küpün hacmi 64 cm^3 ise yüzey alanı kaç cm^2 dir?",
+      "options": {
+        "A": "80",
+        "B": "96",
+        "C": "108",
+        "D": "128"
+      },
+      "correctOption": "B",
+      "explanation": "Kenar karekök64=4 cm, yüzey alanı=6*4^2=96 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Silindirin yarıçapı 2 cm, yüksekliği 5 cm ise hacmi kaç cm^3 tür? (pi=3)",
+      "options": {
+        "A": "30",
+        "B": "45",
+        "C": "60",
+        "D": "75"
+      },
+      "correctOption": "C",
+      "explanation": "Hacim=pi*r^2*h=3*4*5=60 cm^3 tür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 3,
+      "text": "Koninin yarıçapı 3 cm, yüksekliği 4 cm ise hacmi kaç cm^3 tür? (pi=3)",
+      "options": {
+        "A": "24",
+        "B": "30",
+        "C": "36",
+        "D": "45"
+      },
+      "correctOption": "C",
+      "explanation": "Hacim=(1/3)*pi*r^2*h=(1/3)*3*9*4=36 cm^3 tür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 1,
+      "text": "Bir üçgenin kenar uzunlukları 4, 5 ve 6 cm ise çevresi kaç cm dir?",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "15",
+        "D": "16"
+      },
+      "correctOption": "C",
+      "explanation": "Çevre=4+5+6=15 cm dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Koordinat",
+      "difficulty": 3,
+      "text": "Koordinat düzleminde A(0,2) ve B(6,10) noktaları arasındaki uzaklık kaç birimdir?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "11"
+      },
+      "correctOption": "C",
+      "explanation": "Uzaklık=karekök((6-0)^2+(10-2)^2)=karekök(36+64)=10 birimdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgenler",
+      "difficulty": 2,
+      "text": "Bir üçgenin iki kenarı 6 ve 8 cm, aralarındaki açı 90 derece ise alanı kaç cm^2 dir?",
+      "options": {
+        "A": "20",
+        "B": "24",
+        "C": "32",
+        "D": "48"
+      },
+      "correctOption": "B",
+      "explanation": "Alan=(6*8)/2=24 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 1,
+      "text": "Paralelkenarın tabanı 8 cm, yüksekliği 5 cm ise alanı kaç cm^2 dir?",
+      "options": {
+        "A": "35",
+        "B": "40",
+        "C": "45",
+        "D": "50"
+      },
+      "correctOption": "B",
+      "explanation": "Alan=taban*yükseklik=8*5=40 cm^2 dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember",
+      "difficulty": 2,
+      "text": "Bir çemberin çevresi 44 cm ise çapı kaç cm dir? (pi=22/7)",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "correctOption": "C",
+      "explanation": "2*pi*r=44 -> r=7 cm, çap=14 cm dir.",
+      "source": "özgün"
+    }
+  ]
+}

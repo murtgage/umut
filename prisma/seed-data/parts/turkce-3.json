@@ -1,0 +1,289 @@
+{
+  "questions": [
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 2,
+      "text": "'Işık' sözcüğünün zıt anlamlısı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Karanlık",
+        "B": "Aydınlık",
+        "C": "Gölge",
+        "D": "Parlak"
+      },
+      "correctOption": "A",
+      "explanation": "'Işık'ın zıt anlamlısı 'karanlık'tır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'eş anlamlı' çifti oluşturmaz?",
+      "options": {
+        "A": "Güzel - Hoş",
+        "B": "Büyük - Kocaman",
+        "C": "Küçük - Ufak",
+        "D": "Hızlı - Yavaş"
+      },
+      "correctOption": "D",
+      "explanation": "'Hızlı' ile 'yavaş' zıt anlamlıdır, eş anlamlı değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 2,
+      "text": "'Dil' sözcüğü aşağıdaki cümlelerin hangisinde 'konuşma yeteneği' anlamında kullanılmıştır?",
+      "options": {
+        "A": "Türkçe zengin bir dildir.",
+        "B": "Çocuk henüz dil çıkarmıyor.",
+        "C": "Dilini ısırdı.",
+        "D": "Dil öğrenmek kolay değil."
+      },
+      "correctOption": "B",
+      "explanation": "B seçeneğinde 'dil' konuşma yeteneği/konuşma anlamında kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 3,
+      "text": "'Beyaz' sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?",
+      "options": {
+        "A": "Kar beyazdır.",
+        "B": "Sayfa beyaz.",
+        "C": "Saçları beyazlamış.",
+        "D": "Beyaz bir yalan söyledi."
+      },
+      "correctOption": "D",
+      "explanation": "D seçeneğinde 'beyaz' 'masum/hafif' anlamında mecaz olarak kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'amaç' ilişkisi vardır?",
+      "options": {
+        "A": "Sınavı kazanmak için çalıştı.",
+        "B": "Sınavı kazandı, sevindi.",
+        "C": "Sınavı kazandığı için sevindi.",
+        "D": "Sınavı kazansa bile sevinmez."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'için' edatıyla amaç ilişkisi kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "'Çünkü' bağlacı aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Yağmur yağdı, çünkü şemsiye aldım.",
+        "B": "Yağmur yağdı, bu yüzden şemsiye aldım.",
+        "C": "Yağmur yağdı ama şemsiye aldım.",
+        "D": "Yağmur yağdı, şemsiye almadım."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'çünkü' ile neden bildirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "'İle' edatı aşağıdaki cümlelerin hangisinde 'birlikte' anlamında kullanılmıştır?",
+      "options": {
+        "A": "Kalem ile yazdı.",
+        "B": "Arkadaşı ile geldi.",
+        "C": "Para ile satın aldı.",
+        "D": "Bıçak ile kesti."
+      },
+      "correctOption": "B",
+      "explanation": "B seçeneğinde 'ile' birlikte yapma anlamında kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 1,
+      "text": "Aşağıdaki cümlelerin hangisi soru cümlesidir?",
+      "options": {
+        "A": "Geliyor musun?",
+        "B": "Geliyorum.",
+        "C": "Gel.",
+        "D": "Gelmeyeceğim."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneği soru eki '-mu' ile kurulmuş soru cümlesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 2,
+      "text": "Bir paragrafta 'yardımcı düşünce' ne işe yarar?",
+      "options": {
+        "A": "Ana düşünceyi değiştirir.",
+        "B": "Ana düşünceyi destekler.",
+        "C": "Konuyu değiştirir.",
+        "D": "Paragrafı bitirir."
+      },
+      "correctOption": "B",
+      "explanation": "Yardımcı düşünce ana düşünceyi destekler, geliştirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi paragraf türlerinden biri değildir?",
+      "options": {
+        "A": "Giriş paragrafı",
+        "B": "Geliştirme paragrafı",
+        "C": "Sonuç paragrafı",
+        "D": "Soru paragrafı"
+      },
+      "correctOption": "D",
+      "explanation": "'Soru paragrafı' standart paragraf türü değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 3,
+      "text": "Bir paragrafta 'baş cümle' genellikle hangi cümle türüdür?",
+      "options": {
+        "A": "Soru cümlesi",
+        "B": "Olumsuz cümle",
+        "C": "Genel bir yargıyı bildiren cümle",
+        "D": "Emir cümlesi"
+      },
+      "correctOption": "C",
+      "explanation": "Baş cümle genellikle genel bir yargıyı bildiren cümledir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'özel isim' değildir?",
+      "options": {
+        "A": "Ahmet",
+        "B": "Ankara",
+        "C": "Türkiye",
+        "D": "kitap"
+      },
+      "correctOption": "D",
+      "explanation": "'kitap' genel isimdir; diğerleri özel isimdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'ünlem işareti' kullanımı uygundur?",
+      "options": {
+        "A": "Ne güzel bir gün!",
+        "B": "Ne güzel bir gün.",
+        "C": "Ne güzel bir gün?",
+        "D": "Ne güzel bir gün,"
+      },
+      "correctOption": "A",
+      "explanation": "Ünlem bildiren 'Ne güzel bir gün!' ifadesi ünlem işareti ile biter.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Anlatım Bozukluğu",
+      "difficulty": 3,
+      "text": "Aşağıdaki cümlelerin hangisinde 'tümce (devrik cümle)' yapısı vardır?",
+      "options": {
+        "A": "Ali geldi.",
+        "B": "Geldi Ali.",
+        "C": "Ali evi temizledi.",
+        "D": "Evi Ali temizledi."
+      },
+      "correctOption": "B",
+      "explanation": "B seçeneğinde yüklem başta yer alarak devrik cümle kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcük Türleri",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'sıfat' (önad) türündedir?",
+      "options": {
+        "A": "Güzel",
+        "B": "Koşmak",
+        "C": "Ev",
+        "D": "Hızla"
+      },
+      "correctOption": "A",
+      "explanation": "'Güzel' bir ismi niteleyen sıfat türündedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcük Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'zamir' (adıl) türündedir?",
+      "options": {
+        "A": "Ben",
+        "B": "Güzel",
+        "C": "Ev",
+        "D": "Koş"
+      },
+      "correctOption": "A",
+      "explanation": "'Ben' şahıs zamiridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcük Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'fiil' (eylem) türündedir?",
+      "options": {
+        "A": "Koşmak",
+        "B": "Koşucu",
+        "C": "Koşu",
+        "D": "Koşullu"
+      },
+      "correctOption": "A",
+      "explanation": "'Koşmak' eylem bildiren fiil türündedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ekler",
+      "difficulty": 2,
+      "text": "'Güzellik' sözcüğünde 'lik' eki hangi tür ektir?",
+      "options": {
+        "A": "İsimden isim yapan",
+        "B": "Fiilden isim yapan",
+        "C": "İsimden fiil yapan",
+        "D": "Fiilden fiil yapan"
+      },
+      "correctOption": "A",
+      "explanation": "'Güzel' sıfatından 'güzellik' ismi türetildiği için isimden isim yapan ektir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ekler",
+      "difficulty": 3,
+      "text": "'Oku-mak' sözcüğündeki 'mak' eki hangi işlevi görür?",
+      "options": {
+        "A": "İsimden fiil",
+        "B": "Fiilden isim",
+        "C": "Fiilimsi (mastar)",
+        "D": "Çatı eki"
+      },
+      "correctOption": "C",
+      "explanation": "'mak' mastar eki olup fiilimsi oluşturur.",
+      "source": "özgün"
+    }
+  ]
+}

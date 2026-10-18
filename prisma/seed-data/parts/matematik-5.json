@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 2,
+      "text": "Bir ürün önce %20 zamlanmış, sonra %20 indirim yapılmıştır. Son fiyat ilk fiyata göre yüzde kaç değişmiştir?",
+      "options": {
+        "A": "%4 azalmış",
+        "B": "%4 artmış",
+        "C": "Değişmemiş",
+        "D": "%8 azalmış"
+      },
+      "correctOption": "A",
+      "explanation": "100→120→96; %4 azalma.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 2,
+      "text": "Yaşları toplamı 30 olan iki kardeşten büyüğü küçüğünden 4 yaş büyüktür. Büyüğün yaşı kaçtır?",
+      "options": {
+        "A": "13",
+        "B": "15",
+        "C": "17",
+        "D": "19"
+      },
+      "correctOption": "C",
+      "explanation": "x+(x-4)=30 → 2x=34 → x=17.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 2,
+      "text": "Bir işçi bir işi 6 günde bitirmektedir. 2 işçi aynı işi kaç günde bitirir?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "correctOption": "B",
+      "explanation": "İş miktarı sabit; 2 işçi → 6/2=3 gün.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 3,
+      "text": "Bir araba 60 km/s hızla 2 saat gidiyor. Aldığı yol kaç km'dir?",
+      "options": {
+        "A": "100",
+        "B": "120",
+        "C": "150",
+        "D": "180"
+      },
+      "correctOption": "B",
+      "explanation": "Yol = hız × zaman = 60×2 = 120 km.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Problemler",
+      "difficulty": 2,
+      "text": "Bir sınıfta erkek sayısı kız sayısının 2 katıdır. Toplam 30 öğrenci varsa kız sayısı kaçtır?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "15"
+      },
+      "correctOption": "B",
+      "explanation": "k+2k=30 → 3k=30 → k=10.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 1,
+      "text": "Bir üçgenin iki açısı 50° ve 60° ise üçüncü açı kaç derecedir?",
+      "options": {
+        "A": "60",
+        "B": "70",
+        "C": "80",
+        "D": "90"
+      },
+      "correctOption": "B",
+      "explanation": "180−50−60=70°. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir dik üçgenin dik kenarları 3 ve 4 cm ise hipotenüsü kaç cm'dir?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctOption": "A",
+      "explanation": "√(3²+4²)=√25=5 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir karenin alanı 36 cm² ise çevresi kaç cm'dir?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "24",
+        "D": "36"
+      },
+      "correctOption": "C",
+      "explanation": "Kenar=6; çevre=4×6=24 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir dairenin yarıçapı 5 cm ise çevresi kaç cm'dir? (π=3)",
+      "options": {
+        "A": "25",
+        "B": "30",
+        "C": "35",
+        "D": "40"
+      },
+      "correctOption": "B",
+      "explanation": "Çevre=2πr=2×3×5=30 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri",
+      "difficulty": 2,
+      "text": "Bir dikdörtgenin alanı 24 cm², kısa kenarı 4 cm ise uzun kenarı kaç cm'dir?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "correctOption": "C",
+      "explanation": "Uzun kenar = 24/4 = 6 cm.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Mantık",
+      "difficulty": 2,
+      "text": "Aşağıdaki ifadelerden hangisi 've' (konjunksiyon) bağlacı ile kurulmuştur?",
+      "options": {
+        "A": "Yağmur yağdı ve rüzgar esti.",
+        "B": "Yağmur yağdı veya rüzgar esti.",
+        "C": "Yağmur yağdı ama rüzgar esti.",
+        "D": "Yağmur yağdı çünkü rüzgar esti."
+      },
+      "correctOption": "A",
+      "explanation": "'Ve' bağlacı ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Mantık",
+      "difficulty": 2,
+      "text": "Aşağıdaki ifadelerden hangisi 'veya' (disjunksiyon) bağlacı ile kurulmuştur?",
+      "options": {
+        "A": "Yağmur yağdı ve rüzgar esti.",
+        "B": "Yağmur yağdı veya rüzgar esti.",
+        "C": "Yağmur yağdı ama rüzgar esti.",
+        "D": "Yağmur yağdı çünkü rüzgar esti."
+      },
+      "correctOption": "B",
+      "explanation": "'Veya' bağlacı ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Mantık",
+      "difficulty": 3,
+      "text": "'p ve q' ifadesi hangi durumda doğrudur?",
+      "options": {
+        "A": "p ve q'nun ikisi de doğru ise",
+        "B": "p veya q doğru ise",
+        "C": "p doğru, q yanlış ise",
+        "D": "İkisi de yanlış ise"
+      },
+      "correctOption": "A",
+      "explanation": "'Ve' bağlacı her iki önermenin doğru olmasını gerektirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Mantık",
+      "difficulty": 3,
+      "text": "'p veya q' ifadesi hangi durumda yanlıştır?",
+      "options": {
+        "A": "p ve q'nun ikisi de doğru ise",
+        "B": "p doğru, q yanlış ise",
+        "C": "p yanlış, q doğru ise",
+        "D": "İkisi de yanlış ise"
+      },
+      "correctOption": "D",
+      "explanation": "'Veya' bağlacı en az birinin doğru olmasını gerektirir; ikisi de yanlış ise yanlıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Sayılar",
+      "difficulty": 2,
+      "text": "Aşağıdaki sayılardan hangisi 7'ye tam bölünür?",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "17"
+      },
+      "correctOption": "A",
+      "explanation": "14 = 7×2, 7'ye tam bölünür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Sayılar",
+      "difficulty": 2,
+      "text": "21 sayısının asal çarpanları toplamı kaçtır?",
+      "options": {
+        "A": "7",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "correctOption": "B",
+      "explanation": "21=3×7; 3+7=10.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Dört İşlem",
+      "difficulty": 2,
+      "text": "(20 − 4) ÷ (2 + 2) işleminin sonucu kaçtır?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctOption": "B",
+      "explanation": "16 ÷ 4 = 4. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Kesirler",
+      "difficulty": 2,
+      "text": "4/5 + 1/5 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "4/5",
+        "B": "5/5",
+        "C": "1",
+        "D": "1/5"
+      },
+      "correctOption": "C",
+      "explanation": "4/5+1/5=5/5=1. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Yüzde",
+      "difficulty": 2,
+      "text": "200'nin %10'u kaçtır?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correctOption": "C",
+      "explanation": "200×10/100=20. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Yüzde",
+      "difficulty": 2,
+      "text": "Bir ürün 150 TL'den 180 TL'ye çıkmıştır. Artış oranı yüzde kaçtır?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "correctOption": "B",
+      "explanation": "(180-150)/150×100=20%.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Denklemler",
+      "difficulty": 2,
+      "text": "5x + 4 = 24 denkleminde x kaçtır?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctOption": "B",
+      "explanation": "5x=20 → x=4. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Denklemler",
+      "difficulty": 3,
+      "text": "x² − 7x + 12 = 0 denkleminin kökleri toplamı kaçtır?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "12",
+        "D": "19"
+      },
+      "correctOption": "B",
+      "explanation": "Kökler toplamı = 7 (Vieta).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Fonksiyonlar",
+      "difficulty": 2,
+      "text": "g(x)=5x−3 fonksiyonu için g(2) kaçtır?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctOption": "C",
+      "explanation": "g(2)=5×2−3=7. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Olasılık",
+      "difficulty": 2,
+      "text": "Bir zar atıldığında 3'ten büyük sayı gelme olasılığı kaçtır?",
+      "options": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "2/3",
+        "D": "1/6"
+      },
+      "correctOption": "A",
+      "explanation": "4,5,6 → 3/6=1/2.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "İstatistik",
+      "difficulty": 2,
+      "text": "5, 7, 9, 11 sayılarının aritmetik ortalaması kaçtır?",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "correctOption": "B",
+      "explanation": "(5+7+9+11)/4=32/4=8.",
+      "source": "özgün"
+    }
+  ]
+}

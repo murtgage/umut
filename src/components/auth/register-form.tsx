@@ -6,7 +6,7 @@ import { useState } from "react";
 
 import { Button } from "@/components/ui/button";
 import { FieldError, Input, Label } from "@/components/ui/input";
-import { signUp } from "@/lib/auth-client";
+import { emailOtp, signUp } from "@/lib/auth-client";
 
 const USERNAME_PATTERN = /^[a-zA-Z0-9_]{3,24}$/;
 
@@ -63,7 +63,20 @@ export function RegisterForm({ nextPath }: { nextPath: string }) {
         return;
       }
 
-      router.replace(nextPath);
+      // Kayıt başarılı: e-posta doğrulama kodunu gönder ve doğrulama ekranına geç.
+      try {
+        await emailOtp.sendVerificationOtp({
+          email: trimmedEmail,
+          type: "email-verification",
+        });
+      } catch {
+        // Kod gönderilemese bile doğrulama ekranına geçiyoruz; kullanıcı orada
+        // "Kodu tekrar gönder" ile yeniden deneyebilir.
+      }
+
+      router.replace(
+        `/dogrula?gonderildi=1&next=${encodeURIComponent(nextPath)}`,
+      );
       router.refresh();
     } catch {
       setError("Sunucuya ulaşılamadı. Lütfen tekrar dene.");

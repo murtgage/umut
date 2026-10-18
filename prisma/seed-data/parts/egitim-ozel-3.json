@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 3,
+      "text": "DEHB tanısı almış bir öğrenci için sınıf içi en uygun düzenleme hangisidir?",
+      "options": { "A": "Pencere kenarında oturtmak", "B": "Dikkat dağıtıcı unsurlardan uzak, ön sıralarda oturtmak", "C": "Kalabalık gruplarda çalıştırmak", "D": "Gürültülü ortamda ders yapmak" },
+      "correctOption": "B",
+      "explanation": "Dikkat dağıtıcı unsurlardan uzak ön sıra, DEHB olan öğrencinin odaklanmasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 3,
+      "text": "DEHB olan öğrenciye uzun ve karmaşık görevler yerine ne verilmelidir?",
+      "options": { "A": "Daha uzun görev", "B": "Aynı görev", "C": "Kısa ve parçalara bölünmüş görevler", "D": "Sınav cezası" },
+      "correctOption": "C",
+      "explanation": "Kısa ve parçalara bölünmüş görevler, DEHB olan öğrencinin görevi tamamlamasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 2,
+      "text": "DEHB olan öğrencinin yerinde duramayıp sık hareket etmesi hangi belirtiyle açıklanır?",
+      "options": { "A": "Dikkatsizlik", "B": "Okuma güçlüğü", "C": "İşitme sorunu", "D": "Hiperaktivite" },
+      "correctOption": "D",
+      "explanation": "Aşırı hareketlilik, DEHB'nin hiperaktivite belirtisidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 3,
+      "text": "DEHB olan öğrenciye öğretmenin sık ve olumlu pekiştireç kullanması neden yararlıdır?",
+      "options": { "A": "İstenen davranışı destekleyip motivasyonu artırdığı için", "B": "Cezayı artırdığı için", "C": "Dersi uzattığı için", "D": "Öğrenciyi pasifleştirdiği için" },
+      "correctOption": "A",
+      "explanation": "Olumlu pekiştireç, istenen davranışı güçlendirir ve motivasyonu artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 3,
+      "text": "DEHB olan öğrenciye verilen yönergelerin kısa ve net olması neden önemlidir?",
+      "options": { "A": "Öğretmeni yormamak için", "B": "Çok basamaklı yönergelerin takibini kolaylaştırmak için", "C": "Not vermek için", "D": "Süreyi doldurmak için" },
+      "correctOption": "B",
+      "explanation": "Kısa ve net yönergeler, DEHB olan öğrencinin yönergeyi takip etmesini kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 2,
+      "text": "Otizm spektrum bozukluğunun temel özellikleri arasında hangisi yer alır?",
+      "options": { "A": "Yalnızca görme kaybı", "B": "Yalnızca işitme kaybı", "C": "Sosyal etkileşim ve iletişimde güçlük ile sınırlı ve tekrarlayıcı davranışlar", "D": "Yalnızca matematik güçlüğü" },
+      "correctOption": "C",
+      "explanation": "Otizm; sosyal etkileşim ve iletişim güçlüğü ile sınırlı, tekrarlayıcı davranışlarla tanımlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 3,
+      "text": "Otizmli bir öğrencinin rutin değişikliklerine aşırı tepki vermesi hangi özellikle ilişkilidir?",
+      "options": { "A": "Yaratıcılık", "B": "Liderlik", "C": "Rekabet", "D": "Değişime direnç ve rutine bağlılık" },
+      "correctOption": "D",
+      "explanation": "Otizmli bireylerde rutine bağlılık ve değişime direnç sık görülen bir özelliktir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 3,
+      "text": "Otizmli öğrenciye sosyal beceri öğretiminde kullanılan etkili yöntem hangisidir?",
+      "options": { "A": "Model olma ve doğrudan sosyal beceri öğretimi", "B": "Yalnızca ceza", "C": "Yalnızca görmezden gelme", "D": "Yalnızca sınav" },
+      "correctOption": "A",
+      "explanation": "Model olma ve doğrudan öğretim, sosyal becerilerin kazandırılmasında etkilidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 3,
+      "text": "Otizmli öğrenciye etkili öğretim için görsel desteklerin kullanılmasının nedeni hangisidir?",
+      "options": { "A": "Öğrenciyi oyalamak", "B": "Sözel bilgiyi anlamayı ve takibi kolaylaştırmak", "C": "Süreyi doldurmak", "D": "Sınavı zorlaştırmak" },
+      "correctOption": "B",
+      "explanation": "Görsel destekler, otizmli öğrencinin sözel bilgiyi anlamasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 3,
+      "text": "Otizmli öğrencinin akranlarıyla etkileşimini artırmak için öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Öğrenciyi yalnız bırakmak", "B": "Sınıftan çıkarmak", "C": "Yapılandırılmış akran etkileşimi ve işbirlikli etkinlikler düzenlemek", "D": "Ceza vermek" },
+      "correctOption": "C",
+      "explanation": "Yapılandırılmış etkileşim ve işbirlikli etkinlikler, akran ilişkilerini güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 2,
+      "text": "Konuşma seslerinin çıkarılmasında yaşanan güçlük hangi konuşma bozukluğuyla ilişkilidir?",
+      "options": { "A": "Kekemelik", "B": "Ses bozukluğu", "C": "Dil bozukluğu", "D": "Artikülasyon bozukluğu" },
+      "correctOption": "D",
+      "explanation": "Artikülasyon bozukluğu, konuşma seslerinin doğru çıkarılmasındaki güçlüktür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 2,
+      "text": "Konuşma akıcılığının sık sık kesintiye uğraması ve takılmalar hangi bozuklukla ilişkilidir?",
+      "options": { "A": "Kekemelik", "B": "Artikülasyon bozukluğu", "C": "İşitme kaybı", "D": "Disleksi" },
+      "correctOption": "A",
+      "explanation": "Kekemelik, konuşma akıcılığının takılmalarla kesintiye uğramasıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 2,
+      "text": "Sesin perde, şiddet veya niteliğindeki bozukluk hangi konuşma bozukluğudur?",
+      "options": { "A": "Artikülasyon", "B": "Ses bozukluğu", "C": "Kekemelik", "D": "Dil bozukluğu" },
+      "correctOption": "B",
+      "explanation": "Ses bozukluğu, sesin perde, şiddet veya nitelik özelliklerindeki sorunlardır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 3,
+      "text": "Bir çocuğun dilin anlam ve kullanım kurallarını edinmede güçlük çekmesi hangi bozuklukla açıklanır?",
+      "options": { "A": "Artikülasyon", "B": "Kekemelik", "C": "Dil bozukluğu", "D": "Görme kaybı" },
+      "correctOption": "C",
+      "explanation": "Dil bozukluğu, dilin anlam ve kullanım kurallarının edinilmesindeki güçlüktür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 3,
+      "text": "İşitme yetersizliği olan bir çocukta dil ve konuşma gelişiminin olumsuz etkilenmesinin temel nedeni hangisidir?",
+      "options": { "A": "Zekâ düzeyi", "B": "Aile tutumu", "C": "Okul uzaklığı", "D": "İşitsel geri bildirim ve dil girdisinin yetersizliği" },
+      "correctOption": "D",
+      "explanation": "İşitme kaybı, dil girdisini ve işitsel geri bildirimi sınırlayarak dil gelişimini etkiler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 2,
+      "text": "Görme yetersizliği olan öğrencilerin eğitiminde kullanılan kabartma yazı sistemi hangisidir?",
+      "options": { "A": "Braille", "B": "Latin alfabesi", "C": "Mors", "D": "İşaret dili" },
+      "correctOption": "A",
+      "explanation": "Braille, görme yetersizliği olan bireylerin kullandığı kabartma yazı sistemidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 3,
+      "text": "Az gören bir öğrencinin ders materyallerine erişimini kolaylaştırmak için hangi uyarlama yapılır?",
+      "options": { "A": "Yazıyı küçültme", "B": "Yazıyı büyütme ve kontrastı artırma", "C": "Işığı azaltma", "D": "Materyali kaldırma" },
+      "correctOption": "B",
+      "explanation": "Yazıyı büyütmek ve kontrastı artırmak, az gören öğrencinin erişimini kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 3,
+      "text": "Görme yetersizliği olan öğrenci için sınıf içi yerleştirmede dikkat edilmesi gereken hangisidir?",
+      "options": { "A": "Arka sıraya oturtmak", "B": "Pencere kenarına oturtmak", "C": "Öğretmene yakın ve ışığın uygun olduğu bir yere oturtmak", "D": "Kalabalık yere oturtmak" },
+      "correctOption": "C",
+      "explanation": "Öğretmene yakın ve uygun ışıklı bir yer, az gören öğrenci için uygundur."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 2,
+      "text": "Görme yetersizliği olan öğrencinin öğrenmesini destekleyen işitsel ve dokunsal materyaller hangi amaca hizmet eder?",
+      "options": { "A": "Süreyi doldurmaya", "B": "Öğrenciyi oyalamaya", "C": "Rekabeti artırmaya", "D": "Eksik görsel bilgiyi telafi etmeye" },
+      "correctOption": "D",
+      "explanation": "İşitsel ve dokunsal materyaller, görme yoluyla alınamayan bilgiyi telafi eder."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 2,
+      "text": "İşitme yetersizliği olan öğrencinin iletişimini desteklemek için kullanılan görsel işaret sistemi hangisidir?",
+      "options": { "A": "İşaret dili", "B": "Braille", "C": "Kabartma harita", "D": "Ses kaseti" },
+      "correctOption": "A",
+      "explanation": "İşaret dili, işitme yetersizliği olan bireylerin kullandığı görsel işaret sistemidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 3,
+      "text": "İşitme yetersizliği olan öğrenciyle konuşurken öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Arka dönüp konuşmak", "B": "Yüzü öğrenciye dönük ve net biçimde konuşmak", "C": "Fısıldamak", "D": "Hızlı konuşmak" },
+      "correctOption": "B",
+      "explanation": "Yüzü dönük ve net konuşmak, dudak okuma ve anlamayı kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 3,
+      "text": "İşitme yetersizliği olan öğrenci için sınıf içi önemli uyarlama hangisidir?",
+      "options": { "A": "Pencere kenarına oturtmak", "B": "Arka sıraya oturmak", "C": "Öğretmene yakın ve tahtayı iyi görecek biçimde oturtmak", "D": "Yalnız bırakmak" },
+      "correctOption": "C",
+      "explanation": "Öğretmene yakın oturmak, işitme ve dudak okuma açısından avantaj sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 3,
+      "text": "İşitme yetersizliği olan öğrencinin cihaz kullanımı ve akustik ortam düzenlemesi hangi amaca hizmet eder?",
+      "options": { "A": "Süreyi doldurmaya", "B": "Öğrenciyi oyalamaya", "C": "Not vermeye", "D": "Sesin daha iyi algılanmasını sağlamaya" },
+      "correctOption": "D",
+      "explanation": "Cihaz kullanımı ve akustik düzenleme, sesin daha iyi algılanmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Süreğen Hastalık",
+      "difficulty": 2,
+      "text": "Süreğen hastalığı olan öğrencinin uzun süre okuldan uzak kalması durumunda uygulanacak uygun yaklaşım hangisidir?",
+      "options": { "A": "Evde veya hastanede eğitim hizmeti sunmak", "B": "Öğrenciyi kayıttan silmek", "C": "Sınavdan muaf tutup hiç eğitim vermemek", "D": "Öğrenciyi görmezden gelmek" },
+      "correctOption": "A",
+      "explanation": "Okuldan uzak kalan öğrenciye evde veya hastanede eğitim hizmeti sunulmalıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Süreğen Hastalık",
+      "difficulty": 3,
+      "text": "Süreğen hastalığı olan bir öğrencinin tedavi süreciyle eğitiminin birlikte planlanması neden önemlidir?",
+      "options": { "A": "Okulu meşgul etmek için", "B": "Öğrencinin eğitimden kopmadan süreci sürdürebilmesi için", "C": "Sınavı iptal etmek için", "D": "Öğretmeni rahatlatmak için" },
+      "correctOption": "B",
+      "explanation": "Tedavi ve eğitimin birlikte planlanması, öğrencinin eğitimden kopmamasını sağlar."
+    }
+  ]
+}

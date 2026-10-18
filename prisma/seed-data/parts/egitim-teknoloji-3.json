@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Sunum Araçları",
+      "difficulty": 2,
+      "text": "Öğretmenin konuyu desteklemek için madde işaretli kısa metinlerle hazırladığı görsel sunum aracı hangisidir?",
+      "options": { "A": "Afiş", "B": "Sunu (slayt)", "C": "Kukla", "D": "Harita" },
+      "correctOption": "B",
+      "explanation": "Sunu (slayt), konunun ana noktalarını görsel olarak destekleyen bir araçtır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Sunum Araçları",
+      "difficulty": 2,
+      "text": "Bir ders sunusunda aynı anda hem karmaşık grafik hem uzun metin verilmesi hangi tasarım ilkesine aykırıdır?",
+      "options": { "A": "Denge", "B": "Hizalama", "C": "Basitlik", "D": "Tekrar" },
+      "correctOption": "C",
+      "explanation": "Basitlik ilkesi, sununun sade tutulmasını ve aşırı yüklenmemesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Görsel Araçlar",
+      "difficulty": 3,
+      "text": "Bir olgunun zaman içindeki değişim seyrini göstermek için en uygun görsel araç hangisidir?",
+      "options": { "A": "Pasta grafiği", "B": "Kavram haritası", "C": "Tablo", "D": "Çizgi grafiği" },
+      "correctOption": "D",
+      "explanation": "Çizgi grafiği, bir değişkenin zaman içindeki eğilimini göstermek için kullanılır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Görsel Araçlar",
+      "difficulty": 3,
+      "text": "Bir bütünün parçalarının oransal dağılımını göstermek için en uygun görsel araç hangisidir?",
+      "options": { "A": "Pasta grafiği", "B": "Çizgi grafiği", "C": "Zaman çizelgesi", "D": "Akış şeması" },
+      "correctOption": "A",
+      "explanation": "Pasta grafiği, bir bütünün parçalarının oranlarını göstermeye uygundur."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Görsel Araçlar",
+      "difficulty": 3,
+      "text": "Bir süreçteki aşamaların sırasını ve akışını göstermek için en uygun görsel araç hangisidir?",
+      "options": { "A": "Pasta grafiği", "B": "Akış şeması", "C": "Sütun grafiği", "D": "Harita" },
+      "correctOption": "B",
+      "explanation": "Akış şeması, süreçteki adımların sırasını ve yönünü gösterir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Görsel Araçlar",
+      "difficulty": 3,
+      "text": "Kavramlar arasındaki ilişkileri hiyerarşik biçimde göstermek için kullanılan görsel araç hangisidir?",
+      "options": { "A": "Zaman çizelgesi", "B": "Pasta grafiği", "C": "Kavram haritası", "D": "Resim" },
+      "correctOption": "C",
+      "explanation": "Kavram haritası, kavramlar ve aralarındaki ilişkileri şematik olarak gösterir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Görsel Araçlar",
+      "difficulty": 2,
+      "text": "Sütun grafiği en çok hangi amaçla kullanılır?",
+      "options": { "A": "Zaman sırasını göstermek", "B": "Oransal dağılımı göstermek", "C": "Mekânı göstermek", "D": "Büyüklük karşılaştırması yapmak" },
+      "correctOption": "D",
+      "explanation": "Sütun grafiği, farklı grupların büyüklüklerini karşılaştırmak için kullanılır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Öğretim tasarımının temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrenmeyi etkili, verimli ve çekici kılmak", "B": "Öğretmenin işini ertelemek", "C": "Değerlendirmeyi kaldırmak", "D": "İçeriği azaltmak" },
+      "correctOption": "A",
+      "explanation": "Öğretim tasarımı, öğrenme sürecini etkili, verimli ve ilgi çekici kılmayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "ADDIE öğretim tasarımı modelinin ilk aşaması hangisidir?",
+      "options": { "A": "Geliştirme", "B": "Analiz", "C": "Uygulama", "D": "Değerlendirme" },
+      "correctOption": "B",
+      "explanation": "ADDIE modeli Analiz aşamasıyla başlar; burada ihtiyaç ve hedef kitle belirlenir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "ADDIE modelinde içeriğin yazılması ve materyallerin üretilmesi hangi aşamada gerçekleşir?",
+      "options": { "A": "Analiz", "B": "Tasarım", "C": "Geliştirme", "D": "Uygulama" },
+      "correctOption": "C",
+      "explanation": "Geliştirme aşamasında taslak içerik ve materyaller üretilir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "ADDIE modelinde öğretimin gerçek ortamda yürütülmesi hangi aşamadır?",
+      "options": { "A": "Analiz", "B": "Tasarım", "C": "Değerlendirme", "D": "Uygulama" },
+      "correctOption": "D",
+      "explanation": "Uygulama aşamasında hazırlanan öğretim gerçek koşullarda yürütülür."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "ADDIE modelinde sürecin başında ve sonunda yapılan, düzeltmeye imkân tanıyan aşama hangisidir?",
+      "options": { "A": "Değerlendirme", "B": "Analiz", "C": "Tasarım", "D": "Geliştirme" },
+      "correctOption": "A",
+      "explanation": "Değerlendirme aşaması hem süreç hem sonuç açısından geri bildirim sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Öğretim tasarımında hedef kitlenin özelliklerinin belirlenmesi ADDIE'nin hangi aşamasına aittir?",
+      "options": { "A": "Uygulama", "B": "Analiz", "C": "Geliştirme", "D": "Değerlendirme" },
+      "correctOption": "B",
+      "explanation": "Analiz aşamasında öğrenen özellikleri ve gereksinimler belirlenir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Dick ve Carey öğretim tasarımı modelinde süreç hangi adımla başlar?",
+      "options": { "A": "Ölçme araçlarını geliştirme", "B": "Öğretim stratejisini belirleme", "C": "Öğretim amaçlarını belirleme", "D": "Öğretimi değerlendirme" },
+      "correctOption": "C",
+      "explanation": "Model, gereksinim ve öğretim amaçlarının belirlenmesiyle başlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Gagné'nin dokuz öğretim olayı arasında dersin başında öğrencilerin ilgisini çekmek hangi adımdır?",
+      "options": { "A": "Sunum", "B": "Değerlendirme", "C": "Kalıcılık", "D": "Dikkat çekme" },
+      "correctOption": "D",
+      "explanation": "Gagné'nin ilk olayı, öğrencilerin dikkatini çekmektir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Gagné'ye göre öğrenciye öğrendiğini gösterme fırsatı verilen öğretim olayı hangisidir?",
+      "options": { "A": "Performansı ortaya çıkarma", "B": "Dikkat çekme", "C": "Hatırlatma", "D": "Kapanış" },
+      "correctOption": "A",
+      "explanation": "Performansı ortaya çıkarma olayında öğrenci öğrendiğini uygulayarak gösterir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Gagné'ye göre öğrenilenin yeni durumlara uygulanmasını sağlayan öğretim olayı hangisidir?",
+      "options": { "A": "Değerlendirme", "B": "Aktarım", "C": "Geri bildirim", "D": "Dikkat çekme" },
+      "correctOption": "B",
+      "explanation": "Aktarım olayında öğrenci öğrendiğini yeni durumlara uygular."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Öğrenci merkezli, esnek ve hızlı prototiplemeyle ilerleyen öğretim tasarımı yaklaşımı hangisidir?",
+      "options": { "A": "Klasik ADDIE", "B": "Davranışçı model", "C": "Çevik tasarım", "D": "Doğrusal tasarım" },
+      "correctOption": "C",
+      "explanation": "Çevik (agile) tasarım, esnek ve yinelemeli biçimde hızlı prototipleme yapar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Öğretim tasarımında değerlendirme sonuçlarına göre geri dönülüp iyileştirme yapılması hangi özelliktir?",
+      "options": { "A": "Doğrusallık", "B": "Tek yönlülük", "C": "Katılık", "D": "Yinelemeli süreç" },
+      "correctOption": "D",
+      "explanation": "Yinelemeli (döngüsel) süreç, tasarımın geri bildirimle sürekli iyileştirilmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 2,
+      "text": "Uzaktan eğitimin öğretmen ve öğrencinin aynı fiziksel ortamda bulunmasını gerektirmemesi hangi özelliğidir?",
+      "options": { "A": "Mekândan bağımsızlık", "B": "Zorunlu devam", "C": "Yüz yüze etkileşim", "D": "Sabit program" },
+      "correctOption": "A",
+      "explanation": "Mekândan bağımsızlık, öğretim ve öğrenmenin farklı yerlerden yürütülmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 2,
+      "text": "Uzaktan eğitimin öğrencinin kendi hızında ilerlemesine imkân tanıması hangi avantajıdır?",
+      "options": { "A": "Sınıf mevcudunun artması", "B": "Bireysel hız ve esneklik", "C": "Öğretmen denetiminin artması", "D": "Yüz yüze iletişim" },
+      "correctOption": "B",
+      "explanation": "Uzaktan eğitim, öğrenciye kendi hızında ilerleme esnekliği tanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 2,
+      "text": "Uzaktan eğitimin öğrenciden öz disiplin ve sorumluluk beklemesi hangi zorlukla ilişkilidir?",
+      "options": { "A": "Teknik arıza", "B": "Maliyet", "C": "Kendi kendine öğrenme sorumluluğu", "D": "Yüz yüze etkileşim" },
+      "correctOption": "C",
+      "explanation": "Uzaktan eğitim, öğrencinin öğrenme sorumluluğunu kendi üstlenmesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 3,
+      "text": "Uzaktan eğitimde eş zamanlı (senkron) ders yapılması hangi araçla sağlanır?",
+      "options": { "A": "Basılı kitap", "B": "Radyo yayını", "C": "Ses kaseti", "D": "Canlı sanal sınıf" },
+      "correctOption": "D",
+      "explanation": "Canlı sanal sınıf uygulamaları, öğretmen ve öğrencilerin aynı anda bir arada olmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 2,
+      "text": "Öğrencilerin aynı anda çevrim içi olmadığı, içeriğe istediği zaman ulaştığı uzaktan eğitim modeli hangisidir?",
+      "options": { "A": "Eş zamansız", "B": "Eş zamanlı", "C": "Yüz yüze", "D": "Blok ders" },
+      "correctOption": "A",
+      "explanation": "Eş zamansız (asenkron) modelde öğrenci içeriğe uygun zamanında erişir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğrenme Yönetim Sistemi",
+      "difficulty": 3,
+      "text": "Uzaktan eğitimde öğrenme yönetim sisteminin (LMS) temel işlevi hangisidir?",
+      "options": { "A": "Kitapları basmak", "B": "İçerik sunmak, etkinlik ve değerlendirmeyi yönetmek", "C": "Yalnızca yoklama almak", "D": "Yalnızca not dağıtmak" },
+      "correctOption": "B",
+      "explanation": "LMS; içerik sunumu, etkinlik yönetimi ve değerlendirme gibi işlevleri birlikte yürütür."
+    }
+  ]
+}

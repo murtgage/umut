@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "categorySlug": "matematik",
+      "topic": "Sayılar",
+      "difficulty": 2,
+      "text": "Aşağıdaki sayılardan hangisi 3'e tam bölünür?",
+      "options": {
+        "A": "10",
+        "B": "14",
+        "C": "15",
+        "D": "16"
+      },
+      "correctOption": "C",
+      "explanation": "15'in rakamları toplamı 6, 3'e bölünür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Sayılar",
+      "difficulty": 2,
+      "text": "9 sayısının karekökü kaçtır?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "9"
+      },
+      "correctOption": "B",
+      "explanation": "√9=3. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Sayılar",
+      "difficulty": 3,
+      "text": "Aşağıdaki sayılardan hangisi irrasyonel sayıdır?",
+      "options": {
+        "A": "√4",
+        "B": "√2",
+        "C": "0,5",
+        "D": "3/4"
+      },
+      "correctOption": "B",
+      "explanation": "√2 irrasyonel sayıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Dört İşlem",
+      "difficulty": 1,
+      "text": "15 − 7 + 3 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "11",
+        "D": "15"
+      },
+      "correctOption": "C",
+      "explanation": "15−7=8; 8+3=11.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Dört İşlem",
+      "difficulty": 2,
+      "text": "(12 ÷ 4) × (3 + 1) işleminin sonucu kaçtır?",
+      "options": {
+        "A": "9",
+        "B": "12",
+        "C": "16",
+        "D": "24"
+      },
+      "correctOption": "B",
+      "explanation": "3 × 4 = 12. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Kesirler",
+      "difficulty": 2,
+      "text": "2/3 + 1/6 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "1/2",
+        "B": "5/6",
+        "C": "3/9",
+        "D": "1"
+      },
+      "correctOption": "B",
+      "explanation": "4/6+1/6=5/6. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Kesirler",
+      "difficulty": 2,
+      "text": "7/8 − 3/8 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "1/2",
+        "B": "3/8",
+        "C": "4/8",
+        "D": "1"
+      },
+      "correctOption": "C",
+      "explanation": "7/8−3/8=4/8=1/2 olarak bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Kesirler",
+      "difficulty": 3,
+      "text": "(2/3) × (3/4) işleminin sonucu kaçtır?",
+      "options": {
+        "A": "1/2",
+        "B": "5/7",
+        "C": "6/12",
+        "D": "1"
+      },
+      "correctOption": "A",
+      "explanation": "2/3×3/4=6/12=1/2.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Ondalık",
+      "difficulty": 2,
+      "text": "0,75 − 0,25 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "0,5",
+        "B": "0,75",
+        "C": "1,0",
+        "D": "0,25"
+      },
+      "correctOption": "A",
+      "explanation": "0,75−0,25=0,5. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Ondalık",
+      "difficulty": 2,
+      "text": "2,4 ÷ 0,8 işleminin sonucu kaçtır?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "0,3"
+      },
+      "correctOption": "B",
+      "explanation": "2,4÷0,8=3. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Oran-Orantı",
+      "difficulty": 2,
+      "text": "5/8 oranının paydasını 32 yapmak için payı kaç olmalıdır?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "25"
+      },
+      "correctOption": "B",
+      "explanation": "5/8=x/32 → x=20.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Oran-Orantı",
+      "difficulty": 2,
+      "text": "x/3 = 4/6 olduğuna göre x kaçtır?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctOption": "B",
+      "explanation": "x=3×4/6=2. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Yüzde",
+      "difficulty": 2,
+      "text": "80'in %15'i kaçtır?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "15"
+      },
+      "correctOption": "C",
+      "explanation": "80×15/100=12. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Yüzde",
+      "difficulty": 2,
+      "text": "Bir ürün 120 TL'den 90 TL'ye düşmüştür. İndirim oranı yüzde kaçtır?",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35"
+      },
+      "correctOption": "B",
+      "explanation": "(120−90)/120×100=25%.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Denklemler",
+      "difficulty": 2,
+      "text": "4x − 5 = 11 denkleminde x kaçtır?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctOption": "B",
+      "explanation": "4x=16 → x=4. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Denklemler",
+      "difficulty": 3,
+      "text": "x² − 4x + 3 = 0 denkleminin kökleri çarpımı kaçtır?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctOption": "C",
+      "explanation": "Kökler çarpımı = 3 (Vieta).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Denklemler",
+      "difficulty": 2,
+      "text": "5x + 2 = 3x + 8 denkleminde x kaçtır?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctOption": "B",
+      "explanation": "2x=6 → x=3. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Fonksiyonlar",
+      "difficulty": 2,
+      "text": "f(x)=3x−2 fonksiyonu için f(2) kaçtır?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctOption": "C",
+      "explanation": "f(2)=3×2−2=4. Bu nedenle doğru seçenek işaretlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Fonksiyonlar",
+      "difficulty": 3,
+      "text": "f(x)=x²−1 fonksiyonunun sıfırları toplamı kaçtır?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      },
+      "correctOption": "A",
+      "explanation": "x²=1 → x=±1; toplam 0.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Olasılık",
+      "difficulty": 2,
+      "text": "Bir zar atıldığında çift sayı gelme olasılığı kaçtır?",
+      "options": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "1/6",
+        "D": "2/3"
+      },
+      "correctOption": "A",
+      "explanation": "Çift sayılar: 2,4,6 → 3/6=1/2.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Olasılık",
+      "difficulty": 2,
+      "text": "Bir deste 52 karttan rastgele bir kart çekildiğinde papaz (kral) gelme olasılığı kaçtır?",
+      "options": {
+        "A": "1/52",
+        "B": "4/52",
+        "C": "13/52",
+        "D": "1/4"
+      },
+      "correctOption": "B",
+      "explanation": "4 papaz → 4/52=1/13.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "İstatistik",
+      "difficulty": 2,
+      "text": "3, 5, 7, 9 sayılarının medyanı kaçtır?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctOption": "B",
+      "explanation": "Sıralı: 3,5,7,9; medyan=(5+7)/2=6.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "İstatistik",
+      "difficulty": 2,
+      "text": "1, 2, 2, 3, 4 sayılarının modu (tepe değeri) kaçtır?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctOption": "B",
+      "explanation": "En sık tekrar eden 2'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri Temel",
+      "difficulty": 1,
+      "text": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+      "options": {
+        "A": "90",
+        "B": "180",
+        "C": "270",
+        "D": "360"
+      },
+      "correctOption": "B",
+      "explanation": "Üçgenin iç açıları toplamı 180°'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "matematik",
+      "topic": "Geometri Temel",
+      "difficulty": 2,
+      "text": "Bir karenin bir kenarı 5 cm ise çevresi kaç cm'dir?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correctOption": "C",
+      "explanation": "Çevre = 4×5 = 20 cm.",
+      "source": "özgün"
+    }
+  ]
+}

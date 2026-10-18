@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 2,
+      "text": "Özel gereksinimli öğrencinin genel eğitim sınıfında akranlarıyla eğitim alması hangi uygulamadır?",
+      "options": { "A": "Ayrı eğitim", "B": "Özel sınıf", "C": "Kaynaştırma eğitimi", "D": "Evde eğitim" },
+      "correctOption": "C",
+      "explanation": "Kaynaştırma eğitimi, özel gereksinimli öğrencinin akranlarıyla birlikte eğitim almasıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 3,
+      "text": "Kaynaştırma eğitiminin başarılı olması için sınıf öğretmeninin yapması gereken hangisidir?",
+      "options": { "A": "Öğrenciyi görmezden gelmek", "B": "Onu ayrı tutmak", "C": "Yalnızca sınav yapmak", "D": "Öğretimi ve materyalleri öğrencinin gereksinimine göre uyarlamak" },
+      "correctOption": "D",
+      "explanation": "Öğretim ve materyallerin uyarlanması, kaynaştırmanın başarısı için temeldir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 3,
+      "text": "Kaynaştırma eğitiminde destek eğitim odası hangi amaca hizmet eder?",
+      "options": { "A": "Öğrenciye bireysel destek ve ek öğretim sunmaya", "B": "Öğrenciyi sınıftan tümüyle ayırmaya", "C": "Öğretmeni dinlendirmeye", "D": "Sınav yapmaya" },
+      "correctOption": "A",
+      "explanation": "Destek eğitim odası, öğrenciye gereksinimine uygun bireysel destek sunar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 3,
+      "text": "Kaynaştırma eğitiminde destek personelin işlevi hangisidir?",
+      "options": { "A": "Öğrenciyi etiketlemek", "B": "Öğretmene ve öğrenciye destek sağlamak", "C": "Not vermek", "D": "Sınıfı denetlemek" },
+      "correctOption": "B",
+      "explanation": "Destek personel, öğretmene ve öğrenciye uyarlama ve yöntem konusunda destek verir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 2,
+      "text": "Kaynaştırma eğitiminden en üst düzeyde yararlanabilmek için erken tanı ve yerleştirme neden önemlidir?",
+      "options": { "A": "Süreyi doldurmak için", "B": "Maliyet için", "C": "Öğrencinin gelişiminin erken desteklenmesi için", "D": "Öğretmeni seçmek için" },
+      "correctOption": "C",
+      "explanation": "Erken tanı ve yerleştirme, öğrencinin gelişiminin erken dönemde desteklenmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 3,
+      "text": "Kaynaştırma eğitiminde öğrencinin sosyal kabulünü artırmak için öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Farklılığı vurgulamak", "B": "Öğrenciyi yalnız bırakmak", "C": "Onu etiketlemek", "D": "İşbirlikli etkinlikler ve olumlu sınıf iklimi oluşturmak" },
+      "correctOption": "D",
+      "explanation": "İşbirlikli etkinlikler ve olumlu iklim, öğrencinin sosyal kabulünü artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 2,
+      "text": "Bireyselleştirilmiş Eğitim Programı (BEP) hangi öğrenciler için hazırlanır?",
+      "options": { "A": "Özel eğitim gereksinimi olan öğrenciler", "B": "Tüm üstün yetenekliler", "C": "Yalnızca yurt dışı öğrenciler", "D": "Yalnızca sporcular" },
+      "correctOption": "A",
+      "explanation": "BEP, özel eğitim gereksinimi olan öğrenciler için hazırlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 2,
+      "text": "BEP'in temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Tüm öğrencilere aynı programı uygulamak", "B": "Öğrencinin gereksinimine uygun bireysel hedef ve hizmetleri belirlemek", "C": "Notları yükseltmek", "D": "Sınav sayısını artırmak" },
+      "correctOption": "B",
+      "explanation": "BEP, öğrencinin gereksinimine uygun bireysel hedef ve hizmetleri belirler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "BEP hazırlanırken öğrencinin mevcut performans düzeyinin belirlenmesi neden gereklidir?",
+      "options": { "A": "Süreyi doldurmak için", "B": "Not vermek için", "C": "Uygun hedefler belirlemek için", "D": "Aileyi bilgilendirmek için" },
+      "correctOption": "C",
+      "explanation": "Mevcut performans düzeyi, gerçekçi ve uygun hedefler belirlemek için gereklidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "BEP'te yer alan uzun ve kısa dönemli hedeflerin özelliği hangisidir?",
+      "options": { "A": "Genel ve ölçülemez olması", "B": "Yalnızca yıllık olması", "C": "Öğrenciden bağımsız hazırlanması", "D": "Öğrencinin gereksinimine göre ölçülebilir ve ulaşılabilir olması" },
+      "correctOption": "D",
+      "explanation": "BEP hedefleri ölçülebilir, ulaşılabilir ve öğrenciye özgü olmalıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "BEP'in yıllık olarak hazırlanıp gerektiğinde gözden geçirilmesi hangi özelliğine işaret eder?",
+      "options": { "A": "Süreklilik ve güncellenebilirlik", "B": "Değişmezlik", "C": "Rastgelelik", "D": "Genellik" },
+      "correctOption": "A",
+      "explanation": "BEP, süreklilik gösterir ve gereksinime göre güncellenir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 2,
+      "text": "BEP'in hazırlanmasında aşağıdakilerden hangisi yer alır?",
+      "options": { "A": "Yalnızca öğretmen", "B": "Öğretmen, aile, uzman ve gerektiğinde öğrenci", "C": "Yalnızca müdür", "D": "Yalnızca veli" },
+      "correctOption": "B",
+      "explanation": "BEP, öğretmen, aile ve uzmanların katılımıyla ekip hâlinde hazırlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "BEP'te öğrencinin özel eğitim ve destek hizmetlerine ne kadar süreyle katılacağının belirtilmesi hangi bölümle ilgilidir?",
+      "options": { "A": "Hedefler", "B": "Değerlendirme", "C": "Hizmet süresi ve sıklığı", "D": "Okul bilgileri" },
+      "correctOption": "C",
+      "explanation": "BEP'te hizmetlerin süresi ve sıklığı ayrı bir bölümde belirtilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "BEP'te öğrencinin ölçme-değerlendirme yöntemlerinin nasıl uyarlanacağının belirtilmesi hangi amaca hizmet eder?",
+      "options": { "A": "Süreyi doldurmaya", "B": "Sınavı zorlaştırmaya", "C": "Not ortalaması almaya", "D": "Öğrencinin gerçek performansının adil biçimde değerlendirilmesine" },
+      "correctOption": "D",
+      "explanation": "Uyarlanmış değerlendirme, öğrencinin gerçek performansının adil biçimde ölçülmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Yetenek",
+      "difficulty": 2,
+      "text": "Üstün yetenekli öğrencilerin özellikleri arasında hangisi yer alır?",
+      "options": { "A": "Hızlı öğrenme, yüksek yaratıcılık ve derin ilgi", "B": "Yalnızca fiziksel güç", "C": "Düşük akademik ilgi", "D": "Yalnızca müzik yeteneği" },
+      "correctOption": "A",
+      "explanation": "Üstün yetenekli öğrenciler hızlı öğrenme, yaratıcılık ve derin ilgiyle öne çıkar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Yetenek",
+      "difficulty": 3,
+      "text": "Üstün yetenekli öğrenciler için uygulanan zenginleştirme yaklaşımı neyi ifade eder?",
+      "options": { "A": "Programın hızlandırılması", "B": "İçeriğin ve etkinliklerin genişletilip derinleştirilmesi", "C": "Sınıfın boş bırakılması", "D": "Ödevin artırılması" },
+      "correctOption": "B",
+      "explanation": "Zenginleştirme, içeriğin genişletilip derinleştirilmesini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Yetenek",
+      "difficulty": 3,
+      "text": "Üstün yetenekli öğrenciler için uygulanan hızlandırma yaklaşımı neyi ifade eder?",
+      "options": { "A": "Programın yavaşlatılması", "B": "İçeriğin sadeleştirilmesi", "C": "Öğrencinin daha hızlı ilerleyip üst düzey içerikle çalışması", "D": "Sınavın kaldırılması" },
+      "correctOption": "C",
+      "explanation": "Hızlandırma, öğrencinin daha hızlı ilerleyerek üst düzey içerikle çalışmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Yetenek",
+      "difficulty": 3,
+      "text": "Üstün yetenekli öğrencilerin eğitiminde farklılaştırılmış öğretim neyi amaçlar?",
+      "options": { "A": "Herkese aynı ödevi vermeyi", "B": "Öğrenciyi sınıftan çıkarmayı", "C": "Konuyu basitleştirmeyi", "D": "Öğretimi öğrencinin hazırbulunuşluk düzeyine göre uyarlamayı" },
+      "correctOption": "D",
+      "explanation": "Farklılaştırılmış öğretim, öğretimi hazırbulunuşluk düzeyine göre uyarlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Yetenek",
+      "difficulty": 3,
+      "text": "Üstün yetenekli öğrencinin derste sıkılma ve motivasyon kaybı yaşaması öğretmenin hangi düzenlemeyi yapmasını gerektirir?",
+      "options": { "A": "Öğrencinin düzeyine uygun zenginleştirilmiş etkinlikler sunmasını", "B": "Konuyu sürekli tekrarlamasını", "C": "Öğrenciyi görmezden gelmesini", "D": "Ceza vermesini" },
+      "correctOption": "A",
+      "explanation": "Öğrencinin düzeyine uygun zenginleştirilmiş etkinlikler sıkılmayı önler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 2,
+      "text": "Duygu ve davranış bozukluğunun temel ölçütü hangisidir?",
+      "options": { "A": "Yalnızca düşük not", "B": "Yaşa ve ortama uygun olmayan, süreklilik gösteren davranışlar", "C": "Yalnızca fiziksel hastalık", "D": "Yalnızca dil sorunu" },
+      "correctOption": "B",
+      "explanation": "Duygu ve davranış bozukluğu, süreklilik gösteren ve ortama uygun olmayan davranışlarla tanımlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 3,
+      "text": "Duygu ve davranış bozukluğu olan öğrenciye yönelik sınıf içi uygun yaklaşım hangisidir?",
+      "options": { "A": "Sürekli ceza vermek", "B": "Öğrenciyi sınıftan çıkarmak", "C": "Olumlu davranışı pekiştirip tutarlı ve destekleyici bir ortam sunmak", "D": "Öğrenciyi etiketlemek" },
+      "correctOption": "C",
+      "explanation": "Olumlu pekiştirme ve tutarlı, destekleyici ortam davranışı iyileştirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 3,
+      "text": "Duygu ve davranış bozukluğu olan öğrencinin davranışının altında yatan nedeni belirlemek için öğretmenin öncelikle yapması gereken hangisidir?",
+      "options": { "A": "Ceza vermek", "B": "Sınıftan atmak", "C": "Aileyi suçlamak", "D": "Davranışı gözlemleyip işlevsel değerlendirme yapmak" },
+      "correctOption": "D",
+      "explanation": "Davranışın işlevinin belirlenmesi, uygun müdahale planlaması için gereklidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 3,
+      "text": "Öğrencinin saldırgan davranışlarının altında yatan işlevi anlamak için yapılan değerlendirme hangisidir?",
+      "options": { "A": "İşlevsel davranış değerlendirmesi", "B": "Yazılı sınav", "C": "Zekâ testi", "D": "Yoklama" },
+      "correctOption": "A",
+      "explanation": "İşlevsel davranış değerlendirmesi, davranışın nedenini ve işlevini ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yasal Düzenlemeler",
+      "difficulty": 2,
+      "text": "Türkiye'de özel eğitim hizmetlerinin temel çerçevesini belirleyen mevzuat hangisidir?",
+      "options": { "A": "Ticaret kanunu", "B": "Özel Eğitim Hizmetleri Yönetmeliği", "C": "Trafik kanunu", "D": "Vergi kanunu" },
+      "correctOption": "B",
+      "explanation": "Özel Eğitim Hizmetleri Yönetmeliği, özel eğitim hizmetlerinin çerçevesini belirler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yasal Düzenlemeler",
+      "difficulty": 3,
+      "text": "Özel eğitim gereksinimi olan bireylerin eğitim hakkının yasal güvence altına alınması hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Ayrımcılık", "B": "Keyfilik", "C": "Eğitimde fırsat eşitliği ve yasal güvence", "D": "Gizlilik" },
+      "correctOption": "C",
+      "explanation": "Eğitim hakkının yasal güvence altına alınması, fırsat eşitliği ilkesiyle ilişkilidir."
+    }
+  ]
+}

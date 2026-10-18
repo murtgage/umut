@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Özel gereksinimli bireylere sunulan, bireysel farklılıkları dikkate alan eğitim hizmetlerinin genel adı hangisidir?",
+      "options": { "A": "Özel eğitim", "B": "Genel eğitim", "C": "Zorunlu eğitim", "D": "Yaygın eğitim" },
+      "correctOption": "A",
+      "explanation": "Özel eğitim, bireysel farklılıkları dikkate alarak özel gereksinimli bireylere sunulan eğitimdir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Özel eğitimin temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrenciyi toplumdan ayırmak", "B": "Özel gereksinimli bireyin yeterliliklerini en üst düzeye çıkarıp topluma uyumunu sağlamak", "C": "Yalnızca bakım sağlamak", "D": "Bireyi ayrı okullarda tutmak" },
+      "correctOption": "B",
+      "explanation": "Özel eğitim, bireyin yeterliliklerini geliştirip topluma uyumunu sağlamayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitimin öğrencinin yapabildiklerinden başlanarak planlanması hangi ilkedir?",
+      "options": { "A": "Normalizasyon", "B": "Bütünlük", "C": "Öğrencinin performans düzeyinden başlama", "D": "Ayrıştırma" },
+      "correctOption": "C",
+      "explanation": "Özel eğitim, öğrencinin mevcut performans düzeyinden başlanarak planlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel gereksinimli bireyin akranlarıyla birlikte eğitim almasını öngören ilke hangisidir?",
+      "options": { "A": "Ayrıştırma", "B": "Yalnızca bakım", "C": "Rehberlik", "D": "Kaynaştırma ve bütünleştirme" },
+      "correctOption": "D",
+      "explanation": "Kaynaştırma, özel gereksinimli bireyin akranlarıyla birlikte eğitim almasını öngörür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitimin olabildiğince erken yaşta başlaması gerektiğini vurgulayan ilke hangisidir?",
+      "options": { "A": "Erkenlik", "B": "Geçlik", "C": "Tesadüfilik", "D": "Ayrıştırma" },
+      "correctOption": "A",
+      "explanation": "Erkenlik ilkesi, özel eğitimin mümkün olduğunca erken başlamasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitimin aile katılımı ve ekip çalışmasıyla yürütülmesi hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Tek başına öğretmen kararı", "B": "İşbirliği ve ekip çalışması", "C": "Ayrıştırma", "D": "Tanılama" },
+      "correctOption": "B",
+      "explanation": "Özel eğitim, aile ve uzmanların katıldığı bir ekip çalışmasıyla yürütülür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 3,
+      "text": "Özel eğitimin bireyin bağımsız yaşam becerileri kazanmasını hedeflemesi hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Ayrıştırma", "B": "Yalnızca akademik başarı", "C": "Bağımsız yaşama hazırlama", "D": "Bakım" },
+      "correctOption": "C",
+      "explanation": "Özel eğitim, bireyi bağımsız yaşama hazırlayacak becerileri kazandırmayı hedefler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 3,
+      "text": "Özel eğitim hizmetlerinin bireyin gereksinimine göre planlanıp zamanla güncellenmesi hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Katılık", "B": "Değişmezlik", "C": "Genellik", "D": "Bireyselleştirme ve süreklilik" },
+      "correctOption": "D",
+      "explanation": "Bireyselleştirme ve süreklilik, hizmetlerin gereksinime göre uyarlanıp sürdürülmesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 1,
+      "text": "Özel eğitim sürecinin ilk aşaması genel olarak hangisidir?",
+      "options": { "A": "Tanılama ve değerlendirme", "B": "Yerleştirme", "C": "BEP hazırlama", "D": "İzleme" },
+      "correctOption": "A",
+      "explanation": "Süreç, öğrencinin tanılanıp değerlendirilmesiyle başlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Bir öğrencinin özel gereksinimli olduğunun çeşitli ölçme araçlarıyla belirlenmesi süreci hangisidir?",
+      "options": { "A": "Yerleştirme", "B": "Tanılama", "C": "İzleme", "D": "Yönlendirme" },
+      "correctOption": "B",
+      "explanation": "Tanılama, özel gereksinimin çeşitli araç ve yöntemlerle belirlenmesidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Öğrencinin eğitsel gereksinimlerinin ve performans düzeyinin belirlenmesi hangi süreçtir?",
+      "options": { "A": "Yerleştirme", "B": "İzleme", "C": "Eğitsel değerlendirme", "D": "Sınıflama" },
+      "correctOption": "C",
+      "explanation": "Eğitsel değerlendirme, öğrencinin gereksinim ve performans düzeyini belirler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Tanılama sürecinde çoklu yöntem ve kaynak kullanılması neden önemlidir?",
+      "options": { "A": "Süreyi uzatmak için", "B": "Maliyeti artırmak için", "C": "Kaynağı zorlamak için", "D": "Değerlendirmenin geçerli ve güvenilir olmasını sağlamak için" },
+      "correctOption": "D",
+      "explanation": "Çoklu yöntem ve kaynak, değerlendirmenin geçerliğini ve güvenirliğini artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Tanılama sürecinde aileyi suçlayıcı ve etiketleyici bir dil kullanılması hangi ilkeye aykırıdır?",
+      "options": { "A": "Etiketlemeden kaçınma ve öğrenci yararı", "B": "Gizlilik", "C": "Katılım", "D": "Değerlendirme" },
+      "correctOption": "A",
+      "explanation": "Etiketleyici dil, öğrenci yararını gözeten yaklaşıma aykırıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Öğrenciye yönelik tanılama bilgilerinin gizli tutulması hangi ilkenin gereğidir?",
+      "options": { "A": "Etiketleme", "B": "Gizlilik", "C": "Açıklık", "D": "Rekabet" },
+      "correctOption": "B",
+      "explanation": "Tanılama bilgileri gizlilik ilkesi gereği korunmalıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 2,
+      "text": "Zihinsel yetersizliğin tanımında temel olarak hangi iki özellik vurgulanır?",
+      "options": { "A": "Yalnızca fiziksel boy", "B": "Yalnızca görme", "C": "Zihinsel işlevlerde ve uyumsal davranışlarda sınırlılık", "D": "Yalnızca işitme" },
+      "correctOption": "C",
+      "explanation": "Zihinsel yetersizlik, zihinsel işlevlerde ve uyumsal davranışlarda sınırlılıkla tanımlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 3,
+      "text": "Zihinsel yetersizliği olan öğrenciye yeni bir beceri öğretilirken kullanılacak en uygun yaklaşım hangisidir?",
+      "options": { "A": "Hızlı ve tek seferlik sunum", "B": "Yalnızca sözlü anlatım", "C": "Tüm beceriyi bir anda öğretme", "D": "Küçük adımlara bölerek ve çok tekrar yaparak öğretme" },
+      "correctOption": "D",
+      "explanation": "Küçük adımlar ve çok tekrar, zihinsel yetersizliği olan öğrencide öğrenmeyi kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 3,
+      "text": "Zihinsel yetersizliği olan öğrencinin öğrenmesini kolaylaştırmak için kullanılan somut materyaller hangi amaca hizmet eder?",
+      "options": { "A": "Soyut kavramları somutlaştırmaya", "B": "Öğrenciyi oyalamaya", "C": "Süreyi doldurmaya", "D": "Sınavı zorlaştırmaya" },
+      "correctOption": "A",
+      "explanation": "Somut materyaller, soyut kavramların anlaşılmasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 2,
+      "text": "Zihinsel yetersizlik düzeyleri genel olarak hangi sınıflamayla ifade edilir?",
+      "options": { "A": "Yalnızca hafif", "B": "Hafif, orta, ağır ve çok ağır", "C": "Yalnızca ağır", "D": "Derecelendirilmez" },
+      "correctOption": "B",
+      "explanation": "Zihinsel yetersizlik hafif, orta, ağır ve çok ağır olarak sınıflandırılır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 2,
+      "text": "Öğrenme güçlüğünün temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Yalnızca görme sorunu", "B": "Yalnızca işitme sorunu", "C": "Normal zekâya karşın okuma, yazma veya matematikte belirgin güçlük", "D": "Yalnızca bedensel engel" },
+      "correctOption": "C",
+      "explanation": "Öğrenme güçlüğü, normal zekâya karşın akademik alanlarda belirgin güçlükle kendini gösterir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 3,
+      "text": "Disleksi olarak bilinen öğrenme güçlüğü türü hangi alanda yaşanan güçlükle ilişkilidir?",
+      "options": { "A": "Yalnızca işitme", "B": "Yalnızca bedensel hareket", "C": "Yalnızca konuşma akıcılığı", "D": "Okuma ve okuduğunu anlama" },
+      "correctOption": "D",
+      "explanation": "Disleksi, okuma ve okuduğunu anlamada yaşanan güçlüktür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 3,
+      "text": "Disgrafi olarak bilinen öğrenme güçlüğü türü hangi alanla ilişkilidir?",
+      "options": { "A": "Yazma", "B": "Okuma", "C": "Matematik", "D": "İşitme" },
+      "correctOption": "A",
+      "explanation": "Disgrafi, yazma becerisinde yaşanan güçlüktür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 3,
+      "text": "Diskalkuli olarak bilinen öğrenme güçlüğü türü hangi alanla ilişkilidir?",
+      "options": { "A": "Yazma", "B": "Matematik", "C": "Okuma", "D": "Görme" },
+      "correctOption": "B",
+      "explanation": "Diskalkuli, matematik becerilerinde yaşanan güçlüktür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 2,
+      "text": "Öğrenme güçlüğü olan öğrenciye yönelik uygun öğretimsel düzenleme hangisidir?",
+      "options": { "A": "Daha hızlı ilerlemek", "B": "Yalnızca yazılı sınav yapmak", "C": "Çok duyulu ve küçük adımlı öğretim", "D": "Ödevi artırmak" },
+      "correctOption": "C",
+      "explanation": "Çok duyulu ve küçük adımlı öğretim, öğrenme güçlüğü olan öğrenciye uygundur."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 3,
+      "text": "Öğrenme güçlüğü olan bir öğrencinin sınavda ek süre alması hangi uyarlama türüdür?",
+      "options": { "A": "İçerik azaltma", "B": "Amaç değiştirme", "C": "Ortam değiştirme", "D": "Değerlendirme uyarlaması" },
+      "correctOption": "D",
+      "explanation": "Ek süre verilmesi, değerlendirme sürecinde yapılan bir uyarlamadır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 2,
+      "text": "DEHB'nin temel belirti grupları aşağıdakilerden hangisidir?",
+      "options": { "A": "Dikkatsizlik, hiperaktivite ve dürtüsellik", "B": "Yalnızca okuma güçlüğü", "C": "Yalnızca işitme kaybı", "D": "Yalnızca görme kaybı" },
+      "correctOption": "A",
+      "explanation": "DEHB; dikkatsizlik, hiperaktivite ve dürtüsellik belirtileriyle tanımlanır."
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "Skinner'ın yaklaşımına göre istenen davranışın hemen ardından hoşa giden bir uyarıcı verilmesi hangi tekniktir?",
+      "options": { "A": "Olumlu pekiştirme", "B": "Cezalandırma", "C": "Sönme", "D": "Görmezden gelme" },
+      "correctOption": "A",
+      "explanation": "Olumlu pekiştirme, istenen davranışı izleyen ödülle davranışın sıklığını artırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "İstenmeyen bir davranışın ardından itici bir uyarıcı verilerek davranışın azaltılması hangi tekniktir?",
+      "options": { "A": "Olumlu pekiştirme", "B": "Cezalandırma", "C": "Biçimlendirme", "D": "Ara verme" },
+      "correctOption": "B",
+      "explanation": "Cezalandırma, istenmeyen davranışı izleyen itici uyarıcıyla davranışı zayıflatmayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "İstenmeyen bir davranışı pekiştiren uyarıcının ortamdan çekilmesiyle davranışın zamanla azalması hangi tekniktir?",
+      "options": { "A": "Olumlu pekiştirme", "B": "Cezalandırma", "C": "Sönme", "D": "Şekil verme" },
+      "correctOption": "C",
+      "explanation": "Sönme, davranışı pekiştiren uyarıcının kaldırılmasıyla davranışın kendiliğinden azalmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "Öğrencinin kazandığı puan veya yıldızların biriktirilerek daha büyük bir ödüle dönüştürülmesi hangi yöntemdir?",
+      "options": { "A": "Ara verme", "B": "Görmezden gelme", "C": "Sönme", "D": "Jeton ekonomisi" },
+      "correctOption": "D",
+      "explanation": "Jeton ekonomisinde simgesel pekiştireçler biriktirilip gerçek ödüllerle değiştirilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "Öğrencinin sevdiği bir etkinlikten kısa süre yoksun bırakılarak istenmeyen davranışın azaltılması hangi tekniktir?",
+      "options": { "A": "Ara verme", "B": "Olumlu pekiştirme", "C": "Biçimlendirme", "D": "Zincirleme" },
+      "correctOption": "A",
+      "explanation": "Ara verme, istenmeyen davranışın ardından öğrenciyi kısa süreliğine pekiştireç ortamından çıkarır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "Hedef davranışa yakın basamakların sırayla pekiştirilerek kademeli biçimde kazandırılması hangi tekniktir?",
+      "options": { "A": "Sönme", "B": "Biçimlendirme", "C": "Doygunluk", "D": "Genelleme" },
+      "correctOption": "B",
+      "explanation": "Biçimlendirme, hedefe yaklaşan ara davranışların pekiştirilmesiyle davranışın aşamalı kazandırılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "Kazanılan bir davranışın farklı ortam ve durumlarda da sürdürülmesini sağlama süreci hangisidir?",
+      "options": { "A": "Ayrıştırma", "B": "Sönme", "C": "Genelleme", "D": "Doygunluk" },
+      "correctOption": "C",
+      "explanation": "Genelleme, öğrenilen davranışın benzer ortamlara aktarılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışlar",
+      "difficulty": 1,
+      "text": "Öğrencinin sınıfta öğretmenin ilgisini çekmek için istenmeyen davranışlar sergilemesi hangi nedenle açıklanır?",
+      "options": { "A": "Açlık", "B": "Görme bozukluğu", "C": "Okul binasının uzaklığı", "D": "Dikkat çekme isteği" },
+      "correctOption": "D",
+      "explanation": "Öğretmenin ilgisini çekmek, istenmeyen davranışın en sık nedenlerinden biridir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışlar",
+      "difficulty": 1,
+      "text": "Öğrencinin öğretmenin otoritesine karşı çıkarak üstünlük kurmaya çalışması hangi nedenle açıklanır?",
+      "options": { "A": "Güç elde etme", "B": "Aidiyet ihtiyacı", "C": "Oyun ihtiyacı", "D": "Sağlık sorunu" },
+      "correctOption": "A",
+      "explanation": "Güç elde etme çabası, öğrencinin karar ve denetim üzerinde söz sahibi olmak istemesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Müdahale Basamakları",
+      "difficulty": 2,
+      "text": "İstenmeyen bir davranışla karşılaşan öğretmenin izlemesi gereken ilk adım hangisidir?",
+      "options": { "A": "Doğrudan ceza vermek", "B": "Göz teması gibi sözsüz uyarıda bulunmak", "C": "Öğrenciyi okuldan uzaklaştırmak", "D": "Aileyi okula çağırmak" },
+      "correctOption": "B",
+      "explanation": "Davranış yönetiminde önce en hafif ve öğretimi aksatmayan uyarılar tercih edilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Müdahale Basamakları",
+      "difficulty": 2,
+      "text": "Sözsüz uyarının ardından davranış sürerse öğretmenin izlemesi gereken adım hangisidir?",
+      "options": { "A": "Yüksek sesle azarlamak", "B": "Sınıftan çıkarmak", "C": "Öğrencinin yanına gidip alçak sesle uyarmak", "D": "Notunu düşürmek" },
+      "correctOption": "C",
+      "explanation": "Basamaklı müdahalede sözsüz uyarı yetmezse öğrenciye özel, alçak sesli uyarı verilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Müdahale Basamakları",
+      "difficulty": 2,
+      "text": "Öğretmenin istenmeyen bir davranışı tüm sınıfın önünde tartışmak yerine öğrenciyle birebir konuşması hangi ilkeye uygundur?",
+      "options": { "A": "Davranışı tümüyle görmezden gelmek", "B": "Cezayı ödüle dönüştürmek", "C": "Kural koymamak", "D": "Öğrenciyi rencide etmemek" },
+      "correctOption": "D",
+      "explanation": "Birebir görüşme, öğrencinin sınıf önünde utandırılmasını önleyerek yapıcı çözüm sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kurallar ve Rutinler",
+      "difficulty": 1,
+      "text": "Sınıf kurallarının az sayıda, açık ve anlaşılır olmasının temel amacı hangisidir?",
+      "options": { "A": "Kuralların öğrencilerce benimsenip uygulanmasını kolaylaştırmak", "B": "Öğretmene sınırsız ceza hakkı tanımak", "C": "Velilere sorumluluk yüklemek", "D": "Okul yönetimini meşgul etmek" },
+      "correctOption": "A",
+      "explanation": "Az ve anlaşılır kural, öğrencinin kuralı hatırlamasını ve uymasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kurallar ve Rutinler",
+      "difficulty": 1,
+      "text": "Öğretmenin yoklama alma ve ödev toplama gibi işlemleri belli bir düzende yapması hangi kavramla ifade edilir?",
+      "options": { "A": "Kural", "B": "Rutin", "C": "Ceza", "D": "Ödül" },
+      "correctOption": "B",
+      "explanation": "Rutinler, sık tekrarlanan işlemlerin belli bir düzen içinde yürütülmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kurallar ve Rutinler",
+      "difficulty": 2,
+      "text": "Sınıf kurallarının öğrencilerle birlikte belirlenmesinin yararı hangisidir?",
+      "options": { "A": "Kuralları gereksiz kılmak", "B": "Öğretmenin yetkisini tümüyle kaldırmak", "C": "Öğrencilerin kuralları sahiplenmesini artırmak", "D": "Ders süresini kısaltmak" },
+      "correctOption": "C",
+      "explanation": "Karara katılan öğrenci kuralları içselleştirir ve uymaya daha istekli olur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İklimi",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrencilere karşı adil, tutarlı ve saygılı davranması sınıfın hangi yönünü güçlendirir?",
+      "options": { "A": "Fiziksel donanımını", "B": "Ders programını", "C": "Okul güvenliğini", "D": "Olumlu sınıf iklimini" },
+      "correctOption": "D",
+      "explanation": "Adil ve tutarlı tutum, güvene dayalı olumlu sınıf iklimini besler."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İklimi",
+      "difficulty": 1,
+      "text": "Öğrencilerin kendini güvende hissedip rahatça ifade edebildiği sınıf ortamı hangi kavramla ifade edilir?",
+      "options": { "A": "Olumlu sınıf iklimi", "B": "Baskıcı iklim", "C": "İlgisiz iklim", "D": "Kaotik iklim" },
+      "correctOption": "A",
+      "explanation": "Olumlu sınıf ikliminde öğrenci kendini güvende hisseder ve rahatça katılır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İklimi",
+      "difficulty": 3,
+      "text": "Öğretmenin öğrenciler arasındaki bireysel farklılıkları doğal karşılayıp herkese değer vermesi hangi kavramla ilişkilidir?",
+      "options": { "A": "Rekabet", "B": "Kapsayıcılık", "C": "Yarışma", "D": "Etiketleme" },
+      "correctOption": "B",
+      "explanation": "Kapsayıcılık, tüm öğrencilerin farklılıklarıyla kabul edildiği bir ortam oluşturur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Zaman Yönetimi",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde geçiş zamanı kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": { "A": "Ders başlangıç saatini", "B": "Teneffüs süresini", "C": "Bir etkinlikten diğerine geçerken kaybedilen süreyi", "D": "Yıllık plan süresini" },
+      "correctOption": "C",
+      "explanation": "Geçiş zamanı, etkinlikler arasında düzenin sağlanması için harcanan süredir; verimli yönetilmelidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Zaman Yönetimi",
+      "difficulty": 2,
+      "text": "Öğretmenin ders sırasında konuyla ilgisiz konuşmalarla gereğinden fazla zaman kaybetmesi hangi soruna yol açar?",
+      "options": { "A": "Öğrenci motivasyonunun artmasına", "B": "Sınıfın daha sessiz olmasına", "C": "Konuların hızlı bitmesine", "D": "Ders hedeflerine ayrılan sürenin azalmasına" },
+      "correctOption": "D",
+      "explanation": "Öğretim dışı zamanın artması, kazanımlara ayrılan etkili süreyi azaltır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 2,
+      "text": "İşlenen konuların günlük yaşamla ilişkilendirilmesi öğrencilerde hangi motivasyonu destekler?",
+      "options": { "A": "İçsel motivasyonu", "B": "Dışsal zorlamayı", "C": "Ceza kaygısını", "D": "Rekabet baskısını" },
+      "correctOption": "A",
+      "explanation": "Konunun anlamlı ve yaşamla ilişkili sunulması öğrenmenin kendisine yönelik ilgiyi artırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 2,
+      "text": "Öğrencinin not veya ödül için değil, öğrenmenin kendisinden zevk alarak çalışması hangi motivasyon türüdür?",
+      "options": { "A": "Dışsal motivasyon", "B": "İçsel motivasyon", "C": "Olumsuz pekiştirme", "D": "Cezalandırma" },
+      "correctOption": "B",
+      "explanation": "İçsel motivasyonda öğrenme etkinliği kendi başına ödüldür."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 1,
+      "text": "Öğretmenin öğrencilere başarabilecekleri düzeyde görevler vermesi hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Aşırı zorlama", "B": "Rekabeti artırma", "C": "Uygun güçlük düzeyi", "D": "Cezalandırma" },
+      "correctOption": "C",
+      "explanation": "Öğrencinin çabasıyla başarabileceği görevler motivasyonu ve öz güveni destekler."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Ödül-Ceza Dengesi",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde cezanın sık ve ağır kullanılmasının olumsuz sonucu hangisidir?",
+      "options": { "A": "Davranışın kalıcı olarak düzelmesi", "B": "Öğrencinin okulu sevmesi", "C": "Ders başarısının artması", "D": "Öğrencide korku, kaygı ve olumsuz tutum oluşması" },
+      "correctOption": "D",
+      "explanation": "Aşırı ceza, öğrencide korku ve derse karşı olumsuz tutum geliştirir."
+    }
+  ]
+}

@@ -51,3 +51,8 @@ next-env.d.ts
 
 # opencode / araç çıktıları
 /scripts/*.local.ts
+
+# soru üretim ajanının geçici çalışma dosyaları (veri değil)
+/prisma/seed-data/parts/_*.json
+/scripts/_*.js
+/scripts/_*.py

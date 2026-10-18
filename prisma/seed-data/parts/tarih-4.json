@@ -1,0 +1,378 @@
+{
+  "questions": [
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyeti'nin ilanı hangi tarihte gerçekleşmiştir?",
+      "options": {
+        "A": "19 Mayıs 1919",
+        "B": "23 Nisan 1920",
+        "C": "29 Ekim 1923",
+        "D": "30 Ağustos 1922"
+      },
+      "correctOption": "C",
+      "explanation": "Cumhuriyet 29 Ekim 1923'te ilan edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "İlk Cumhurbaşkanı kimdir?",
+      "options": {
+        "A": "İsmet İnönü",
+        "B": "Celal Bayar",
+        "C": "Mustafa Kemal Atatürk",
+        "D": "Cemal Gürsel"
+      },
+      "correctOption": "C",
+      "explanation": "İlk Cumhurbaşkanı Mustafa Kemal Atatürk'tür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Saltanat hangi tarihte kaldırılmıştır?",
+      "options": {
+        "A": "1 Kasım 1922",
+        "B": "29 Ekim 1923",
+        "C": "3 Mart 1924",
+        "D": "10 Nisan 1924"
+      },
+      "correctOption": "A",
+      "explanation": "Saltanat 1 Kasım 1922'de kaldırılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Halifelik hangi tarihte kaldırılmıştır?",
+      "options": {
+        "A": "1 Kasım 1922",
+        "B": "29 Ekim 1923",
+        "C": "3 Mart 1924",
+        "D": "10 Nisan 1924"
+      },
+      "correctOption": "C",
+      "explanation": "Halifelik 3 Mart 1924'te kaldırılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Türk Medeni Kanunu hangi yılda kabul edilmiştir?",
+      "options": {
+        "A": "1924",
+        "B": "1926",
+        "C": "1934",
+        "D": "1938"
+      },
+      "correctOption": "B",
+      "explanation": "Türk Medeni Kanunu 1926'da kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Soyadı Kanunu hangi yılda kabul edilmiştir?",
+      "options": {
+        "A": "1928",
+        "B": "1934",
+        "C": "1935",
+        "D": "1938"
+      },
+      "correctOption": "B",
+      "explanation": "Soyadı Kanunu 1934'te kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Latin harflerinin kabulü hangi yılda gerçekleşmiştir?",
+      "options": {
+        "A": "1926",
+        "B": "1928",
+        "C": "1934",
+        "D": "1938"
+      },
+      "correctOption": "B",
+      "explanation": "Latin harfleri 1928'de kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Kadınlara seçme ve seçilme hakkı hangi yılda verilmiştir?",
+      "options": {
+        "A": "1924",
+        "B": "1928",
+        "C": "1930",
+        "D": "1934"
+      },
+      "correctOption": "D",
+      "explanation": "Kadınlara seçme-seçilme hakkı 1934'te verilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "İlk nüfus sayımı (genel) hangi yılda yapılmıştır?",
+      "options": {
+        "A": "1923",
+        "B": "1927",
+        "C": "1935",
+        "D": "1940"
+      },
+      "correctOption": "B",
+      "explanation": "İlk genel nüfus sayımı 1927'de yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Atatürk'ün ölüm tarihi hangisidir?",
+      "options": {
+        "A": "10 Kasım 1938",
+        "B": "29 Ekim 1938",
+        "C": "10 Kasım 1937",
+        "D": "29 Ekim 1937"
+      },
+      "correctOption": "A",
+      "explanation": "Atatürk 10 Kasım 1938'de vefat etmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlkeleri",
+      "difficulty": 2,
+      "text": "Atatürk ilkelerinden hangisi 'ulusal egemenlik' ilkesidir?",
+      "options": {
+        "A": "Milliyetçilik",
+        "B": "Cumhuriyetçilik",
+        "C": "Halkçılık",
+        "D": "Devletçilik"
+      },
+      "correctOption": "B",
+      "explanation": "Cumhuriyetçilik ulusal egemenlik ilkesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlkeleri",
+      "difficulty": 2,
+      "text": "Atatürk ilkelerinden hangisi 'bireyin ve toplumun çağdaşlaşması' ilkesidir?",
+      "options": {
+        "A": "Devrimcilik",
+        "B": "Laiklik",
+        "C": "Milliyetçilik",
+        "D": "Halkçılık"
+      },
+      "correctOption": "A",
+      "explanation": "Devrimcilik (inkılapçılık) çağdaşlaşma ilkesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlkeleri",
+      "difficulty": 2,
+      "text": "Atatürk ilkelerinden hangisi 'din ve devlet işlerinin ayrılması' ilkesidir?",
+      "options": {
+        "A": "Laiklik",
+        "B": "Halkçılık",
+        "C": "Milliyetçilik",
+        "D": "Devletçilik"
+      },
+      "correctOption": "A",
+      "explanation": "Laiklik din-devlet ayrılığı ilkesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlkeleri",
+      "difficulty": 2,
+      "text": "Atatürk ilkelerinden hangisi 'ekonomik kalkınma' ilkesidir?",
+      "options": {
+        "A": "Devletçilik",
+        "B": "Halkçılık",
+        "C": "Milliyetçilik",
+        "D": "Cumhuriyetçilik"
+      },
+      "correctOption": "A",
+      "explanation": "Devletçilik ekonomik kalkınma ilkesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlkeleri",
+      "difficulty": 2,
+      "text": "Atatürk ilkelerinden hangisi 'ulusal birlik' ilkesidir?",
+      "options": {
+        "A": "Milliyetçilik",
+        "B": "Halkçılık",
+        "C": "Cumhuriyetçilik",
+        "D": "Laiklik"
+      },
+      "correctOption": "A",
+      "explanation": "Milliyetçilik ulusal birlik ilkesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çok Partili Hayat",
+      "difficulty": 2,
+      "text": "Çok partili hayata geçiş denemesi ilk hangi yılda yapılmıştır?",
+      "options": {
+        "A": "1923",
+        "B": "1924",
+        "C": "1930",
+        "D": "1946"
+      },
+      "correctOption": "C",
+      "explanation": "İlk çok partili deneme 1930'da (Serbest Cumhuriyet Fırkası) yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çok Partili Hayat",
+      "difficulty": 2,
+      "text": "Demokrat Parti hangi yılda kurulmuştur?",
+      "options": {
+        "A": "1930",
+        "B": "1945",
+        "C": "1946",
+        "D": "1950"
+      },
+      "correctOption": "C",
+      "explanation": "Demokrat Parti 1946'da kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çok Partili Hayat",
+      "difficulty": 2,
+      "text": "Demokrat Parti ilk iktidarını hangi yılda kazanmıştır?",
+      "options": {
+        "A": "1946",
+        "B": "1950",
+        "C": "1954",
+        "D": "1957"
+      },
+      "correctOption": "B",
+      "explanation": "DP 1950 seçimlerini kazanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çok Partili Hayat",
+      "difficulty": 2,
+      "text": "27 Mayıs 1960 darbesi hangi sonucu doğurmuştur?",
+      "options": {
+        "A": "DP iktidarı",
+        "B": "CHP iktidarı",
+        "C": "Askeri yönetim",
+        "D": "Koalisyon hükümeti"
+      },
+      "correctOption": "C",
+      "explanation": "27 Mayıs 1960 darbesi askeri yönetimi getirmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çok Partili Hayat",
+      "difficulty": 3,
+      "text": "1980 darbesi hangi yılda yapılmıştır?",
+      "options": {
+        "A": "1960",
+        "B": "1971",
+        "C": "1980",
+        "D": "1997"
+      },
+      "correctOption": "C",
+      "explanation": "12 Eylül 1980 darbesi 1980'de yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyeti hangi yılda kurulmuştur?",
+      "options": {
+        "A": "1919",
+        "B": "1920",
+        "C": "1923",
+        "D": "1924"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye Cumhuriyeti 1923te kurulmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Dış Politika",
+      "difficulty": 2,
+      "text": "Montreux Boğazlar Sözleşmesi hangi yılda imzalanmıştır?",
+      "options": {
+        "A": "1923",
+        "B": "1936",
+        "C": "1939",
+        "D": "1945"
+      },
+      "correctOption": "B",
+      "explanation": "Montreux Sözleşmesi 1936'da imzalanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Dış Politika",
+      "difficulty": 2,
+      "text": "Hatay'ın anavatana katılması hangi yılda gerçekleşmiştir?",
+      "options": {
+        "A": "1936",
+        "B": "1938",
+        "C": "1939",
+        "D": "1945"
+      },
+      "correctOption": "C",
+      "explanation": "Hatay 1939'da anavatana katılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Dış Politika",
+      "difficulty": 2,
+      "text": "Türkiye NATO'ya hangi yılda üye olmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1952",
+        "D": "1955"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye 1952'de NATO'ya üye olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Dış Politika",
+      "difficulty": 2,
+      "text": "Kıbrıs Barış Harekâtı hangi yılda yapılmıştır?",
+      "options": {
+        "A": "1960",
+        "B": "1964",
+        "C": "1974",
+        "D": "1980"
+      },
+      "correctOption": "C",
+      "explanation": "Kıbrıs Barış Harekâtı 1974'te yapılmıştır.",
+      "source": "özgün"
+    }
+  ]
+}

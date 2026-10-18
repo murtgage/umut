@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitimde Bilişim Teknolojileri",
+      "difficulty": 2,
+      "text": "Eğitimde bilgi ve iletişim teknolojilerinin kullanılması öğretmene hangi kolaylığı sağlar?",
+      "options": { "A": "İletişimi kesmesi", "B": "Öğrenciyi pasifleştirmesi", "C": "İçeriği azaltması", "D": "Zengin çoklu ortam ve hızlı erişim sunması" },
+      "correctOption": "D",
+      "explanation": "Bilişim teknolojileri, çoklu ortam ve hızlı erişim olanaklarıyla öğretimi zenginleştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitimde Bilişim Teknolojileri",
+      "difficulty": 2,
+      "text": "Okullarda akıllı tahta ve tablet kullanımının öğretime temel katkısı hangisidir?",
+      "options": { "A": "Çoklu ortamla somutlaştırma ve etkileşim sağlama", "B": "Ders süresini kısaltma", "C": "Öğretmeni gereksiz kılma", "D": "Ödevi artırma" },
+      "correctOption": "A",
+      "explanation": "Akıllı tahta ve tabletler, çoklu ortamla konuları somutlaştırıp etkileşimi artırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitimde Bilişim Teknolojileri",
+      "difficulty": 2,
+      "text": "Eğitimde bilişim teknolojilerinin aşırı ve amaçsız kullanımının olası olumsuzluğu hangisidir?",
+      "options": { "A": "Öğrenmenin somutlaşması", "B": "Dikkatin dağılması ve hedeften uzaklaşılması", "C": "Materyal çeşitliliği", "D": "Etkileşim artışı" },
+      "correctOption": "B",
+      "explanation": "Amaçsız teknoloji kullanımı dikkati dağıtabilir ve öğretim hedefinden uzaklaştırabilir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Okuryazarlığı",
+      "difficulty": 2,
+      "text": "Öğretmenin eğitim teknolojilerini dersine entegre edebilmesi için öncelikle hangi bilgiye sahip olması gerekir?",
+      "options": { "A": "Yalnızca içerik bilgisi", "B": "Yalnızca sınav hazırlama", "C": "Teknoloji ve pedagoji bilgisi", "D": "Yalnızca sınıf yönetimi" },
+      "correctOption": "C",
+      "explanation": "Etkili entegrasyon, teknoloji ve pedagoji bilgisinin birlikte kullanılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Okuryazarlığı",
+      "difficulty": 3,
+      "text": "Öğretmenin yeni bir eğitim teknolojisini öğrenmeye açık olması hangi kavramla ilişkilidir?",
+      "options": { "A": "Teknoloji korkusu", "B": "Direnç", "C": "Kayıtsızlık", "D": "Teknoloji okuryazarlığı ve mesleki gelişim" },
+      "correctOption": "D",
+      "explanation": "Yeni teknolojilere açık olmak teknoloji okuryazarlığı ve mesleki gelişimle ilişkilidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Harmanlanmış Öğrenme",
+      "difficulty": 2,
+      "text": "Yüz yüze öğretim ile çevrim içi öğretimin birlikte kullanıldığı model hangisidir?",
+      "options": { "A": "Harmanlanmış öğrenme", "B": "Anlatım yöntemi", "C": "Yalnızca uzaktan eğitim", "D": "Yalnızca yüz yüze öğretim" },
+      "correctOption": "A",
+      "explanation": "Harmanlanmış öğrenme, yüz yüze ve çevrim içi öğretimi birleştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Harmanlanmış Öğrenme",
+      "difficulty": 3,
+      "text": "Harmanlanmış öğrenmenin geleneksel yüz yüze öğretime göre avantajı hangisidir?",
+      "options": { "A": "Zamanı azaltmaması", "B": "Yüz yüze etkileşimle çevrim içi esnekliği birleştirmesi", "C": "Teknolojiyi tümüyle dışlaması", "D": "Öğrenciyi pasifleştirmesi" },
+      "correctOption": "B",
+      "explanation": "Harmanlanmış öğrenme, yüz yüze etkileşimi çevrim içi esneklikle birleştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Harmanlanmış Öğrenme",
+      "difficulty": 3,
+      "text": "Harmanlanmış öğrenmenin etkili olması için temel koşul hangisidir?",
+      "options": { "A": "Öğretmenin teknolojiyi hiç kullanmaması", "B": "Sınavların kaldırılması", "C": "Yüz yüze ve çevrim içi bölümlerin anlamlı biçimde bütünleştirilmesi", "D": "Yalnızca video izlenmesi" },
+      "correctOption": "C",
+      "explanation": "Etkililik, yüz yüze ve çevrim içi bölümlerin anlamlı biçimde bütünleştirilmesine bağlıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Harmanlanmış Öğrenme",
+      "difficulty": 3,
+      "text": "Dönüşümlü (rotation) harmanlanmış öğrenme modelinde öğrenci ne yapar?",
+      "options": { "A": "Yalnızca evde çalışır", "B": "Yalnızca sınıfta dinler", "C": "Teknolojiyi hiç kullanmaz", "D": "Belirlenen istasyonlar arasında dönüşümlü çalışır" },
+      "correctOption": "D",
+      "explanation": "Dönüşümlü modelde öğrenci, belirlenen istasyonlar arasında dönüşümlü olarak çalışır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Harmanlanmış Öğrenme",
+      "difficulty": 3,
+      "text": "Zenginleştirilmiş sanal harmanlanmış modelde çevrim içi öğrenme ne ölçüde ağırlıklıdır?",
+      "options": { "A": "Yüz yüze desteğin yanında büyük ölçüde çevrim içi", "B": "Yalnızca yüz yüze", "C": "Teknoloji hiç kullanılmaz", "D": "Yalnızca sınav" },
+      "correctOption": "A",
+      "explanation": "Bu modelde öğrenme büyük ölçüde çevrim içi yürür, yüz yüze destek sınırlıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Hazırlama",
+      "difficulty": 2,
+      "text": "Öğretmenin ders için hazırladığı materyalin öğrencinin düzeyine uygun ve anlamlı olması hangi ilkedir?",
+      "options": { "A": "Ekonomiklik", "B": "Hedefe ve öğrenciye uygunluk", "C": "Dayanıklılık", "D": "Estetik" },
+      "correctOption": "B",
+      "explanation": "Materyal, hedefe ve öğrenci düzeyine uygun olmalıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Hazırlama",
+      "difficulty": 3,
+      "text": "Bir öğretim materyalinin basit, anlaşılır ve kolay kullanılabilir olması hangi özelliğidir?",
+      "options": { "A": "Karmaşıklık", "B": "Pahalılık", "C": "Kullanışlılık", "D": "Gizlilik" },
+      "correctOption": "C",
+      "explanation": "Kullanışlılık, materyalin basit ve kolay kullanılabilir olmasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Hazırlama",
+      "difficulty": 2,
+      "text": "Öğretim materyalinin öğrencilerin ilgisini çekecek biçimde tasarlanması hangi özelliğiyle ilgilidir?",
+      "options": { "A": "Dayanıklılık", "B": "Ekonomiklik", "C": "Sadelik", "D": "Öğrenciyi güdüleyici olması" },
+      "correctOption": "D",
+      "explanation": "Öğrenciyi güdüleyici materyal, ilgi çekerek öğrenmeyi destekler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Yaklaşımları ve Teknoloji",
+      "difficulty": 3,
+      "text": "Öğretmen merkezli bir derste teknolojinin sunum amacıyla kullanılması hangi yaklaşıma örnektir?",
+      "options": { "A": "Öğretmen merkezli, sunu odaklı kullanım", "B": "Proje tabanlı öğrenme", "C": "İşbirlikli öğrenme", "D": "Keşfetme" },
+      "correctOption": "A",
+      "explanation": "Sunum odaklı kullanım, öğretmen merkezli yaklaşıma örnektir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Yaklaşımları ve Teknoloji",
+      "difficulty": 3,
+      "text": "Proje tabanlı öğrenmede teknolojinin kullanımı öğrenciye hangi imkânı sağlar?",
+      "options": { "A": "Yalnızca dinleme", "B": "Araştırma, üretim ve sunum yapma", "C": "Yalnızca ezber", "D": "Yalnızca kopya" },
+      "correctOption": "B",
+      "explanation": "Proje tabanlı öğrenmede teknoloji; araştırma, üretim ve sunum süreçlerini destekler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Yaklaşımları ve Teknoloji",
+      "difficulty": 2,
+      "text": "Öğrencilerin çevrim içi işbirlikli proje yürütmesi hangi beceriyi geliştirir?",
+      "options": { "A": "Yalnızca ezber", "B": "Yalnızca yalnız çalışma", "C": "Dijital işbirliği ve iletişim", "D": "Rekabeti körükleme" },
+      "correctOption": "C",
+      "explanation": "Çevrim içi işbirlikli projeler, dijital işbirliği ve iletişim becerilerini geliştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Erişilebilirlik",
+      "difficulty": 2,
+      "text": "Eğitim teknolojilerinin engelli öğrenciler için erişilebilir tasarlanması hangi ilkeyi yansıtır?",
+      "options": { "A": "Ticari kaygı", "B": "Standartlaşma", "C": "Karmaşıklık", "D": "Erişilebilirlik ve kapsayıcılık" },
+      "correctOption": "D",
+      "explanation": "Erişilebilir tasarım, kapsayıcı biçimde tüm öğrencilere ulaşmayı hedefler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Erişilebilirlik",
+      "difficulty": 3,
+      "text": "Görme yetersizliği olan öğrencinin dijital içeriğe erişebilmesi için kullanılabilecek teknoloji hangisidir?",
+      "options": { "A": "Ekran okuyucu", "B": "Yazıcı", "C": "Tarayıcı", "D": "Hesap makinesi" },
+      "correctOption": "A",
+      "explanation": "Ekran okuyucu, dijital içeriği sese çevirerek erişilebilirlik sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Erişilebilirlik",
+      "difficulty": 3,
+      "text": "İşitme yetersizliği olan öğrencinin video içeriğe erişimini kolaylaştıran düzenleme hangisidir?",
+      "options": { "A": "Sesin yükseltilmesi", "B": "Alt yazı ve işaret dili desteği", "C": "Videoyu kısaltma", "D": "Rengi değiştirme" },
+      "correctOption": "B",
+      "explanation": "Alt yazı ve işaret dili desteği, işitme yetersizliği olan öğrencinin erişimini kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji ve Etik",
+      "difficulty": 3,
+      "text": "Yapay zekâ destekli araçların öğretimde kullanımında öğretmenin dikkat etmesi gereken temel etik konu hangisidir?",
+      "options": { "A": "Aracın rengi", "B": "Aracın fiyatı", "C": "Öğrenci verilerinin gizliliği ve akademik dürüstlük", "D": "Aracın hızı" },
+      "correctOption": "C",
+      "explanation": "Yapay zekâ araçlarında veri gizliliği ve akademik dürüstlük temel etik konulardır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji ve Etik",
+      "difficulty": 3,
+      "text": "Öğrencilerin dijital araçlarla topladığı kişisel verilerin korunması hangi bağlamda değerlendirilir?",
+      "options": { "A": "Estetik", "B": "Ekonomi", "C": "Sınıf iklimi", "D": "Veri güvenliği ve etik" },
+      "correctOption": "D",
+      "explanation": "Kişisel verilerin korunması, veri güvenliği ve etik kapsamında değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Mesleki Gelişim",
+      "difficulty": 2,
+      "text": "Öğretmenin eğitim teknolojileri alanındaki gelişmeleri takip ederek kendini güncellemesi hangi süreçtir?",
+      "options": { "A": "Mesleki gelişim", "B": "Teknolojiyi reddetme", "C": "Rutine bağlı kalma", "D": "Dersi erteleme" },
+      "correctOption": "A",
+      "explanation": "Gelişmeleri takip edip kendini güncellemek mesleki gelişimin parçasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Mesleki Gelişim",
+      "difficulty": 3,
+      "text": "Öğretmenin yeni teknolojileri deneyip sınıfında test etmesi hangi yaklaşımı yansıtır?",
+      "options": { "A": "Direnç", "B": "Yenilikçilik ve deneyimleme", "C": "Kayıtsızlık", "D": "Taklit" },
+      "correctOption": "B",
+      "explanation": "Yeni teknolojileri deneyip test etmek yenilikçiliği ve deneyimlemeyi yansıtır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Mesleki Gelişim",
+      "difficulty": 2,
+      "text": "Öğretmenin teknolojiyi kullanırken pedagojik amaçları göz önünde bulundurması neden önemlidir?",
+      "options": { "A": "Maliyeti artırmak için", "B": "Öğrenciyi meşgul etmek için", "C": "Teknolojinin öğrenmeye hizmet etmesini sağlamak için", "D": "Dersi uzatmak için" },
+      "correctOption": "C",
+      "explanation": "Pedagojik amaç gözetildiğinde teknoloji öğrenmeye hizmet eder."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Genel Değerlendirme",
+      "difficulty": 3,
+      "text": "Sınıfında teknolojiyi etkili kullanan öğretmenin temel özelliği hangisidir?",
+      "options": { "A": "Teknolojiyi amaçsız kullanması", "B": "Yalnızca sunu yapması", "C": "Teknolojiyi hiç kullanmaması", "D": "Teknolojiyi pedagojik amaçla planlı biçimde bütünleştirmesi" },
+      "correctOption": "D",
+      "explanation": "Etkili kullanım, teknolojinin pedagojik amaçla planlı biçimde bütünleştirilmesidir."
+    }
+  ]
+}

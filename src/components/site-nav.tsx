@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
 
+import { GuestButton } from "@/components/auth/guest-button";
 import { Logo } from "@/components/logo";
 import { Avatar } from "@/components/ui/avatar";
 import { buttonVariants } from "@/components/ui/button";
@@ -116,6 +117,11 @@ export function SiteNav({ user }: { user: NavUser | null }) {
             </>
           ) : (
             <>
+              <GuestButton
+                label="Üye olmadan oyna"
+                size="sm"
+                className="hidden sm:inline-flex"
+              />
               <Link
                 href="/giris"
                 className={buttonVariants({ variant: "ghost", size: "sm" })}
@@ -204,13 +210,16 @@ export function SiteNav({ user }: { user: NavUser | null }) {
                 Çıkış yap
               </button>
             ) : (
-              <Link
-                href="/giris"
-                onClick={() => setMenuOpen(false)}
-                className="rounded-lg px-3 py-2.5 text-sm font-medium text-ink-muted"
-              >
-                Giriş yap
-              </Link>
+              <>
+                <GuestButton label="Üye olmadan oyna" className="w-full" />
+                <Link
+                  href="/giris"
+                  onClick={() => setMenuOpen(false)}
+                  className="rounded-lg px-3 py-2.5 text-sm font-medium text-ink-muted"
+                >
+                  Giriş yap
+                </Link>
+              </>
             )}
           </nav>
         </div>

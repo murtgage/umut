@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Liderlik Stilleri",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde tüm kararları tek başına alan ve öğrencilere söz hakkı tanımayan öğretmenin liderlik stili aşağıdakilerden hangisidir?",
+      "options": { "A": "Otokratik", "B": "Demokratik", "C": "Tam serbesti", "D": "Dönüşümcü" },
+      "correctOption": "A",
+      "explanation": "Otokratik liderlikte karar yetkisi tümüyle öğretmende toplanır; öğrenciler karar sürecine katılmaz."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Liderlik Stilleri",
+      "difficulty": 2,
+      "text": "Sınıf kurallarını öğrencilerle birlikte belirleyen ve onların görüşlerini dikkate alan öğretmenin liderlik stili hangisidir?",
+      "options": { "A": "Otokratik", "B": "Demokratik", "C": "Tam serbesti", "D": "Baskıcı" },
+      "correctOption": "B",
+      "explanation": "Demokratik stilde kararlar öğrencilerin katılımıyla alınır ve öğrenci görüşleri önemsenir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Liderlik Stilleri",
+      "difficulty": 1,
+      "text": "Sınıfta hiçbir kural koymayıp öğrencileri tamamen kendi hâline bırakan öğretmenin liderlik stili aşağıdakilerden hangisidir?",
+      "options": { "A": "Otokratik", "B": "Demokratik", "C": "Tam serbesti", "D": "Dönüşümcü" },
+      "correctOption": "C",
+      "explanation": "Tam serbesti (ilgisiz) stilde öğretmen denetimi ve yönlendirmeyi neredeyse tümüyle bırakır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Yaklaşımları",
+      "difficulty": 1,
+      "text": "İstenmeyen davranış ortaya çıkmadan önce gerekli önlemleri almayı esas alan sınıf yönetimi yaklaşımı hangisidir?",
+      "options": { "A": "Tepkisel yaklaşım", "B": "Baskıcı yaklaşım", "C": "Gelişigüzel yaklaşım", "D": "Önlemsel yaklaşım" },
+      "correctOption": "D",
+      "explanation": "Önlemsel yaklaşım, sorun çıkmadan önce ortam ve düzenlemelerle davranışı yönlendirmeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Yaklaşımları",
+      "difficulty": 1,
+      "text": "İstenmeyen davranış ortaya çıktıktan sonra müdahaleyi esas alan sınıf yönetimi yaklaşımı aşağıdakilerden hangisidir?",
+      "options": { "A": "Tepkisel yaklaşım", "B": "Önlemsel yaklaşım", "C": "Gelişimsel yaklaşım", "D": "Bütünsel yaklaşım" },
+      "correctOption": "A",
+      "explanation": "Tepkisel yaklaşım, davranış ortaya çıktıktan sonra yapılan müdahaleleri merkeze alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Yaklaşımları",
+      "difficulty": 2,
+      "text": "Öğrencilerin gelişim düzeylerini ve ihtiyaçlarını dikkate alarak yönetimi planlayan yaklaşım hangisidir?",
+      "options": { "A": "Geleneksel yaklaşım", "B": "Gelişimsel yaklaşım", "C": "Tepkisel yaklaşım", "D": "Otoriter yaklaşım" },
+      "correctOption": "B",
+      "explanation": "Gelişimsel yaklaşım, öğrencinin yaşına ve gelişim özelliklerine uygun yönetim stratejileri önerir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Yaklaşımları",
+      "difficulty": 3,
+      "text": "Sınıf yönetimini fiziksel, davranışsal, program ve ilişki boyutlarıyla bir bütün olarak ele alan yaklaşım hangisidir?",
+      "options": { "A": "Yalnızca tepkisel yaklaşım", "B": "Yalnızca davranışsal yaklaşım", "C": "Bütünsel yaklaşım", "D": "Yalnızca önlemsel yaklaşım" },
+      "correctOption": "C",
+      "explanation": "Bütünsel yaklaşım, sınıf yönetiminin tüm boyutlarını birbiriyle ilişkili biçimde ele alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Cantor'un önlemsel disiplin modeline göre öğretmenin ders öncesi hazırlık ve planlama yapması hangi kavramla ilişkilidir?",
+      "options": { "A": "Anında cezalandırma", "B": "Görmezden gelme", "C": "Derse müdahale", "D": "Önleme" },
+      "correctOption": "D",
+      "explanation": "Cantor'a göre ders öncesi planlama ve hazırlık, sorunları doğmadan önlemeye hizmet eder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Öğretmenin bir öğrenciye yardım ederken sınıfın başka bir bölümünde olup biteni de izleyebilmesi Kounin'in hangi kavramıyla açıklanır?",
+      "options": { "A": "Örtüşme", "B": "Doyum", "C": "Grup uyarısı", "D": "Pürüzsüzlük" },
+      "correctOption": "A",
+      "explanation": "Örtüşme, öğretmenin aynı anda birden çok etkinliği izleyip yönetebilmesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Dersin bir konudan diğerine gereksiz ayrıntı ve kesintiler olmadan akıcı biçimde sürmesi Kounin'e göre hangi kavramdır?",
+      "options": { "A": "Sarsıntı", "B": "İvme", "C": "Doyum", "D": "Durgunluk" },
+      "correctOption": "B",
+      "explanation": "İvme, dersin kesintisiz ve akıcı biçimde ilerlemesini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Öğretmenin ders akışını bir anda kesip ilgisiz bir konuya sapması Kounin'in hangi kavramına aykırı davranmasıdır?",
+      "options": { "A": "Grup uyarısı", "B": "Doyum", "C": "Pürüzsüzlük", "D": "Örtüşme" },
+      "correctOption": "C",
+      "explanation": "Pürüzsüzlük, dersin konudan kopmadan sürdürülmesini gerektirir; ani sapmalar bu ilkeyi bozar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Öğretmenin soru sorarken tüm sınıfa yönelerek herkesin hazır olmasını sağlaması Kounin'in hangi kavramıdır?",
+      "options": { "A": "Doyum", "B": "İvme", "C": "Örtüşme", "D": "Grup uyarısı" },
+      "correctOption": "D",
+      "explanation": "Grup uyarısı, öğretmenin tüm sınıfın dikkatini canlı tutmak için herkese yönelmesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Aynı etkinliğin çok uzun sürmesi nedeniyle öğrencilerin sıkılıp ilgiyi kaybetmesi Kounin'e göre hangi kavramla açıklanır?",
+      "options": { "A": "Doyum", "B": "Örtüşme", "C": "Grup uyarısı", "D": "Pürüzsüzlük" },
+      "correctOption": "A",
+      "explanation": "Doyum, etkinliğin uzamasıyla öğrencinin ilgisinin azalması durumudur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Glasser'ın seçim kuramına göre insan davranışının temelinde hangi ihtiyaçlar yer alır?",
+      "options": { "A": "Yalnızca güvenlik", "B": "Sevilme, ait olma, güç, özgürlük ve eğlenme", "C": "Yalnızca beslenme", "D": "Yalnızca başarı" },
+      "correctOption": "B",
+      "explanation": "Glasser beş temel ihtiyaç tanımlar: ait olma, güç, özgürlük, eğlenme ve sevilme."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Glasser'ın gerçeklik terapisine dayalı sınıf yönetiminde öğretmenin temel yaklaşımı hangisidir?",
+      "options": { "A": "Öğrenciyi hemen cezalandırmak", "B": "Davranışı sürekli görmezden gelmek", "C": "Öğrenciye davranışının sorumluluğunu kabul ettirip plan yaptırmak", "D": "Aileyi doğrudan okuldan çağırmak" },
+      "correctOption": "C",
+      "explanation": "Gerçeklik terapisinde öğrenci davranışının sorumluluğunu üstlenir ve düzeltme için plan yapar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Dreikurs'a göre öğrencinin istenmeyen davranışının altında yatan yanlış amaçlardan biri değildir?",
+      "options": { "A": "Dikkat çekme", "B": "Güç elde etme", "C": "İntikam alma", "D": "Akademik başarı kazanma" },
+      "correctOption": "D",
+      "explanation": "Dreikurs dört yanlış amaç sıralar: dikkat çekme, güç, intikam ve yetersizlik."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Dreikurs'a göre öğrencinin davranışının doğal sonucunu yaşamasına izin verilmesi hangi kavramla ifade edilir?",
+      "options": { "A": "Doğal sonuç", "B": "Yapay ceza", "C": "Görmezden gelme", "D": "Olumlu pekiştirme" },
+      "correctOption": "A",
+      "explanation": "Doğal sonuç, davranışın kendi doğal çıktısını öğrencinin yaşamasına izin verme yaklaşımıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Gordon'un etkili öğretmenlik modelinde öğretmenin kendi duygusunu kişisel biçimde ifade etmesi hangi beceridir?",
+      "options": { "A": "Sen-dili", "B": "Ben-dili", "C": "Yansıtıcı dinleme", "D": "Emir verme" },
+      "correctOption": "B",
+      "explanation": "Ben-dili, kişinin kendi duygusunu suçlayıcı olmadan ifade etmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Gordon'a göre öğretmenin öğrenciyi yargılamadan, duygularını yansıtarak dinlemesi hangi beceridir?",
+      "options": { "A": "Emir verme", "B": "Öğüt verme", "C": "Yansıtıcı dinleme", "D": "Suçlama" },
+      "correctOption": "C",
+      "explanation": "Yansıtıcı dinleme, dinleyenin karşıdakinin duygularını anlayıp geri yansıtmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Gordon'un iletişim engelleri arasında aşağıdakilerden hangisi yer alır?",
+      "options": { "A": "Yansıtıcı dinleme", "B": "Ben-dili kullanma", "C": "Saygılı dinleme", "D": "Emir verme ve tehdit etme" },
+      "correctOption": "D",
+      "explanation": "Emir verme, tehdit etme ve öğüt verme gibi tutumlar Gordon'a göre iletişimi engeller."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Ginott'un anlayışına göre öğretmenin sözlü ve sözsüz mesajlarını tutarlı biçimde vermesi hangi kavramla ifade edilir?",
+      "options": { "A": "Uyumlu iletişim", "B": "Sessiz sinyal", "C": "Cezalandırma", "D": "Kışla disiplini" },
+      "correctOption": "A",
+      "explanation": "Ginott, öğretmenin mesajlarının tutarlı olmasını uyumlu iletişim olarak tanımlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Jones'un olumlu disiplin modelinde öğretmenin göz teması, yakınlık ve beden dilini kullanması hangi kavramla ifade edilir?",
+      "options": { "A": "Sözlü azar", "B": "Beden dili", "C": "Ödül", "D": "Hazırlık" },
+      "correctOption": "B",
+      "explanation": "Jones, öğretmenin sözsüz beden dilini etkili biçimde kullanmasını vurgular."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Jones'un modeline göre ders dışı konuşmalarla geçen ve öğretimi aksatan zaman hangi kavramla ifade edilir?",
+      "options": { "A": "Hazırlık süresi", "B": "Doyum", "C": "Zaman kaybı", "D": "İvme" },
+      "correctOption": "C",
+      "explanation": "Jones, öğretimin dışına çıkan ve zaman kaybına yol açan konuşmaları azaltmayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Redl ve Wattenberg'in göze batmama ilkesi hangi duruma işaret eder?",
+      "options": { "A": "Öğretmenin sınıfta hiç fark edilmemesi", "B": "Öğrencinin sürekli sessiz kalması", "C": "Sınıfın boş bırakılması", "D": "Öğrencinin yanlış davranışının sınıf önünde sürekli gündeme getirilmemesi" },
+      "correctOption": "D",
+      "explanation": "Göze batmama ilkesi, öğrenciyi utandırmadan ve etiketlemeden müdahale etmeyi önerir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Kounin'e göre öğretmenin sınıfta olup biten her şeyin farkında olması ve durumu doğru yorumlaması hangi kavramla ifade edilir?",
+      "options": { "A": "Doyum", "B": "İvme", "C": "Farkındalık (withitness)", "D": "Grup uyarısı" },
+      "correctOption": "C",
+      "explanation": "Farkındalık (withitness), öğretmenin sınıftaki gelişmelerin anında farkında olup doğru müdahale etmesidir."
+    }
+  ]
+}

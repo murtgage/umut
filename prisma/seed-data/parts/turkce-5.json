@@ -1,0 +1,319 @@
+{
+  "questions": [
+    {
+      "categorySlug": "turkce",
+      "topic": "Fiilimsiler",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'fiilimsi' (eylemsi) türündedir?",
+      "options": {
+        "A": "Koşmak",
+        "B": "Koştu",
+        "C": "Koşar",
+        "D": "Koşacak"
+      },
+      "correctOption": "A",
+      "explanation": "'Koşmak' mastar eki almış fiilimsidir; diğerleri çekimli fiildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Fiilimsiler",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'sıfat-fiil' (ortac) kullanılmıştır?",
+      "options": {
+        "A": "Koşan çocuk yoruldu.",
+        "B": "Çocuk koştu.",
+        "C": "Çocuk koşacak.",
+        "D": "Çocuk koşuyor."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'koşan' sıfat-fiil (ortac) bir ismi nitelemektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Fiilimsiler",
+      "difficulty": 3,
+      "text": "Aşağıdaki cümlelerin hangisinde 'zarf-fiil' (ulaç) kullanılmıştır?",
+      "options": {
+        "A": "Koşarak geldi.",
+        "B": "Koşan çocuk.",
+        "C": "Koşmak güzeldir.",
+        "D": "Koştu."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'koşarak' zarf-fiil (ulaç) bir eylemi nitelemektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümle Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisi 'soru cümlesi' türündedir?",
+      "options": {
+        "A": "Geliyor musun?",
+        "B": "Geliyorum.",
+        "C": "Gel.",
+        "D": "Gelmeyeceğim."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneği soru ekiyle kurulmuş soru cümlesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümle Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisi 'ünlem cümlesi' türündedir?",
+      "options": {
+        "A": "Ne güzel!",
+        "B": "Geldi.",
+        "C": "Geliyor.",
+        "D": "Gel."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneği ünlem bildiren ünlem cümlesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ek Fiil",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'ek fiil' (koplula) kullanılmıştır?",
+      "options": {
+        "A": "Ali öğretmendir.",
+        "B": "Ali koştu.",
+        "C": "Ali koşuyor.",
+        "D": "Ali koşacak."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'dir' ek fiili (koplula) kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ek Fiil",
+      "difficulty": 3,
+      "text": "Aşağıdaki cümlelerin hangisinde ek fiil 'idi' formu kullanılmıştır?",
+      "options": {
+        "A": "Ali öğretmendi.",
+        "B": "Ali öğretmendir.",
+        "C": "Ali öğretmen.",
+        "D": "Ali öğretmenmiş."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'idi' (geçmiş zaman ek fiili) kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Zamanlar",
+      "difficulty": 2,
+      "text": "Aşağıdaki fiil çekimlerinden hangisi 'geniş zaman' (aorist) türündedir?",
+      "options": {
+        "A": "Gelir",
+        "B": "Geldi",
+        "C": "Gelecek",
+        "D": "Geliyor"
+      },
+      "correctOption": "A",
+      "explanation": "'Gelir' geniş zaman (aorist) çekimidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Zamanlar",
+      "difficulty": 2,
+      "text": "Aşağıdaki fiil çekimlerinden hangisi 'gelecek zaman' türündedir?",
+      "options": {
+        "A": "Gidecek",
+        "B": "Gitti",
+        "C": "Gider",
+        "D": "Gidiyor"
+      },
+      "correctOption": "A",
+      "explanation": "'Gidecek' gelecek zaman çekimidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Zamanlar",
+      "difficulty": 2,
+      "text": "Aşağıdaki fiil çekimlerinden hangisi 'şimdiki zaman' türündedir?",
+      "options": {
+        "A": "Okuyor",
+        "B": "Okudu",
+        "C": "Okur",
+        "D": "Okuyacak"
+      },
+      "correctOption": "A",
+      "explanation": "'Okuyor' şimdiki zaman çekimidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Kişi Ekleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki fiil çekimlerinden hangisi '1. tekil kişi' (ben) çekimidir?",
+      "options": {
+        "A": "Geliyorum",
+        "B": "Geliyorsun",
+        "C": "Geliyor",
+        "D": "Geliyoruz"
+      },
+      "correctOption": "A",
+      "explanation": "'Geliyorum' 1. tekil kişi çekimidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Kişi Ekleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki fiil çekimlerinden hangisi '2. çoğul kişi' (siz) çekimidir?",
+      "options": {
+        "A": "Geliyorsunuz",
+        "B": "Geliyorlar",
+        "C": "Geliyoruz",
+        "D": "Geliyorum"
+      },
+      "correctOption": "A",
+      "explanation": "'Geliyorsunuz' 2. çoğul kişi çekimidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Olumsuzluk",
+      "difficulty": 2,
+      "text": "Aşağıdaki fiil çekimlerinden hangisi olumsuzdur?",
+      "options": {
+        "A": "Gelmedi",
+        "B": "Geldi",
+        "C": "Geliyor",
+        "D": "Gelecek"
+      },
+      "correctOption": "A",
+      "explanation": "'Gelmedi' olumsuz geçmiş zaman çekimidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Olumsuzluk",
+      "difficulty": 3,
+      "text": "Aşağıdaki fiil çekimlerinden hangisi 'olumsuz geniş zaman' türündedir?",
+      "options": {
+        "A": "Gelmez",
+        "B": "Gelmedi",
+        "C": "Gelmeyecek",
+        "D": "Gelmiyor"
+      },
+      "correctOption": "A",
+      "explanation": "'Gelmez' olumsuz geniş zaman çekimidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Hece ve Vurgu",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'iki hecelidir'?",
+      "options": {
+        "A": "Kalem",
+        "B": "Kitaplar",
+        "C": "Öğrenciler",
+        "D": "Çalışkanlar"
+      },
+      "correctOption": "A",
+      "explanation": "'Kalem' (ka-lem) iki hecelidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Hece ve Vurgu",
+      "difficulty": 2,
+      "text": "Türkçede vurgu genellikle hangi hecede bulunur?",
+      "options": {
+        "A": "Son hecede",
+        "B": "İlk hecede",
+        "C": "Ortada",
+        "D": "Rastgele"
+      },
+      "correctOption": "A",
+      "explanation": "Türkçede vurgu genellikle son hecede bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'kısaltma' (kısma) ile yazılmıştır?",
+      "options": {
+        "A": "Prof.",
+        "B": "Kitap",
+        "C": "Kalem",
+        "D": "Masa"
+      },
+      "correctOption": "A",
+      "explanation": "'Prof.' professor sözcüğünün kısaltmasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'kısaltma' (kısma) ile yazılmış bir sözcük vardır?",
+      "options": {
+        "A": "Prof. Dr. Ahmet Yılmaz geldi.",
+        "B": "Profesör Doktor Ahmet Yılmaz geldi.",
+        "C": "Ahmet Yılmaz geldi.",
+        "D": "Doktor Ahmet Yılmaz geldi."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'Prof.' kısaltma ile yazılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'noktalı virgül' (;) kullanımı uygundur?",
+      "options": {
+        "A": "Geldi; gördü; yendi.",
+        "B": "Geldi, gördü, yendi.",
+        "C": "Geldi: gördü: yendi.",
+        "D": "Geldi. gördü. yendi."
+      },
+      "correctOption": "A",
+      "explanation": "Noktalı virgül benzer yapıdaki cümleleri ayırmak için kullanılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'parantez' kullanımı uygundur?",
+      "options": {
+        "A": "Kitabı (roman) okudum.",
+        "B": "Kitabı roman okudum.",
+        "C": "Kitabı, roman, okudum.",
+        "D": "Kitabı roman; okudum."
+      },
+      "correctOption": "A",
+      "explanation": "Parantez açıklama/açıklama amaçlı kullanılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 2,
+      "text": "Bir paragrafta 'düşünceyi geliştirme yolları'ndan hangisi değildir?",
+      "options": {
+        "A": "Örnek verme",
+        "B": "Tanımlama",
+        "C": "Karşılaştırma",
+        "D": "Konuyu değiştirme"
+      },
+      "correctOption": "D",
+      "explanation": "Konuyu değiştirme düşünceyi geliştirmenin yollarından değildir.",
+      "source": "özgün"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 2,
+      "text": "Kullanıcıların içerik üretip paylaşabildiği, etkileşimi öne çıkaran web uygulamaları hangi kavramla ifade edilir?",
+      "options": { "A": "Web 1.0", "B": "Statik sayfa", "C": "Web 2.0", "D": "Yerel yazılım" },
+      "correctOption": "C",
+      "explanation": "Web 2.0, kullanıcıların içerik üretip paylaşabildiği etkileşimli web uygulamalarını kapsar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 2,
+      "text": "Öğrencilerin ortak bir metni eşzamanlı olarak düzenleyebildiği çevrim içi araçlar hangi amaçla kullanılır?",
+      "options": { "A": "Not vermek", "B": "Yalnızca okumak", "C": "Dosya silmek", "D": "İşbirlikli içerik üretimi" },
+      "correctOption": "D",
+      "explanation": "Ortak düzenlemeye imkân tanıyan araçlar, işbirlikli içerik üretimini destekler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 3,
+      "text": "Öğretmenin ders için çevrim içi anket veya quiz oluşturup anında geri bildirim almasını sağlayan araçlar hangi amaca hizmet eder?",
+      "options": { "A": "Biçimlendirici değerlendirme", "B": "Yazılı sınav arşivleme", "C": "Ders süresini kısaltma", "D": "Not ortalaması hesaplama" },
+      "correctOption": "A",
+      "explanation": "Anında geri bildirim veren çevrim içi quizler biçimlendirici değerlendirmeye hizmet eder."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 3,
+      "text": "Öğrencilerin dijital hikâye veya sunu hazırlamak için kullandığı Web 2.0 araçları hangi beceriyi destekler?",
+      "options": { "A": "Ezber yapma", "B": "Yaratıcı üretim ve sunum", "C": "Kural ezberleme", "D": "Kopyalama" },
+      "correctOption": "B",
+      "explanation": "Dijital üretim araçları, öğrencinin yaratıcılığını ve sunum becerisini geliştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 2,
+      "text": "Çevrim içi alıştırma ve test hazırlamaya imkân tanıyan araçların öğretmene sağladığı en önemli kolaylık hangisidir?",
+      "options": { "A": "Kâğıt maliyetini artırması", "B": "Yoklama alması", "C": "Otomatik değerlendirme ve anında geri bildirim", "D": "Ders anlatması" },
+      "correctOption": "C",
+      "explanation": "Bu araçlar değerlendirmeyi otomatikleştirip öğrenciye hızlı geri bildirim sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 3,
+      "text": "Web 2.0 araçlarının eğitimde kullanımının en önemli sınırlılığı hangisidir?",
+      "options": { "A": "Her zaman pahalı olması", "B": "İnternet gerektirmemesi", "C": "Katılımı azaltması", "D": "İnternet bağlantısı ve dijital erişim gerektirmesi" },
+      "correctOption": "D",
+      "explanation": "İnternet ve dijital araç erişimi, bu araçların kullanımındaki başlıca sınırlılıktır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 2,
+      "text": "Teknolojinin derslere entegrasyonunda TPACK modelinin üç temel bilgi alanı hangileridir?",
+      "options": { "A": "Teknoloji, pedagoji ve içerik bilgisi", "B": "Ölçme, yönetim, rehberlik", "C": "Planlama, uygulama, değerlendirme", "D": "Okuma, yazma, dinleme" },
+      "correctOption": "A",
+      "explanation": "TPACK; teknoloji, pedagoji ve içerik bilgisinin bütünleşmesini temel alır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "TPACK modelinde teknoloji, pedagoji ve içerik bilgisinin kesişiminden doğan bilgi hangisidir?",
+      "options": { "A": "Yalnızca teknoloji bilgisi", "B": "Teknolojik pedagojik içerik bilgisi", "C": "Yalnızca içerik bilgisi", "D": "Yalnızca pedagojik bilgi" },
+      "correctOption": "B",
+      "explanation": "Üç alanın kesişimi, teknolojik pedagojik içerik bilgisini (TPACK) oluşturur."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "Bir teknolojinin dersin kazanımına uygun seçilip uygun yöntemle bütünleştirilmesini vurgulayan yaklaşım hangisidir?",
+      "options": { "A": "Yalnızca içerik aktarımı", "B": "Yalnızca sınav odaklılık", "C": "Teknoloji entegrasyonu", "D": "Teknolojiyi dışlama" },
+      "correctOption": "C",
+      "explanation": "Teknoloji entegrasyonu, aracın kazanıma ve yönteme uygun biçimde işe koşulmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "SAMR modelinde teknolojinin eski işlevi hiç değiştirmeden aynı biçimde kullanılması hangi basamaktır?",
+      "options": { "A": "Yeniden tanımlama", "B": "Değiştirme", "C": "Geliştirme", "D": "Yerine koyma" },
+      "correctOption": "D",
+      "explanation": "Yerine koyma basamağında teknoloji, görevi değiştirmeden aynı işi yapar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "SAMR modelinde teknolojinin görevi değiştirmeden işlevsel bir iyileştirme sağlaması hangi basamaktır?",
+      "options": { "A": "Geliştirme", "B": "Yerine koyma", "C": "Değiştirme", "D": "Yeniden tanımlama" },
+      "correctOption": "A",
+      "explanation": "Geliştirme basamağında teknoloji, görevi işlevsel olarak iyileştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "SAMR modelinde teknolojinin göreve anlamlı yenilik katarak yeniden düzenlemeye imkân tanıması hangi basamaktır?",
+      "options": { "A": "Yerine koyma", "B": "Değiştirme", "C": "Geliştirme", "D": "Araç kullanımı" },
+      "correctOption": "B",
+      "explanation": "Değiştirme basamağında teknoloji, görevi anlamlı biçimde yeniden düzenler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "SAMR modelinde teknolojinin önceki olanaklarla mümkün olmayan yepyeni görevleri mümkün kılması hangi basamaktır?",
+      "options": { "A": "Yerine koyma", "B": "Geliştirme", "C": "Yeniden tanımlama", "D": "Değiştirme" },
+      "correctOption": "C",
+      "explanation": "Yeniden tanımlama basamağında teknoloji, daha önce olanaksız olan görevleri mümkün kılar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "SAMR modelinin üst iki basamağının öğretimde hedeflediği temel değişim hangisidir?",
+      "options": { "A": "Yalnızca maliyeti düşürmek", "B": "Yalnızca süreyi kısaltmak", "C": "Yalnızca konuyu aktarmak", "D": "Öğretimin dönüşerek yeniden tasarlanması" },
+      "correctOption": "D",
+      "explanation": "Üst basamaklar, öğretimin teknolojiyle dönüştürülüp yeniden tasarlanmasını hedefler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tersyüz Sınıf",
+      "difficulty": 2,
+      "text": "Tersyüz sınıf modelinde kuramsal içeriğin ders dışında, uygulamanın sınıfta yapılması hangi amaca hizmet eder?",
+      "options": { "A": "Sınıf zamanını etkin uygulama ve etkileşime ayırmak", "B": "Öğretmeni gereksiz kılmak", "C": "Sınavı kaldırmak", "D": "Ödevi çoğaltmak" },
+      "correctOption": "A",
+      "explanation": "Tersyüz sınıf, sınıf içi zamanı uygulama ve etkileşime ayırmayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tersyüz Sınıf",
+      "difficulty": 2,
+      "text": "Tersyüz sınıf modelinde öğrencinin ders öncesi videoyu izlemesi hangi sorumluluğu gerektirir?",
+      "options": { "A": "Ödev yapmama", "B": "Derse hazırlıklı gelme", "C": "Sınavı atlama", "D": "Yoklamayı erteleme" },
+      "correctOption": "B",
+      "explanation": "Model, öğrencinin derse içeriği önceden çalışarak hazırlıklı gelmesini bekler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tersyüz Sınıf",
+      "difficulty": 2,
+      "text": "Tersyüz sınıf modelinde sınıf içi etkinliklerin ağırlığı hangi öğrenme anlayışına kayar?",
+      "options": { "A": "Ezber", "B": "Pasif dinleme", "C": "Aktif öğrenme ve uygulama", "D": "Kopya" },
+      "correctOption": "C",
+      "explanation": "Model, sınıfta aktif öğrenme ve uygulama etkinliklerini öne çıkarır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Değerlendirme",
+      "difficulty": 3,
+      "text": "Öğretmenin hazırladığı dijital materyalin kazanımlara ulaştırma derecesini kontrol etmesi hangi süreçtir?",
+      "options": { "A": "Materyal silme", "B": "Materyal seçimi", "C": "Materyal depolama", "D": "Materyal değerlendirme" },
+      "correctOption": "D",
+      "explanation": "Materyal değerlendirme, materyalin kazanıma ulaştırma düzeyinin kontrol edilmesidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Değerlendirme",
+      "difficulty": 2,
+      "text": "Öğretmenin kullandığı bir eğitsel materyalin öğrenci üzerindeki etkisini ölçmesi hangi ilkeyle ilgilidir?",
+      "options": { "A": "Materyalin etkililiğini değerlendirme", "B": "Materyali arşivleme", "C": "Materyali gizleme", "D": "Materyali kopyalama" },
+      "correctOption": "A",
+      "explanation": "Materyalin etkililiğini değerlendirmek, öğretim kalitesini artırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Dijital Vatandaşlık",
+      "difficulty": 3,
+      "text": "Bireyin çevrim içi ortamda başkalarının hak ve mahremiyetine saygı göstermesi hangi dijital vatandaşlık boyutudur?",
+      "options": { "A": "Dijital sağlık", "B": "Dijital etik", "C": "Dijital ticaret", "D": "Dijital erişim" },
+      "correctOption": "B",
+      "explanation": "Dijital etik, çevrim içi davranışlarda hak ve mahremiyete saygıyı kapsar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Dijital Vatandaşlık",
+      "difficulty": 2,
+      "text": "İnternette karşılaşılan bilgilerin doğruluğunu sorgulama ve güvenilir kaynağa ulaşma becerisi hangisidir?",
+      "options": { "A": "Dijital oyun", "B": "Dijital alışveriş", "C": "Dijital okuryazarlık", "D": "Dijital sağlık" },
+      "correctOption": "C",
+      "explanation": "Dijital okuryazarlık, bilginin doğruluğunu değerlendirme ve güvenilir kaynağa ulaşma becerisidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Dijital Vatandaşlık",
+      "difficulty": 3,
+      "text": "Bireyin çevrim içi ortamda kişisel bilgilerinin gizliliğini koruması hangi davranışa girer?",
+      "options": { "A": "Dijital ticaret", "B": "Dijital oyun", "C": "Dijital bağımlılık", "D": "Dijital güvenlik ve mahremiyet" },
+      "correctOption": "D",
+      "explanation": "Kişisel bilgilerin korunması dijital güvenlik ve mahremiyet kapsamındadır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Telif ve Etik",
+      "difficulty": 2,
+      "text": "Çevrim içi ortamda başkasına ait bir içeriği kaynak göstermeden kullanmak hangi etik ihlale girer?",
+      "options": { "A": "İntihal (aşırma)", "B": "Atıf yapma", "C": "Telif ödeme", "D": "Lisanslama" },
+      "correctOption": "A",
+      "explanation": "Kaynak göstermeden kullanma, intihal olarak değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Telif ve Etik",
+      "difficulty": 2,
+      "text": "Öğretmenin ders materyalinde başkasına ait bir görseli kullanırken yapması gereken doğru davranış hangisidir?",
+      "options": { "A": "Kaynağı silmek", "B": "Kaynağı belirtip izin ve lisans koşullarına uymak", "C": "Görseli değiştirip kendisinin saymak", "D": "Görseli gizlemek" },
+      "correctOption": "B",
+      "explanation": "Kaynağı belirtmek ve lisans koşullarına uymak telif etiğinin gereğidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Telif ve Etik",
+      "difficulty": 3,
+      "text": "Telif hakkıyla korunan bir eserin eğitim amacıyla sınırlı kullanımını düzenleyen ilke hangisidir?",
+      "options": { "A": "Hiç kullanmama", "B": "Tümüyle serbest kullanım", "C": "Adil ve yasal sınırlı kullanım", "D": "Sınırsız kopyalama" },
+      "correctOption": "C",
+      "explanation": "Eğitim amacıyla sınırlı kullanım, adil ve yasal çerçevede yapılmalıdır."
+    }
+  ]
+}

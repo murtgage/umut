@@ -11,7 +11,10 @@ import {
   startRun,
 } from "@/lib/game";
 import type { AnswerFeedback, RunSummary } from "@/lib/game-types";
-import { requireSessionOrThrow } from "@/lib/session";
+import {
+  requirePlayableSessionOrThrow,
+  requireSessionOrThrow,
+} from "@/lib/session";
 
 /**
  * Sunucu eylemlerinin ortak sonuç tipi. Hata mesajları kullanıcıya doğrudan
@@ -29,30 +32,38 @@ function toActionError(error: unknown): string {
   if (error instanceof Error && error.message === "UNAUTHORIZED") {
     return "Bu işlem için giriş yapmalısın.";
   }
+  if (error instanceof Error && error.message === "EMAIL_NOT_VERIFIED") {
+    return "Oyuna başlamadan önce e-posta adresini doğrulamalısın.";
+  }
   console.error("[oyun] beklenmeyen hata:", error);
   return "Beklenmeyen bir hata oluştu. Lütfen tekrar dene.";
 }
 
 const startSchema = z.object({
-  mode: z.enum(["QUICK", "CATEGORY", "DAILY", "DUEL"]),
+  mode: z.enum(["QUICK", "CATEGORY", "DAILY", "EXAM", "DUEL"]),
   categoryId: z.string().min(1).nullish(),
+  /** EXAM modunda seçilen sınav bölümü (ör. "genel-yetenek"). */
+  examType: z.string().min(1).max(60).nullish(),
 });
 
 export async function startRunAction(input: {
   mode: string;
   categoryId?: string | null;
+  examType?: string | null;
 }): Promise<ActionResult<{ runId: string }>> {
   try {
-    const session = await requireSessionOrThrow();
+    const { session } = await requirePlayableSessionOrThrow();
     const parsed = startSchema.parse({
       mode: input.mode,
       categoryId: input.categoryId ?? null,
+      examType: input.examType ?? null,
     });
 
     const { runId } = await startRun({
       userId: session.user.id,
       mode: parsed.mode,
       categoryId: parsed.categoryId ?? null,
+      examType: parsed.examType ?? null,
     });
 
     revalidatePath("/oyna");
@@ -116,16 +127,22 @@ export async function startRunFormAction(formData: FormData): Promise<void> {
   const mode = String(formData.get("mode") ?? "QUICK");
   const categoryId = formData.get("categoryId");
   const category = typeof categoryId === "string" && categoryId.length > 0 ? categoryId : null;
+  const examTypeValue = formData.get("examType");
+  const examType =
+    typeof examTypeValue === "string" && examTypeValue.length > 0
+      ? examTypeValue
+      : null;
 
   let runId: string;
 
   try {
-    const session = await requireSessionOrThrow();
-    const parsed = startSchema.parse({ mode, categoryId: category });
+    const { session } = await requirePlayableSessionOrThrow();
+    const parsed = startSchema.parse({ mode, categoryId: category, examType });
     const result = await startRun({
       userId: session.user.id,
       mode: parsed.mode,
       categoryId: parsed.categoryId ?? null,
+      examType: parsed.examType ?? null,
     });
     runId = result.runId;
   } catch (error) {

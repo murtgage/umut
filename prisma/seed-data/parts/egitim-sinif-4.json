@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Ödül-Ceza Dengesi",
+      "difficulty": 3,
+      "text": "Aşırı ödül kullanımının yol açabileceği olumsuzluk hangisidir?",
+      "options": { "A": "İçsel motivasyonun güçlenmesi", "B": "Öğrencinin ödülsüz çalışmama eğilimi göstermesi", "C": "Davranışın hızla sönmesi", "D": "Sınıf ikliminin bozulmaması" },
+      "correctOption": "B",
+      "explanation": "Sürekli dışsal ödül, öğrencinin ödül olmadan çaba göstermemesine yol açabilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İletişim ve Empati",
+      "difficulty": 2,
+      "text": "Empatinin temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Kendi görüşünü karşı tarafa zorla kabul ettirmek", "B": "Karşıdakini eleştirmek", "C": "Karşıdakinin duygularını anlayıp bunu ona iletmek", "D": "Konuyu değiştirmek" },
+      "correctOption": "C",
+      "explanation": "Empati, karşıdakinin duygularını anlayıp bunu uygun biçimde ifade etmektir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İletişim ve Empati",
+      "difficulty": 1,
+      "text": "Öğretmenin öğrenciyi sözünü kesmeden, göz teması kurup bedeniyle yönelerek dinlemesi hangi iletişim becerisidir?",
+      "options": { "A": "Öğüt verme", "B": "Yargılama", "C": "Emir verme", "D": "Etkin dinleme" },
+      "correctOption": "D",
+      "explanation": "Etkin dinleme, beden dili ve dikkatle karşıdakine yönelmeyi gerektirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İletişim ve Empati",
+      "difficulty": 2,
+      "text": "Sen diliyle kurulan mesajların olası olumsuz etkisi hangisidir?",
+      "options": { "A": "Öğrencinin savunmaya geçip iletişimi kesmesi", "B": "Öğrencinin kendini daha iyi hissetmesi", "C": "Sorunun hemen çözülmesi", "D": "Öğrencinin derse odaklanması" },
+      "correctOption": "A",
+      "explanation": "Sen mesajları suçlayıcı algılanır ve öğrenciyi savunmaya iter."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen-Veli İletişimi",
+      "difficulty": 3,
+      "text": "Öğretmenin veli görüşmesine öğrencinin olumlu özellikleriyle başlayıp sorunları yapıcı biçimde ele alması hangi ilkeye uygundur?",
+      "options": { "A": "Suçlayıcı iletişim", "B": "Yapıcı ve işbirliğine dayalı iletişim", "C": "Kaçınmacı iletişim", "D": "Resmî ve mesafeli iletişim" },
+      "correctOption": "B",
+      "explanation": "Yapıcı iletişim, veliyi savunmaya itmeden ortak çözüm üretmeyi kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen-Veli İletişimi",
+      "difficulty": 2,
+      "text": "Öğretmenin veli toplantılarında öğrenciyle ilgili gözlemlerini somut örneklerle aktarması neden önemlidir?",
+      "options": { "A": "Veliye gözdağı vermek için", "B": "Toplantıyı uzatmak için", "C": "Değerlendirmenin nesnel ve inandırıcı olması için", "D": "Diğer öğrencileri övmek için" },
+      "correctOption": "C",
+      "explanation": "Somut örnekler, değerlendirmenin öznel yargı değil gözleme dayalı olduğunu gösterir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çatışma Çözümü",
+      "difficulty": 3,
+      "text": "Öğrenciler arasındaki anlaşmazlıkta öğretmenin tarafları dinleyip ortak çözüm üretmelerini sağlaması hangi yaklaşımdır?",
+      "options": { "A": "Ceza yaklaşımı", "B": "Görmezden gelme", "C": "Taraf tutma", "D": "Uzlaşmacı yaklaşım" },
+      "correctOption": "D",
+      "explanation": "Uzlaşmacı yaklaşımda taraflar dinlenir ve birlikte çözüm üretilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çatışma Çözümü",
+      "difficulty": 2,
+      "text": "Öğretmenin sınıfta akran arabuluculuğu uygulaması hangi amaca hizmet eder?",
+      "options": { "A": "Öğrencilerin çatışma çözme becerilerini geliştirmek", "B": "Cezayı artırmak", "C": "Ders süresini kısaltmak", "D": "Rekabeti körüklemek" },
+      "correctOption": "A",
+      "explanation": "Akran arabuluculuğu, öğrencilere çatışmayı yapıcı çözme becerisi kazandırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Fiziksel Düzen",
+      "difficulty": 1,
+      "text": "Sınıf oturma düzeninin öğretmenin tüm öğrencileri rahatça görebileceği biçimde planlanmasının amacı hangisidir?",
+      "options": { "A": "Öğrenciyi cezalandırmayı kolaylaştırmak", "B": "İstenmeyen davranışları erken fark edip önlemek", "C": "Sınıfı kalabalık göstermek", "D": "Öğrenciler arası rekabeti artırmak" },
+      "correctOption": "B",
+      "explanation": "Öğretmenin tüm sınıfı görebilmesi, davranışları erken fark edip önlemesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Fiziksel Düzen",
+      "difficulty": 2,
+      "text": "Sınıf ortamının ısı, ışık ve havalandırma açısından uygun olması sınıf yönetiminin hangi boyutuyla ilgilidir?",
+      "options": { "A": "Program boyutu", "B": "Değerlendirme boyutu", "C": "Fiziksel düzen boyutu", "D": "İlişki boyutu" },
+      "correctOption": "C",
+      "explanation": "Fiziksel düzen boyutu, öğrenmeye uygun ortam koşullarını kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Fiziksel Düzen",
+      "difficulty": 2,
+      "text": "Öğrencilerin ders sırasında sık sık yer değiştirmesinin sınıf yönetimi açısından riski hangisidir?",
+      "options": { "A": "Öğrencilerin kaynaşması", "B": "Materyal kullanımının artması", "C": "Öğretmenin işinin kolaylaşması", "D": "Ders akışının ve düzenin bozulması" },
+      "correctOption": "D",
+      "explanation": "Gereksiz yer değişiklikleri dikkati dağıtır ve dersin akışını bozar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kaynaştırma ve Çokkültürlülük",
+      "difficulty": 3,
+      "text": "Çokkültürlü eğitimde öğretmenin farklı kültürlere ait örnek ve materyalleri derse katması hangi ilkeye hizmet eder?",
+      "options": { "A": "Kültürel duyarlılık ve kapsayıcılık", "B": "Tek kültürlülük", "C": "Asimilasyon", "D": "Ayrımcılık" },
+      "correctOption": "A",
+      "explanation": "Farklı kültürlerin derse yansıtılması kapsayıcı ve duyarlı bir eğitim ortamı oluşturur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kaynaştırma ve Çokkültürlülük",
+      "difficulty": 2,
+      "text": "Kaynaştırma öğrencisinin derse katılımını artırmak için öğretmenin yapması gereken uyarlama hangisidir?",
+      "options": { "A": "Öğrenciyi derse hiç katmamak", "B": "Etkinlikleri öğrencinin düzeyine göre çeşitlendirmek", "C": "Onu sürekli sınıftan çıkarmak", "D": "Onu evde eğitime yönlendirmek" },
+      "correctOption": "B",
+      "explanation": "Öğrencinin düzeyine uygun etkinlik çeşitlemesi katılımı ve öğrenmeyi artırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kaynaştırma ve Çokkültürlülük",
+      "difficulty": 2,
+      "text": "Farklı sosyoekonomik düzeyden gelen öğrencilere eşit fırsat sunmak için öğretmenin dikkat etmesi gereken ilke hangisidir?",
+      "options": { "A": "Kayırma", "B": "Etiketleme", "C": "Fırsat eşitliği", "D": "Ayrım gözetme" },
+      "correctOption": "C",
+      "explanation": "Fırsat eşitliği, tüm öğrencilere koşullarından bağımsız olarak eşit olanak sunmayı gerektirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Kavramları",
+      "difficulty": 3,
+      "text": "Sınıf yönetimi ile sınıf disiplini arasındaki temel fark hangisidir?",
+      "options": { "A": "İkisi tümüyle aynıdır", "B": "Disiplin öğrenmeyle hiç ilgili değildir", "C": "Sınıf yönetimi yalnızca cezayı içerir", "D": "Sınıf yönetimi öğrenmeyi destekleyen tüm düzenlemeleri, disiplin ise daha çok davranış kontrolünü kapsar" },
+      "correctOption": "D",
+      "explanation": "Sınıf yönetimi öğretimi destekleyen geniş bir düzenlemeler bütünüdür; disiplin bunun davranış boyutudur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Kavramları",
+      "difficulty": 2,
+      "text": "Etkili sınıf yönetiminin temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrenmenin gerçekleşebileceği düzenli ve güvenli bir ortam oluşturmak", "B": "Öğrencileri tümüyle itaatkâr yapmak", "C": "Ceza sayısını artırmak", "D": "Ders saatlerini kısaltmak" },
+      "correctOption": "A",
+      "explanation": "Sınıf yönetiminin amacı öğrenmeyi kolaylaştıran düzenli bir ortam sağlamaktır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Kavramları",
+      "difficulty": 3,
+      "text": "Sınıf yönetiminde öğretimsel yönetim boyutu aşağıdakilerden hangisini ifade eder?",
+      "options": { "A": "Yalnızca sınıfın fiziksel düzenini", "B": "Öğretimin planlanması, sunumu ve değerlendirilmesine ilişkin düzenlemeleri", "C": "Yalnızca disiplin cezalarını", "D": "Yalnızca veli görüşmelerini" },
+      "correctOption": "B",
+      "explanation": "Öğretimsel yönetim, öğretim sürecinin etkili yürütülmesine yönelik düzenlemeleri kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İlk Günler ve Sosyalleşme",
+      "difficulty": 2,
+      "text": "Öğretmenin ders yılının başında sınıf kurallarını ve beklentileri açıkça belirtmesi neden önemlidir?",
+      "options": { "A": "Öğrencileri korkutmak için", "B": "Ders yükünü azaltmak için", "C": "Öğrencilerin sınırları bilip güven duymasını sağlamak için", "D": "Notları yükseltmek için" },
+      "correctOption": "C",
+      "explanation": "Baştan net beklentiler, öğrencinin neyin beklendiğini bilmesini ve güven duymasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İlk Günler ve Sosyalleşme",
+      "difficulty": 2,
+      "text": "Öğrencilerin birbirini tanıması ve grup aidiyeti geliştirmesi için yapılan etkinlikler hangi amaca hizmet eder?",
+      "options": { "A": "Rekabeti körüklemeye", "B": "Ders süresini doldurmaya", "C": "Öğrencileri sıralamaya", "D": "Olumlu sınıf iklimi ve kaynaşma sağlamaya" },
+      "correctOption": "D",
+      "explanation": "Tanışma etkinlikleri grup aidiyetini ve olumlu iklimi güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 3,
+      "text": "Maslow'un ihtiyaçlar hiyerarşisine göre öğretmenin sınıfta önce karşılaması gereken ihtiyaçlar hangileridir?",
+      "options": { "A": "Fizyolojik ve güvenlik ihtiyaçları", "B": "Kendini gerçekleştirme ihtiyacı", "C": "Saygınlık ihtiyacı", "D": "Estetik ihtiyacı" },
+      "correctOption": "A",
+      "explanation": "Hiyerarşide alt basamaktaki fizyolojik ve güvenlik ihtiyaçları önce karşılanmalıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 3,
+      "text": "Öğretmenin öğrenciye seçim hakkı tanıyarak özerkliğini desteklemesi hangi kuramın ilkesiyle örtüşür?",
+      "options": { "A": "Klasik koşullanma", "B": "Öz belirleme kuramı", "C": "Bağlaşımcılık", "D": "Davranışçılık" },
+      "correctOption": "B",
+      "explanation": "Öz belirleme kuramı özerklik, yeterlik ve ilişkili olma ihtiyaçlarını vurgular."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Ders Planlama",
+      "difficulty": 2,
+      "text": "Öğretmenin derse ilişkin amaç, içerik, yöntem ve değerlendirmeyi önceden planlaması sınıf yönetiminin hangi boyutuyla ilgilidir?",
+      "options": { "A": "Fiziksel boyut", "B": "Cezai boyut", "C": "Program boyutu", "D": "İklim boyutu" },
+      "correctOption": "C",
+      "explanation": "Program boyutu, öğretimin planlanması ve yürütülmesine ilişkin düzenlemeleri kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Ders Planlama",
+      "difficulty": 2,
+      "text": "Öğretmenin ders girişinde öğrencilerin dikkatini çekmek için yaptığı etkinlik hangi aşamaya aittir?",
+      "options": { "A": "Ölçme", "B": "Özetleme", "C": "Değerlendirme", "D": "Dikkat çekme" },
+      "correctOption": "D",
+      "explanation": "Derse girişte dikkat çekme etkinliği öğrenciyi konuya hazırlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Ders Planlama",
+      "difficulty": 2,
+      "text": "Öğretmenin dersin sonunda ana noktaları kısaca özetlemesi hangi ders yönetimi uygulamasıdır?",
+      "options": { "A": "Kapanış", "B": "Isınma", "C": "Rutin", "D": "Ceza" },
+      "correctOption": "A",
+      "explanation": "Kapanış, öğrenilenlerin pekiştirilmesi ve dersin sonlandırılması aşamasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Dikkat ve Katılım",
+      "difficulty": 3,
+      "text": "Öğretmenin dikkati canlı tutmak için etkinlik türlerini ve yöntemleri çeşitlendirmesi hangi amaca hizmet eder?",
+      "options": { "A": "Dersin uzamasına", "B": "Sıkılmanın önlenip dikkatin canlı tutulmasına", "C": "Öğrenci kaygısının artmasına", "D": "Kuralların unutulmasına" },
+      "correctOption": "B",
+      "explanation": "Çeşitleme, monotonluğu azaltarak dikkati canlı tutar."
+    }
+  ]
+}

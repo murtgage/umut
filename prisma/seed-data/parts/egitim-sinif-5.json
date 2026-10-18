@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Dikkat ve Katılım",
+      "difficulty": 2,
+      "text": "Öğretmenin ders boyunca sınıfı gözlemleyip göz teması kurması hangi amaçla yapılır?",
+      "options": { "A": "Ceza vermek için", "B": "Not vermek için", "C": "Katılımı izlemek ve farkındalık oluşturmak için", "D": "Süreyi doldurmak için" },
+      "correctOption": "C",
+      "explanation": "Gözlem ve göz teması, öğretmenin sınıfın farkında olduğunu gösterir ve katılımı destekler."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Geleneksel (baskıcı) disiplin anlayışının temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrenci katılımını teşvik etmesi", "B": "Demokratik kararlar alması", "C": "Öğrenciyi merkeze alması", "D": "Kural ve ceza yoluyla itaati sağlaması" },
+      "correctOption": "D",
+      "explanation": "Geleneksel disiplin, otorite ve cezayla itaat sağlamayı esas alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Çağdaş disiplin anlayışının geleneksel anlayıştan temel farkı hangisidir?",
+      "options": { "A": "Öğrenciyi merkeze alıp öğrenmeyi desteklemesi", "B": "Yalnızca ceza vermesi", "C": "Yalnızca öğretmeni merkeze alması", "D": "Kuralları tümüyle kaldırması" },
+      "correctOption": "A",
+      "explanation": "Çağdaş anlayış, öğrenciyi merkeze alan ve öz disiplini geliştiren bir yaklaşım benimser."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışlar",
+      "difficulty": 2,
+      "text": "İstenmeyen davranışın nedenini belirlemek için öğretmenin öncelikle yapması gereken hangisidir?",
+      "options": { "A": "Hemen en ağır cezayı vermesi", "B": "Davranışın hangi durumlarda ortaya çıktığını gözlemlemesi", "C": "Öğrenciyi okuldan uzaklaştırması", "D": "Aileyi suçlaması" },
+      "correctOption": "B",
+      "explanation": "Davranışın bağlamını gözlemlemek, nedenini doğru saptamayı sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışlar",
+      "difficulty": 2,
+      "text": "Aile kaynaklı sorunların sınıfta istenmeyen davranışa yol açtığı durumda öğretmenin en uygun yaklaşımı hangisidir?",
+      "options": { "A": "Öğrenciyi suçlamak", "B": "Davranışı sürekli görmezden gelmek", "C": "Öğrencinin duygusunu anlayıp destekleyici olmak", "D": "Hemen ceza vermek" },
+      "correctOption": "C",
+      "explanation": "Duygusal destek ve empatik yaklaşım, altta yatan sorunun çözümüne yardımcı olur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışlar",
+      "difficulty": 3,
+      "text": "Öğrencinin derse ilgisizliğinin temelinde eksik ön öğrenmeler yatıyorsa öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Öğrenciyi başarısız saymak", "B": "Onu sınıftan çıkarmak", "C": "Notla cezalandırmak", "D": "Eksik öğrenmeleri belirleyip telafi etmek" },
+      "correctOption": "D",
+      "explanation": "Eksik ön koşul öğrenmelerin tamamlanması, öğrencinin derse katılımını artırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Sorumluluğu",
+      "difficulty": 2,
+      "text": "Öğrencilere sınıf içi görev ve sorumluluk verilmesi hangi kazanımı destekler?",
+      "options": { "A": "Öz disiplin ve sorumluluk duygusunu", "B": "Rekabet artışını", "C": "Bağımlılığı", "D": "Kaygıyı" },
+      "correctOption": "A",
+      "explanation": "Görev ve sorumluluk, öğrencinin kendini sınıfın sorumlu bir üyesi görmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Sorumluluğu",
+      "difficulty": 2,
+      "text": "Öğrencinin kendi davranışını değerlendirip düzeltmesine imkân tanıyan yaklaşım hangisidir?",
+      "options": { "A": "Cezalandırma", "B": "Öz değerlendirme ve öz denetim", "C": "Görmezden gelme", "D": "Emretme" },
+      "correctOption": "B",
+      "explanation": "Öz değerlendirme ve öz denetim, öğrencinin davranışını kendi başına yönetmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Sorumluluğu",
+      "difficulty": 3,
+      "text": "Öğrencilerin kurallara uymasını sağlamada en etkili uzun vadeli yol hangisidir?",
+      "options": { "A": "Sürekli ceza vermek", "B": "Kuralları esnetmek", "C": "Kuralları benimsetip öz disiplin geliştirmek", "D": "Denetimi tümüyle bırakmak" },
+      "correctOption": "C",
+      "explanation": "Kalıcı davranış değişikliği, kuralın benimsenmesi ve öz disiplinle sağlanır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Tutumları",
+      "difficulty": 2,
+      "text": "Öğretmenin tüm öğrencilere eşit mesafede ve tutarlı davranması hangi sonucu doğurur?",
+      "options": { "A": "Öğrencilerin kuralları önemsememesi", "B": "Sınıfın düzensizleşmesi", "C": "Rekabetin azalması", "D": "Öğretmene duyulan güvenin artması" },
+      "correctOption": "D",
+      "explanation": "Adil ve tutarlı tutum, öğretmene duyulan güveni ve saygıyı artırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Tutumları",
+      "difficulty": 2,
+      "text": "Öğretmenin bir öğrenciyi sürekli olumsuz etiketlemesinin olası sonucu hangisidir?",
+      "options": { "A": "Öğrencinin etiketi içselleştirip davranışını sürdürmesi", "B": "Davranışın hemen düzelmesi", "C": "Öğrencinin öz güveninin artması", "D": "Sınıf ikliminin iyileşmesi" },
+      "correctOption": "A",
+      "explanation": "Olumsuz etiketleme, öğrencinin etiketi kabullenip davranışı sürdürmesine yol açabilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Tutumları",
+      "difficulty": 1,
+      "text": "Öğretmenin öğrencisine karşı sabırlı ve anlayışlı olması hangi değerle ilişkilidir?",
+      "options": { "A": "Kayıtsızlık", "B": "Hoşgörü", "C": "Otoriterlik", "D": "Taraf tutma" },
+      "correctOption": "B",
+      "explanation": "Sabır ve anlayış, hoşgörü değerinin sınıf içindeki yansımasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetiminde İletişim",
+      "difficulty": 2,
+      "text": "Öğretmenin yönergeleri net, kısa ve tek seferde vermesi neden önemlidir?",
+      "options": { "A": "Öğrenciyi şaşırtmak için", "B": "Dersi uzatmak için", "C": "Anlaşılırlığı artırıp zaman kaybını önlemek için", "D": "Kuralları gizlemek için" },
+      "correctOption": "C",
+      "explanation": "Net yönergeler yanlış anlaşılmayı ve tekrarı önleyerek zaman kazandırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetiminde İletişim",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrenciyle konuşurken göz hizasına inmesi hangi iletişim ilkesiyle ilişkilidir?",
+      "options": { "A": "Otorite kurma", "B": "Mesafe koyma", "C": "Ceza verme", "D": "Saygı ve eşit muamele" },
+      "correctOption": "D",
+      "explanation": "Göz hizasına inmek, öğrenciye değer verildiğini ve saygı duyulduğunu gösterir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetiminde İletişim",
+      "difficulty": 3,
+      "text": "Öğretmenin olumsuz bir davranışı öğrencinin kişiliğine değil, davranışın kendisine yönelik eleştirmesi hangi ilkeye uygundur?",
+      "options": { "A": "Davranışı eleştir, kişiliği değil", "B": "Kişiyi etiketle", "C": "Umursama", "D": "Kıyasla" },
+      "correctOption": "A",
+      "explanation": "Davranış odaklı geri bildirim, öğrencinin kişiliğini incitmeden düzeltme sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Değerlendirme",
+      "difficulty": 3,
+      "text": "Öğretmenin öğrenmeyi desteklemek için sık sık geri bildirim vermesi hangi amaca hizmet eder?",
+      "options": { "A": "Öğrenciyi sıralamaya", "B": "Öğrencinin eksiklerini görüp ilerlemesini sağlamaya", "C": "Ceza vermeye", "D": "Ders süresini doldurmaya" },
+      "correctOption": "B",
+      "explanation": "Geri bildirim, öğrencinin nerede olduğunu ve neyi geliştirmesi gerektiğini gösterir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Değerlendirme",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrenci başarısını yalnızca sınav notuyla değil süreç boyunca da izlemesi hangi yaklaşımdır?",
+      "options": { "A": "Yalnızca ürün odaklı değerlendirme", "B": "Yalnızca sözlü değerlendirme", "C": "Süreç ve ürünü birlikte değerlendirme", "D": "Değerlendirmeyi tümüyle bırakma" },
+      "correctOption": "C",
+      "explanation": "Süreç ve ürünün birlikte değerlendirilmesi öğrencinin gelişimini daha doğru yansıtır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Okul-Aile İşbirliği",
+      "difficulty": 3,
+      "text": "Etkili öğretmen-veli işbirliğinin temel koşulu hangisidir?",
+      "options": { "A": "Sorunları doğrudan şikâyet etmek", "B": "Veliyle iletişimi kesmek", "C": "Öğrenciyi veliye şikâyet etmek", "D": "Karşılıklı saygı, açık iletişim ve ortak hedef" },
+      "correctOption": "D",
+      "explanation": "İşbirliği; saygı, açık iletişim ve öğrenci yararına ortak hedef belirlemeye dayanır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Okul-Aile İşbirliği",
+      "difficulty": 2,
+      "text": "Öğretmenin velilere evde çocuğa nasıl destek olabileceklerini somut biçimde anlatması hangi amaca hizmet eder?",
+      "options": { "A": "Okul-aile işbirliğini güçlendirmeye", "B": "Veliyi suçlamaya", "C": "Öğretmenin yükünü artırmaya", "D": "Notları düşürmeye" },
+      "correctOption": "A",
+      "explanation": "Somut öneriler, velinin sürece etkin katılmasını ve işbirliğini güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kaynaştırma ve Çokkültürlülük",
+      "difficulty": 2,
+      "text": "Sınıfta farklı dil ve kültürden öğrenciler bulunduğunda öğretmenin uygun tutumu hangisidir?",
+      "options": { "A": "Aynı dili konuşmayanları ayrı tutmak", "B": "Çeşitliliği zenginlik görüp kapsayıcı etkinlikler düzenlemek", "C": "Yalnızca çoğunluk kültürünü öne çıkarmak", "D": "Çeşitliliği yok saymak" },
+      "correctOption": "B",
+      "explanation": "Kapsayıcı etkinlikler, farklı dil ve kültürden öğrencilerin katılımını ve aidiyetini artırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Modelleri",
+      "difficulty": 3,
+      "text": "Alfie Kohn'un görüşüne göre ödül ve cezaya dayalı sınıf yönetiminin temel sakıncası hangisidir?",
+      "options": { "A": "Öğrenciyi çok mutlu etmesi", "B": "Dersin hızlı bitmesi", "C": "Öğrencinin içsel motivasyonunu zayıflatması", "D": "Kuralların öğrenilmesini sağlaması" },
+      "correctOption": "C",
+      "explanation": "Kohn, dışsal ödül ve cezanın içsel motivasyonu zayıflattığını savunur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Modelleri",
+      "difficulty": 3,
+      "text": "Kounin'in çalışmalarının sınıf yönetimine en önemli katkısı hangisidir?",
+      "options": { "A": "Ceza yöntemlerini sıralaması", "B": "Fiziksel düzeni gereksiz bulması", "C": "Öğretmeni tümüyle serbest bırakması", "D": "Ders akışını bozmadan önleyici davranışlar sergilemenin önemini göstermesi" },
+      "correctOption": "D",
+      "explanation": "Kounin, öğretmenin ders akışını bozmadan farkında olması ve önleyici müdahalesinin önemini ortaya koymuştur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi ve Teknoloji",
+      "difficulty": 2,
+      "text": "Öğretmenin ders sırasında teknolojiyi sınıf yönetimini aksatmayacak biçimde kullanması hangi ilkeyi gösterir?",
+      "options": { "A": "Teknolojiyi amaca uygun ve planlı kullanma", "B": "Teknolojiyi amaçsız kullanma", "C": "Her derste zorunlu kullanma", "D": "Öğrenciye tümüyle serbest bırakma" },
+      "correctOption": "A",
+      "explanation": "Teknoloji, öğretim hedefine hizmet edecek biçimde planlı kullanılmalıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Farklılıkları",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrencilerin öğrenme stillerini dikkate alması hangi yaklaşımı yansıtır?",
+      "options": { "A": "Tek tip öğretim", "B": "Bireysel farklılıklara duyarlı öğretim", "C": "Ezbere dayalı öğretim", "D": "Yarışmacı öğretim" },
+      "correctOption": "B",
+      "explanation": "Öğrenme stillerine duyarlılık, bireysel farklılıkları dikkate alan öğretimi yansıtır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Farklılıkları",
+      "difficulty": 3,
+      "text": "Öğretmenin öğrenme güçlüğü olan bir öğrenciye ek süre ve farklı materyal sağlaması hangi yaklaşımdır?",
+      "options": { "A": "Görmezden gelme", "B": "Etiketleme", "C": "Uyarlama", "D": "Ceza" },
+      "correctOption": "C",
+      "explanation": "Öğrencinin ihtiyacına göre süre ve materyal düzenlemesi bir uyarlamadır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Genel Değerlendirme",
+      "difficulty": 3,
+      "text": "Etkili bir sınıf yöneticisi olan öğretmenin temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Yalnızca ceza vermesi", "B": "Sınıfı tümüyle serbest bırakması", "C": "Öğrencilerle iletişim kurmaması", "D": "Öğrenmeyi kolaylaştıran önleyici ve tutarlı bir düzen kurması" },
+      "correctOption": "D",
+      "explanation": "Etkili sınıf yönetimi; önleyici, tutarlı ve öğrenme odaklı bir düzen kurmaya dayanır."
+    }
+  ]
+}

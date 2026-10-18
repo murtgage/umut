@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 2,
+      "text": "'Kalem' sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?",
+      "options": {
+        "A": "Çocuk yeni aldığı kalemi defterine çizdi.",
+        "B": "Öğretmen tahtaya kalemle yazı yazdı.",
+        "C": "Kaleminden kan damlıyor, sanırım çok yazmış.",
+        "D": "Sınavda kalemimi düşürdüm."
+      },
+      "correctOption": "C",
+      "explanation": "C seçeneğinde 'kalem' sözcüğü 'yazı yazma aracı' anlamının dışında, 'yazar/kişi' anlamında mecaz olarak kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'düz, eğimsiz yer' anlamına gelir?",
+      "options": {
+        "A": "Yamaç",
+        "B": "Ova",
+        "C": "Tepe",
+        "D": "Vadi"
+      },
+      "correctOption": "B",
+      "explanation": "'Ova' geniş ve düz yer anlamına gelir; yamaç eğimli, tepe yükselti, vadi ise iki dağ arasındaki çukur alandır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 2,
+      "text": "'Sıcak' sözcüğü aşağıdaki cümlelerin hangisinde 'sevecen, candan' anlamında kullanılmıştır?",
+      "options": {
+        "A": "Bugün hava çok sıcak.",
+        "B": "Çorba henüz sıcak.",
+        "C": "Sıcak bir karşılama oldu.",
+        "D": "Soba sıcak."
+      },
+      "correctOption": "C",
+      "explanation": "C seçeneğinde 'sıcak' sözcüğü fiziksel sıcaklık yerine duygusal yakınlık/sevecenlik anlamında mecaz olarak kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 3,
+      "text": "'Yük' sözcüğünün aşağıdaki anlamlarından hangisi mecaz anlamdır?",
+      "options": {
+        "A": "Kamyonun arkasındaki yük",
+        "B": "Sırtındaki yük",
+        "C": "Üzerindeki sorumluluk yükü",
+        "D": "Taşınacak yük"
+      },
+      "correctOption": "C",
+      "explanation": "C seçeneğinde 'yük' fiziksel bir nesne değil, sorumluluk/psikolojik baskı anlamında mecaz olarak kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+      "options": {
+        "A": "Yağmur yağdı, sokaklar suyla doldu.",
+        "B": "Yağmur yağdı ve güneş açtı.",
+        "C": "Yağmur yağarken güneş de açtı.",
+        "D": "Yağmur yağdı ama dışarı çıktım."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde yağmur yağması (neden) sokakların dolmasına (sonuç) yol açmıştır; neden-sonuç ilişkisi kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 3,
+      "text": "Aşağıdaki cümlelerin hangisinde 'koşul' anlamı vardır?",
+      "options": {
+        "A": "Çalışırsan başarırsın.",
+        "B": "Çalıştığı için başarılı oldu.",
+        "C": "Çalışmasına rağmen başarısız oldu.",
+        "D": "Çalıştığı halde memnun değil."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'çalışırsan' ifadesi bir koşul (şart) bildirmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "'Buna rağmen' ifadesi aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Çok çalıştı, buna rağmen kazanamadı.",
+        "B": "Çok çalıştı, bu yüzden kazandı.",
+        "C": "Çok çalıştı, böylece kazandı.",
+        "D": "Çok çalıştı, o yüzden kazandı."
+      },
+      "correctOption": "A",
+      "explanation": "'Buna rağmen' bir engeli aşamama/ ters sonucu bildiren zıtlık ifadesidir; A seçeneğinde kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 1,
+      "text": "Aşağıdaki cümlelerin hangisi 'olumsuz' anlam taşır?",
+      "options": {
+        "A": "Kapıyı aç.",
+        "B": "Kapıyı açma.",
+        "C": "Kapıyı açar mısın?",
+        "D": "Kapıyı açalım."
+      },
+      "correctOption": "B",
+      "explanation": "B seçeneğinde '-ma' olumsuzluk eki ile olumsuz emir cümlesi kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 2,
+      "text": "Bir paragrafta ilk cümle genellikle hangi görevi üstlenir?",
+      "options": {
+        "A": "Örnekleme yapar.",
+        "B": "Konuyu tanıtır.",
+        "C": "Sonucu verir.",
+        "D": "Örnekleri sıralar."
+      },
+      "correctOption": "B",
+      "explanation": "Paragrafın ilk cümlesi (baş cümle) genellikle konuyu tanıtan genel bir ifadedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi paragrafın 'geliştirme bölümü'ne ait bir özellik değildir?",
+      "options": {
+        "A": "Örnek verme",
+        "B": "Açıklama yapma",
+        "C": "Karşılaştırma",
+        "D": "Konuyu tamamen değiştirmek"
+      },
+      "correctOption": "D",
+      "explanation": "Geliştirme bölümü konuyu destekler; konuyu tamamen değiştirmek paragraf bütünlüğünü bozar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 3,
+      "text": "Bir paragrafta 'sonuç cümlesi' genellikle hangi konumda yer alır?",
+      "options": {
+        "A": "Başta",
+        "B": "Ortada",
+        "C": "Sonda",
+        "D": "Her yerde"
+      },
+      "correctOption": "C",
+      "explanation": "Sonuç cümlesi paragrafın sonunda yer alır ve ana düşünceyi özetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi büyük harfle başlamalıdır?",
+      "options": {
+        "A": "öğretmen",
+        "B": "kitap",
+        "C": "istanbul",
+        "D": "kalem"
+      },
+      "correctOption": "C",
+      "explanation": "Özel isim olan 'İstanbul' büyük harfle başlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde yazım hatası vardır?",
+      "options": {
+        "A": "Her şey yolunda.",
+        "B": "Hiç bir şey söylemedi.",
+        "C": "Birkaç kişi geldi.",
+        "D": "Herkes memnun."
+      },
+      "correctOption": "B",
+      "explanation": "'Hiçbir' bitişik yazılır; 'hiç bir' ayrı yazımı hatalıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde noktalama işareti kullanımı yanlıştır?",
+      "options": {
+        "A": "Geldi, gördü, yendi.",
+        "B": "Merhaba, nasılsın?",
+        "C": "Ankara, Türkiye'nin başkentidir.",
+        "D": "Kitabı okudum, beğendim."
+      },
+      "correctOption": "C",
+      "explanation": "C seçeneğinde 'Ankara' ile 'Türkiye'nin' arasında virgül gereksizdir; cümle tek yüklemli birleşik cümledir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Anlatım Bozukluğu",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+      "options": {
+        "A": "Çocuklar bahçede oynuyor.",
+        "B": "Öğrenciler ders çalışıyor.",
+        "C": "Kitabı okudum ve bitti.",
+        "D": "Yağmur yağdı, ıslandık."
+      },
+      "correctOption": "C",
+      "explanation": "C seçeneğinde 'kitabı okudum ve bitti' ifadesinde özne uyumsuzluğu/anlatım bozukluğu vardır; 'kitabı okudum ve bitirdim' olmalıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcük Türleri",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'isim' (ad) türündedir?",
+      "options": {
+        "A": "Güzel",
+        "B": "Hızlı",
+        "C": "Kitap",
+        "D": "Koşmak"
+      },
+      "correctOption": "C",
+      "explanation": "'Kitap' varlığı adlandırır ve isim türündedir; diğerleri sıfat veya fiildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcük Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'zarf' (belirteç) türündedir?",
+      "options": {
+        "A": "Çok",
+        "B": "Ev",
+        "C": "Mavi",
+        "D": "Koş"
+      },
+      "correctOption": "A",
+      "explanation": "'Çok' bir eylemin veya sıfatın derecesini belirten zarf türündedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcük Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'edat' türündedir?",
+      "options": {
+        "A": "İle",
+        "B": "Ve",
+        "C": "Ama",
+        "D": "Çünkü"
+      },
+      "correctOption": "A",
+      "explanation": "'İle' ilgi/araç bildiren edat türündedir; diğerleri bağlaçtır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ekler",
+      "difficulty": 2,
+      "text": "'Göz-lük' sözcüğünde 'lük' eki hangi tür ektir?",
+      "options": {
+        "A": "İsimden isim yapan",
+        "B": "Fiilden isim yapan",
+        "C": "İsimden fiil yapan",
+        "D": "Fiilden fiil yapan"
+      },
+      "correctOption": "A",
+      "explanation": "'Göz' isminden 'gözlük' ismi türetildiği için 'lük' isimden isim yapan ektir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ekler",
+      "difficulty": 3,
+      "text": "'Yaz-ış-mak' sözcüğündeki 'ış' eki hangi işlevi görür?",
+      "options": {
+        "A": "Karşılıklılık",
+        "B": "Çatı (sesli) eki",
+        "C": "İsimden fiil",
+        "D": "Fiilden isim"
+      },
+      "correctOption": "A",
+      "explanation": "'Yazışmak' fiilinde 'ış' eki karşılıklılık (birbirine yazmak) bildirir.",
+      "source": "özgün"
+    }
+  ]
+}

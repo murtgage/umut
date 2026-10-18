@@ -68,7 +68,8 @@ export async function getGlobalLeaderboard(options?: {
   const offset = Math.max(options?.offset ?? 0, 0);
 
   const rows = await prisma.playerStats.findMany({
-    where: { gamesPlayed: { gt: 0 } },
+    // Misafir (anonim) oyuncular genel sıralamaya girmez.
+    where: { gamesPlayed: { gt: 0 }, user: { isAnonymous: false } },
     orderBy: [...RANK_ORDER],
     skip: offset,
     take: limit,
@@ -89,7 +90,9 @@ export async function getGlobalLeaderboard(options?: {
 }
 
 export async function countRankedPlayers(): Promise<number> {
-  return prisma.playerStats.count({ where: { gamesPlayed: { gt: 0 } } });
+  return prisma.playerStats.count({
+    where: { gamesPlayed: { gt: 0 }, user: { isAnonymous: false } },
+  });
 }
 
 /** Bir oyuncunun genel sıralamadaki yeri (1 tabanlı). */
@@ -101,14 +104,19 @@ export async function getPlayerRank(userId: string): Promise<number | null> {
       correctAnswers: true,
       updatedAt: true,
       gamesPlayed: true,
+      user: { select: { isAnonymous: true } },
     },
   });
 
   if (!stats || stats.gamesPlayed === 0) return null;
 
+  // Misafir oyuncular sıralamaya dahil edilmez.
+  if (stats.user.isAnonymous) return null;
+
   const ahead = await prisma.playerStats.count({
     where: {
       gamesPlayed: { gt: 0 },
+      user: { isAnonymous: false },
       OR: [
         { totalScore: { gt: stats.totalScore } },
         {

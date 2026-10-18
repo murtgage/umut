@@ -1,0 +1,289 @@
+{
+  "questions": [
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'soyut isim' (kavram adı) türündedir?",
+      "options": {
+        "A": "Masa",
+        "B": "Sevgi",
+        "C": "Elma",
+        "D": "Kalem"
+      },
+      "correctOption": "B",
+      "explanation": "'Sevgi' duygu/kavram bildiren soyut isimdir; diğerleri somut isimdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 2,
+      "text": "'Baş' sözcüğü aşağıdaki cümlelerin hangisinde 'lider, yönetici' anlamında kullanılmıştır?",
+      "options": {
+        "A": "Başım ağrıyor.",
+        "B": "Başına bir şey düşer.",
+        "C": "Bölümün başı seçildi.",
+        "D": "Baş aşağı düştü."
+      },
+      "correctOption": "C",
+      "explanation": "C seçeneğinde 'baş' yönetici/lider anlamında kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcükte Anlam",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'deyim' (idiom) değildir?",
+      "options": {
+        "A": "Gözden düşmek",
+        "B": "Kulak vermek",
+        "C": "Elinden tutmak",
+        "D": "Koşmak"
+      },
+      "correctOption": "D",
+      "explanation": "'Koşmak' tek sözcüklü bir fiildir, deyim değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' anlamı vardır?",
+      "options": {
+        "A": "Ali, Veli'den daha uzun.",
+        "B": "Ali ve Veli uzun.",
+        "C": "Ali uzun, Veli kısa.",
+        "D": "Ali uzun mu?"
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'daha' ile karşılaştırma yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "'Fakat' bağlacı aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Geldi fakat oturmadı.",
+        "B": "Geldi ve oturdu.",
+        "C": "Geldi çünkü oturdu.",
+        "D": "Geldi, oturdu."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'fakat' zıtlık bildiren bağlaç olarak kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 3,
+      "text": "Aşağıdaki cümlelerin hangisinde 'olasılık' anlamı vardır?",
+      "options": {
+        "A": "Belki gelir.",
+        "B": "Mutlaka gelir.",
+        "C": "Hiç gelmez.",
+        "D": "Geldi."
+      },
+      "correctOption": "A",
+      "explanation": "'Belki' olasılık/şüphe bildirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 2,
+      "text": "'Rağmen' edatı aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Yağmura rağmen dışarı çıktı.",
+        "B": "Yağmur yüzünden dışarı çıktı.",
+        "C": "Yağmur için dışarı çıktı.",
+        "D": "Yağmurla dışarı çıktı."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'rağmen' engeli aşma anlamında kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Cümlede Anlam",
+      "difficulty": 1,
+      "text": "Aşağıdaki cümlelerin hangisi olumlu cümledir?",
+      "options": {
+        "A": "Gelme.",
+        "B": "Gelmedi.",
+        "C": "Geliyor.",
+        "D": "Gelmez."
+      },
+      "correctOption": "C",
+      "explanation": "C seçeneği olumlu fiil cümlesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 2,
+      "text": "Bir paragrafta 'bağlayıcı ifadeler' (örn. 'ayrıca', 'bunun yanında') ne işe yarar?",
+      "options": {
+        "A": "Konuyu değiştirir.",
+        "B": "Cümleler arası geçişi sağlar.",
+        "C": "Paragrafı bitirir.",
+        "D": "Yeni konu açar."
+      },
+      "correctOption": "B",
+      "explanation": "Bağlayıcı ifadeler cümleler/paragraflar arası geçişi ve uyumu sağlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi 'paragrafın unsurları'ndan değildir?",
+      "options": {
+        "A": "Baş cümle",
+        "B": "Yardımcı cümleler",
+        "C": "Sonuç cümlesi",
+        "D": "Başlık cümlesi"
+      },
+      "correctOption": "D",
+      "explanation": "Paragrafın temel unsurları baş, yardımcı ve sonuç cümleleridir; 'başlık cümlesi' ayrı bir unsur değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf",
+      "difficulty": 3,
+      "text": "Bir paragrafta 'ara cümle' hangi işlevi görür?",
+      "options": {
+        "A": "Konuyu tanıtır.",
+        "B": "Ana düşünceyi özetler.",
+        "C": "Açıklama/örnek vererek geliştirmeyi destekler.",
+        "D": "Paragrafı sonlandırır."
+      },
+      "correctOption": "C",
+      "explanation": "Ara cümle açıklama veya örnek vererek paragrafı geliştirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'büyük harfle' yazılmalıdır?",
+      "options": {
+        "A": "öğretmen",
+        "B": "okul",
+        "C": "atatürk",
+        "D": "kitap"
+      },
+      "correctOption": "C",
+      "explanation": "Özel isim 'Atatürk' büyük harfle yazılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'iki nokta' (:) kullanımı uygundur?",
+      "options": {
+        "A": "Alacaklarım: ekmek, süt, peynir.",
+        "B": "Geldi: gitti.",
+        "C": "Kitabı okudum: beğendim.",
+        "D": "Hava güzel: yağmur yağıyor."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'iki nokta' örnekleri sıralamadan önce kullanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Anlatım Bozukluğu",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'gerekiz sözcük' (pleonazm) vardır?",
+      "options": {
+        "A": "Gece karanlığında yürüdük.",
+        "B": "Karanlıkta yürüdük.",
+        "C": "Gece yürüdük.",
+        "D": "Yürüdük."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'gece' ve 'karanlık' birlikte kullanılarak gereksiz tekrar yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Anlatım Bozukluğu",
+      "difficulty": 3,
+      "text": "Aşağıdaki cümlelerin hangisinde 'anlamca çelişki' vardır?",
+      "options": {
+        "A": "Herkes geldi, bazıları gelmedi.",
+        "B": "Tüm öğrenciler başarılı oldu.",
+        "C": "Bazı öğrenciler başarılı oldu.",
+        "D": "Hiç kimse gelmedi."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde 'herkes geldi' ile 'bazıları gelmedi' ifadeleri çelişmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ses Bilgisi",
+      "difficulty": 2,
+      "text": "'Dondurma' sözcüğü aşağıdaki ses olaylarından hangisine örnektir?",
+      "options": {
+        "A": "Ünlü daralması",
+        "B": "Ünsüz yumuşaması",
+        "C": "Ünsüz benzeşmesi",
+        "D": "Ünlü düşmesi"
+      },
+      "correctOption": "A",
+      "explanation": "'Dondurma' (dondur+ma) yapısında ünlü daralması görülür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Sözcük Türleri",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'ünlem' türündedir?",
+      "options": {
+        "A": "Hey",
+        "B": "Ev",
+        "C": "Güzel",
+        "D": "Koş"
+      },
+      "correctOption": "A",
+      "explanation": "'Hey' seslenme/ünlem bildiren ünlem türündedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ekler",
+      "difficulty": 2,
+      "text": "'Oku-yucu' sözcüğünde 'yucu' eki hangi tür ektir?",
+      "options": {
+        "A": "Fiilden isim yapan",
+        "B": "İsimden isim yapan",
+        "C": "Fiilden fiil yapan",
+        "D": "İsimden fiil yapan"
+      },
+      "correctOption": "A",
+      "explanation": "'Oku' fiilinden 'okuyucu' ismi türetildiği için fiilden isim yapan ektir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ekler",
+      "difficulty": 3,
+      "text": "'Gör-üş-mek' sözcüğündeki 'üş' eki hangi işlevi görür?",
+      "options": {
+        "A": "Karşılıklılık",
+        "B": "Çatı (edilgen)",
+        "C": "İsimden fiil",
+        "D": "Fiilden isim"
+      },
+      "correctOption": "A",
+      "explanation": "'Görüşmek' fiilinde 'üş' eki karşılıklılık (birbirini görmek) bildirir.",
+      "source": "özgün"
+    }
+  ]
+}

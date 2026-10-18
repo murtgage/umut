@@ -1,0 +1,378 @@
+{
+  "questions": [
+    {
+      "categorySlug": "tarih",
+      "topic": "Türk Tarihi",
+      "difficulty": 2,
+      "text": "Göktürk Kağanlığı hangi yılda kurulmuştur?",
+      "options": {
+        "A": "552",
+        "B": "603",
+        "C": "630",
+        "D": "682"
+      },
+      "correctOption": "A",
+      "explanation": "Göktürk Kağanlığı 552'de kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türk Tarihi",
+      "difficulty": 2,
+      "text": "Uygur Kağanlığı hangi yılda kurulmuştur?",
+      "options": {
+        "A": "744",
+        "B": "751",
+        "C": "840",
+        "D": "920"
+      },
+      "correctOption": "A",
+      "explanation": "Uygur Kağanlığı 744'te kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türk Tarihi",
+      "difficulty": 2,
+      "text": "Karahanlı Devleti hangi yılda kurulmuştur?",
+      "options": {
+        "A": "840",
+        "B": "920",
+        "C": "999",
+        "D": "1040"
+      },
+      "correctOption": "A",
+      "explanation": "Karahanlı Devleti 840'ta kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türk Tarihi",
+      "difficulty": 2,
+      "text": "Gazneli Devleti hangi yılda kurulmuştur?",
+      "options": {
+        "A": "962",
+        "B": "977",
+        "C": "999",
+        "D": "1040"
+      },
+      "correctOption": "A",
+      "explanation": "Gazneli Devleti 962'de kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türk Tarihi",
+      "difficulty": 2,
+      "text": "Büyük Selçuklu Devleti hangi yılda kurulmuştur?",
+      "options": {
+        "A": "1037",
+        "B": "1040",
+        "C": "1071",
+        "D": "1157"
+      },
+      "correctOption": "A",
+      "explanation": "Büyük Selçuklu Devleti 1037'de kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türk Tarihi",
+      "difficulty": 2,
+      "text": "Anadolu Selçuklu Devleti hangi yılda kurulmuştur?",
+      "options": {
+        "A": "1077",
+        "B": "1092",
+        "C": "1176",
+        "D": "1243"
+      },
+      "correctOption": "A",
+      "explanation": "Anadolu Selçuklu Devleti 1077'de kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türk Tarihi",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti hangi yılda kurulmuştur?",
+      "options": {
+        "A": "1299",
+        "B": "1326",
+        "C": "1362",
+        "D": "1453"
+      },
+      "correctOption": "A",
+      "explanation": "Osmanlı Devleti 1299'da kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyeti hangi şehirde ilan edilmiştir?",
+      "options": {
+        "A": "İstanbul",
+        "B": "Ankara",
+        "C": "İzmir",
+        "D": "Bursa"
+      },
+      "correctOption": "B",
+      "explanation": "Cumhuriyet Ankarada ilan edilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Padişahları",
+      "difficulty": 2,
+      "text": "Osmanlı'nın ikinci padişahı kimdir?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "Murad I",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "İkinci padişah Orhan Bey'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Padişahları",
+      "difficulty": 2,
+      "text": "Osmanlı'da 'Yıldırım' lakaplı padişah kimdir?",
+      "options": {
+        "A": "Murad I",
+        "B": "Yıldırım Bayezid",
+        "C": "Çelebi Mehmed",
+        "D": "II. Murad"
+      },
+      "correctOption": "B",
+      "explanation": "'Yıldırım' lakaplı padişah Yıldırım Bayezid'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Padişahları",
+      "difficulty": 2,
+      "text": "Osmanlı'da 'Fatih' lakaplı padişah kimdir?",
+      "options": {
+        "A": "II. Mehmed",
+        "B": "II. Bayezid",
+        "C": "Yavuz Selim",
+        "D": "Kanuni"
+      },
+      "correctOption": "A",
+      "explanation": "'Fatih' lakaplı padişah II. Mehmed'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Padişahları",
+      "difficulty": 2,
+      "text": "Osmanlı'da 'Yavuz' lakaplı padişah kimdir?",
+      "options": {
+        "A": "I. Selim",
+        "B": "II. Selim",
+        "C": "III. Selim",
+        "D": "IV. Selim"
+      },
+      "correctOption": "A",
+      "explanation": "'Yavuz' lakaplı padişah I. (Yavuz) Selim'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Padişahları",
+      "difficulty": 2,
+      "text": "Osmanlı'da 'Kanuni' lakaplı padişah kimdir?",
+      "options": {
+        "A": "I. Süleyman",
+        "B": "II. Süleyman",
+        "C": "III. Süleyman",
+        "D": "IV. Süleyman"
+      },
+      "correctOption": "A",
+      "explanation": "'Kanuni' lakaplı padişah I. Süleyman'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Savaşları",
+      "difficulty": 2,
+      "text": "Osmanlı'nın ilk deniz zaferi hangi savaşta kazanılmıştır?",
+      "options": {
+        "A": "Preveze",
+        "B": "İnebahtı",
+        "C": "Çanakkale",
+        "D": "Navarin"
+      },
+      "correctOption": "A",
+      "explanation": "İlk deniz zaferi Preveze'de (1538) kazanılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Savaşları",
+      "difficulty": 2,
+      "text": "Osmanlı'nın ilk büyük deniz yenilgisi hangi savaşta yaşanmıştır?",
+      "options": {
+        "A": "Preveze",
+        "B": "İnebahtı",
+        "C": "Çanakkale",
+        "D": "Navarin"
+      },
+      "correctOption": "B",
+      "explanation": "İlk büyük deniz yenilgisi İnebahtı'da (1571) yaşanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Savaşları",
+      "difficulty": 2,
+      "text": "Osmanlı'nın en uzun süren savaşlarından biri hangisidir?",
+      "options": {
+        "A": "Trablusgarp Savaşı",
+        "B": "Balkan Savaşları",
+        "C": "I. Dünya Savaşı",
+        "D": "Kurtuluş Savaşı"
+      },
+      "correctOption": "C",
+      "explanation": "I. Dünya Savaşı Osmanlı'nın en uzun süren savaşlarından biridir (1914-1918).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Antlaşmaları",
+      "difficulty": 2,
+      "text": "Osmanlı'nın ilk antlaşması hangisidir?",
+      "options": {
+        "A": "Karlofça",
+        "B": "Küçük Kaynarca",
+        "C": "Zitvatorok",
+        "D": "Pasarofça"
+      },
+      "correctOption": "C",
+      "explanation": "İlk antlaşma Zitvatorok'tur (1606).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Antlaşmaları",
+      "difficulty": 2,
+      "text": "Osmanlı'nın en ağır antlaşması hangisidir?",
+      "options": {
+        "A": "Karlofça",
+        "B": "Küçük Kaynarca",
+        "C": "Zitvatorok",
+        "D": "Pasarofça"
+      },
+      "correctOption": "B",
+      "explanation": "Küçük Kaynarca (1774) Osmanlı'nın en ağır antlaşmasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Antlaşmaları",
+      "difficulty": 2,
+      "text": "Osmanlı'nın son antlaşması hangisidir?",
+      "options": {
+        "A": "Mondros",
+        "B": "Sèvres",
+        "C": "Lozan",
+        "D": "Ankara"
+      },
+      "correctOption": "C",
+      "explanation": "Osmanlı'nın son antlaşması Lozan'dır (1923).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyeti'nin ilk anayasası hangi yılda kabul edilmiştir?",
+      "options": {
+        "A": "1921",
+        "B": "1924",
+        "C": "1961",
+        "D": "1982"
+      },
+      "correctOption": "B",
+      "explanation": "İlk anayasa 1924'te kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyeti'nin ikinci anayasası hangi yılda kabul edilmiştir?",
+      "options": {
+        "A": "1924",
+        "B": "1961",
+        "C": "1982",
+        "D": "2017"
+      },
+      "correctOption": "B",
+      "explanation": "İkinci anayasa 1961'de kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyeti'nin üçüncü anayasası hangi yılda kabul edilmiştir?",
+      "options": {
+        "A": "1924",
+        "B": "1961",
+        "C": "1982",
+        "D": "2017"
+      },
+      "correctOption": "C",
+      "explanation": "Üçüncü anayasa 1982'de kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye'de çok partili hayata geçiş hangi yılda olmuştur?",
+      "options": {
+        "A": "1923",
+        "B": "1930",
+        "C": "1946",
+        "D": "1950"
+      },
+      "correctOption": "C",
+      "explanation": "Çok partili hayata geçiş 1946'da olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye'de ilk çok partili seçim hangi yılda yapılmıştır?",
+      "options": {
+        "A": "1923",
+        "B": "1930",
+        "C": "1946",
+        "D": "1950"
+      },
+      "correctOption": "C",
+      "explanation": "İlk çok partili seçim 1946'da yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet",
+      "difficulty": 2,
+      "text": "Türkiye'de ilk iktidar değişikliği hangi yılda olmuştur?",
+      "options": {
+        "A": "1923",
+        "B": "1930",
+        "C": "1946",
+        "D": "1950"
+      },
+      "correctOption": "D",
+      "explanation": "İlk iktidar değişikliği 1950'de (DP) olmuştur.",
+      "source": "özgün"
+    }
+  ]
+}
