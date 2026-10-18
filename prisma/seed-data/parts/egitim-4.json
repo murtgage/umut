@@ -1,0 +1,1054 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Ders sırasında arka sırada konuşan bir öğrenciyi sessizce uyaran öğretmen, sınıftaki diğer öğrencilerin de derse yöneldiğini gözlemlemiştir. Bu durum Kounin'in hangi kavramıyla açıklanır?",
+      "options": {
+        "A": "Dalgalanma etkisi",
+        "B": "Ders akışının bölünmesi",
+        "C": "Çok boyutluluk",
+        "D": "Zaman kaybı"
+      },
+      "correctOption": "A",
+      "explanation": "Kounin'e göre bir öğrenciye yapılan müdahale, diğer öğrencilerin davranışını da olumlu yönde etkileyerek değiştirir; bu dalgalanma (ripple) etkisidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İklimi",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrencilerine güven veren, yargılamayan ve saygılı bir tutum sergilemesi, sınıfın hangi yönünü doğrudan güçlendirir?",
+      "options": {
+        "A": "Sınıfın fiziksel düzeni",
+        "B": "Sınıfın olumlu iklimi",
+        "C": "Ders süresinin uzunluğu",
+        "D": "Ölçme aracının güvenirliği"
+      },
+      "correctOption": "B",
+      "explanation": "Öğretmenin saygılı ve güven veren tutumu, öğrencilerin kendini rahat hissettiği olumlu bir sınıf ikliminin oluşmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Öğrencilerin derste yaşadığı sorunları karşılanmayan temel ihtiyaçlara bağlayan ve onlara seçim yapma sorumluluğu veren disiplin anlayışı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Skinner'ın davranışsal modeli",
+        "B": "Jones'un olumlu disiplin modeli",
+        "C": "Glasser'in seçim kuramı",
+        "D": "Cantor'un önlemsel modeli"
+      },
+      "correctOption": "C",
+      "explanation": "Glasser'in seçim kuramı, davranışın karşılanmayan temel ihtiyaçlardan kaynaklandığını ve öğrencinin seçimlerinin sorumluluğunu taşıması gerektiğini savunur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İletişim ve Empati",
+      "difficulty": 2,
+      "text": "Öğretmenin, öğrencinin çıkardığı gürültüden nasıl etkilendiğini kendi duygularını anlatarak ifade etmesi, iletişimde hangi yaklaşıma örnektir?",
+      "options": {
+        "A": "Sen dili",
+        "B": "Emir verme",
+        "C": "Suçlama",
+        "D": "Ben dili"
+      },
+      "correctOption": "D",
+      "explanation": "Ben dili, konuşanın yaşadığı duyguyu ve durumun kendisini nasıl etkilediğini suçlayıcı olmadan aktarmasıdır; bu yüzden iletişimi yumuşatır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Dreikurs'a göre öğrenci dikkat çekme, güç elde etme, intikam alma ve yetersizlik gösterme davranışlarıyla aslında hangi ihtiyacını karşılamaya çalışır?",
+      "options": {
+        "A": "Sınıfa ait olma ve sosyal kabul görme",
+        "B": "Derslerden muaf olma",
+        "C": "Yüksek not alma",
+        "D": "Öğretmenin dersini yönlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Dreikurs'un demokratik modeline göre istenmeyen davranışların temelinde yatan amaç, sınıf topluluğuna ait olma ve kabul görme ihtiyacıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "Derse zamanında gelen öğrencilerine her gün yıldız veren ve biriken yıldızları ödüle dönüştüren bir öğretmen, hangi disiplin modelini uygulamaktadır?",
+      "options": {
+        "A": "Dreikurs'un demokratik modeli",
+        "B": "Skinner'ın davranışsal modeli",
+        "C": "Gordon'un etkili öğretmenlik modeli",
+        "D": "Kounin'in ders yönetimi modeli"
+      },
+      "correctOption": "B",
+      "explanation": "Skinner'ın davranışsal (edimsel koşullanma) modeli, istenen davranışın pekiştirilmesi yoluyla davranış değiştirmeyi esas alır; yıldızla ödüllendirme bunun örneğidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Cantor'un önlemsel disiplin modelinin temel özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İstenmeyen davranış ortaya çıktıktan sonra en ağır cezayı uygulamak",
+        "B": "Öğrenciyi sorun çıkarınca sınıftan çıkarmak",
+        "C": "İstenmeyen davranış ortaya çıkmadan önce gerekli önlemleri almak",
+        "D": "Öğretmen otoritesini her durumda ön planda tutmak"
+      },
+      "correctOption": "C",
+      "explanation": "Cantor'un önlemsel modeli, sorun çıktıktan sonra müdahale etmek yerine sınıf düzeni ve planlama yoluyla istenmeyen davranışı önceden engellemeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Zaman Yönetimi",
+      "difficulty": 1,
+      "text": "Sınıf yönetiminin boyutları düşünüldüğünde, öğretmenin ders için ayırdığı süreyi verimli kullanması hangi boyutla en doğrudan ilişkilidir?",
+      "options": {
+        "A": "İnsan ilişkileri",
+        "B": "Öğretimin planlanması",
+        "C": "Fiziksel ortam düzenlemesi",
+        "D": "Zaman yönetimi"
+      },
+      "correctOption": "D",
+      "explanation": "Zaman yönetimi, ders süresinin etkin kullanılmasını, geçişlerin hızlı yapılmasını ve öğretim için ayrılan zamanın en üst düzeye çıkarılmasını kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 2,
+      "text": "Öğretmenin dersin başında o günün planını kısaca açıklaması ve ders boyunca konudan kopmadan ilerlemesi, Kounin'in hangi kavramıyla ilişkilidir?",
+      "options": {
+        "A": "Ders akışının sürdürülmesi",
+        "B": "Dalgalanma etkisi",
+        "C": "Görmezden gelme",
+        "D": "Sınıftan çıkarma"
+      },
+      "correctOption": "A",
+      "explanation": "Kounin'e göre dersin bölünmeden, gereksiz kesintiler olmadan akıcı biçimde sürdürülmesi ders akışının korunmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Kounin'e göre öğretmenin, sınıfın bir köşesinde olup biten yanlış davranışı ders akışını bozmadan hemen fark edip müdahale etmesi hangi kavramla açıklanır?",
+      "options": {
+        "A": "Dalgalanma etkisi",
+        "B": "Farkındalık (withitness)",
+        "C": "Görmezden gelme",
+        "D": "Ödüllendirme"
+      },
+      "correctOption": "B",
+      "explanation": "Öğretmenin sınıfta olup bitenlerin farkında olması ve doğru zamanda, doğru yere müdahale etmesi Kounin'in 'withitness' (farkındalık) kavramıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Müdahale Basamakları",
+      "difficulty": 2,
+      "text": "Öğrencinin sınıf içinde sürekli ayağa kalkıp dolaşması karşısında öğretmenin önce görmezden gelmesi, davranış sürerse sözlü uyarıda bulunması hangi yaklaşıma örnektir?",
+      "options": {
+        "A": "Davranışı doğrudan cezalandırma",
+        "B": "Sınıftan çıkarma",
+        "C": "Aşamalı (basamaklı) müdahale",
+        "D": "Okul yönetimine sevk"
+      },
+      "correctOption": "C",
+      "explanation": "İstenmeyen davranışa en hafif müdahaleden başlayıp gerektiğinde daha ileri yaptırımlara geçmek aşamalı müdahale ilkesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kurallar ve Rutinler",
+      "difficulty": 1,
+      "text": "Sınıf kurallarının belirlenmesinde en etkili yaklaşım aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kuralların yalnızca öğretmen tarafından konulup duyurulması",
+        "B": "Kuralların hiç yazılmadan akılda tutulması",
+        "C": "Kuralların her hafta tamamen değiştirilmesi",
+        "D": "Öğrencilerin katılımıyla az sayıda ve açık kuralların birlikte belirlenmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Öğrencilerin katıldığı, az sayıda, açık ve tutarlı kurallar benimsenme olasılığı en yüksek olan kurallardır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kurallar ve Rutinler",
+      "difficulty": 2,
+      "text": "Öğretmenin dersin başında kullandığı 'Ders başlamadan önce malzemelerinizi hazırlayın.' gibi her gün tekrarlanan uygulamalar hangi kavramla ifade edilir?",
+      "options": {
+        "A": "Rutinler",
+        "B": "Cezalar",
+        "C": "Ödüller",
+        "D": "Yazılı kurallar"
+      },
+      "correctOption": "A",
+      "explanation": "Rutinler, belirli zamanlarda aynı biçimde tekrarlanan ve sınıfın otomatik olarak işlemesini sağlayan alışkanlıklardır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışlar",
+      "difficulty": 2,
+      "text": "İstenmeyen bir davranışın ortaya çıkmasında öğrencinin sürekli dikkat çekme isteği hangi başlık altında değerlendirilir?",
+      "options": {
+        "A": "Öğretmenden kaynaklanan nedenler",
+        "B": "Öğrenciden kaynaklanan nedenler",
+        "C": "Okul yönetiminden kaynaklanan nedenler",
+        "D": "Ders programından kaynaklanan nedenler"
+      },
+      "correctOption": "B",
+      "explanation": "Dikkat çekme, güç arayışı, intikam ve yetersizlik duygusu öğrencinin kendisinden kaynaklanan istenmeyen davranış nedenleri arasındadır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İletişim ve Empati",
+      "difficulty": 1,
+      "text": "Gordon'un etkili öğretmenlik modeline göre öğretmenin, öğrencinin duygularını yansıtarak onu dinlemesi hangi beceriye örnektir?",
+      "options": {
+        "A": "Yönlendirici dinleme",
+        "B": "Sessiz kalma",
+        "C": "Etkin (aktif) dinleme",
+        "D": "Emir verme"
+      },
+      "correctOption": "C",
+      "explanation": "Gordon'un Etkili Öğretmenlik Eğitimi modelinde etkin dinleme, öğretmenin öğrencinin duygu ve düşüncelerini yansıtarak onu anladığını göstermesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 1,
+      "text": "Bir öğrenci derste sürekli arkadaşının saçını çekmekte, öğretmen ise bu davranışa hiçbir tepki vermeyerek dersine devam etmektedir. Öğretmenin kullandığı teknik aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Pekiştirme",
+        "B": "Uyarma",
+        "C": "Sınıftan çıkarma",
+        "D": "Görmezden gelme"
+      },
+      "correctOption": "D",
+      "explanation": "Görmezden gelme, dikkat çekmeye yönelik davranışın öğretmen tepkisiyle pekiştirilmemesi amacıyla bilinçli olarak yok sayılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 2,
+      "text": "Sınıf içinde istenmeyen davranışların kalıcı biçimde azaltılmasında en etkili yol aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İstenen davranışları pekiştirip istenmeyenlere tutarlı biçimde karşılık vermek",
+        "B": "Yalnızca ceza vermek",
+        "C": "Tüm davranışları görmezden gelmek",
+        "D": "Öğrencileri sık sık sınıftan çıkarmak"
+      },
+      "correctOption": "A",
+      "explanation": "Olumlu davranışların pekiştirilmesi ve istenmeyen davranışlara tutarlı, ölçülü tepki verilmesi davranış değiştirmede en kalıcı sonucu verir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kaynaştırma ve Çokkültürlülük",
+      "difficulty": 2,
+      "text": "Öğretmenin sınıfta kaynaştırma öğrencisinin bulunduğunu dikkate alarak etkinlikleri farklı biçimlerde ve düzeylerde sunması hangi yaklaşımla en iyi açıklanır?",
+      "options": {
+        "A": "Tamamen ayrı bir sınıfta eğitim",
+        "B": "Farklılaştırılmış öğretim ve kapsayıcılık",
+        "C": "Yalnızca sözel anlatım",
+        "D": "Öğrenciyi etkinliklerden muaf tutma"
+      },
+      "correctOption": "B",
+      "explanation": "Farklılaştırılmış öğretim, öğrencilerin hazır bulunuşluk ve öğrenme özelliklerine göre içerik, süreç ve ürünün çeşitlendirilmesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kaynaştırma ve Çokkültürlülük",
+      "difficulty": 1,
+      "text": "Çok kültürlü bir sınıfta öğretmenin, farklı aile yapı ve değerlerine sahip öğrencilere eşit ve saygılı davranması hangi ilkeyle ilişkilidir?",
+      "options": {
+        "A": "Tek tip öğretim",
+        "B": "Öğrenciyi dışlama",
+        "C": "Kültürel duyarlılık",
+        "D": "Rekabeti artırma"
+      },
+      "correctOption": "C",
+      "explanation": "Kültürel duyarlılık, öğrencilerin farklı kültürel geçmişlerini tanıyıp saygı göstermeyi ve öğretimi buna göre uyarlamayı gerektirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen-Veli İletişimi",
+      "difficulty": 1,
+      "text": "Öğretmenin veli görüşmelerinde öğrencinin olumsuz davranışlarını abartmadan, somut örneklerle ve çözüm önerileriyle anlatması hangi ilkeye uygundur?",
+      "options": {
+        "A": "Suçlayıcı dil kullanma",
+        "B": "Veli ile konuşmadan kaçınmak",
+        "C": "Yalnızca olumsuz yönleri sıralamak",
+        "D": "Yapıcı ve iş birliğine dayalı iletişim kurma"
+      },
+      "correctOption": "D",
+      "explanation": "Veliyle yapıcı, somut ve çözüm odaklı iletişim kurmak öğrenci yararına iş birliğini güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 2,
+      "text": "Öğretmenin, öğrencilerin derse katılımını artırmak için onlara yapacakları çalışmalarla ilgili seçim hakkı tanıması hangi öğrenci ihtiyacını destekler?",
+      "options": {
+        "A": "Özerklik ve öz-yeterlik duygusu",
+        "B": "Ceza alma korkusu",
+        "C": "Yarışma isteği",
+        "D": "Ders süresinin kısalması"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrenciye seçim hakkı tanımak, kendi öğrenmesini yönettiği duygusunu ve öz-yeterlik algısını güçlendirerek içsel motivasyonu artırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Ödül-Ceza Dengesi",
+      "difficulty": 3,
+      "text": "Ödül ve ceza dengesi açısından aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ödül her zaman sürekli olarak verilmelidir.",
+        "B": "Ödül davranışla ilişkilendirilmeli, ceza ise davranışın sonucuna uygun ve ölçülü olmalıdır.",
+        "C": "Ceza sık verildiğinde öğrenme hızlanır.",
+        "D": "Ödül verilmeden hiçbir davranış kazanılamaz."
+      },
+      "correctOption": "B",
+      "explanation": "Ödülün davranışla doğrudan ilişkilendirilmesi ve cezanın davranışa uygun, ölçülü biçimde verilmesi olumsuz yan etkileri azaltır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Modelleri",
+      "difficulty": 3,
+      "text": "Jones'un olumlu disiplin modelinde öğretmenin sınıf yönetimi için kullandığı temel araç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ceza ve tehdit",
+        "B": "Sınav ve not",
+        "C": "Beden dili ve yakınlık denetimi",
+        "D": "Okul yönetimine başvurma"
+      },
+      "correctOption": "C",
+      "explanation": "Jones'un Olumlu Sınıf Disiplini modelinde öğretmen; göz teması, mimikler ve öğrenciye yaklaşma gibi beden dili araçlarıyla davranışı ders akışını bozmadan durdurur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Müdahale Basamakları",
+      "difficulty": 2,
+      "text": "Öğrencinin dersteki istenmeyen davranışı ısrarla sürdüğünde öğretmenin izlemesi gereken basamak sırası aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Okul yönetimine bildirme, görmezden gelme, uyarma",
+        "B": "Sınıftan çıkarma, görmezden gelme, uyarma",
+        "C": "Fiziksel ceza, uyarma, görmezden gelme",
+        "D": "Görmezden gelme, uyarma, sınıf içi yaptırım, okulla iş birliği"
+      },
+      "correctOption": "D",
+      "explanation": "Müdahale basamakları en hafiften en ağıra doğru ilerler; sorun sürerse okul yönetimi ve aile ile iş birliği devreye girer."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Zaman Yönetimi",
+      "difficulty": 3,
+      "text": "Öğretmenin sınıf düzenini sağlarken en az sözel uyarı ile en fazla ders etkinliğine yer vermesi hangi ilkeyle açıklanır?",
+      "options": {
+        "A": "Öğretim zamanının en üst düzeye çıkarılması",
+        "B": "Cezanın ön plana alınması",
+        "C": "Öğrencilerin serbest bırakılması",
+        "D": "Kural sayısının artırılması"
+      },
+      "correctOption": "A",
+      "explanation": "Zaman yönetiminin amacı, düzeni sağlamak için harcanan zamanı azaltıp öğretime ayrılan etkin zamanı artırmaktır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Öğretim sürecinin daha etkili ve verimli hâle getirilmesi amacıyla araç-gereç, yöntem ve ortamların tasarlanmasıyla ilgilenen disiplin aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ölçme ve değerlendirme",
+        "B": "Öğretim teknolojisi",
+        "C": "Program geliştirme",
+        "D": "Rehberlik ve psikolojik danışma"
+      },
+      "correctOption": "B",
+      "explanation": "Öğretim teknolojisi, öğretme-öğrenme sürecini daha etkili kılmak için yöntem, araç ve ortamların sistematik biçimde tasarlanmasıyla ilgilenir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 3,
+      "text": "Eğitim teknolojisi ile öğretim teknolojisi arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eğitim teknolojisi yalnızca bilgisayarı kapsar.",
+        "B": "Öğretim teknolojisi eğitimin tamamını, eğitim teknolojisi yalnızca sınıfı kapsar.",
+        "C": "Eğitim teknolojisi daha geniş bir alanı, öğretim teknolojisi ise öğretme-öğrenme sürecini kapsar.",
+        "D": "İkisi arasında hiçbir fark yoktur."
+      },
+      "correctOption": "C",
+      "explanation": "Eğitim teknolojisi eğitimin bütününü kapsayan geniş bir alan iken öğretim teknolojisi bu alanın öğretme-öğrenme sürecine odaklanan bölümüdür."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Analiz, tasarım, geliştirme, uygulama ve değerlendirme aşamalarından oluşan, kısaca ADDIE olarak bilinen öğretim tasarımı modelinin ilk aşaması hangisidir?",
+      "options": {
+        "A": "Geliştirme",
+        "B": "Uygulama",
+        "C": "Değerlendirme",
+        "D": "Analiz"
+      },
+      "correctOption": "D",
+      "explanation": "ADDIE modelinin aşamaları Analiz, Tasarım, Geliştirme, Uygulama ve Değerlendirme sırasını izler; süreç ihtiyaçların analiziyle başlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 1,
+      "text": "Gagné'nin dokuz öğretim olayı dikkate alındığında, dersin başında öğrencinin ilgisini uyandırmak için yapılan etkinlik hangi olaya karşılık gelir?",
+      "options": {
+        "A": "Dikkat çekme",
+        "B": "Beklentileri bildirme",
+        "C": "Ön öğrenmeleri hatırlatma",
+        "D": "Değerlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Gagné'nin öğretim olaylarının ilki dikkat çekmedir; öğretmen ilgi uyandıran bir soru veya gösteriyle derse başlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "ASSURE modelinin diğer öğretim tasarımı modellerinden ayrılan en belirgin özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca uzaktan eğitim için geliştirilmiş olması",
+        "B": "Bireysel ders planlamasında, özellikle medya ve materyal seçimine odaklanması",
+        "C": "Değerlendirme aşamasını içermemesi",
+        "D": "Yalnızca kalabalık sınıflar için tasarlanması"
+      },
+      "correctOption": "B",
+      "explanation": "ASSURE, tek bir dersin planlanmasında öğrenci analizi ile medya ve materyal seçimine ağırlık veren uygulamalı bir modeldir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Dick ve Carey öğretim tasarımı modelinin öne çıkan özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrenme çıktıları yerine öğretmen davranışlarına odaklanması",
+        "B": "Yalnızca tek bir ders için kullanılması",
+        "C": "Öğretim hedeflerinden başlayıp değerlendirmeye kadar sistemli ve döngüsel bir süreç izlemesi",
+        "D": "Materyal tasarımını tamamen dışlaması"
+      },
+      "correctOption": "C",
+      "explanation": "Dick ve Carey modeli, hedeflerin belirlenmesinden ölçme-değerlendirmeye uzanan ve değerlendirme sonuçlarına göre yeniden düzenlenebilen sistemli bir süreçtir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 1,
+      "text": "Bir görsel materyalde ilişkili ögelerin birbirine yakın, ilgisiz ögelerin birbirinden uzak yerleştirilmesi hangi tasarım ilkesiyle ilgilidir?",
+      "options": {
+        "A": "Zıtlık",
+        "B": "Hizalama",
+        "C": "Tekrar",
+        "D": "Yakınlık"
+      },
+      "correctOption": "D",
+      "explanation": "Yakınlık ilkesi, birbiriyle ilgili ögelerin görsel olarak bir arada gruplanmasını, ilgisiz ögelerin ise ayrılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir sunumda tüm başlıkların aynı noktadan başlaması ve sayfa ögelerinin görünmez bir çizgi üzerinde sıralanması hangi tasarım ilkesine örnektir?",
+      "options": {
+        "A": "Hizalama",
+        "B": "Zıtlık",
+        "C": "Yakınlık",
+        "D": "Vurgu"
+      },
+      "correctOption": "A",
+      "explanation": "Hizalama ilkesi, ögelerin görünmez bir çizgi boyunca hizalanarak düzenli ve profesyonel bir görünüm oluşturmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir materyalde aynı renk, yazı tipi ve biçimin sürekli kullanılarak görsel bütünlük sağlanması hangi tasarım ilkesidir?",
+      "options": {
+        "A": "Zıtlık",
+        "B": "Tekrar",
+        "C": "Denge",
+        "D": "Sadelik"
+      },
+      "correctOption": "B",
+      "explanation": "Tekrar ilkesi, aynı görsel ögelerin tutarlı biçimde kullanılmasıyla materyalin bütünlük ve birlik duygusu vermesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir slaytta üzerinde durulması gereken kavramın diğerlerinden farklı renk ve büyüklükte verilmesi hangi tasarım ilkesine örnektir?",
+      "options": {
+        "A": "Yakınlık",
+        "B": "Tekrar",
+        "C": "Zıtlık",
+        "D": "Hizalama"
+      },
+      "correctOption": "C",
+      "explanation": "Zıtlık ilkesi, önemli ögenin renk, boyut veya biçim farkıyla diğerlerinden ayrıştırılarak dikkatin o noktaya çekilmesidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 3,
+      "text": "Dale'nin yaşantı konisine göre öğrenmenin en kalıcı olduğu, öğrencinin sürece doğrudan katıldığı yaşantılar koninin hangi bölümünde yer alır?",
+      "options": {
+        "A": "Sözel semboller",
+        "B": "Görsel semboller",
+        "C": "Hareketsiz resimler",
+        "D": "Yaparak ve yaşayarak öğrenme"
+      },
+      "correctOption": "D",
+      "explanation": "Dale'nin yaşantı konisinin tabanında yaparak-yaşayarak öğrenme yer alır; öğrencinin etkin katıldığı bu yaşantılar en kalıcı öğrenmeyi sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 2,
+      "text": "Öğretmenin materyal seçerken dikkate alması gereken ölçütler arasında aşağıdakilerden hangisi yer almaz?",
+      "options": {
+        "A": "Materyalin öğretmenin kendi ilgi alanına uygun olması",
+        "B": "Öğrenci düzeyine uygunluk",
+        "C": "Öğretim hedeflerine uygunluk",
+        "D": "Ekonomik ve kullanışlı olması"
+      },
+      "correctOption": "A",
+      "explanation": "Materyal seçiminde öğretim hedefleri, öğrenci düzeyi, kullanışlılık ve ekonomi gibi ölçütler esastır; öğretmenin kişisel ilgisi belirleyici ölçüt değildir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 1,
+      "text": "Öğretmen ve öğrencilerin aynı anda çevrimiçi olarak derse katıldığı uzaktan eğitim türü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Asenkron öğrenme",
+        "B": "Senkron öğrenme",
+        "C": "Harmanlanmış öğrenme",
+        "D": "Bireysel öğrenme"
+      },
+      "correctOption": "B",
+      "explanation": "Senkron (eşzamanlı) öğrenmede öğretmen ve öğrenciler aynı anda çevrimiçi ortamda bulunur ve canlı etkileşim gerçekleşir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 2,
+      "text": "Öğrencilerin dilediği zaman ders materyallerine erişip kendi hızında öğrendiği, öğretmenle eşzamanlı iletişim gerektirmeyen uzaktan eğitim modeli aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Senkron öğrenme",
+        "B": "Yüz yüze öğretim",
+        "C": "Asenkron öğrenme",
+        "D": "Grup öğretimi"
+      },
+      "correctOption": "C",
+      "explanation": "Asenkron (eşzamansız) öğrenmede içerik zamandan ve mekândan bağımsız olarak sunulur; öğrenci kendi hızında ilerler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 3,
+      "text": "Kitlesel açık çevrimiçi derslerin (MOOC) temel özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca belirli bir sınıfa kapalı olması",
+        "B": "Dersleri yalnızca öğretmenin sunması",
+        "C": "Katılımcı sayısının sınırlı olması",
+        "D": "Çok sayıda katılımcıya açık olması ve genellikle ücretsiz sunulması"
+      },
+      "correctOption": "D",
+      "explanation": "MOOC'lar internet üzerinden çok sayıda katılımcıya açık, genellikle ücretsiz ve esnek katılımlı kitlesel çevrimiçi derslerdir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Harmanlanmış Öğrenme",
+      "difficulty": 2,
+      "text": "Yüz yüze öğretim ile çevrimiçi öğretimin belirli oranlarda birleştirildiği öğretim yaklaşımı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Harmanlanmış öğrenme",
+        "B": "Tamamen uzaktan eğitim",
+        "C": "Programlı öğretim",
+        "D": "Bireyselleştirilmiş öğretim"
+      },
+      "correctOption": "A",
+      "explanation": "Harmanlanmış (blended) öğrenme, yüz yüze ve çevrimiçi öğretimin güçlü yönlerini bir arada kullanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tersyüz Sınıf",
+      "difficulty": 2,
+      "text": "Öğrencinin ders içeriğini evde video ve materyallerle öğrenip sınıfta uygulama, tartışma ve problem çözme yaptığı model aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Harmanlanmış öğrenme",
+        "B": "Tersyüz sınıf (flipped classroom)",
+        "C": "Programlı öğretim",
+        "D": "Beyin fırtınası"
+      },
+      "correctOption": "B",
+      "explanation": "Tersyüz sınıf modelinde bilgi edinme evde çevrimiçi materyallerle, pekiştirme ve uygulama ise sınıfta yapılır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğrenme Yönetim Sistemi",
+      "difficulty": 1,
+      "text": "Ders materyallerinin paylaşıldığı, ödev ve sınavların yürütüldüğü çevrimiçi öğrenme platformlarına genel olarak ne ad verilir?",
+      "options": {
+        "A": "İşletim sistemi",
+        "B": "Veri tabanı",
+        "C": "Öğrenme yönetim sistemi (LMS)",
+        "D": "Arama motoru"
+      },
+      "correctOption": "C",
+      "explanation": "Öğrenme yönetim sistemleri, ders içeriğinin sunulması, ödev ve sınavların yürütülmesi ile öğrenci takibini bir arada sağlayan yazılımlardır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 2,
+      "text": "Öğrencilerin hazır görseller ve seslerle kendi anlatılarını oluşturduğu dijital hikâye çalışması, öğretimde en çok hangi beceriyi geliştirmeyi amaçlar?",
+      "options": {
+        "A": "Ezberleme",
+        "B": "Hızlı okuma",
+        "C": "Yazı yazma hızı",
+        "D": "Yaratıcılık ve dijital anlatım becerisi"
+      },
+      "correctOption": "D",
+      "explanation": "Dijital hikâye çalışmaları; yaratıcılığı, dijital araçları etkili kullanmayı ve anlatım becerilerini geliştirmeyi hedefler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Dijital Vatandaşlık",
+      "difficulty": 2,
+      "text": "Öğrencilere internette başkalarının kişisel bilgilerine saygı göstermeyi ve çevrimiçi ortamda nazik davranmayı öğretmek hangi kavramla ilgilidir?",
+      "options": {
+        "A": "Dijital vatandaşlık",
+        "B": "Programlama",
+        "C": "Veri madenciliği",
+        "D": "Donanım onarımı"
+      },
+      "correctOption": "A",
+      "explanation": "Dijital vatandaşlık; çevrimiçi ortamda etik davranmayı, mahremiyete saygıyı ve güvenli internet kullanımını kapsar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Telif ve Etik",
+      "difficulty": 2,
+      "text": "Bir öğretmenin çevrimiçi bir kaynaktan aldığı metni öğretimde kullanırken kaynağı belirtmesi hangi ilkeyle ilişkilidir?",
+      "options": {
+        "A": "Hız",
+        "B": "Akademik dürüstlük ve telif hakkına saygı",
+        "C": "Rekabet",
+        "D": "Ucuzluk"
+      },
+      "correctOption": "B",
+      "explanation": "Başkasına ait içeriğin kaynağını belirterek kullanmak telif hakkına saygının ve akademik dürüstlüğün gereğidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitsel Yazılımlar",
+      "difficulty": 3,
+      "text": "Bir öğretim yazılımının öğrencinin yanıtına göre soruların zorluk düzeyini otomatik olarak ayarlaması, yazılımın hangi özelliğini gösterir?",
+      "options": {
+        "A": "Sabit içerik sunması",
+        "B": "Yalnızca görsel içermesi",
+        "C": "Uyarlanabilir (adaptif) olması",
+        "D": "Çevrimdışı çalışması"
+      },
+      "correctOption": "C",
+      "explanation": "Adaptif yazılımlar, öğrencinin performansına göre içeriğin güçlüğünü ve akışını uyarlayarak bireyselleştirilmiş öğrenme sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitimde Bilişim Teknolojileri",
+      "difficulty": 2,
+      "text": "Öğretimde teknoloji kullanımının temel avantajı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğretmenin işini tamamen ortadan kaldırması",
+        "B": "Her öğrenciyi aynı hızda öğrenmeye zorlaması",
+        "C": "Sosyal etkileşimi tamamen engellemesi",
+        "D": "Öğrenmeyi zenginleştirip bireyselleştirmeye olanak sağlaması"
+      },
+      "correctOption": "D",
+      "explanation": "Teknoloji; çoklu ortam sunumu, geri bildirim ve esnek tempo ile öğrenmeyi zenginleştirir ve bireyselleştirmeyi kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Okuryazarlığı",
+      "difficulty": 1,
+      "text": "Teknoloji okuryazarı bir öğretmenin temel özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Teknolojiyi amacına uygun seçip güvenli ve etkili kullanabilmesi",
+        "B": "Her derste istisnasız teknoloji kullanması",
+        "C": "Yalnızca akıllı tahtayı kullanması",
+        "D": "Teknolojiyi hiç kullanmaması"
+      },
+      "correctOption": "A",
+      "explanation": "Teknoloji okuryazarlığı, teknolojiyi amaç doğrultusunda seçme, güvenli ve etik biçimde etkili kullanma becerisidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitsel Yazılımlar",
+      "difficulty": 2,
+      "text": "Akıllı tahtaların öğretimde sağladığı temel katkı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğretmeni gereksiz kılması",
+        "B": "Görsel-işitsel içerikleri etkileşimli biçimde sunabilmesi",
+        "C": "Öğrencilerin ödevlerini otomatik yapması",
+        "D": "Sınav sonuçlarını gizlemesi"
+      },
+      "correctOption": "B",
+      "explanation": "Akıllı tahtalar, çoklu ortam içeriklerini dokunmatik etkileşimle sunarak derse katılımı ve görselleştirmeyi artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Bireyin bir organında ya da sisteminde meydana gelen kayıp veya işlev bozukluğunu ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Özür",
+        "B": "Engel",
+        "C": "Yetersizlik",
+        "D": "Risk"
+      },
+      "correctOption": "C",
+      "explanation": "Yetersizlik (bozukluk), organ veya sistem düzeyindeki kayıp ya da işlev bozukluğunu ifade eder; özür ve engel ise bunun bireyin yaşamına yansıyan sonuçlarıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 3,
+      "text": "Özel eğitimde, yetersizliği olmadığı hâlde çevresel koşullar nedeniyle yetersizlik gösterme olasılığı yüksek olan bireyleri tanımlayan kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Üstün yetenekli birey",
+        "B": "Kaynaştırma öğrencisi",
+        "C": "Özel gereksinimli birey",
+        "D": "Risk grubundaki birey"
+      },
+      "correctOption": "D",
+      "explanation": "Risk grubundaki bireyler, olumsuz çevresel koşullar nedeniyle ileride yetersizlik geliştirme olasılığı yüksek olan ve erken desteklenmesi gereken bireylerdir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitimin, yetersizliğin ortaya çıkmasından sonra olabildiğince erken başlaması gerektiğini belirten ilke aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Erken tanı ve müdahale",
+        "B": "Süreklilik",
+        "C": "İş birliği",
+        "D": "Bireyselleştirme"
+      },
+      "correctOption": "A",
+      "explanation": "Erken tanı ve müdahale ilkesi, yetersizliğin mümkün olan en erken dönemde belirlenip eğitimin hemen başlatılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel gereksinimli öğrencinin ilgi, istek ve yeterliklerine göre hazırlanan, onun öğrenme hızına uygun eğitim sürecini ifade eden ilke aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Süreklilik",
+        "B": "Bireyselleştirme",
+        "C": "Kaynaştırma",
+        "D": "Genellik"
+      },
+      "correctOption": "B",
+      "explanation": "Bireyselleştirme ilkesi, eğitimin öğrencinin bireysel özelliklerine ve gereksinimlerine göre planlanmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 1,
+      "text": "Özel gereksinimli öğrencinin, normal gelişim gösteren akranlarıyla aynı sınıfta eğitim almasını sağlayan uygulama aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Destek eğitim odası",
+        "B": "Evde eğitim",
+        "C": "Kaynaştırma eğitimi",
+        "D": "Ayrı özel eğitim okulu"
+      },
+      "correctOption": "C",
+      "explanation": "Kaynaştırma eğitimi, özel gereksinimli öğrencinin akranlarıyla birlikte aynı sınıfta eğitim görmesini esas alır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 2,
+      "text": "Kaynaştırma öğrencisinin belirli derslerde, okul içinde özel olarak düzenlenmiş bir odada ek destek almasını sağlayan uygulama aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "BEP toplantısı",
+        "B": "Evde eğitim hizmeti",
+        "C": "Tanılama",
+        "D": "Destek eğitim odası"
+      },
+      "correctOption": "D",
+      "explanation": "Destek eğitim odası, kaynaştırma öğrencisine kendi sınıfından ayrılmadan bireysel veya küçük grup desteği verilen ortamdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 2,
+      "text": "Özel gereksinimli öğrenci için hazırlanan, öğrencinin mevcut performans düzeyi ile ulaşması beklenen amaçları içeren plan aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+        "B": "Yıllık ders planı",
+        "C": "Günlük plan",
+        "D": "Zümre tutanağı"
+      },
+      "correctOption": "A",
+      "explanation": "BEP, özel gereksinimli öğrencinin mevcut performansı, amaçları, hizmetleri ve değerlendirmesini içeren bireysel plandır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "Bireyselleştirilmiş Eğitim Programı hazırlanırken öncelikle aşağıdakilerden hangisi belirlenir?",
+      "options": {
+        "A": "Öğrencinin karne notu",
+        "B": "Öğrencinin mevcut performans düzeyi",
+        "C": "Sınıfın mevcudu",
+        "D": "Okulun fiziki koşulları"
+      },
+      "correctOption": "B",
+      "explanation": "BEP'in ilk ve belirleyici adımı, öğrencinin şu anda neler yapabildiğini tanımlayan mevcut performans düzeyinin belirlenmesidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "Bireyselleştirilmiş Eğitim Programı ekibiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ekipte yalnızca öğrencinin velisi bulunur.",
+        "B": "Ekip kararları öğretmen tarafından tek başına alınır.",
+        "C": "Ekipte öğretmenler, rehberlik öğretmeni, veli ve gerektiğinde öğrenci yer alır.",
+        "D": "Ekipte sağlık personeli bulunamaz."
+      },
+      "correctOption": "C",
+      "explanation": "BEP ekibi; öğrencinin öğretmenleri, rehberlik servisi, veli ve uygun olduğunda öğrencinin kendisi gibi farklı paydaşlardan oluşur."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yasal Düzenlemeler",
+      "difficulty": 2,
+      "text": "Türkiye'de özel eğitim hizmetlerinin yürütülmesinde rehberlik ve araştırma merkezlerinin (RAM) temel işlevi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrencilere karne notu vermek",
+        "B": "Okulların bütçesini yönetmek",
+        "C": "Ders programlarını hazırlamak",
+        "D": "Tanılama, değerlendirme ve uygun eğitim ortamına yönlendirme yapmak"
+      },
+      "correctOption": "D",
+      "explanation": "RAM'lar, özel gereksinimli bireylerin tanılanması, değerlendirilmesi ve uygun eğitim ortamına yönlendirilmesinden sorumludur."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yasal Düzenlemeler",
+      "difficulty": 1,
+      "text": "Türkiye'de özel eğitim hizmetlerinin yasal dayanağını oluşturan temel mevzuat aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Özel Eğitim Hizmetleri Yönetmeliği",
+        "B": "Trafik Kanunu",
+        "C": "Vergi Usul Kanunu",
+        "D": "Belediye Kanunu"
+      },
+      "correctOption": "A",
+      "explanation": "Özel Eğitim Hizmetleri Yönetmeliği, özel eğitim hizmetlerinin ilkelerini, kurumlarını ve işleyişini düzenleyen temel mevzuattır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Yetenek",
+      "difficulty": 2,
+      "text": "Üstün zekâlı ve yetenekli öğrencilerin tanılanmasında aşağıdakilerden hangisi kullanılır?",
+      "options": {
+        "A": "Yalnızca öğretmenin kişisel kanaati",
+        "B": "Zekâ ve yetenek testleriyle birlikte gözlem ve öğretmen görüşleri",
+        "C": "Yalnızca karne notları",
+        "D": "Yalnızca aile beyanı"
+      },
+      "correctOption": "B",
+      "explanation": "Üstün yeteneğin tanılanmasında standart testler tek başına yeterli olmadığından gözlem, öğretmen görüşü ve ürün değerlendirmesi de kullanılır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Yetenek",
+      "difficulty": 3,
+      "text": "Üstün zekâlı çocukların sıklıkla gösterdiği özellik aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İleriyi düşünememe",
+        "B": "Motor becerilerde akranlarının gerisinde kalma",
+        "C": "Erken ve hızlı dil gelişimi, yoğun merak ve yüksek düzeyde soyut düşünme",
+        "D": "Öğrenmeye karşı isteksizlik"
+      },
+      "correctOption": "C",
+      "explanation": "Üstün zekâlı çocuklar genellikle erken konuşma, hızlı öğrenme, güçlü merak ve soyut düşünme gibi özellikler gösterir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 2,
+      "text": "Hafif düzeyde zihinsel yetersizliği olan öğrenciler için aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Hiçbir zaman okuma yazma öğrenemezler.",
+        "B": "Her zaman ayrı özel eğitim okulunda eğitim almalıdır.",
+        "C": "Sürekli bakıma muhtaçtırlar.",
+        "D": "Uygun destekle temel akademik becerileri öğrenebilir ve kaynaştırma eğitiminden yararlanabilir."
+      },
+      "correctOption": "D",
+      "explanation": "Hafif düzeyde zihinsel yetersizliği olan öğrenciler, uygun destek ve uyarlamalarla akademik becerileri öğrenebilir ve kaynaştırma eğitiminden yararlanabilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 1,
+      "text": "Zekâ düzeyi normal olduğu hâlde okuma becerisinde belirgin ve sürekli güçlük yaşayan öğrencide en olası güçlük aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Disleksi",
+        "B": "Diskalkuli",
+        "C": "Disgrafi",
+        "D": "Afazi"
+      },
+      "correctOption": "A",
+      "explanation": "Disleksi, normal zekâya karşın okuma ve çözümleme alanında görülen özgül öğrenme güçlüğüdür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 2,
+      "text": "Yazı yazmada güçlük çeken, harfleri karıştıran ve el yazısı okunaksız olan bir öğrencide en olası güçlük aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Disleksi",
+        "B": "Disgrafi",
+        "C": "Diskalkuli",
+        "D": "Dizartri"
+      },
+      "correctOption": "B",
+      "explanation": "Disgrafi, yazı yazma becerisinde görülen özgül öğrenme güçlüğüdür; harf karıştırma ve okunaksız yazı tipik belirtileridir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 1,
+      "text": "Sayı kavramını ve matematiksel işlemleri öğrenmede belirgin zorluk yaşayan öğrencide en olası güçlük aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Disgrafi",
+        "B": "Disleksi",
+        "C": "Diskalkuli",
+        "D": "Disfazi"
+      },
+      "correctOption": "C",
+      "explanation": "Diskalkuli, sayı ve işlem becerilerinde görülen özgül öğrenme güçlüğüdür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 2,
+      "text": "Dikkatini toplamada güçlük, yerinde duramama ve dürtüsellik belirtileri gösteren bir öğrenci için en olası tanı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrenme güçlüğü",
+        "B": "Otizm spektrum bozukluğu",
+        "C": "Zihinsel yetersizlik",
+        "D": "Dikkat eksikliği ve hiperaktivite bozukluğu"
+      },
+      "correctOption": "D",
+      "explanation": "Dikkatsizlik, hiperaktivite ve dürtüsellik üçlüsü dikkat eksikliği ve hiperaktivite bozukluğunun temel belirtileridir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 2,
+      "text": "Göz teması kurmada güçlük, sınırlı ilgi alanları ve tekrarlayıcı davranışlar gösteren bir çocuk için en olası tanı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Otizm spektrum bozukluğu",
+        "B": "Disleksi",
+        "C": "İşitme yetersizliği",
+        "D": "Duygu ve davranış bozukluğu"
+      },
+      "correctOption": "A",
+      "explanation": "Sosyal iletişimde güçlük ile sınırlı ve tekrarlayıcı davranış örüntüsü otizm spektrum bozukluğunun temel özellikleridir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 2,
+      "text": "İşitme yetersizliği olan öğrencilerin eğitiminde aşağıdakilerden hangisi en uygun uyarlamadır?",
+      "options": {
+        "A": "Öğrencinin arka sıraya oturtulması",
+        "B": "Öğretmenin yüzü öğrenciye dönük konuşması, görsel materyal ve işaret desteği kullanması",
+        "C": "Yalnızca yazılı sınav yapılması",
+        "D": "Sınıfta hiç konuşulmaması"
+      },
+      "correctOption": "B",
+      "explanation": "İşitme yetersizliği olan öğrenci için görsel destek, dudak okuma fırsatı ve gerektiğinde işaret dili desteği sağlanması öğrenmeyi kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 3,
+      "text": "Az gören bir öğrencinin eğitiminde aşağıdakilerden hangisi uygun bir düzenlemedir?",
+      "options": {
+        "A": "Materyallerin küçültülmesi",
+        "B": "Sınıfın sürekli loş tutulması",
+        "C": "Büyük puntolu ve yüksek zıtlıklı materyallerin kullanılması",
+        "D": "Öğrencinin etkinliklerden çıkarılması"
+      },
+      "correctOption": "C",
+      "explanation": "Az gören öğrenciler için büyük punto, yüksek zıtlık ve uygun ışıklandırma ile görsel erişim artırılır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 2,
+      "text": "Sesleri doğru çıkaramama (artikülasyon bozukluğu) ve kekemelik gibi sorunlar hangi yetersizlik grubunda değerlendirilir?",
+      "options": {
+        "A": "Zihinsel yetersizlik",
+        "B": "İşitme yetersizliği",
+        "C": "Öğrenme güçlüğü",
+        "D": "Dil ve konuşma bozukluğu"
+      },
+      "correctOption": "D",
+      "explanation": "Artikülasyon bozukluğu, kekemelik ve ses bozuklukları dil ve konuşma bozuklukları başlığı altında ele alınır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Süreğen Hastalık",
+      "difficulty": 1,
+      "text": "Astım, diyabet gibi uzun süreli sağlık sorunları olan öğrencilere evde veya hastanede eğitim hizmeti verilmesi hangi kapsamda değerlendirilir?",
+      "options": {
+        "A": "Süreğen hastalık ve bedensel yetersizlik kapsamında özel eğitim",
+        "B": "Üstün yetenek eğitimi",
+        "C": "Mesleki eğitim",
+        "D": "Yaygın eğitim"
+      },
+      "correctOption": "A",
+      "explanation": "Süreğen hastalığı olan bireyler için sağlık kuruluşlarında veya evde özel eğitim hizmeti sunulması bedensel yetersizlik ve süreğen hastalık kapsamındadır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 3,
+      "text": "Akranlarıyla sürekli kavga eden, kurallara uymayan ve öfke patlamaları yaşayan bir öğrencide öncelikle hangi alan değerlendirilmelidir?",
+      "options": {
+        "A": "Görme yetersizliği",
+        "B": "Duygu ve davranış bozukluğu",
+        "C": "Dil ve konuşma bozukluğu",
+        "D": "Bedensel yetersizlik"
+      },
+      "correctOption": "B",
+      "explanation": "Akran ilişkilerinde saldırganlık, kural ihlali ve öfke kontrol sorunları duygu ve davranış bozukluğu alanında değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ölçme ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Özel eğitimde ölçme ve değerlendirme yapılırken aşağıdakilerden hangisi esas alınmalıdır?",
+      "options": {
+        "A": "Tüm öğrenciler için aynı standart testlerin kullanılması",
+        "B": "Yalnızca yazılı sınav yapılması",
+        "C": "Öğrencinin bireysel özelliklerine uygun, çoklu ve süreç odaklı değerlendirme yapılması",
+        "D": "Notların sınıf ortalamasına göre verilmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Özel eğitimde değerlendirme, öğrencinin bireysel özellikleri dikkate alınarak çoklu ölçme araçlarıyla ve gelişimi izleyen süreç odaklı biçimde yapılır."
+    }
+  ]
+}

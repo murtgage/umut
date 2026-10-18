@@ -1,0 +1,207 @@
+// Umut — KPSS oyunu veri modeli
+// Docs: https://pris.ly/d/prisma-schema
+//
+// Notlar:
+// - Better Auth modelleri (User/Session/Account/Verification) `@better-auth/cli`
+//   ile üretildi; elle değiştirirken Better Auth'un beklediği alan adlarını koru.
+// - SQLite'ta enum zorlanmadığı için "mode", "status", "role" gibi alanlar String
+//   olarak tutulur ve uygulama katmanında zod ile doğrulanır.
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+// ---------------------------------------------------------------------------
+// Better Auth
+// ---------------------------------------------------------------------------
+
+model User {
+  id              String    @id
+  name            String
+  email           String
+  emailVerified   Boolean   @default(false)
+  image           String?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  username        String?
+  displayUsername String?
+  role            String?   @default("PLAYER")
+  isAnonymous     Boolean   @default(false)
+  sessions        Session[]
+  accounts        Account[]
+  gameRuns        GameRun[]
+  stats           PlayerStats?
+
+  @@unique([email])
+  @@unique([username])
+  @@map("user")
+}
+
+model Session {
+  id        String   @id
+  expiresAt DateTime
+  token     String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  ipAddress String?
+  userAgent String?
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([token])
+  @@index([userId])
+  @@map("session")
+}
+
+model Account {
+  id                    String    @id
+  accountId             String
+  providerId            String
+  userId                String
+  user                  User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  accessToken           String?
+  refreshToken          String?
+  idToken               String?
+  accessTokenExpiresAt  DateTime?
+  refreshTokenExpiresAt DateTime?
+  scope                 String?
+  password              String?
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+
+  @@index([userId])
+  @@map("account")
+}
+
+model Verification {
+  id         String   @id
+  identifier String
+  value      String
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([identifier])
+  @@map("verification")
+}
+
+// ---------------------------------------------------------------------------
+// Soru bankası
+// ---------------------------------------------------------------------------
+
+model Category {
+  id          String     @id @default(cuid())
+  slug        String     @unique
+  name        String
+  description String?
+  color       String     @default("#6366f1")
+  icon        String?
+  sortOrder   Int        @default(0)
+  isActive    Boolean    @default(true)
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  questions   Question[]
+  gameRuns    GameRun[]
+
+  @@map("category")
+}
+
+model Question {
+  id            String       @id @default(cuid())
+  categoryId    String
+  category      Category     @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  text          String
+  optionA       String
+  optionB       String
+  optionC       String
+  optionD       String
+  correctOption String // "A" | "B" | "C" | "D"
+  explanation   String?
+  difficulty    Int          @default(2) // 1 kolay, 2 orta, 3 zor
+  topic         String?
+  source        String?
+  isActive      Boolean      @default(true)
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+  answers       GameAnswer[]
+
+  @@index([categoryId])
+  @@index([difficulty])
+  @@map("question")
+}
+
+// ---------------------------------------------------------------------------
+// Oyun
+// ---------------------------------------------------------------------------
+
+/// Tek bir oynanış (tur). Skor ve istatistikler tur bitince buradan türetilir.
+model GameRun {
+  id             String       @id @default(cuid())
+  userId         String
+  user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  mode           String       @default("QUICK") // QUICK | CATEGORY | DAILY | DUEL
+  categoryId     String?
+  category       Category?    @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+  status         String       @default("IN_PROGRESS") // IN_PROGRESS | COMPLETED | ABANDONED
+  totalQuestions Int
+  correctCount   Int          @default(0)
+  wrongCount     Int          @default(0)
+  skippedCount   Int          @default(0)
+  score          Int          @default(0)
+  bestStreak     Int          @default(0)
+  durationMs     Int          @default(0)
+  startedAt      DateTime     @default(now())
+  finishedAt     DateTime?
+  answers        GameAnswer[]
+
+  @@index([userId, status])
+  @@index([score])
+  @@map("game_run")
+}
+
+model GameAnswer {
+  id             String   @id @default(cuid())
+  runId          String
+  run            GameRun  @relation(fields: [runId], references: [id], onDelete: Cascade)
+  questionId     String
+  question       Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  position       Int // tur içindeki sıra (0 tabanlı)
+  selectedOption String? // null = boş bırakıldı / süre doldu
+  answered       Boolean  @default(false) // cevap verildi mi (boş bırakma da bir cevaptır)
+  isCorrect      Boolean  @default(false)
+  timeMs         Int      @default(0)
+  points         Int      @default(0)
+  answeredAt     DateTime?
+
+  @@unique([runId, position])
+  @@index([questionId])
+  @@index([runId])
+  @@map("game_answer")
+}
+
+/// Genel sıralama için denormalize edilmiş oyuncu istatistikleri.
+/// Her tur tamamlandığında tek bir transaction içinde güncellenir.
+model PlayerStats {
+  userId         String    @id
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  totalScore     Int       @default(0)
+  gamesPlayed    Int       @default(0)
+  gamesWon       Int       @default(0) // ileride düello galibiyetleri
+  questionsSeen  Int       @default(0)
+  correctAnswers Int       @default(0)
+  bestScore      Int       @default(0)
+  longestStreak  Int       @default(0)
+  xp             Int       @default(0)
+  level          Int       @default(1)
+  lastPlayedAt   DateTime?
+  updatedAt      DateTime  @updatedAt
+
+  @@index([totalScore])
+  @@index([xp])
+  @@map("player_stats")
+}

@@ -1,0 +1,844 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Bir okulda öğrenciye kazandırılması planlanan bilgi, beceri, tutum ve değerleri kapsayan; okul içinde ve dışında düzenlenen tüm öğrenme yaşantılarını içine alan en kapsamlı plan aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eğitim programı",
+        "B": "Öğretim programı",
+        "C": "Ders programı",
+        "D": "Ünite planı"
+      },
+      "correctOption": "A",
+      "explanation": "Eğitim programı, okul içi ve okul dışı tüm öğrenme yaşantılarını kapsayan en geniş kapsamlı programdır. Öğretim programı dersleri, ders programı ise tek bir dersi ele alır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Örtük Program",
+      "difficulty": 1,
+      "text": "Okulun fiziksel düzeni, öğretmenlerin öğrencilere yaklaşımı ve okul kültürü gibi yazılı olmayan ancak öğrenciye birtakım değer ve alışkanlıklar kazandıran program türü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Resmî program",
+        "B": "Örtük program",
+        "C": "Ekstra program",
+        "D": "İhmal edilen program"
+      },
+      "correctOption": "B",
+      "explanation": "Örtük (gizli) program, resmî belgelerde yazılı olmayan; okul iklimi, kurallar ve beklentilerle kendiliğinden kazandırılan öğrenmelerdir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Ekstra Program",
+      "difficulty": 2,
+      "text": "Resmî programın dışında kalan; izcilik, satranç kulübü, tiyatro gibi öğrencilerin gönüllü katıldığı etkinlikler hangi program kapsamında değerlendirilir?",
+      "options": {
+        "A": "Resmî program",
+        "B": "Örtük program",
+        "C": "Ekstra program",
+        "D": "Ders programı"
+      },
+      "correctOption": "C",
+      "explanation": "Ekstra program (program dışı etkinlikler), resmî programın yanında gönüllü katılımla yürütülen kulüp ve sosyal etkinliklerdir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Ders Programı",
+      "difficulty": 2,
+      "text": "Bir okulda yalnızca \"Hayat Bilgisi\" dersine ait kazanımların, içeriğin ve öğretim etkinliklerinin yer aldığı belge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eğitim programı",
+        "B": "Öğretim programı",
+        "C": "Okul programı",
+        "D": "Ders programı"
+      },
+      "correctOption": "D",
+      "explanation": "Ders programı, tek bir dersin kazanım, içerik ve öğretim süreçlerini kapsayan en dar kapsamlı programdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Felsefi Temel",
+      "difficulty": 2,
+      "text": "Programın yönünü belirleyen eğitimin amaçları, insan doğası, bilginin kaynağı ve değerlerin niteliği gibi konularda tercihler ortaya koyan temel aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Felsefi temel",
+        "B": "Psikolojik temel",
+        "C": "Sosyal temel",
+        "D": "Ekonomik temel"
+      },
+      "correctOption": "A",
+      "explanation": "Felsefi temel; eğitimin amaçları, insan doğası, bilgi ve değer anlayışı gibi konularda programın yönünü belirler."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Psikolojik Temel",
+      "difficulty": 1,
+      "text": "Programın öğrencilerin gelişim düzeylerine, öğrenme biçimlerine ve bireysel farklılıklarına göre düzenlenmesi hangi temele dayanır?",
+      "options": {
+        "A": "Tarihî temel",
+        "B": "Psikolojik temel",
+        "C": "Ekonomik temel",
+        "D": "Felsefi temel"
+      },
+      "correctOption": "B",
+      "explanation": "Psikolojik temel; öğrenme kuramları, gelişim özellikleri ve bireysel farklılıklara dayalı düzenlemeleri kapsar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sosyal Temel",
+      "difficulty": 2,
+      "text": "Program içeriğinin toplumun kültürel değerleri, demografik yapısı ve sosyal değişmeleri dikkate alınarak belirlenmesi hangi temelle açıklanır?",
+      "options": {
+        "A": "Ekonomik temel",
+        "B": "Psikolojik temel",
+        "C": "Sosyal temel",
+        "D": "Felsefi temel"
+      },
+      "correctOption": "C",
+      "explanation": "Sosyal temel; toplumun kültürünün, ihtiyaçlarının ve değişen yapısının programa yansıtılmasını ifade eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Ekonomik Temel",
+      "difficulty": 3,
+      "text": "Program geliştirme çalışmalarında ülkenin iş gücü ihtiyacının, mesleki yeterliklerin ve nitelikli insan gücü yetiştirme hedeflerinin dikkate alınması hangi temelle ilgilidir?",
+      "options": {
+        "A": "Sosyal temel",
+        "B": "Psikolojik temel",
+        "C": "Tarihî temel",
+        "D": "Ekonomik temel"
+      },
+      "correctOption": "D",
+      "explanation": "Ekonomik temel; kalkınma, iş gücü planlaması ve nitelikli insan gücü ihtiyacının programlara yansımasıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Konu Merkezli Tasarım",
+      "difficulty": 1,
+      "text": "Dünyanın ve evrenin yapısının tarih, fizik, kimya gibi ayrı disiplinler hâlinde ve her birinin kendi mantığı içinde öğretilmesini esas alan program tasarımı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Konu merkezli tasarım",
+        "B": "Öğrenci merkezli tasarım",
+        "C": "Sorun merkezli tasarım",
+        "D": "Yaşantı merkezli tasarım"
+      },
+      "correctOption": "A",
+      "explanation": "Konu merkezli tasarımda içerik, akademik disiplinlerin kendi yapısına ve mantığına göre düzenlenir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğrenci Merkezli Tasarım",
+      "difficulty": 2,
+      "text": "Programın öğrencinin ilgi ve ihtiyaçlarından yola çıkılarak doğrudan yaşantılar yoluyla düzenlenmesini savunan öğrenci merkezli tasarım aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Disiplin tasarımı",
+        "B": "Yaşantı merkezli tasarım",
+        "C": "Süreç tasarımı",
+        "D": "Geniş alanlı tasarım"
+      },
+      "correctOption": "B",
+      "explanation": "Yaşantı merkezli tasarım, programı öğrencinin ilgi ve ihtiyaçları temelinde doğrudan yaşantılarla yapılandırır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sorun Merkezli Tasarım",
+      "difficulty": 3,
+      "text": "Öğrencilere içinde yaşadıkları toplumun ve dünyanın gerçek sorunlarını inceleme ve çözme becerisi kazandırmayı amaçlayan sorun merkezli tasarım aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Çocuk merkezli tasarım",
+        "B": "Romantik (radikal) tasarım",
+        "C": "Toplumsal problemler ve yeniden kurmacılık tasarımı",
+        "D": "Konu tasarımı"
+      },
+      "correctOption": "C",
+      "explanation": "Toplumsal problemler ve yeniden kurmacılık tasarımı, toplumun sorunlarını merkeze alarak öğrenciyi toplumsal değişime hazırlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Konu Merkezli Tasarım",
+      "difficulty": 2,
+      "text": "Benzer konuların tek bir başlık altında birleştirilerek ilişkili disiplinlerin bütünleşik biçimde öğretilmesini öngören konu merkezli tasarım aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Konu tasarımı",
+        "B": "Disiplin tasarımı",
+        "C": "Süreç tasarımı",
+        "D": "Geniş alanlı tasarım"
+      },
+      "correctOption": "D",
+      "explanation": "Geniş alanlı (broad fields) tasarımda birbirine yakın disiplinler birleştirilerek disiplinler arası bütünlük sağlanır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Taba Modeli",
+      "difficulty": 2,
+      "text": "Program geliştirmeyi okul düzeyinde başlatan, tümevarımcı bir yaklaşımla yedi basamaklı bir model öneren ve sürece öğretmenlerin katılımını vurgulayan eğitimci kimdir?",
+      "options": {
+        "A": "Hilda Taba",
+        "B": "Ralph Tyler",
+        "C": "Benjamin Bloom",
+        "D": "John Dewey"
+      },
+      "correctOption": "A",
+      "explanation": "Hilda Taba, program geliştirmeyi okul düzeyinde başlatan tümevarımcı ve yedi basamaklı modeliyle tanınır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Tyler Modeli",
+      "difficulty": 2,
+      "text": "\"Okulun ulaşmaya çalıştığı eğitim amaçları nelerdir?\" sorusuyla başlayan ve hedeflere ulaşma derecesinin ölçülmesini esas alan değerlendirme yaklaşımı kime aittir?",
+      "options": {
+        "A": "Stufflebeam",
+        "B": "Ralph Tyler",
+        "C": "Kirkpatrick",
+        "D": "Hilda Taba"
+      },
+      "correctOption": "B",
+      "explanation": "Tyler'ın hedeflere ulaşma modeli, programın belirlenen hedeflere ne ölçüde ulaştığının ölçülmesini temel alır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 1,
+      "text": "Öğrenilen içeriğin öğrenci tarafından kendi cümleleriyle açıklanması, sınıflandırılması ve neden-sonuç ilişkisi kurularak genellenmesi Bloom'un bilişsel alan basamaklarından hangisine aittir?",
+      "options": {
+        "A": "Bilgi",
+        "B": "Uygulama",
+        "C": "Kavrama",
+        "D": "Analiz"
+      },
+      "correctOption": "C",
+      "explanation": "Kavrama basamağı; anlama, açıklama, özetleme, sınıflandırma ve genelleme gibi davranışları kapsar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 2,
+      "text": "\"Öğrendiği kuralları kullanarak daha önce karşılaşmadığı bir problemi çözme\" davranışı Bloom'un bilişsel alan basamaklarından hangisine aittir?",
+      "options": {
+        "A": "Bilgi",
+        "B": "Kavrama",
+        "C": "Analiz",
+        "D": "Uygulama"
+      },
+      "correctOption": "D",
+      "explanation": "Uygulama basamağı, öğrenilen bilgi ve kuralların yeni durumlara aktarılarak kullanılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Güncellenmiş Bloom",
+      "difficulty": 2,
+      "text": "Bloom'un güncellenmiş taksonomisinde, ögeleri birleştirerek özgün ve yeni bir ürün ortaya koymayı gerektiren en üst düzey basamak hangisidir?",
+      "options": {
+        "A": "Yaratma",
+        "B": "Değerlendirme",
+        "C": "Analiz",
+        "D": "Uygulama"
+      },
+      "correctOption": "A",
+      "explanation": "Güncellenmiş taksonomide en üst basamak olan yaratma, ögeleri yeni ve özgün biçimde birleştirmeyi ifade eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Duyuşsal Alan",
+      "difficulty": 3,
+      "text": "Duyuşsal alanın sınıflandırılmasında bireyin farklı değerleri karşılaştırıp aralarındaki çatışmaları çözerek kendi değer sistemini oluşturması hangi basamakla ilgilidir?",
+      "options": {
+        "A": "Alma",
+        "B": "Örgütleme",
+        "C": "Tepkide bulunma",
+        "D": "Kişilik hâline getirme"
+      },
+      "correctOption": "B",
+      "explanation": "Örgütleme basamağı, farklı değerleri ilişkilendirip çatışmaları çözerek tutarlı bir değer sistemi kurmayı ifade eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Psikomotor Alan",
+      "difficulty": 3,
+      "text": "Psikomotor alan sınıflamasına göre öğrenilen bir hareketin alışkanlık hâline gelerek otomatik ve akıcı biçimde yapılması hangi basamağa aittir?",
+      "options": {
+        "A": "Algılama",
+        "B": "Kılavuzlu yapma",
+        "C": "Beceri hâline getirme",
+        "D": "Uyum"
+      },
+      "correctOption": "C",
+      "explanation": "Beceri hâline getirme (otomatikleşme) basamağında hareket, düşünmeden ve akıcı biçimde yapılabilecek kadar alışkanlık hâline gelir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedef Yazma İlkeleri",
+      "difficulty": 3,
+      "text": "Mager'in hedef yazma yaklaşımına göre \"Öğrenci, kelimelerin anlamını sözlükten bulup kendi defterine yazar.\" ifadesinde eksik olan öge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Davranış",
+        "B": "Koşul",
+        "C": "Öğrenci",
+        "D": "Ölçüt"
+      },
+      "correctOption": "D",
+      "explanation": "Mager'e göre hedefte davranış, koşul ve ölçüt bulunmalıdır. İfadede davranış ile koşul belirtilmiş, ancak kabul edilebilir başarı düzeyini gösteren ölçüt verilmemiştir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedef Yazma İlkeleri",
+      "difficulty": 2,
+      "text": "Bloom'un dört basamaklı hedef yazma yaklaşımına göre \"Öğrenci, verilen şiiri kendi cümleleriyle en az üç cümle kullanarak açıklar.\" hedefinde \"en az üç cümle kullanarak\" ifadesi hangi ögeye karşılık gelir?",
+      "options": {
+        "A": "Ölçüt",
+        "B": "Davranış",
+        "C": "İçerik",
+        "D": "Öğrenci"
+      },
+      "correctOption": "A",
+      "explanation": "Bloom'un hedef yazma yaklaşımında ölçüt, davranışın kabul edilebilir başarı düzeyini gösterir; \"en az üç cümle\" bu ölçüttür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "İçerik Düzenleme",
+      "difficulty": 2,
+      "text": "Bir konunun farklı sınıf düzeylerinde genişletilerek ve derinleştirilerek tekrar ele alınmasını öngören içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğrusal",
+        "B": "Sarmal",
+        "C": "Modüler",
+        "D": "Piramitsel"
+      },
+      "correctOption": "B",
+      "explanation": "Sarmal (spiral) yaklaşımda konular her düzeyde daha kapsamlı ve derin biçimde yinelenerek öğrenilir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "İçerik Düzenleme",
+      "difficulty": 1,
+      "text": "İçeriğin birbirini izleyen ve her biri bir öncekinin ön koşulu olan küçük adımlar hâlinde, tekrar edilmeden sıralanmasını öngören yaklaşım hangisidir?",
+      "options": {
+        "A": "Sarmal",
+        "B": "Piramitsel",
+        "C": "Doğrusal",
+        "D": "Sorgulama merkezli"
+      },
+      "correctOption": "C",
+      "explanation": "Doğrusal yaklaşımda içerik, ön koşul ilişkisi içinde adım adım ve tekrar edilmeden sıralanır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "İçerik Düzenleme",
+      "difficulty": 3,
+      "text": "İçeriğin merak uyandıran sorular etrafında düzenlendiği ve öğrencinin araştırma ile sorgulama yoluyla bilgiye ulaşmasının beklendiği içerik düzenleme yaklaşımı hangisidir?",
+      "options": {
+        "A": "Modüler",
+        "B": "Piramitsel",
+        "C": "Doğrusal",
+        "D": "Sorgulama merkezli"
+      },
+      "correctOption": "D",
+      "explanation": "Sorgulama merkezli düzenlemede içerik, öğrencinin soru sormasını ve araştırma yapmasını sağlayacak sorunlar etrafında yapılandırılır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Eğitim Durumları",
+      "difficulty": 2,
+      "text": "Program geliştirmede hedeflere ulaşmak için öğrenciye yaşatılacak etkinliklerin, kullanılacak yöntemlerin ve materyallerin düzenlendiği öge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eğitim durumları",
+        "B": "Sınama durumları",
+        "C": "İçerik",
+        "D": "Hedef"
+      },
+      "correctOption": "A",
+      "explanation": "Eğitim durumları (öğrenme yaşantıları), hedeflere ulaşmak için düzenlenen öğretim etkinlikleri, yöntem ve materyalleri kapsar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "CIPP Modeli",
+      "difficulty": 3,
+      "text": "Eğitimde program değerlendirmeyi bağlam, girdi, süreç ve ürün boyutlarında ele alan ve değerlendirmeyi karar verme sürecine hizmet eden bir etkinlik olarak tanımlayan yaklaşım hangisidir?",
+      "options": {
+        "A": "Tyler modeli",
+        "B": "CIPP modeli",
+        "C": "Stake modeli",
+        "D": "Provus modeli"
+      },
+      "correctOption": "B",
+      "explanation": "Stufflebeam'in geliştirdiği CIPP modeli; bağlam, girdi, süreç ve ürün boyutlarını kapsar ve karar vermeye hizmet eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Stake Modeli",
+      "difficulty": 3,
+      "text": "Program değerlendirmeyi hazırlık, işlem ve ürün ögeleri ile amaçlar ve önceden belirlenmiş standartlar arasındaki uygunluğu ortaya koyan bir süreç olarak açıklayan kuramcı kimdir?",
+      "options": {
+        "A": "Stufflebeam",
+        "B": "Malcolm Provus",
+        "C": "Robert Stake",
+        "D": "Ralph Tyler"
+      },
+      "correctOption": "C",
+      "explanation": "Robert Stake'in uygunluk modeli, programın hazırlık, işlem ve ürün ögelerini amaç ve standartlarla karşılaştırır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Provus Modeli",
+      "difficulty": 3,
+      "text": "Programın gerçek performansını belirlenen standartlarla karşılaştırıp aradaki farkları tespit etmeyi temel alan ve \"farklar modeli\" olarak da bilinen değerlendirme yaklaşımı kime aittir?",
+      "options": {
+        "A": "Kirkpatrick",
+        "B": "Hilda Taba",
+        "C": "Robert Stake",
+        "D": "Malcolm Provus"
+      },
+      "correctOption": "D",
+      "explanation": "Provus'un farklar modeli, programın performansı ile standartlar arasındaki farkları belirleyerek programın geliştirilmesini amaçlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Kirkpatrick Modeli",
+      "difficulty": 2,
+      "text": "Bir hizmet içi eğitim programını tepki, öğrenme, davranış ve sonuç olmak üzere dört düzeyde değerlendirmeyi öneren model aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kirkpatrick modeli",
+        "B": "CIPP modeli",
+        "C": "Tyler modeli",
+        "D": "Stake modeli"
+      },
+      "correctOption": "A",
+      "explanation": "Kirkpatrick'in dört düzeyli modeli; tepki, öğrenme, davranış ve sonuç düzeylerinde değerlendirmeyi öngörür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Değerlendirme Türleri",
+      "difficulty": 1,
+      "text": "Bir öğretmenin ünite işlenirken öğrencilere kısa ara sınavlar uygulayıp eksik öğrenmeleri belirlemesi ve öğretimi hemen düzeltmesi hangi değerlendirme türüne örnektir?",
+      "options": {
+        "A": "Düzey belirleyici değerlendirme",
+        "B": "Biçimlendirici değerlendirme",
+        "C": "Tanılayıcı değerlendirme",
+        "D": "Ölçüt dayanaklı değerlendirme"
+      },
+      "correctOption": "B",
+      "explanation": "Biçimlendirici değerlendirme, öğretim sürerken yapılır ve eksik öğrenmeleri belirleyip öğretimi düzeltmeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Bir niteliğin gözlenerek gözlem sonucunun sayı ya da sembollerle ifade edilmesine ne ad verilir?",
+      "options": {
+        "A": "Ölçme",
+        "B": "Değerlendirme",
+        "C": "Ölçüt",
+        "D": "Yargı"
+      },
+      "correctOption": "A",
+      "explanation": "Ölçme, bir niteliğin gözlenip gözlem sonucunun sayı ya da sembollerle ifade edilmesidir. Değerlendirme ise ölçme sonuçlarının bir ölçütle karşılaştırılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Ölçme sonuçlarının karşılaştırıldığı, kabul edilebilir en düşük performans düzeyini gösteren ve değerlendirmeye temel olan kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ölçme",
+        "B": "Ölçüt",
+        "C": "Puan",
+        "D": "İstatistik"
+      },
+      "correctOption": "B",
+      "explanation": "Ölçüt, ölçme sonuçlarının karşılaştırıldığı ve yargıya dönüştürüldüğü referans ya da kabul edilebilir düzeydir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Öğrencinin matematik dersinden 80 puan aldığını gören öğretmenin \"Bu puan başarılı sayılabilir.\" yargısına ulaşması hangi süreci tanımlar?",
+      "options": {
+        "A": "Ölçme",
+        "B": "Ölçekleme",
+        "C": "Değerlendirme",
+        "D": "Puanlama"
+      },
+      "correctOption": "C",
+      "explanation": "Değerlendirme, ölçme sonuçlarının bir ölçütle karşılaştırılarak yargıya dönüştürülmesidir; öğretmen 80 puanı bir ölçütle karşılaştırıp yargıya varmıştır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 2,
+      "text": "Öğrencileri göz rengine göre \"mavi, yeşil, kahverengi\" biçiminde gruplandıran bir öğretmen hangi ölçek türünü kullanmıştır?",
+      "options": {
+        "A": "Oranlı ölçek",
+        "B": "Eşit aralıklı ölçek",
+        "C": "Sıralama ölçeği",
+        "D": "Sınıflama ölçeği"
+      },
+      "correctOption": "D",
+      "explanation": "Sınıflama ölçeğinde nesneler belirli özelliklerine göre birbirinden ayrı gruplara yerleştirilir; gruplar arasında sıra ya da büyüklük ilişkisi yoktur."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 1,
+      "text": "Bir öğretmenin öğrencilerini ders başarılarına göre \"en başarılıdan en az başarılıya\" doğru sıralaması hangi ölçek türüne örnektir?",
+      "options": {
+        "A": "Sıralama ölçeği",
+        "B": "Sınıflama ölçeği",
+        "C": "Eşit aralıklı ölçek",
+        "D": "Oranlı ölçek"
+      },
+      "correctOption": "A",
+      "explanation": "Sıralama ölçeğinde nesneler belirli bir özellik bakımından büyükten küçüğe sıralanır, ancak sıralar arasındaki farkların eşit olduğu söylenemez."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 2,
+      "text": "Sıfır noktası doğal olmayan, aralıklar arasındaki farkların eşit kabul edildiği ancak \"iki katı\" gibi oran ifadelerinin kullanılamadığı ölçek türü hangisidir?",
+      "options": {
+        "A": "Sınıflama ölçeği",
+        "B": "Eşit aralıklı ölçek",
+        "C": "Oranlı ölçek",
+        "D": "Sıralama ölçeği"
+      },
+      "correctOption": "B",
+      "explanation": "Eşit aralıklı ölçekte aralıklar eşit ancak sıfır noktası yapaydır; bu nedenle ölçülen değerler arasında oran kurulamaz."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 3,
+      "text": "Sıfır noktası doğal olan ve \"Ali'nin boyu, Ayşe'nin boyunun iki katıdır.\" gibi oran karşılaştırmasına izin veren ölçek türü hangisidir?",
+      "options": {
+        "A": "Sınıflama ölçeği",
+        "B": "Sıralama ölçeği",
+        "C": "Oranlı ölçek",
+        "D": "Eşit aralıklı ölçek"
+      },
+      "correctOption": "C",
+      "explanation": "Oranlı ölçekte gerçek (mutlak) sıfır noktası bulunur; bu nedenle ölçülen değerler arasında oran kurulabilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme Hataları",
+      "difficulty": 3,
+      "text": "Bir öğretmenin sınav kâğıtlarını puanlarken tüm öğrencilerin puanlarını yanlışlıkla 5 puan artırması, her öğrenciyi aynı yönde ve aynı miktarda etkileyen hangi ölçme hatasına örnektir?",
+      "options": {
+        "A": "Tesadüfi hata",
+        "B": "Sistematik hata",
+        "C": "Örnekleme hatası",
+        "D": "Sabit hata"
+      },
+      "correctOption": "D",
+      "explanation": "Sabit hata, ölçülen büyüklüğe bakılmaksızın her ölçmeyi aynı yönde ve aynı miktarda etkiler; tüm puanlara 5 puan eklenmesi böyle bir hatadır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme Hataları",
+      "difficulty": 2,
+      "text": "Sınav kâğıtlarını puanlarken öğretmenin dikkat düzeyinin değişmesi sonucu bazı kâğıtlara daha yüksek, bazılarına daha düşük puan vermesi hangi hata türüdür?",
+      "options": {
+        "A": "Tesadüfi hata",
+        "B": "Sabit hata",
+        "C": "Sistematik hata",
+        "D": "Standart hata"
+      },
+      "correctOption": "A",
+      "explanation": "Tesadüfi hata, kaynağı ve yönü önceden bilinmeyen, ölçmeden ölçmeye değişen hatalardır; dikkat değişkenliği buna örnektir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 2,
+      "text": "Bir öğretmenin matematik sınavının yalnızca \"kesirler\" konusundan sorular içerdiği, \"geometri\" konusuna hiç yer vermediği görülmüştür. Bu durum testin hangi geçerlik türünü olumsuz etkiler?",
+      "options": {
+        "A": "Görünüş geçerliği",
+        "B": "Kapsam geçerliği",
+        "C": "Yapı geçerliği",
+        "D": "Ölçüt geçerliği"
+      },
+      "correctOption": "B",
+      "explanation": "Kapsam geçerliği, testin hedeflenen konu alanının tüm boyutlarını yeterince temsil etmesidir; bir konunun dışarıda bırakılması kapsam geçerliğini bozar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 3,
+      "text": "Geliştirilen bir ölçeğin gerçekten \"akademik öz yeterlik\" gibi tek bir kuramsal özelliği mi ölçtüğü, yoksa başka özellikleri de karıştırdığı araştırılmaktadır. Bu çalışma hangi geçerlik türüyle ilgilidir?",
+      "options": {
+        "A": "Kapsam geçerliği",
+        "B": "Görünüş geçerliği",
+        "C": "Yapı geçerliği",
+        "D": "Ölçüt geçerliği"
+      },
+      "correctOption": "C",
+      "explanation": "Yapı geçerliği, ölçme aracının ölçmeyi amaçladığı kuramsal yapıyı ne ölçüde ölçtüğünü ortaya koymayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 2,
+      "text": "Yeni geliştirilen bir seçme sınavının puanları, öğrencilerin bir yıl sonraki akademik başarılarıyla yüksek ilişki göstermiştir. Bu bulgu testin hangi geçerlik türüne kanıt oluşturur?",
+      "options": {
+        "A": "Kapsam geçerliği",
+        "B": "Görünüş geçerliği",
+        "C": "Yapı geçerliği",
+        "D": "Ölçüt geçerliği"
+      },
+      "correctOption": "D",
+      "explanation": "Ölçüt geçerliği, test puanlarının gelecekteki ya da eşzamanlı bir ölçütle ilişkisini ortaya koyar; söz konusu ilişki yordama geçerliği kapsamındadır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 1,
+      "text": "Bir ölçme aracının, uzman görüşü alınmadan yalnızca öğrencilere \"bilimsel ve ciddi görünmesi\" ile ilgili geçerlik türü hangisidir?",
+      "options": {
+        "A": "Görünüş geçerliği",
+        "B": "Kapsam geçerliği",
+        "C": "Yapı geçerliği",
+        "D": "Ölçüt geçerliği"
+      },
+      "correctOption": "A",
+      "explanation": "Görünüş geçerliği, ölçme aracının ölçülen özellikle ilgili kişilerce ne kadar uygun göründüğüyle ilgilidir ve bilimsel geçerlik kanıtı sayılmaz."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 2,
+      "text": "Bir öğretmen, hazırladığı testi aynı öğrenci grubuna üç hafta arayla iki kez uygulamış ve iki uygulamadan elde edilen puanlar arasında yüksek ilişki bulmuştur. Bu yöntem hangi güvenirlik türünü belirler?",
+      "options": {
+        "A": "İç tutarlılık güvenirliği",
+        "B": "Test-tekrar test güvenirliği",
+        "C": "Eşdeğer formlar güvenirliği",
+        "D": "Puanlayıcılar arası güvenirlik"
+      },
+      "correctOption": "B",
+      "explanation": "Test-tekrar test güvenirliği, aynı testin aynı gruba belirli aralıklarla iki kez uygulanmasıyla elde edilen puanların tutarlılığını gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 2,
+      "text": "Bir sınavdaki maddelerin birbiriyle tutarlı biçimde aynı özelliği ölçüp ölçmediğini, tek uygulamayla ve KR-20 ya da Cronbach alfa katsayısıyla belirleyen güvenirlik türü hangisidir?",
+      "options": {
+        "A": "Test-tekrar test güvenirliği",
+        "B": "Eşdeğer formlar güvenirliği",
+        "C": "İç tutarlılık güvenirliği",
+        "D": "Puanlayıcılar arası güvenirlik"
+      },
+      "correctOption": "C",
+      "explanation": "İç tutarlılık güvenirliği, testin maddeleri arasındaki tutarlılığı tek uygulamayla, KR-20 veya Cronbach alfa gibi katsayılarla belirler."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 3,
+      "text": "Bir testin maddeleri tek ve çift numaralı olacak biçimde iki yarıya ayrılmış, iki yarıdan alınan puanlar arasındaki ilişki hesaplanmıştır. Kullanılan güvenirlik yöntemi hangisidir?",
+      "options": {
+        "A": "Test-tekrar test",
+        "B": "Eşdeğer formlar",
+        "C": "Puanlayıcılar arası güvenirlik",
+        "D": "Test yarılama"
+      },
+      "correctOption": "D",
+      "explanation": "Test yarılama yönteminde test iki eşdeğer yarıya bölünür ve yarımlar arasındaki tutarlılığa bakılarak güvenirlik kestirilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 2,
+      "text": "Bir kompozisyon sınavını iki farklı öğretmenin puanlaması ve verilen puanlar arasındaki tutarlılığın incelenmesi hangi güvenirlik türüyle ilgilidir?",
+      "options": {
+        "A": "Puanlayıcılar arası güvenirlik",
+        "B": "Test-tekrar test güvenirliği",
+        "C": "Eşdeğer formlar güvenirliği",
+        "D": "İç tutarlılık güvenirliği"
+      },
+      "correctOption": "A",
+      "explanation": "Puanlayıcılar arası güvenirlik, birden fazla puanlayıcının verdiği puanlar arasındaki tutarlılığı ifade eder."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 1,
+      "text": "Bir maddeyi doğru yanıtlayan öğrenci sayısı arttıkça maddenin güçlük indeksi için ne söylenebilir?",
+      "options": {
+        "A": "Madde daha zor hâle gelir.",
+        "B": "Madde daha kolay hâle gelir.",
+        "C": "Maddenin ayırt ediciliği artar.",
+        "D": "Maddenin güvenirliği düşer."
+      },
+      "correctOption": "B",
+      "explanation": "Madde güçlük indeksi, maddeyi doğru yanıtlayanların oranıdır; bu oran yükseldikçe madde kolaylaşır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 3,
+      "text": "Bir maddenin ayırt edicilik indeksinin 0,45 olarak bulunması ne anlama gelir?",
+      "options": {
+        "A": "Madde çok kolaydır.",
+        "B": "Madde çok zordur.",
+        "C": "Madde, bilenle bilmeyeni iyi ayırt etmektedir.",
+        "D": "Madde ters çalışmaktadır."
+      },
+      "correctOption": "C",
+      "explanation": "Ayırt edicilik indeksi 0,40'ın üzerinde olan maddeler, üst ve alt grupları iyi ayırt eden güçlü maddelerdir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Madde analizi sonucunda çoktan seçmeli bir maddenin C seçeneğini hiçbir öğrencinin işaretlemediği görülmüştür. Bu bulgu hangi analizle ilgilidir?",
+      "options": {
+        "A": "Madde güçlük indeksi",
+        "B": "Test yarılama",
+        "C": "Ayırt edicilik indeksi",
+        "D": "Çeldirici analizi"
+      },
+      "correctOption": "D",
+      "explanation": "Çeldirici analizi, hangi seçeneğin ne sıklıkla işaretlendiğini inceler; hiç işaretlenmeyen bir çeldirici çalışmıyor demektir ve düzeltilmelidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test Türleri",
+      "difficulty": 2,
+      "text": "Öğrencilerin belirli bir dönemde öğrendikleri bilgi ve becerileri ne düzeyde kazandıklarını belirlemek amacıyla yapılan test türü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Başarı testi",
+        "B": "Yetenek testi",
+        "C": "Tutum ölçeği",
+        "D": "İlgi envanteri"
+      },
+      "correctOption": "A",
+      "explanation": "Başarı testleri, belirli bir öğretim süreci sonunda kazanılan bilgi ve becerileri ölçmeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test Türleri",
+      "difficulty": 2,
+      "text": "Öğrencilerin fen bilimleri dersine yönelik olumlu ya da olumsuz duygusal eğilimlerini belirlemek için geliştirilen ölçme aracı hangi türdedir?",
+      "options": {
+        "A": "Başarı testi",
+        "B": "Tutum ölçeği",
+        "C": "Yetenek testi",
+        "D": "Kişilik testi"
+      },
+      "correctOption": "B",
+      "explanation": "Tutum ölçekleri, bireylerin bir nesne ya da duruma yönelik duygusal eğilimlerini ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Merkezî Eğilim Ölçüleri",
+      "difficulty": 2,
+      "text": "Bir öğretmen sınav kâğıtlarını puanlarken birkaç uç puanın aritmetik ortalamayı etkilediğini görmüş ve dağılımın tam ortasındaki değeri belirlemek istemiştir. Bu durumda kullanması uygun olan ölçü hangisidir?",
+      "options": {
+        "A": "Aritmetik ortalama",
+        "B": "Ranj",
+        "C": "Ortanca (medyan)",
+        "D": "Standart sapma"
+      },
+      "correctOption": "C",
+      "explanation": "Ortanca, dağılımı iki eşit parçaya bölen değerdir ve uç değerlerden aritmetik ortalamaya göre daha az etkilenir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Dağılım Ölçüleri",
+      "difficulty": 2,
+      "text": "Aynı sınava giren iki sınıfın puan ortalamaları eşit olmasına karşın bir sınıfta puanlar birbirine çok yakın, diğerinde çok dağınıktır. Bu iki sınıf arasındaki fark hangi istatistikle açıklanır?",
+      "options": {
+        "A": "Aritmetik ortalama",
+        "B": "Tepe değer",
+        "C": "Ortanca",
+        "D": "Standart sapma"
+      },
+      "correctOption": "D",
+      "explanation": "Standart sapma, puanların ortalamadan ne kadar saptığını, yani dağılımın yayılımını gösterir; ortalamalar eşit olsa da yayılımlar farklı olabilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Normal Dağılım",
+      "difficulty": 2,
+      "text": "Ortalaması 100 olan bir zekâ puanı dağılımı normale uygun olduğuna göre 100 puan alan bir öğrencinin yüzdelik sırası yaklaşık olarak kaçtır?",
+      "options": {
+        "A": "50",
+        "B": "84",
+        "C": "16",
+        "D": "100"
+      },
+      "correctOption": "A",
+      "explanation": "Normal dağılımda ortalamanın yüzdelik sırası 50'dir; birey, grubun yaklaşık yarısından daha başarılıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 2,
+      "text": "Z puanına ilişkin olarak aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Ortalaması 50, standart sapması 10'dur.",
+        "B": "Ortalaması 0, standart sapması 1'dir.",
+        "C": "Yalnızca 0 ile 100 arasında değer alır.",
+        "D": "Hiçbir zaman negatif değer alamaz."
+      },
+      "correctOption": "B",
+      "explanation": "Z puanı, ortalaması 0 ve standart sapması 1 olan standart bir puandır; ortalamanın altındaki değerler negatif olur."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 3,
+      "text": "Ortalaması 50 ve standart sapması 10 olan, z puanının daha kolay yorumlanabilmesi için dönüştürüldüğü standart puan aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Z puanı",
+        "B": "Yüzdelik sıra",
+        "C": "T puanı",
+        "D": "Ham puan"
+      },
+      "correctOption": "C",
+      "explanation": "T puanı, z puanının ortalaması 50 ve standart sapması 10 olacak biçimde (T = 10z + 50) dönüştürülmesiyle elde edilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Not Verme",
+      "difficulty": 2,
+      "text": "Bir öğretmen, öğrencilerin notlarını sınıf ortalamasını ve puanların dağılımını dikkate alarak sınıftaki sıralamaya göre belirlemiştir. Kullanılan not verme yaklaşımı hangisidir?",
+      "options": {
+        "A": "Mutlak (ölçüt dayanaklı) not verme",
+        "B": "Karma not verme",
+        "C": "Öz değerlendirme",
+        "D": "Bağıl (norm dayanaklı) not verme"
+      },
+      "correctOption": "D",
+      "explanation": "Bağıl not vermede öğrencinin puanı grubun performansıyla karşılaştırılır ve not, sınıf içindeki sıralamaya göre verilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme Araçları",
+      "difficulty": 1,
+      "text": "Bir öğretmen, öğrenci performansını düzen, içerik ve özgünlük gibi birden fazla ölçüt ile her ölçüt için tanımlanmış başarı düzeyleri kullanarak değerlendirmiştir. Kullanılan ölçme aracı hangisidir?",
+      "options": {
+        "A": "Dereceli puanlama anahtarı (rubrik)",
+        "B": "Doğru-yanlış testi",
+        "C": "Eşleştirme testi",
+        "D": "Kısa cevaplı test"
+      },
+      "correctOption": "A",
+      "explanation": "Rubrik (dereceli puanlama anahtarı), performansı ölçütler ve düzeyler temelinde puanlamaya imkân veren bir değerlendirme aracıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme Araçları",
+      "difficulty": 1,
+      "text": "Öğretmenin, grup çalışması sonrasında öğrencilerden hem grup arkadaşlarını hem de kendilerini değerlendirmelerini istemesi hangi değerlendirme yaklaşımlarını birlikte kapsar?",
+      "options": {
+        "A": "Mutlak ve bağıl değerlendirme",
+        "B": "Akran ve öz değerlendirme",
+        "C": "Tanılayıcı ve düzey belirleyici değerlendirme",
+        "D": "Biçimlendirici ve norm dayanaklı değerlendirme"
+      },
+      "correctOption": "B",
+      "explanation": "Öğrencilerin arkadaşlarını değerlendirmesi akran değerlendirme, kendilerini değerlendirmesi ise öz değerlendirmedir."
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "questions": [
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 1,
+      "text": "Türk tarihinde ordusunu onluk sisteme göre düzenleyen ilk hükümdar aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilge Kağan",
+        "B": "Mete Han",
+        "C": "Bumin Kağan",
+        "D": "Kutluk Kağan"
+      },
+      "correctOption": "B",
+      "explanation": "Asya Hun Devleti hükümdarı Mete Han, ordusunu onluk sisteme göre düzenleyerek bu sistemi ilk kez uygulamıştır. Bu düzen sonraki Türk devletlerini de etkilemiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "375 yılında yaşanan Kavimler Göçü'nün Avrupa üzerindeki sonuçları arasında aşağıdakilerden hangisi gösterilebilir?",
+      "options": {
+        "A": "Batı Roma İmparatorluğu'nun yıkılış sürecinin başlaması",
+        "B": "İstanbul'un Türkler tarafından fethedilmesi",
+        "C": "Anadolu'da Türk beyliklerinin kurulması",
+        "D": "İslamiyet'in Avrupa'da hızla yayılması"
+      },
+      "correctOption": "A",
+      "explanation": "Kavimler Göçü, Avrupa'nın siyasi yapısını bozarak Batı Roma İmparatorluğu'nun yıkılışını hazırlamış ve Avrupa'da yeni siyasi oluşumlara yol açmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 2,
+      "text": "İslamiyet'i resmî din olarak kabul eden ilk Türk devleti aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Gazneliler",
+        "B": "Tolunoğulları",
+        "C": "Karahanlılar",
+        "D": "İtil Bulgarları"
+      },
+      "correctOption": "C",
+      "explanation": "Satuk Buğra Han döneminde İslamiyet'i resmen kabul eden Karahanlılar, İslamiyet'i devlet dini olarak benimseyen ilk Türk devletidir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 3,
+      "text": "Büyük Selçuklu Devleti'nde vezirlik yapmış ve devlet yönetimiyle ilgili \"Siyasetname\" adlı eseri yazmış kişi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Gazali",
+        "B": "İbn-i Sina",
+        "C": "Farabi",
+        "D": "Nizamülmülk"
+      },
+      "correctOption": "D",
+      "explanation": "Nizamülmülk, Büyük Selçuklu veziri olup devlet yönetimine dair Siyasetname adlı eseri kaleme almıştır. Bu eser, siyasetname türünün önemli örneklerindendir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 2,
+      "text": "Hindistan'a düzenlediği seferlerle İslamiyet'in bu bölgede yayılmasında etkili olan Gazneli hükümdarı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Gazneli Mahmut",
+        "B": "Sebüktegin",
+        "C": "Alparslan",
+        "D": "Tuğrul Bey"
+      },
+      "correctOption": "A",
+      "explanation": "Gazneli Mahmut, Hindistan'a düzenlediği çok sayıda seferle bölgede İslamiyet'in yayılmasını sağlamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Anadolu Selçuklu Devleti",
+      "difficulty": 2,
+      "text": "1243 Kösedağ Savaşı'nın Anadolu açısından en önemli sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Anadolu'da ilk Türk beyliklerinin kurulması",
+        "B": "Anadolu'nun Moğol egemenliğine girmesi ve Anadolu Selçuklu Devleti'nin dağılma sürecine girmesi",
+        "C": "Bizans'ın Anadolu'dan tamamen çekilmesi",
+        "D": "Anadolu Selçuklu Devleti'nin kurulması"
+      },
+      "correctOption": "B",
+      "explanation": "Kösedağ Savaşı'nda Moğollara yenilen Anadolu Selçuklu Devleti yıkılma sürecine girmiş ve Anadolu Moğol egemenliğine girmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş Dönemi",
+      "difficulty": 1,
+      "text": "Osmanlı Devleti'nin kurucusu ve devlete adını veren bey aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Orhan Bey",
+        "B": "Ertuğrul Gazi",
+        "C": "Osman Bey",
+        "D": "I. Murat"
+      },
+      "correctOption": "C",
+      "explanation": "Osman Bey, 1299'da bağımsızlığını ilan ederek Osmanlı Devleti'ni kurmuş ve devlete adını vermiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş Dönemi",
+      "difficulty": 2,
+      "text": "\"Yaya ve müsellem\" adı verilen ilk düzenli Osmanlı ordusu hangi padişah döneminde oluşturulmuştur?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "I. Murat",
+        "C": "Yıldırım Bayezid",
+        "D": "Orhan Bey"
+      },
+      "correctOption": "D",
+      "explanation": "İlk düzenli Osmanlı ordusu olan yaya ve müsellem birlikleri Orhan Bey döneminde oluşturulmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme Dönemi",
+      "difficulty": 2,
+      "text": "1402'de yapılan Ankara Savaşı'nda Timur'a yenilen Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yıldırım Bayezid",
+        "B": "I. Murat",
+        "C": "Çelebi Mehmet",
+        "D": "II. Murat"
+      },
+      "correctOption": "A",
+      "explanation": "Ankara Savaşı'nda (1402) Yıldırım Bayezid Timur'a yenilmiş ve Osmanlı Devleti Fetret Devri'ne girmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme Dönemi",
+      "difficulty": 1,
+      "text": "1517'de Mısır'ı fethederek halifeliğin Osmanlılara geçmesini sağlayan padişah aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Fatih Sultan Mehmet",
+        "B": "Yavuz Sultan Selim",
+        "C": "Kanuni Sultan Süleyman",
+        "D": "II. Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "Yavuz Sultan Selim, 1517'de Memlûk Devleti'ne son vererek Mısır'ı fethetmiş ve halifelik Osmanlılara geçmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme Dönemi",
+      "difficulty": 2,
+      "text": "1526'da kazanılan Mohaç Savaşı sonucunda Macaristan'da üstünlük sağlayan Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yavuz Sultan Selim",
+        "B": "II. Bayezid",
+        "C": "Kanuni Sultan Süleyman",
+        "D": "III. Murat"
+      },
+      "correctOption": "C",
+      "explanation": "Kanuni Sultan Süleyman döneminde kazanılan Mohaç Savaşı ile Macaristan Osmanlı egemenliği altına girmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama Dönemi",
+      "difficulty": 3,
+      "text": "1571'de Osmanlı donanmasının ağır kayıp verdiği İnebahtı Deniz Savaşı'nda Osmanlı donanmasına karşı savaşan ittifak aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Rus Çarlığı",
+        "B": "Fransa Krallığı",
+        "C": "Memlûk Devleti",
+        "D": "Papalık, Venedik ve İspanya'dan oluşan Haçlı donanması"
+      },
+      "correctOption": "D",
+      "explanation": "İnebahtı'da Papalık, Venedik ve İspanya'dan oluşan Haçlı donanması Osmanlı donanmasına ağır kayıplar verdirmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Gerileme Dönemi",
+      "difficulty": 3,
+      "text": "1699'da imzalanan Karlofça Antlaşması'nın Osmanlı tarihi açısından önemi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Osmanlı Devleti'nin ilk kez büyük ölçüde toprak kaybettiği antlaşma olması",
+        "B": "Osmanlı Devleti'nin en geniş sınırlara ulaşmasını sağlaması",
+        "C": "Osmanlı Devleti'nin ilk kez kapitülasyon vermesi",
+        "D": "Osmanlı Devleti'nin Rusya ile imzaladığı ilk antlaşma olması"
+      },
+      "correctOption": "A",
+      "explanation": "Karlofça Antlaşması, Osmanlı Devleti'nin ilk kez geniş topraklar kaybettiği antlaşmadır ve Gerileme Dönemi'nin başlangıcı kabul edilir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama Dönemi",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin XVI. yüzyılın sonlarından itibaren ekonomik olarak zayıflamasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "İpek ve Baharat yollarının Osmanlı topraklarında kalması",
+        "B": "Coğrafi Keşifler sonucunda ticaret yollarının Atlas Okyanusu'na kayması",
+        "C": "Akdeniz ticaretinin tamamen Osmanlı denetimine girmesi",
+        "D": "Kapitülasyonların kaldırılması"
+      },
+      "correctOption": "B",
+      "explanation": "Coğrafi Keşifler'le önemli ticaret yolları Atlas Okyanusu'na kaymış, Osmanlı topraklarından geçen ticaret azalarak gümrük gelirleri düşmüştür."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nin XIX. yüzyılda Avrupa devletleri arasındaki çıkar çatışmalarından yararlanarak toprak bütünlüğünü korumaya çalıştığı politikaya ne ad verilir?",
+      "options": {
+        "A": "Meşrutiyet politikası",
+        "B": "İslamcılık akımı",
+        "C": "Denge politikası",
+        "D": "Panislavizm"
+      },
+      "correctOption": "C",
+      "explanation": "Zayıflayan Osmanlı Devleti, büyük devletler arasındaki rekabetten yararlanarak varlığını sürdürmeye çalışmış; bu politikaya denge politikası denmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nde şehir ve kasabalarda güvenliği sağlamak ve vergi toplamak gibi görevleri bulunan yönetici aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kadı",
+        "B": "Müftü",
+        "C": "Muhtesip",
+        "D": "Subaşı"
+      },
+      "correctOption": "D",
+      "explanation": "Subaşı, Osmanlı şehirlerinde güvenlik ve vergi toplama işlerinden sorumlu yöneticidir; kadı yargı, müftü fetva, muhtesip ise çarşı-pazar denetimi işlerine bakar."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Tanzimat ve Meşrutiyet",
+      "difficulty": 3,
+      "text": "1808'de ayanlar ile Osmanlı yönetimi arasında imzalanan ve padişahın yetkilerini ilk kez sınırlayan belge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sened-i İttifak",
+        "B": "Tanzimat Fermanı",
+        "C": "Islahat Fermanı",
+        "D": "Kanûn-ı Esâsî"
+      },
+      "correctOption": "A",
+      "explanation": "Sened-i İttifak, ayanlarla imzalanmış ve padişahın yetkilerini ilk kez sınırlayan belge olarak kabul edilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Tanzimat ve Meşrutiyet",
+      "difficulty": 2,
+      "text": "1839'da ilan edilen Tanzimat Fermanı hangi padişah döneminde yayımlanmıştır?",
+      "options": {
+        "A": "II. Mahmut",
+        "B": "Sultan Abdülmecit",
+        "C": "II. Abdülhamit",
+        "D": "V. Murat"
+      },
+      "correctOption": "B",
+      "explanation": "Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu), 1839'da Sultan Abdülmecit döneminde ilan edilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Tanzimat ve Meşrutiyet",
+      "difficulty": 3,
+      "text": "Kanûn-ı Esâsî ile kurulan Meclis-i Umumi'nin, üyeleri padişah tarafından atanan meclisi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Meclis-i Mebusan",
+        "B": "Divan-ı Hümayun",
+        "C": "Heyet-i Ayan",
+        "D": "Meclis-i Vâlâ"
+      },
+      "correctOption": "C",
+      "explanation": "Meclis-i Umumi, padişahın atadığı Heyet-i Ayan ve halkın seçtiği Meclis-i Mebusan olmak üzere iki meclisten oluşmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "I. Dünya Savaşı",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti I. Dünya Savaşı'na aşağıdaki gruplardan hangisinin yanında katılmıştır?",
+      "options": {
+        "A": "İtilaf Devletleri",
+        "B": "Balkan Antantı",
+        "C": "Bağlantısızlar",
+        "D": "İttifak Devletleri"
+      },
+      "correctOption": "D",
+      "explanation": "Osmanlı Devleti, I. Dünya Savaşı'na Almanya ve Avusturya-Macaristan'ın yer aldığı İttifak Devletleri'nin yanında katılmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Mondros ve İşgaller",
+      "difficulty": 2,
+      "text": "Mondros Ateşkes Antlaşması'nda İtilaf Devletleri'ne gerekli gördükleri stratejik noktaları işgal etme hakkı tanıyan hüküm aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "7. madde",
+        "B": "1. madde",
+        "C": "5. madde",
+        "D": "24. madde"
+      },
+      "correctOption": "A",
+      "explanation": "Mondros Ateşkes Antlaşması'nın 7. maddesi, İtilaf Devletleri'ne güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal etme hakkı tanımıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı Hazırlık",
+      "difficulty": 3,
+      "text": "Kurtuluş Savaşı'nın gerekçesini, amacını ve yöntemini ortaya koyan; \"Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.\" ifadesinin yer aldığı belge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Erzurum Kongresi kararları",
+        "B": "Amasya Genelgesi",
+        "C": "Misak-ı Millî",
+        "D": "Sivas Kongresi kararları"
+      },
+      "correctOption": "B",
+      "explanation": "22 Haziran 1919 tarihli Amasya Genelgesi'nde mücadelenin gerekçesi, amacı ve yöntemi belirtilmiş; anılan ifadeye burada yer verilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı Kongreler",
+      "difficulty": 1,
+      "text": "23 Temmuz 1919'da toplanan ve Mustafa Kemal'in başkanlık ettiği kongre aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sivas Kongresi",
+        "B": "Alaşehir Kongresi",
+        "C": "Erzurum Kongresi",
+        "D": "Balıkesir Kongresi"
+      },
+      "correctOption": "C",
+      "explanation": "Erzurum Kongresi 23 Temmuz 1919'da toplanmış ve Mustafa Kemal Paşa kongreye başkanlık etmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı Cepheler",
+      "difficulty": 3,
+      "text": "Kurtuluş Savaşı'nda Doğu Cephesi'nde kazanılan başarılar sonucunda 3 Aralık 1920'de imzalanan antlaşma aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Moskova Antlaşması",
+        "B": "Ankara Antlaşması",
+        "C": "Kars Antlaşması",
+        "D": "Gümrü Antlaşması"
+      },
+      "correctOption": "D",
+      "explanation": "Gümrü Antlaşması (3 Aralık 1920), Doğu Cephesi'ndeki başarılar sonucunda imzalanmış ve Ermenistan Doğu Anadolu'daki taleplerinden vazgeçmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı Cepheler",
+      "difficulty": 2,
+      "text": "Kurtuluş Savaşı'nda I. İnönü Savaşı'nın kazanılmasının ardından aşağıdakilerden hangisi gerçekleşmiştir?",
+      "options": {
+        "A": "Londra Konferansı'nın toplanması ve Moskova Antlaşması'nın imzalanması",
+        "B": "Mudanya Mütarekesi'nin imzalanması",
+        "C": "İstanbul'un işgal edilmesi",
+        "D": "Sevr Antlaşması'nın imzalanması"
+      },
+      "correctOption": "A",
+      "explanation": "I. İnönü zaferi (Ocak 1921) sonrasında Londra Konferansı toplanmış ve TBMM'yi ilk kez tanıyan Moskova Antlaşması imzalanmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı Antlaşmalar",
+      "difficulty": 3,
+      "text": "Sakarya Savaşı'nın (1921) kazanılmasının ardından Fransa ile TBMM arasında imzalanan antlaşma aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Gümrü Antlaşması",
+        "B": "Ankara Antlaşması",
+        "C": "Mudanya Mütarekesi",
+        "D": "Moskova Antlaşması"
+      },
+      "correctOption": "B",
+      "explanation": "Sakarya zaferinden sonra Fransa, 20 Ekim 1921'de TBMM ile Ankara Antlaşması'nı imzalayarak Güney Cephesi'nde savaşı sona erdirmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı Cepheler",
+      "difficulty": 1,
+      "text": "Büyük Taarruz sonucunda Türk ordusu 9 Eylül 1922'de hangi şehre girmiştir?",
+      "options": {
+        "A": "Bursa",
+        "B": "İstanbul",
+        "C": "İzmir",
+        "D": "Adana"
+      },
+      "correctOption": "C",
+      "explanation": "26 Ağustos 1922'de başlayan Büyük Taarruz ile Yunan ordusu bozguna uğratılmış ve Türk ordusu 9 Eylül 1922'de İzmir'e girmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi İnkılapları",
+      "difficulty": 3,
+      "text": "3 Mart 1924'te halifelikle birlikte kaldırılan ve din işlerini yürüten kurum aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Divan-ı Hümayun",
+        "B": "Meclis-i Mebusan",
+        "C": "Darülfünun",
+        "D": "Şeriye ve Evkaf Vekâleti"
+      },
+      "correctOption": "D",
+      "explanation": "3 Mart 1924'te halifelikle birlikte Şeriye ve Evkaf Vekâleti kaldırılmış, böylece laiklik yolunda önemli bir adım atılmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlkeleri",
+      "difficulty": 2,
+      "text": "Özel sektörün yetersiz kaldığı yatırımların devlet eliyle yapılmasını öngören Atatürk ilkesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Devletçilik",
+        "B": "Halkçılık",
+        "C": "Milliyetçilik",
+        "D": "Laiklik"
+      },
+      "correctOption": "A",
+      "explanation": "Devletçilik ilkesi, özellikle 1930'larda özel girişimin gücünün yetmediği alanlarda devletin yatırım yapmasını öngörür."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "II. Dünya Savaşı ve Sonrası",
+      "difficulty": 2,
+      "text": "Türkiye, aşağıdaki uluslararası örgütlerden hangisine 1952 yılında üye olmuştur?",
+      "options": {
+        "A": "Birleşmiş Milletler",
+        "B": "NATO",
+        "C": "Avrupa Birliği",
+        "D": "OPEC"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye, 18 Şubat 1952'de NATO'ya üye olmuştur; Birleşmiş Milletler'e ise 1945'te kurucu üye olarak katılmıştır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Matematik Konum",
+      "difficulty": 1,
+      "text": "Türkiye'nin en batısı ile en doğusu arasında yaklaşık 19°'lik boylam farkı bulunmasının sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğu ile batı arasında yerel saat farkı olması",
+        "B": "Kuzey ile güney arasında sıcaklık farkı olması",
+        "C": "Dört mevsimin belirgin yaşanması",
+        "D": "Gölge boylarının sürekli değişmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Yerel saat boylamlara göre belirlenir. Boylam farkı nedeniyle Türkiye'nin doğusu ile batısı arasında yaklaşık 76 dakikalık yerel saat farkı oluşur."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Türkiye'de dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında aşağıdakilerden hangisi görülür?",
+      "options": {
+        "A": "Deniz etkisinin iç kesimlere kolayca ulaşması",
+        "B": "Kıyı ile iç kesimler arasında iklim ve bitki örtüsü farklılıklarının belirgin olması",
+        "C": "Doğal limanların Ege kıyılarından fazla olması",
+        "D": "Kıyı ovalarının iç kesimlere doğru genişlemesi"
+      },
+      "correctOption": "B",
+      "explanation": "Dağlar kıyıya paralel uzandığından deniz etkisi iç kesimlere giremez; kıyılar nemli, iç kesimler ise karasal özellik gösterir."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim Tipleri",
+      "difficulty": 1,
+      "text": "Yazları sıcak ve kurak, kışları ılık ve yağışlı geçen; doğal bitki örtüsü maki olan iklim tipi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Karadeniz iklimi",
+        "B": "Karasal iklim",
+        "C": "Akdeniz iklimi",
+        "D": "Muson iklimi"
+      },
+      "correctOption": "C",
+      "explanation": "Akdeniz iklimi yazları sıcak ve kurak, kışları ılık ve yağışlıdır; doğal bitki örtüsü makidir ve Akdeniz ile Ege kıyılarında görülür."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim Özellikleri",
+      "difficulty": 3,
+      "text": "Türkiye'de iç kesimlerde karasal iklimin görülmesinde aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Sıcak su akıntılarının etkisi",
+        "B": "Enlem derecesinin düşük olması",
+        "C": "Denize yakınlık",
+        "D": "Denizden uzaklık ve yükseltinin artması"
+      },
+      "correctOption": "D",
+      "explanation": "Denizden uzaklaşmak ve yükseltinin artması sıcaklık farklarını büyütür; bu nedenle iç kesimlerde karasal iklim görülür."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 1,
+      "text": "İlkbahar yağışlarıyla yeşerip yaz kuraklığında kuruyan, küçük otsu bitkilerden oluşan ve İç Anadolu'da yaygın olan doğal bitki örtüsü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bozkır (step)",
+        "B": "Maki",
+        "C": "Orman",
+        "D": "Çayır"
+      },
+      "correctOption": "A",
+      "explanation": "Bozkır (step), ilkbaharda yeşerip yazın kuruyan otsu bitki örtüsüdür ve özellikle İç Anadolu ile Güneydoğu Anadolu'da görülür."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Türkiye'de akarsuların hidroelektrik potansiyelinin yüksek olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuların kısa ve sığ olması",
+        "B": "Ortalama yükseltinin fazla ve eğimin yüksek olması",
+        "C": "Yağış rejiminin düzensiz olması",
+        "D": "Akarsu yataklarının geniş olması"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin ortalama yükseltisi fazla ve akarsu eğimleri yüksek olduğundan akarsular hızlı akar; bu da hidroelektrik potansiyelini artırır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Van Gölü",
+        "B": "Tuz Gölü",
+        "C": "Beyşehir Gölü",
+        "D": "Eğirdir Gölü"
+      },
+      "correctOption": "C",
+      "explanation": "Beyşehir Gölü, Türkiye'nin en büyük tatlı su gölüdür. Van Gölü sodalı, Tuz Gölü ise tuzlu olduğundan bu göllerin suları içme ve sulamada kullanılamaz."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 2,
+      "text": "Kurak ve yarı kurak bölgelerde yıkanmanın az olduğu alanlarda oluşan ve üzerinde bozkır bitkilerinin yetiştiği toprak tipi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Podzol",
+        "B": "Terra rossa",
+        "C": "Çernozyom",
+        "D": "Kahverengi step toprakları"
+      },
+      "correctOption": "D",
+      "explanation": "Kahverengi step toprakları, İç Anadolu gibi yarı kurak bölgelerde oluşur ve üzerinde bozkır bitki örtüsü gelişir."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus ve Yerleşme",
+      "difficulty": 1,
+      "text": "Türkiye'de nüfusun büyük bölümünün kıyı ovaları ile sanayi ve ticaret merkezlerinde toplanmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İklim, iş imkânları ve ulaşım koşullarının elverişli olması",
+        "B": "Yer şekillerinin çok engebeli olması",
+        "C": "Tarım alanlarının yetersiz olması",
+        "D": "Maden yataklarının yalnızca kıyıda bulunması"
+      },
+      "correctOption": "A",
+      "explanation": "İklim koşullarının uygunluğu, iş imkânlarının fazlalığı ve ulaşım kolaylığı nüfusun kıyı ovaları ile sanayi ve ticaret merkezlerinde toplanmasına yol açar."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 2,
+      "text": "Türkiye'de 1950'lerden itibaren kırdan kente göçün hızlanmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarımda makineleşmenin tamamen durması",
+        "B": "Tarımda makineleşmeyle kırsalda iş gücü fazlasının doğması ve kentlerde sanayinin gelişmesi",
+        "C": "Kırsal nüfusun azalmaya başlaması",
+        "D": "Kentlerde tarım faaliyetlerinin yaygınlaşması"
+      },
+      "correctOption": "B",
+      "explanation": "Tarımda makineleşme kırsalda iş gücü fazlası yaratmış, sanayileşen kentler iş imkânı sunmuş; bu durum kırdan kente göçü hızlandırmıştır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Tarım",
+      "difficulty": 3,
+      "text": "Türkiye'de tarım ürünlerinin çeşitliliğinin fazla olmasının başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarım alanlarının sınırlı olması",
+        "B": "Sulamanın her yerde yapılabilmesi",
+        "C": "İklim ve yer şekilleri bakımından farklı özellikteki bölgelerin bulunması",
+        "D": "Nüfusun tarımda çalışmaması"
+      },
+      "correctOption": "C",
+      "explanation": "Farklı iklim tipleri ve yer şekilleri sayesinde Türkiye'de hem Akdeniz ürünleri hem tahıllar hem de fındık, çay gibi nemli iklim ürünleri yetişir."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Türkiye'de büyükbaş hayvancılığın özellikle Erzurum-Kars yöresinde gelişmesinde aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Sıcak ve kurak iklim koşulları",
+        "B": "Turunçgil tarımının yaygınlığı",
+        "C": "Deniz etkisinin güçlü olması",
+        "D": "Gür çayır ve mera alanlarının bulunması"
+      },
+      "correctOption": "D",
+      "explanation": "Erzurum-Kars yöresi, yaz yağışlarıyla beslenen gür çayırlara sahip olduğundan büyükbaş hayvancılığın geliştiği önemli bir merkezdir."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madenler ve Enerji",
+      "difficulty": 2,
+      "text": "Türkiye'de linyit yataklarının çevresinde kurulan termik santraller özellikle hangi bölümde yoğunlaşmıştır?",
+      "options": {
+        "A": "Doğu Karadeniz kıyıları",
+        "B": "Antalya Körfezi kıyıları",
+        "C": "İç Anadolu ve Ege'nin iç kesimleri",
+        "D": "Van Gölü çevresi"
+      },
+      "correctOption": "C",
+      "explanation": "Linyit yatakları ve bu yatakların yakınında kurulan termik santraller özellikle İç Anadolu ile Ege'nin iç kesimlerinde (Afşin-Elbistan, Soma gibi) yoğunlaşır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madenler ve Enerji",
+      "difficulty": 2,
+      "text": "Türkiye'de jeotermal enerji potansiyelinin yüksek olmasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuların hızlı akması",
+        "B": "Güneşlenme süresinin uzun olması",
+        "C": "Rüzgârların sürekli esmesi",
+        "D": "Fay hatlarının yaygın olması ve yer altı sularının ısınarak yüzeye çıkması"
+      },
+      "correctOption": "D",
+      "explanation": "Türkiye fay hatları bakımından zengindir; yer altı sularının magmatik ısıyla ısınıp yüzeye çıkması jeotermal enerji potansiyelini artırır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 2,
+      "text": "Ham maddeye yakınlık, pazarlama ve ulaşım kolaylığı ile sermaye ve iş gücü birikimini bir arada barındırdığı için sanayinin en çok yoğunlaştığı bölge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Marmara Bölgesi",
+        "B": "Doğu Anadolu Bölgesi",
+        "C": "Güneydoğu Anadolu Bölgesi",
+        "D": "Doğu Karadeniz Bölümü"
+      },
+      "correctOption": "A",
+      "explanation": "Marmara Bölgesi; ham madde, pazar, ulaşım, sermaye ve iş gücü açısından en avantajlı bölge olduğundan sanayi burada yoğunlaşmıştır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Türkiye'de demir yolu ulaşımının yük taşımacılığında karayoluna göre daha az tercih edilmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Demir yolu hatlarının ülkenin her yerine yayılmış olması",
+        "B": "Yer şekillerinin engebeli olması ve hatların belli güzergâhlarda toplanması",
+        "C": "Demir yollarında hızın çok yüksek olması",
+        "D": "Demir yolu taşımacılığının çok pahalı olması"
+      },
+      "correctOption": "B",
+      "explanation": "Engebeli yer şekilleri demir yolu yapımını zorlaştırmış, hatlar belirli güzergâhlarda yoğunlaşmıştır; bu durum demir yolunun yük taşımacılığındaki payını sınırlar."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 1,
+      "text": "Türkiye'de deprem riskinin yüksek olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ortalama yükseltinin fazla olması",
+        "B": "Kıyıların girintili çıkıntılı olması",
+        "C": "Ülke topraklarının büyük bölümünün aktif fay hatları üzerinde bulunması",
+        "D": "Yağış rejiminin düzensiz olması"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye, Alp-Himalaya orojenez kuşağında yer aldığından aktif fay hatları yaygındır ve bu nedenle deprem riski yüksektir."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 3,
+      "text": "Türkiye'de büyük şehirlerde hava kirliliğinin kış aylarında artmasının başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yaz aylarında yağışın artması",
+        "B": "Sanayi tesislerinin şehir dışına taşınması",
+        "C": "Doğal gaz kullanımının yaygınlaşması",
+        "D": "Isınma amaçlı kalitesiz yakıt kullanımı ve hava koşullarının kirleticileri dağıtmaması"
+      },
+      "correctOption": "D",
+      "explanation": "Kışın ısınma amacıyla kullanılan kalitesiz yakıtlar ile hava hareketlerinin azalması, kirleticilerin dağılmasını engelleyerek hava kirliliğini artırır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya",
+      "difficulty": 2,
+      "text": "Türkiye ekonomisinde hizmet sektörünün payının giderek artmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Turizm, ticaret, ulaşım ve finans gibi alanların gelişmesi",
+        "B": "Tarım alanlarının sürekli genişlemesi",
+        "C": "Madencilik gelirlerinin tek gelir kaynağı olması",
+        "D": "Nüfusun kırsal kesimde yoğunlaşması"
+      },
+      "correctOption": "A",
+      "explanation": "Turizm, ticaret, ulaşım, bankacılık ve bilişim gibi hizmet alanlarının gelişmesiyle hizmet sektörünün milli gelirdeki payı artmıştır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus Yapısı",
+      "difficulty": 2,
+      "text": "Türkiye'de nüfus artış hızının son yıllarda azalmasının sonuçları arasında aşağıdakilerden hangisi gösterilebilir?",
+      "options": {
+        "A": "Toplam nüfusun sürekli azalması",
+        "B": "Nüfusun yaş ortalamasının yükselmesi ve nüfus piramidinin tabanının daralması",
+        "C": "Kırsal nüfusun hızla artması",
+        "D": "Doğum oranlarının yeniden yükselmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Doğum ve nüfus artış hızının düşmesi, nüfusun yaş ortalamasının yükselmesine ve nüfus piramidinin tabanının daralmasına yol açar."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 2,
+      "text": "Türkiye'de yerleşmelerin kıyı ovalarında yoğunlaşmasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Yer şekillerinin çok engebeli olması",
+        "B": "Kışların çok sert geçmesi",
+        "C": "İklimin uygunluğu, verimli tarım toprakları ve ulaşım kolaylığı",
+        "D": "Maden yataklarının kıyıda toplanması"
+      },
+      "correctOption": "C",
+      "explanation": "Uygun iklim, verimli alüvyal topraklar ve ulaşım kolaylığı nedeniyle nüfus ve yerleşmeler kıyı ovalarında yoğunlaşmıştır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 1,
+      "text": "Aşağıdaki akarsulardan hangisi Türkiye'de doğup başka ülkelerden geçerek denize ulaşır?",
+      "options": {
+        "A": "Sakarya",
+        "B": "Kızılırmak",
+        "C": "Yeşilırmak",
+        "D": "Fırat"
+      },
+      "correctOption": "D",
+      "explanation": "Fırat Nehri Türkiye'de doğar; Suriye ve Irak topraklarından geçerek Basra Körfezi'ne dökülür."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük gölü olan Van Gölü'nün suyunun içme ve sulamada kullanılamamasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Suyunun tuzlu ve sodalı olması",
+        "B": "Gölün çok derin olması",
+        "C": "Gölün volkanik setle oluşması",
+        "D": "Göl çevresinde yağışın az olması"
+      },
+      "correctOption": "A",
+      "explanation": "Van Gölü'nün suyu tuzlu ve sodalı olduğundan içme ve sulama amacıyla kullanılamaz; bu nedenle gölde yalnızca belirli canlılar yaşayabilir."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 3,
+      "text": "Türkiye'de Akdeniz Bölgesi'nde kalkerli araziler üzerinde oluşan ve demir oksit nedeniyle kırmızı renk alan toprak tipi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Çernozyom",
+        "B": "Terra rossa",
+        "C": "Podzol",
+        "D": "Alüvyal toprak"
+      },
+      "correctOption": "B",
+      "explanation": "Terra rossa, kalkerli arazilerde oluşan ve demir oksit içerdiği için kırmızı renk alan Akdeniz Bölgesi toprağıdır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim Özellikleri",
+      "difficulty": 1,
+      "text": "Türkiye'de güneyden kuzeye doğru gidildikçe sıcaklığın azalmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yükseltinin sürekli azalması",
+        "B": "Deniz etkisinin artması",
+        "C": "Enlem derecesinin büyümesi",
+        "D": "Bitki örtüsünün seyrekleşmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Ekvator'dan uzaklaşıp kutuplara yaklaşıldıkça güneş ışınlarının geliş açısı küçülür; bu nedenle güneyden kuzeye gidildikçe sıcaklık azalır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Tarım",
+      "difficulty": 2,
+      "text": "Türkiye'de çay tarımının yalnızca Doğu Karadeniz kıyılarında yapılabilmesinin nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yörede kışların çok soğuk geçmesi",
+        "B": "Toprakların tuzlu olması",
+        "C": "Yörenin çok kurak olması",
+        "D": "Her mevsim yağışlı, nemli ve ılıman iklim koşullarının bulunması"
+      },
+      "correctOption": "D",
+      "explanation": "Çay, her mevsim yağışlı ve nemli bir iklim ister; bu koşullar Türkiye'de yalnızca Doğu Karadeniz kıyılarında görülür."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Matematik Konum",
+      "difficulty": 1,
+      "text": "Türkiye'de dört mevsimin belirgin biçimde yaşanmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Orta kuşakta yer alması ve kuzey-güney yönünde geniş yer kaplaması",
+        "B": "Ekvator üzerinde bulunması",
+        "C": "Yer şekillerinin tamamen düz olması",
+        "D": "Sürekli batı rüzgârlarının etkisinde kalması"
+      },
+      "correctOption": "A",
+      "explanation": "Orta kuşakta yer aldığı ve kuzey-güney yönünde geniş olduğu için Türkiye'de dört mevsim belirgin biçimde yaşanır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Türkiye'de küçükbaş hayvancılığın İç Anadolu ve Güneydoğu Anadolu'da yaygın olmasını sağlayan özellik aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Gür ormanların varlığı",
+        "B": "Geniş bozkır ve mera alanlarının bulunması",
+        "C": "Yağışın her mevsim düşmesi",
+        "D": "Yükseltinin çok düşük olması"
+      },
+      "correctOption": "B",
+      "explanation": "Bozkır bitki örtüsü ve geniş mera alanları, koyun ve keçi gibi küçükbaş hayvancılığı destekler."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 1,
+      "text": "Türkiye'de yolcu ve yük taşımacılığında en fazla tercih edilen ulaşım yolu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Demir yolu",
+        "B": "Deniz yolu",
+        "C": "Hava yolu",
+        "D": "Karayolu"
+      },
+      "correctOption": "D",
+      "explanation": "Yer şekillerine ve yerleşme dağılımına uygunluğu ile yaygınlığı nedeniyle Türkiye'de yolcu ve yük taşımacılığında en fazla karayolu kullanılır."
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 1,
+      "text": "Türkiye'de yağışın az ve kuraklığın belirgin olduğu, bu nedenle orman varlığının en az bulunduğu bölge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Karadeniz Bölgesi",
+        "B": "Akdeniz Bölgesi",
+        "C": "Güneydoğu Anadolu Bölgesi",
+        "D": "Marmara Bölgesi"
+      },
+      "correctOption": "C",
+      "explanation": "Yağışın az, kuraklığın belirgin olduğu Güneydoğu Anadolu, Türkiye'de orman varlığının en az olduğu bölgelerden biridir."
+    }
+  ]
+}

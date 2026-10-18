@@ -1,0 +1,844 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Gelişim İlkeleri",
+      "difficulty": 1,
+      "text": "Aynı yaşta olan iki çocuktan birinin daha erken yürümeye başlaması, diğerinin ise bu beceriyi daha geç kazanması gelişimin hangi ilkesiyle açıklanır?",
+      "options": {
+        "A": "Gelişim bir bütün hâlinde gerçekleşir.",
+        "B": "Gelişimde bireysel farklılıklar vardır.",
+        "C": "Gelişim baştan ayağa doğru gerçekleşir.",
+        "D": "Gelişim nöbetleşe bir süreç izler."
+      },
+      "correctOption": "B",
+      "explanation": "Gelişimin hızı ve zamanı her bireyde farklıdır. Aynı yaştaki çocukların bir beceriyi farklı zamanlarda kazanması bireysel farklılık ilkesinin sonucudur."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Olgunlaşma",
+      "difficulty": 2,
+      "text": "Organizmanın, kalıtımın etkisiyle zamanla kendiliğinden gelişerek belirli bir işlevi yerine getirebilecek duruma gelmesine ne ad verilir?",
+      "options": {
+        "A": "Öğrenme",
+        "B": "Hazırbulunuşluk",
+        "C": "Olgunlaşma",
+        "D": "Büyüme"
+      },
+      "correctOption": "C",
+      "explanation": "Olgunlaşma, büyük ölçüde kalıtıma bağlı olarak, yaşantıdan bağımsız biçimde kendiliğinden gerçekleşen gelişmedir. Büyüme ise daha çok bedensel boyuttaki niceliksel artışı ifade eder."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Hazırbulunuşluk",
+      "difficulty": 2,
+      "text": "Bir öğretmen, öğrencilerine bölme işlemini öğretmeye başlamadan önce çarpma becerisinin kazanılmış olması gerektiğini belirtmiştir. Öğretmenin bu uyarısı hangi kavramla ilgilidir?",
+      "options": {
+        "A": "Transfer",
+        "B": "Olgunlaşma",
+        "C": "Kritik dönem",
+        "D": "Hazırbulunuşluk"
+      },
+      "correctOption": "D",
+      "explanation": "Hazırbulunuşluk, öğrencinin yeni bir öğrenmeyi gerçekleştirebilmek için gerekli ön bilgi, beceri ve olgunluk düzeyine sahip olmasıdır. Çarpma bilmeden bölme öğrenmek güçleşir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Kritik Dönem",
+      "difficulty": 2,
+      "text": "Çocukluk yıllarında uygun koşullar sağlanmadığı için dili hiç öğrenemeyen bireylerin, bu yıllar geçtikten sonra konuşmayı öğrenmekte çok zorlanması hangi kavramı örnekler?",
+      "options": {
+        "A": "Kritik dönem",
+        "B": "Gelişim görevi",
+        "C": "Olgunlaşma",
+        "D": "Bireysel farklılık"
+      },
+      "correctOption": "A",
+      "explanation": "Kritik dönem, belirli bir becerinin en kolay ve en hızlı kazanılabildiği sınırlı zaman aralığıdır. Bu dönem kaçırıldığında becerinin kazanılması çok güçleşir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Gelişim Görevleri",
+      "difficulty": 1,
+      "text": "Havighurst'a göre bireyin içinde bulunduğu yaş döneminde başarıyla yerine getirmesi beklenen ve sonraki dönemin gelişimini de etkileyen görevlere ne ad verilir?",
+      "options": {
+        "A": "Edim",
+        "B": "Kalıtım",
+        "C": "Gelişim görevi",
+        "D": "Hazırbulunuşluk"
+      },
+      "correctOption": "C",
+      "explanation": "Havighurst, her gelişim döneminde bireyin üstesinden gelmesi gereken belirli gelişim görevleri bulunduğunu savunur. Bir dönemin görevi başarılamazsa sonraki dönemde uyum sorunları ortaya çıkabilir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Kalıtım ve Çevre",
+      "difficulty": 2,
+      "text": "Bir çocuğun doğuştan getirdiği zihinsel potansiyelinin, uygun çevre koşulları ve nitelikli eğitimle desteklendiğinde üst düzeye ulaşabilmesi gelişimde hangi iki etkenin birlikte rol oynadığını gösterir?",
+      "options": {
+        "A": "Kalıtım ve çevre",
+        "B": "Yalnızca kalıtım",
+        "C": "Yalnızca çevre",
+        "D": "Olgunlaşma ve büyüme"
+      },
+      "correctOption": "A",
+      "explanation": "Potansiyelin doğuştan gelmesi kalıtımın, bu potansiyelin geliştirilmesi ise çevrenin etkisini gösterir. Gelişim kalıtım ve çevrenin etkileşimi sonucu gerçekleşir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Piaget Şema",
+      "difficulty": 2,
+      "text": "Piaget'in bilişsel gelişim kuramına göre bireyin çevresini anlamlandırmak için zihninde oluşturduğu bilgi kalıplarına ve düşünce yapılarına ne ad verilir?",
+      "options": {
+        "A": "Dengeleme",
+        "B": "İçselleştirme",
+        "C": "Korunum",
+        "D": "Şema"
+      },
+      "correctOption": "D",
+      "explanation": "Şema, bireyin çevresindeki nesne ve olayları yorumlarken kullandığı zihinsel yapı veya kalıptır. Piaget'e göre öğrenme, şemaların özümleme ve uyumsama yoluyla gelişmesiyle gerçekleşir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Özümleme ve Uyumsama",
+      "difficulty": 2,
+      "text": "İlk kez zebra gören bir çocuğun, bu hayvanı zihnindeki 'at' şemasının içine yerleştirmeye çalışması Piaget'in hangi kavramıyla açıklanır?",
+      "options": {
+        "A": "Uyumsama",
+        "B": "Özümleme",
+        "C": "Dengeleme",
+        "D": "Korunum"
+      },
+      "correctOption": "B",
+      "explanation": "Yeni bir uyarıcının var olan şemaya yerleştirilmesi özümlemedir. Var olan şema yetersiz kaldığında şemanın değiştirilmesi ise uyumsamadır."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Dengeleme",
+      "difficulty": 3,
+      "text": "Piaget'e göre bireyin yaşadığı bilişsel çelişkiyi gidererek özümleme ile uyumsama arasında yeniden uyum sağlaması sürecine ne ad verilir?",
+      "options": {
+        "A": "Özümleme",
+        "B": "Uyumsama",
+        "C": "Dengeleme",
+        "D": "Şema"
+      },
+      "correctOption": "C",
+      "explanation": "Dengeleme, bilişsel çelişki karşısında özümleme ve uyumsamanın yeniden dengelenmesiyle zihinsel yapıların daha üst düzeye çıkmasıdır ve gelişimin itici gücüdür."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "İşlem Öncesi Dönem",
+      "difficulty": 2,
+      "text": "Piaget'in işlem öncesi dönemindeki bir çocuğun, başkalarının bakış açısını ayırt edemeyip dünyayı yalnızca kendi açısından değerlendirmesi hangi kavramla ifade edilir?",
+      "options": {
+        "A": "Benmerkezcilik",
+        "B": "Nesne sürekliliği",
+        "C": "Korunum",
+        "D": "Animizm"
+      },
+      "correctOption": "A",
+      "explanation": "Benmerkezcilik, çocuğun olayları yalnızca kendi bakış açısından ele alarak karşısındakinin bakış açısını dikkate alamamasıdır. İşlem öncesi dönemin belirgin özelliğidir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Duyusal Motor Dönem",
+      "difficulty": 1,
+      "text": "Piaget'e göre bebeğin, kendisinden uzaklaştırılan bir oyuncağın hâlâ var olduğunu kavraması hangi gelişim döneminde gerçekleşir?",
+      "options": {
+        "A": "İşlem öncesi dönem",
+        "B": "Somut işlemler dönemi",
+        "C": "Soyut işlemler dönemi",
+        "D": "Duyusal-motor dönem"
+      },
+      "correctOption": "D",
+      "explanation": "Nesne sürekliliği (gözden kaybolan nesnenin varlığını sürdürdüğünü anlama), duyusal-motor dönemde kazanılan en önemli kazanımlardan biridir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Soyut İşlemler Dönemi",
+      "difficulty": 2,
+      "text": "Bir gencin, doğrudan gözlemlemediği olaylara ilişkin varsayımlar kurup bu varsayımları mantıksal olarak test edebilmesi Piaget'in hangi döneminde görülür?",
+      "options": {
+        "A": "İşlem öncesi dönem",
+        "B": "Soyut işlemler dönemi",
+        "C": "Somut işlemler dönemi",
+        "D": "Duyusal-motor dönem"
+      },
+      "correctOption": "B",
+      "explanation": "Soyut işlemler döneminde birey, somut yaşantıya bağlı kalmadan varsayımsal ve soyut düşünebilir; hipotez kurup bunları sistematik olarak sınayabilir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Tek Boyutlu Düşünme",
+      "difficulty": 3,
+      "text": "İşlem öncesi dönemdeki bir çocuğun, uzun ve dar bir bardağa boşaltılan suyun yalnızca yüksekliğine odaklanıp bardağın genişliğini hiç dikkate almaması Piaget'in hangi kavramıyla açıklanır?",
+      "options": {
+        "A": "Korunum",
+        "B": "Animizm",
+        "C": "Odaklanma (merkezleşme)",
+        "D": "Geriye dönebilirlik"
+      },
+      "correctOption": "C",
+      "explanation": "Odaklanma (merkezleşme), çocuğun bir sorunun yalnızca tek bir boyutuna dikkat edip diğer boyutları göz ardı etmesidir. Bu da korunumun kazanılamamasına yol açar."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Vygotsky Yakınsal Gelişim",
+      "difficulty": 2,
+      "text": "Vygotsky'e göre bir çocuğun tek başına çözemediği ancak bir yetişkinin ya da daha yetkin bir akranın yardımıyla çözebildiği görevlerin oluşturduğu alana ne ad verilir?",
+      "options": {
+        "A": "Özümleme",
+        "B": "İçselleştirme",
+        "C": "Şema",
+        "D": "Yakınsal gelişim alanı"
+      },
+      "correctOption": "D",
+      "explanation": "Yakınsal gelişim alanı, çocuğun bağımsız olarak yapabildiği işlerle yardımla yapabildiği işler arasındaki mesafedir. Öğretim bu alana yönelik olmalıdır."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "İçselleştirme",
+      "difficulty": 3,
+      "text": "Vygotsky'e göre çocuğun önce bir yetişkinle birlikte yaptığı bir etkinliği, zamanla kendi başına yapabilir hâle gelmesi hangi süreçle açıklanır?",
+      "options": {
+        "A": "İçselleştirme",
+        "B": "Taklit",
+        "C": "Olgunlaşma",
+        "D": "Özümleme"
+      },
+      "correctOption": "A",
+      "explanation": "İçselleştirme, sosyal düzlemde gerçekleşen bir etkinliğin zamanla bireyin içsel zihinsel sürecine dönüşmesidir. Vygotsky'e göre öğrenme önce toplumsal etkileşimde oluşur."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Vygotsky Dil Düşünce",
+      "difficulty": 2,
+      "text": "Vygotsky'in dil ve düşünce ilişkisine yönelik görüşü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Düşünce, dilden tamamen bağımsız olarak gelişir.",
+        "B": "Düşüncenin gelişiminde dil belirleyici bir role sahiptir.",
+        "C": "İç konuşma zihinsel gelişimi engeller.",
+        "D": "Dil gelişimi düşüncenin gelişiminden sonra tamamlanır."
+      },
+      "correctOption": "B",
+      "explanation": "Vygotsky'e göre dil, düşüncenin gelişmesini sağlayan en önemli araçtır; benmerkezci konuşma zamanla iç konuşmaya dönüşerek düşünceyi yönlendirir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Freud Fallik Dönem",
+      "difficulty": 2,
+      "text": "Freud'un psikoseksüel gelişim kuramına göre çocuğun karşı cinsteki ebeveyne ilgi duyduğu ve aynı cinsteki ebeveynle rekabet yaşadığı dönem hangisidir?",
+      "options": {
+        "A": "Oral dönem",
+        "B": "Anal dönem",
+        "C": "Latans dönemi",
+        "D": "Fallik dönem"
+      },
+      "correctOption": "D",
+      "explanation": "Fallik dönemde (yaklaşık 3-6 yaş) çocuk karşı cinsteki ebeveyne yönelik ilgi ve aynı cinsteki ebeveynle rekabet yaşar; bu durum sırasıyla Oedipus ve Elektra karmaşası olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Freud Oral Dönem",
+      "difficulty": 1,
+      "text": "Freud'un psikoseksüel gelişim kuramında haz kaynağının ağız (emme ve yeme) olduğu dönem aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Anal dönem",
+        "B": "Fallik dönem",
+        "C": "Oral dönem",
+        "D": "Genital dönem"
+      },
+      "correctOption": "C",
+      "explanation": "Oral dönem, yaşamın ilk yılında haz kaynağının ağız olduğu dönemdir. Bu dönemde emme ve beslenme yoluyla doyum sağlanır."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Freud Latans Dönemi",
+      "difficulty": 3,
+      "text": "Freud'a göre yaklaşık 6-11 yaş arasını kapsayan, cinsel dürtülerin geçici olarak geri plana itildiği ve çocuğun daha çok akranlarıyla ve okul etkinlikleriyle ilgilendiği dönem hangisidir?",
+      "options": {
+        "A": "Latans dönemi",
+        "B": "Fallik dönem",
+        "C": "Genital dönem",
+        "D": "Anal dönem"
+      },
+      "correctOption": "A",
+      "explanation": "Latans döneminde cinsel enerjinin bir bölümü bastırılır ve çocuk toplumsal becerilere, akran ilişkilerine ve öğrenmeye yönelir; enerji çoğunlukla yüceltilir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Erikson Temel Güven",
+      "difficulty": 1,
+      "text": "Erikson'un psikososyal gelişim kuramına göre bebeğin, ihtiyaçlarının tutarlı biçimde karşılanması sonucunda çözdüğü ilk çatışma aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Girişimciliğe karşı suçluluk",
+        "B": "Temel güvene karşı güvensizlik",
+        "C": "Özerkliğe karşı kuşku ve utanç",
+        "D": "Üretkenliğe karşı durgunluk"
+      },
+      "correctOption": "B",
+      "explanation": "Yaşamın ilk yılında bebeğin ihtiyaçları düzenli ve sıcak biçimde karşılanırsa temel güven duygusu, karşılanmazsa güvensizlik duygusu gelişir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Erikson Başarı Aşağılık",
+      "difficulty": 2,
+      "text": "Erikson'a göre ilkokul çağındaki bir çocuğun derslerinde ve arkadaş ilişkilerinde sürekli başarısız olması hangi psikososyal çatışmayı yoğun biçimde yaşamasına yol açar?",
+      "options": {
+        "A": "Kimlik kazanmaya karşı rol karmaşası",
+        "B": "Temel güvene karşı güvensizlik",
+        "C": "Girişimciliğe karşı suçluluk",
+        "D": "Başarıya karşı aşağılık duygusu"
+      },
+      "correctOption": "D",
+      "explanation": "İlkokul çağında çocuğun çabasının ve başarısının desteklenmesi yeterlik duygusunu geliştirir. Sürekli başarısızlık ise aşağılık duygusuna yol açar."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Erikson Üretkenlik",
+      "difficulty": 3,
+      "text": "Erikson'un psikososyal gelişim kuramına göre yetişkinlik döneminde bireyin, gelecek kuşaklara katkı sağlamak amacıyla üretmesi ve yol gösterici olması hangi çatışmayla ilgilidir?",
+      "options": {
+        "A": "Üretkenliğe karşı durgunluk",
+        "B": "Yakınlığa karşı yalıtılmışlık",
+        "C": "Bütünlüğe karşı umutsuzluk",
+        "D": "Kimlik kazanmaya karşı rol karmaşası"
+      },
+      "correctOption": "A",
+      "explanation": "Yetişkinlikte bireyin işine, ailesine ve topluma yaptığı katkılar üretkenlik duygusunu; bunun gerçekleşmemesi durgunluk duygusunu doğurur."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Kohlberg Gelenek Öncesi",
+      "difficulty": 1,
+      "text": "Kohlberg'in ahlak gelişimi kuramına göre çocuğun, cezadan kaçınmak ve ödül kazanmak amacıyla kurallara uyduğu ahlak düzeyi hangisidir?",
+      "options": {
+        "A": "Gelenek sonrası düzey",
+        "B": "Geleneksel düzey",
+        "C": "Gelenek öncesi düzey",
+        "D": "Evrensel ilkeler düzeyi"
+      },
+      "correctOption": "C",
+      "explanation": "Gelenek öncesi düzeyde ahlaki yargı, cezadan kaçınma ve kişisel çıkar-ödül ekseninde biçimlenir. Kurallara uyma nedeni tamamen dışsal sonuçlardır."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Kohlberg Geleneksel",
+      "difficulty": 2,
+      "text": "Kohlberg'e göre ahlaki yargıda bulunurken ailesinin ve toplumun beklentilerini dikkate alarak 'iyi bir çocuk' olmaya çalışan birey hangi ahlak düzeyindedir?",
+      "options": {
+        "A": "Gelenek öncesi düzey",
+        "B": "Geleneksel düzey",
+        "C": "Gelenek sonrası düzey",
+        "D": "Evrensel ilkeler düzeyi"
+      },
+      "correctOption": "B",
+      "explanation": "Geleneksel düzeyde birey, ahlaki kararlarını çevresinin onayını kazanmak ve toplumsal düzeni korumak amacıyla verir. Onaylanma ve görev duygusu belirleyicidir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Kohlberg Gelenek Sonrası",
+      "difficulty": 3,
+      "text": "Bir kişinin, yürürlükteki bir yasayı adaletsiz bulduğunda vicdani ve evrensel ilkelerine göre hareket etmeyi seçmesi Kohlberg'in hangi ahlak düzeyine karşılık gelir?",
+      "options": {
+        "A": "Gelenek öncesi düzey",
+        "B": "Geleneksel düzey",
+        "C": "İtaat ve ceza eğilimi",
+        "D": "Gelenek sonrası düzey"
+      },
+      "correctOption": "D",
+      "explanation": "Gelenek sonrası düzeyde birey, yasaların ve sosyal sözleşmelerin ötesine geçerek kendi vicdanına ve evrensel etik ilkelere göre yargıda bulunur."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Gilligan Ahlak Gelişimi",
+      "difficulty": 3,
+      "text": "Gilligan, Kohlberg'in ahlak gelişimi kuramını hangi gerekçeyle eleştirmiştir?",
+      "options": {
+        "A": "Ahlak gelişiminin yaşla ilişkisi olmadığını savunduğu için",
+        "B": "Kuramını yalnızca ergenlik dönemi üzerinde çalıştığı için",
+        "C": "Kadınların bakım ve ilişki odaklı ahlaki yargılarını yeterince dikkate almadığı için",
+        "D": "Ahlak gelişiminde ödül ve cezanın etkisini tamamen yok saydığı için"
+      },
+      "correctOption": "C",
+      "explanation": "Gilligan, Kohlberg'in kuramının adalet ve hak temelli erkek ahlakını ölçüt aldığını, kadınların bakım ve ilişki temelli ahlaki yargılarını geri planda bıraktığını savunmuştur."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Dil Gelişimi",
+      "difficulty": 3,
+      "text": "Bir çocuğun iki yaş civarında 'anne su', 'baba gel' gibi ekleri çoğunlukla yer almayan, isim ve fiillerden oluşan kısa cümleler kurması dil gelişiminin hangi evresiyle adlandırılır?",
+      "options": {
+        "A": "Telgraf (telegrafik) konuşma",
+        "B": "Agulama evresi",
+        "C": "Tek sözcük evresi",
+        "D": "Mırıldanma evresi"
+      },
+      "correctOption": "A",
+      "explanation": "Telgraf konuşma evresinde çocuk, anlam taşıyan temel sözcükleri yan yana getirir ancak bağlaç, ek ve yardımcı sözcükleri çoğunlukla kullanmaz."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Motor Gelişim",
+      "difficulty": 1,
+      "text": "Gelişimin bedenin merkezine yakın bölümlerinden uçlara doğru ilerlemesi (önce omuz, sonra kol, en son parmakların kontrolü) hangi ilkeyle açıklanır?",
+      "options": {
+        "A": "Baştan ayağa ilke",
+        "B": "İçten dışa (proksimodistal) ilke",
+        "C": "Kritik dönem ilkesi",
+        "D": "Bireysel farklılık ilkesi"
+      },
+      "correctOption": "B",
+      "explanation": "İçten dışa (proksimodistal) ilkeye göre beden kontrolü önce gövde ve omuz gibi merkezî bölgelerde, daha sonra parmak uçları gibi dış bölgelerde gelişir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Kişilik Gelişimi",
+      "difficulty": 2,
+      "text": "Bireyin kendisiyle ilgili algı, inanç ve değerlendirmelerinin bütünü olarak tanımlanan ve kişilik gelişiminde önemli bir yer tutan kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Mizaç",
+        "B": "Karakter",
+        "C": "Tutum",
+        "D": "Benlik kavramı"
+      },
+      "correctOption": "D",
+      "explanation": "Benlik kavramı, bireyin kendisini nasıl algıladığı, kendisine ilişkin inanç ve değerlendirmelerinin tümüdür. Mizaç ise doğuştan getirilen biyolojik temelli özelliktir."
+    },
+    {
+      "categorySlug": "egitim-gelisim",
+      "topic": "Duygusal Gelişim",
+      "difficulty": 1,
+      "text": "Bebeğin ilk aylarda herkese gülümsemesi, ardından yabancılara karşı kaygı ve kaçınma tepkisi geliştirmesi hangi gelişim alanıyla ilgilidir?",
+      "options": {
+        "A": "Fiziksel gelişim",
+        "B": "Bilişsel gelişim",
+        "C": "Duygusal gelişim",
+        "D": "Dil gelişimi"
+      },
+      "correctOption": "C",
+      "explanation": "Sosyal gülümseme, yabancı kaygısı ve ayrılık kaygısı bebeğin duygusal gelişiminin ve bağlanma sürecinin göstergeleridir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenmeyi Etkileyen Faktörler",
+      "difficulty": 1,
+      "text": "Bir öğrencinin yeni konuyu öğrenmeye istekli olması, dikkatini konuya yöneltmesi ve konuya ilgi duyması öğrenmeyi etkileyen hangi faktörle ilgilidir?",
+      "options": {
+        "A": "Fizyolojik durum",
+        "B": "Zekâ düzeyi",
+        "C": "Güdülenme ve dikkat",
+        "D": "Aktarım"
+      },
+      "correctOption": "C",
+      "explanation": "Güdülenme ve dikkat, öğrencinin öğrenme sürecine etkin katılımını sağlayan temel faktörlerdir. İstekli ve dikkatli bir öğrenci öğrenmeye daha açıktır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Klasik Koşullanma",
+      "difficulty": 1,
+      "text": "Klasik koşullanmada, doğuştan getirilen ve herhangi bir öğrenme olmaksızın kendiliğinden tepki oluşturan uyarıcıya ne ad verilir?",
+      "options": {
+        "A": "Koşulsuz uyarıcı",
+        "B": "Koşullu uyarıcı",
+        "C": "Nötr uyarıcı",
+        "D": "Pekiştireç"
+      },
+      "correctOption": "A",
+      "explanation": "Koşulsuz uyarıcı, öğrenme olmadan doğal olarak tepki doğuran uyarıcıdır (örn. et). Koşullu uyarıcı ise nötr uyarıcının öğrenme sonucu bu özelliği kazanmış hâlidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Uyarıcı Genellemesi",
+      "difficulty": 2,
+      "text": "Küçük bir çocuk, beyaz önlüklü bir doktordan korkmayı öğrendikten sonra beyaz önlüklü diğer kişilerden de korkmaya başlamıştır. Bu durum hangi kavramla açıklanır?",
+      "options": {
+        "A": "Ayırt etme",
+        "B": "Sönme",
+        "C": "Kendiliğinden geri gelme",
+        "D": "Uyarıcı genellemesi"
+      },
+      "correctOption": "D",
+      "explanation": "Uyarıcı genellemesi, koşullu uyarıcıya benzer uyarıcıların da aynı koşullu tepkiyi doğurmasıdır. Beyaz önlük, doktorla benzerlik kurularak korku uyarıcısı hâline gelmiştir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Uyarıcı Ayırt Etme",
+      "difficulty": 2,
+      "text": "Bir öğrenci yalnızca matematik öğretmeninin dersine girerken kaygı duymakta, diğer öğretmenlerin derslerinde bu kaygıyı yaşamamaktadır. Bu durum hangi kavramla açıklanır?",
+      "options": {
+        "A": "Uyarıcı genellemesi",
+        "B": "Uyarıcı ayırt etme",
+        "C": "Sönme",
+        "D": "Olumsuz pekiştirme"
+      },
+      "correctOption": "B",
+      "explanation": "Uyarıcı ayırt etme, benzer uyarıcılar arasındaki farkın öğrenilerek tepkinin yalnızca belirli bir uyarıcıya verilmesidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Klasik Koşullanma Sönme",
+      "difficulty": 2,
+      "text": "Klasik koşullanmada, koşullu uyarıcının koşulsuz uyarıcı olmadan art arda sunulması sonucu koşullu tepkinin giderek zayıflamasına ne ad verilir?",
+      "options": {
+        "A": "Genelleme",
+        "B": "Ayırt etme",
+        "C": "Sönme",
+        "D": "Kendiliğinden geri gelme"
+      },
+      "correctOption": "C",
+      "explanation": "Sönme, koşullu uyarıcı tek başına sunulmaya devam edildiğinde (pekiştirilmediğinde) koşullu tepkinin zamanla ortadan kalkmasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kendiliğinden Geri Gelme",
+      "difficulty": 3,
+      "text": "Sönmeye uğradığı için ortadan kalkan koşullu bir tepkinin, bir süre sonra koşullu uyarıcı yeniden sunulduğunda kendiliğinden ortaya çıkmasına ne ad verilir?",
+      "options": {
+        "A": "Gölgeleme",
+        "B": "Bloklama",
+        "C": "Dışlama",
+        "D": "Kendiliğinden geri gelme"
+      },
+      "correctOption": "D",
+      "explanation": "Kendiliğinden geri gelme, söndürülen tepkinin dinlenme aralığından sonra yeniden ortaya çıkmasıdır; tepkinin bellekte tamamen silinmediğini gösterir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Klasik Koşullanma Tepki",
+      "difficulty": 2,
+      "text": "Bir öğrenci, sınav sonuçlarının açıklandığı salonda bir kez yoğun heyecan yaşadıktan sonra her o salona girdiğinde kalp atışlarının hızlandığını fark etmiştir. Öğrencide salona ilişkin oluşan tepki hangisidir?",
+      "options": {
+        "A": "Koşullu tepki",
+        "B": "Koşulsuz tepki",
+        "C": "Nötr tepki",
+        "D": "Ceza"
+      },
+      "correctOption": "A",
+      "explanation": "Başlangıçta nötr olan salon, heyecanla eşleşerek koşullu uyarıcıya dönüşmüş; salona verilen heyecan tepkisi ise koşullu tepki olmuştur."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Olumsuz Pekiştirme",
+      "difficulty": 2,
+      "text": "Ailesi, her akşam dişlerini fırçalayan çocuğun o günkü tablet kullanma yasağını kaldırmış; çocuk böylece diş fırçalama davranışını sürdürmüştür. Bu durumda uygulanan pekiştirme türü hangisidir?",
+      "options": {
+        "A": "Olumlu pekiştirme",
+        "B": "Olumsuz pekiştirme",
+        "C": "I. tür ceza",
+        "D": "II. tür ceza"
+      },
+      "correctOption": "B",
+      "explanation": "Olumsuz pekiştirmede, istenen davranışın ardından hoşa gitmeyen bir uyarıcı (yasak) ortamdan çıkarılarak davranışın tekrarlanma olasılığı artırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Ceza Türleri",
+      "difficulty": 3,
+      "text": "Bir öğretmen, ders sırasında sürekli arkadaşıyla konuşan öğrencisine o gün teneffüse çıkmama yaptırımı uygulamış ve öğrencinin bu davranışı azalmıştır. Öğretmenin uyguladığı yaptırım hangisidir?",
+      "options": {
+        "A": "Olumlu pekiştirme",
+        "B": "Olumsuz pekiştirme",
+        "C": "II. tür ceza",
+        "D": "Sönme"
+      },
+      "correctOption": "C",
+      "explanation": "II. tür cezada, istenmeyen davranışın ardından hoşa giden bir uyarıcı (teneffüs) ortamdan çıkarılarak davranışın azalması sağlanır. Olumlu bir uyarıcının çekilmesi söz konusudur."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Edimsel Sönme",
+      "difficulty": 2,
+      "text": "Daha önce her doğru yanıtında öğretmeninden övgü alan bir öğrencinin, bu övgü artık verilmediğinde elini kaldırmayı bırakması hangi kavramla açıklanır?",
+      "options": {
+        "A": "Genelleme",
+        "B": "Kademeli yaklaşma",
+        "C": "Olumsuz pekiştirme",
+        "D": "Sönme"
+      },
+      "correctOption": "D",
+      "explanation": "Edimsel koşullanmada davranışı güçlendiren pekiştireç kesildiğinde davranışın görülme sıklığı azalır ve davranış söner."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kademeli Yaklaşma",
+      "difficulty": 3,
+      "text": "Öğretmen, utangaç bir öğrencinin önce sınıfta tek cümle söylemesini, ardından arkadaşlarına soru sormasını, en sonunda sınıf önünde sunum yapmasını ödüllendirerek onu istenen davranışa adım adım yaklaştırmıştır. Bu yöntem hangi kavramla açıklanır?",
+      "options": {
+        "A": "Kademeli yaklaşma (şekillendirme)",
+        "B": "Sönme",
+        "C": "Modelleme",
+        "D": "Ayırt etme"
+      },
+      "correctOption": "A",
+      "explanation": "Kademeli yaklaşma, hedef davranışa yakın ara davranışların sırayla pekiştirilerek bireyin adım adım istenen davranışa yönlendirilmesidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Pekiştirme Tarifeleri",
+      "difficulty": 3,
+      "text": "Edimsel koşullanmada, pekiştirecin belirli sayıda doğru davranıştan sonra verildiği pekiştirme tarifesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sabit zaman aralıklı tarife",
+        "B": "Sabit oranlı tarife",
+        "C": "Değişken zaman aralıklı tarife",
+        "D": "Değişken oranlı tarife"
+      },
+      "correctOption": "B",
+      "explanation": "Sabit oranlı tarifede pekiştireç, belirlenen sayıda (örn. her beş) doğru davranıştan sonra verilir. Zaman yerine davranış sayısı ölçüt alınır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Pekiştireç Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi doğuştan pekiştirici olmayıp öğrenme yoluyla sonradan pekiştireç özelliği kazanan ikincil (koşullu) pekiştireçtir?",
+      "options": {
+        "A": "Yiyecek",
+        "B": "Su",
+        "C": "Para",
+        "D": "Uyku"
+      },
+      "correctOption": "C",
+      "explanation": "Yiyecek, su ve uyku birincil pekiştireçlerdir. Para ise biyolojik bir ihtiyacı doğrudan karşılamaz; ihtiyaçları giderme aracı olarak öğrenilmiş, yani ikincil pekiştireçtir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bandura Gözlem Yoluyla Öğrenme",
+      "difficulty": 2,
+      "text": "Bandura'ya göre bireyin bir davranışı kendisi bizzat yaşamadan, başkalarının davranışlarını ve bu davranışların sonuçlarını izleyerek öğrenmesine ne ad verilir?",
+      "options": {
+        "A": "Klasik koşullanma",
+        "B": "Edimsel koşullanma",
+        "C": "Deneme yanılma",
+        "D": "Gözlem yoluyla öğrenme"
+      },
+      "correctOption": "D",
+      "explanation": "Sosyal öğrenme kuramına göre birey, başkalarını gözlemleyerek ve model alarak doğrudan yaşantıya gerek kalmadan yeni davranışlar öğrenebilir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Dolaylı Pekiştirme",
+      "difficulty": 3,
+      "text": "Bir öğrenci, arkadaşının çalışkan davranışı nedeniyle öğretmen tarafından övüldüğünü gördükten sonra kendi davranışlarını da değiştirmeye başlamıştır. Bu durum Bandura'nın hangi kavramıyla açıklanır?",
+      "options": {
+        "A": "Dolaylı pekiştirme",
+        "B": "Doğrudan pekiştirme",
+        "C": "Sönme",
+        "D": "Kademeli yaklaşma"
+      },
+      "correctOption": "A",
+      "explanation": "Dolaylı (temsili) pekiştirme, bir davranışın başkası tarafından yapıldığında pekiştirildiğini gözlemleyen bireyin o davranışı sergileme eğiliminin artmasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öz Yeterlik",
+      "difficulty": 2,
+      "text": "Bandura'nın sosyal öğrenme kuramına göre bireyin, belirli bir işi başarıyla yapabileceğine ilişkin kendine duyduğu inanca ne ad verilir?",
+      "options": {
+        "A": "Benlik saygısı",
+        "B": "Öz yeterlik",
+        "C": "İçsel güdülenme",
+        "D": "Dengeleme"
+      },
+      "correctOption": "B",
+      "explanation": "Öz yeterlik, bireyin belirli bir görevi başarabileceğine dair kendine olan inancıdır. Bu inanç, bireyin çaba gösterme ve güçlüklerle başa çıkma düzeyini etkiler."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gestalt Öğrenme",
+      "difficulty": 1,
+      "text": "Gestalt kuramcılarının, bireyin parçalar arasındaki ilişkileri bir bütün olarak görüp sorunun çözümünü aniden kavraması sonucu oluşan öğrenmeyi ifade etmek için kullandığı kavram hangisidir?",
+      "options": {
+        "A": "Deneme yanılma",
+        "B": "Koşullanma",
+        "C": "Kavrayarak (içgörü) öğrenme",
+        "D": "Model alma"
+      },
+      "correctOption": "C",
+      "explanation": "Gestalt kuramına göre öğrenme, parçaların bir bütün içindeki ilişkilerinin kavranmasıyla aniden gerçekleşir; buna kavrayarak (içgörü) öğrenme denir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Tolman Gizli Öğrenme",
+      "difficulty": 3,
+      "text": "Tolman'ın farelerle yaptığı labirent deneylerinde, hayvanların ödül almadan da labirentin zihinsel haritasını oluşturduğunun gözlenmesi hangi kavramla açıklanır?",
+      "options": {
+        "A": "Gizli (örtük) öğrenme",
+        "B": "Kavrayarak öğrenme",
+        "C": "Kademeli yaklaşma",
+        "D": "Klasik koşullanma"
+      },
+      "correctOption": "A",
+      "explanation": "Gizli öğrenme, pekiştireç olmadan da öğrenmenin gerçekleşebileceğini; öğrenmenin ancak pekiştireç ortaya çıktığında performansa dönüştüğünü gösterir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bruner Buluş Yoluyla",
+      "difficulty": 2,
+      "text": "Bruner'a göre öğrencinin, öğretmenin yönlendirmesiyle bilgiye kuralları ve örnekleri kendisi inceleyerek ulaşmasını temel alan öğretim yaklaşımı hangisidir?",
+      "options": {
+        "A": "Sunuş yoluyla öğretim",
+        "B": "Buluş yoluyla öğretim",
+        "C": "Programlı öğretim",
+        "D": "Bireyselleştirilmiş öğretim"
+      },
+      "correctOption": "B",
+      "explanation": "Buluş yoluyla öğretimde öğrenci, hazır bilgiyi almak yerine örnekleri inceleyip genellemelere kendisi ulaşır; öğretmen rehber konumundadır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Ausubel Anlamlı Öğrenme",
+      "difficulty": 2,
+      "text": "Ausubel'e göre yeni bilginin, öğrencinin zihnindeki mevcut bilgi yapılarıyla ilişkilendirilerek öğrenilmesine ne ad verilir?",
+      "options": {
+        "A": "Ezbere öğrenme",
+        "B": "Deneme yanılma",
+        "C": "Anlamlı öğrenme",
+        "D": "Gizli öğrenme"
+      },
+      "correctOption": "C",
+      "explanation": "Anlamlı öğrenme, yeni bilginin önceden var olan bilişsel yapıya anlamlı biçimde bağlanmasıyla gerçekleşir. Ezbere öğrenmede ise bilgi ilişkilendirilmeden ezberlenir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gagné Öğrenme Ürünleri",
+      "difficulty": 3,
+      "text": "Gagné'nin öğrenme ürünleri sınıflamasına göre öğrencinin 'öğrenmeyi sevme, bilime ilgi duyma' gibi duyuşsal özelliklerini kapsayan öğrenme ürünü hangisidir?",
+      "options": {
+        "A": "Sözel bilgi",
+        "B": "Tutum",
+        "C": "Psikomotor beceri",
+        "D": "Bilişsel strateji"
+      },
+      "correctOption": "B",
+      "explanation": "Gagné'nin öğrenme ürünleri arasında tutumlar, bireyin belirli nesne, kişi veya etkinliklere yönelik eğilimlerini kapsayan duyuşsal ürünlerdir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Duyusal Kayıt",
+      "difficulty": 1,
+      "text": "Bilgi işleme kuramına göre duyu organlarına gelen uyarıcıların çok kısa süre tutulduğu ve dikkat edilmeyen bilgilerin hızla kaybolduğu ilk bellek birimi hangisidir?",
+      "options": {
+        "A": "Kısa süreli bellek",
+        "B": "Uzun süreli bellek",
+        "C": "Çalışan bellek",
+        "D": "Duyusal kayıt"
+      },
+      "correctOption": "D",
+      "explanation": "Duyusal kayıt, uyarıcıların duyu organları aracılığıyla çok kısa süreliğine alındığı ilk bellektir. Bilgi burada dikkat süzgecinden geçerek kısa süreli belleğe aktarılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kısa Süreli Bellek",
+      "difficulty": 1,
+      "text": "Bilgi işleme kuramına göre kısa süreli belleğin kapasitesiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Kapasitesi sınırlıdır ve yaklaşık 7 ± 2 birim bilgi tutabilir.",
+        "B": "Kapasitesi sınırsızdır ve bilgiyi kalıcı olarak saklar.",
+        "C": "Bilgiyi hiçbir işlemden geçirmeden doğrudan uzun süreli belleğe aktarır.",
+        "D": "Yalnızca görsel uyarıcıları işleyebilir."
+      },
+      "correctOption": "A",
+      "explanation": "Kısa süreli belleğin kapasitesi sınırlıdır ve yaklaşık 7 ± 2 birimdir. Bilginin kalıcı olması için kodlanarak uzun süreli belleğe aktarılması gerekir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Uzun Süreli Bellek",
+      "difficulty": 2,
+      "text": "Bilgi işleme kuramına göre bilginin uzun süreli belleğe yerleştirilebilmesi için anlamlı hâle getirilerek düzenlenmesi sürecine ne ad verilir?",
+      "options": {
+        "A": "Geri getirme",
+        "B": "Tanıma",
+        "C": "Kodlama",
+        "D": "Hatırlama"
+      },
+      "correctOption": "C",
+      "explanation": "Kodlama, bilginin uzun süreli bellekte saklanabilecek biçime dönüştürülmesidir. Geri getirme ise depolanan bilginin hatırlanmasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Ket Vurma",
+      "difficulty": 3,
+      "text": "Bir öğrencinin yeni öğrendiği bilgiler nedeniyle daha önce öğrendiği bilgileri hatırlamakta zorlanması hangi kavramla açıklanır?",
+      "options": {
+        "A": "İleriye ket vurma",
+        "B": "Bastırma",
+        "C": "İz kaybı",
+        "D": "Geriye ket vurma"
+      },
+      "correctOption": "D",
+      "explanation": "Geriye ket vurmada yeni öğrenilen bilgiler, eski bilgilerin hatırlanmasını engeller. İleriye ket vurmada ise eski bilgiler yeni bilgilerin öğrenilmesini güçleştirir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Unutma Kuramları",
+      "difficulty": 2,
+      "text": "Öğrenilen bilgilerin zamanla bellek izlerinin zayıflaması sonucu unutulduğunu savunan görüş aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İz (zamanla kaybolma) kuramı",
+        "B": "Bastırma kuramı",
+        "C": "Ket vurma kuramı",
+        "D": "Geri getirme kuramı"
+      },
+      "correctOption": "A",
+      "explanation": "İz kuramına göre öğrenmeyle oluşan sinirsel izler zamanla zayıflar ve silinir; bu da unutmaya yol açar. Bastırma ve ket vurma ise unutmanın farklı nedenlerini açıklar."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Maslow İhtiyaçlar Hiyerarşisi",
+      "difficulty": 1,
+      "text": "Maslow'un ihtiyaçlar hiyerarşisine göre bireyin öncelikle karşılamak zorunda olduğu en temel ihtiyaç grubu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Saygınlık ihtiyacı",
+        "B": "Kendini gerçekleştirme",
+        "C": "Ait olma ve sevgi ihtiyacı",
+        "D": "Fizyolojik ihtiyaçlar"
+      },
+      "correctOption": "D",
+      "explanation": "Maslow'a göre hiyerarşinin en alt basamağında yeme, içme, uyku gibi fizyolojik ihtiyaçlar yer alır. Bu ihtiyaçlar karşılanmadan üst basamaklardaki ihtiyaçlar güdüleyici olmaz."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "İçsel Dışsal Güdülenme",
+      "difficulty": 1,
+      "text": "Bir öğrencinin yalnızca konuyu merak ettiği ve öğrenmekten zevk aldığı için çalışması hangi güdülenme türüne örnektir?",
+      "options": {
+        "A": "Dışsal güdülenme",
+        "B": "İçsel güdülenme",
+        "C": "Olumsuz pekiştirme",
+        "D": "Ceza"
+      },
+      "correctOption": "B",
+      "explanation": "İçsel güdülenmede birey, dışsal bir ödül ya da baskı olmaksızın etkinliğin kendisinden haz aldığı için davranışta bulunur."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Aktarım",
+      "difficulty": 2,
+      "text": "Bir öğrencinin matematik dersinde kazandığı problem çözme becerisini fizik dersindeki problemlere de uygulayabilmesi hangi kavramla açıklanır?",
+      "options": {
+        "A": "Sönme",
+        "B": "Genelleme",
+        "C": "Olumlu transfer (aktarım)",
+        "D": "Gizli öğrenme"
+      },
+      "correctOption": "C",
+      "explanation": "Önceki öğrenmelerin yeni öğrenmeleri kolaylaştırması olumlu transferdir. Yeni öğrenmeyi zorlaştırması ise olumsuz transfer olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Yapılandırmacı Yaklaşım",
+      "difficulty": 2,
+      "text": "Bir öğretmen, yeni konuya başlarken öğrencilerin konuyla ilgili ön bilgilerini ortaya çıkarıp tartışma ortamı oluşturmakta ve öğrencilerin kendi anlamalarını kurmalarına rehberlik etmektedir. Öğretmenin bu yaklaşımı hangi öğrenme kuramıyla açıklanır?",
+      "options": {
+        "A": "Davranışçı yaklaşım",
+        "B": "Klasik koşullanma kuramı",
+        "C": "Edimsel koşullanma kuramı",
+        "D": "Yapılandırmacı yaklaşım"
+      },
+      "correctOption": "D",
+      "explanation": "Yapılandırmacı yaklaşımda öğrenci, yeni bilgiyi ön bilgileriyle ilişkilendirerek zihninde etkin biçimde yapılandırır; öğretmen rehber rolündedir."
+    }
+  ]
+}

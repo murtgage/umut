@@ -1,0 +1,844 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberliğin Amacı",
+      "difficulty": 1,
+      "text": "Rehberlik süreciyle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Rehberlik, bireyin yerine karar vererek onu istediği yöne sürükler.",
+        "B": "Rehberlik, yalnızca sorun yaşayan öğrencilere sunulan bir hizmettir.",
+        "C": "Rehberlik, bireyin kendini tanımasına ve sağlıklı kararlar vermesine yardımcı olur.",
+        "D": "Rehberlik, öğretmenin sınıfta disiplin sağlamak için kullandığı bir araçtır."
+      },
+      "correctOption": "C",
+      "explanation": "Rehberlik bireyin kendini tanımasını ve kendi kararlarını verebilmesini amaçlar; onun adına karar vermez. Ayrıca yalnızca sorun yaşayanlara değil, tüm bireylere yönelik bir hizmettir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Gizlilik İlkesi",
+      "difficulty": 2,
+      "text": "Danışmanına anlattıklarının başkalarıyla paylaşılmayacağını bilen bir öğrenci, rehberliğin hangi ilkesine güvenmektedir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "Gönüllülük",
+        "C": "Süreklilik",
+        "D": "Ekonomiklik"
+      },
+      "correctOption": "A",
+      "explanation": "Gizlilik ilkesi, danışma sürecinde paylaşılan bilgilerin danışanın izni olmadan başkalarına aktarılmamasını gerektirir. Bu ilke öğrencinin kendini güvende hissetmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Gönüllülük İlkesi",
+      "difficulty": 1,
+      "text": "Bir okulda öğrenciler rehberlik servisine gitmeye zorlanmamakta, katılım tamamen kendi isteklerine bırakılmaktadır. Bu durum rehberliğin hangi ilkesiyle ilgilidir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "Süreklilik",
+        "C": "Bilimsellik",
+        "D": "Gönüllülük"
+      },
+      "correctOption": "D",
+      "explanation": "Rehberlikte bireyin hizmetlerden yararlanması kendi isteğine bağlıdır; zorlama söz konusu olamaz. Bu durum gönüllülük ilkesinin bir gereğidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Süreklilik İlkesi",
+      "difficulty": 2,
+      "text": "Rehberlik hizmetlerinin okulun her kademesinde ve eğitim yılı boyunca kesintisiz olarak sürdürülmesi hangi ilkeyle ilgilidir?",
+      "options": {
+        "A": "Gönüllülük",
+        "B": "Süreklilik",
+        "C": "Güven",
+        "D": "Bireysel farklılıklara saygı"
+      },
+      "correctOption": "B",
+      "explanation": "Rehberlik belirli bir zamana sıkışmayan, eğitim boyunca devam eden bir süreçtir. Hizmetlerin kesintisiz sürdürülmesi süreklilik ilkesinin gereğidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireysel Farklılıklara Saygı",
+      "difficulty": 1,
+      "text": "Rehberlikte her öğrencinin ilgi, yetenek ve gereksinimlerinin birbirinden farklı olduğunun kabul edilmesi ve çalışmaların buna göre planlanması hangi ilkenin gereğidir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "Ekonomiklik",
+        "C": "Bireysel farklılıklara saygı",
+        "D": "Süreklilik"
+      },
+      "correctOption": "C",
+      "explanation": "Her birey kendine özgüdür; ilgi, yetenek ve gereksinimleri farklıdır. Rehberlikte bu farklılıkların dikkate alınması bireysel farklılıklara saygı ilkesini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bilimsellik İlkesi",
+      "difficulty": 3,
+      "text": "Rehberlik servisinin öğrencilerle ilgili kararlarında bilimsel ölçme araçlarından ve güvenilir verilerden yararlanması hangi ilkeyle açıklanır?",
+      "options": {
+        "A": "Bilimsellik",
+        "B": "Gönüllülük",
+        "C": "Güven",
+        "D": "Gizlilik"
+      },
+      "correctOption": "A",
+      "explanation": "Rehberlikte tahmin ve kişisel yargılara değil, geçerli ve güvenilir verilere dayanılması gerekir. Bu da bilimsellik ilkesinin bir gereğidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Güven İlkesi",
+      "difficulty": 2,
+      "text": "Danışma sürecinde öğrencinin kendini rahatça ifade edebilmesi için danışmanın yargılayıcı olmayan, kabul edici bir tutum sergilemesi öncelikle hangi ilkeye dayanır?",
+      "options": {
+        "A": "Gönüllülük",
+        "B": "Güven",
+        "C": "Bilimsellik",
+        "D": "Süreklilik"
+      },
+      "correctOption": "B",
+      "explanation": "Danışmanın koşulsuz kabul ve saygı gösteren tutumu, danışanda güven duygusu oluşturur. Güven sağlanmadan danışanın kendini açması beklenemez."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Eğitsel Rehberlik",
+      "difficulty": 2,
+      "text": "Bir öğrencinin ders seçiminde, verimli ders çalışma yollarında ve okul başarısını artırmada yardım alması rehberliğin hangi türü kapsamındadır?",
+      "options": {
+        "A": "Kişisel-sosyal rehberlik",
+        "B": "Mesleki rehberlik",
+        "C": "Sağlık rehberliği",
+        "D": "Eğitsel rehberlik"
+      },
+      "correctOption": "D",
+      "explanation": "Öğrencinin okul yaşamı, ders seçimi, çalışma alışkanlıkları ve akademik başarısıyla ilgili konularda desteklenmesi eğitsel rehberlik kapsamına girer."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Mesleki Rehberlik",
+      "difficulty": 2,
+      "text": "Lise son sınıftaki bir öğrencinin ilgi ve yeteneklerine uygun üniversite programını ve mesleği belirlemesine yardımcı olmak hangi rehberlik türüdür?",
+      "options": {
+        "A": "Eğitsel rehberlik",
+        "B": "Kişisel-sosyal rehberlik",
+        "C": "Mesleki rehberlik",
+        "D": "Oryantasyon hizmeti"
+      },
+      "correctOption": "C",
+      "explanation": "Bireyin ilgi ve yeteneklerini tanıyarak bir mesleğe ve o mesleğe hazırlayan eğitim programına yönelmesine yardım etmek mesleki rehberliğin amacıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kişisel-Sosyal Rehberlik",
+      "difficulty": 1,
+      "text": "Bir öğrencinin arkadaşlarıyla yaşadığı çatışmaları çözmesi ve öfkesini yönetmesi konusunda desteklenmesi rehberliğin hangi alanına girer?",
+      "options": {
+        "A": "Kişisel-sosyal rehberlik",
+        "B": "Eğitsel rehberlik",
+        "C": "Mesleki rehberlik",
+        "D": "Yerleştirme hizmeti"
+      },
+      "correctOption": "A",
+      "explanation": "Bireyin duygularını tanıması, kişiler arası ilişkilerini sağlıklı biçimde sürdürmesi ve topluma uyum sağlaması kişisel-sosyal rehberlikle ilgilidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Doğrudan ve Dolaylı Rehberlik",
+      "difficulty": 3,
+      "text": "Rehberlikte doğrudan hizmet ile dolaylı hizmet arasındaki farkı en iyi açıklayan ifade aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğrudan hizmet yalnızca grupla yapılan çalışmaları kapsar.",
+        "B": "Doğrudan hizmette uzman öğrenciyle yüz yüze çalışır; dolaylı hizmette öğrenciye ulaşmak için öğretmen ve veli gibi aracılarla çalışır.",
+        "C": "Dolaylı hizmette uzman her zaman öğrenciyle bireysel görüşme yapar.",
+        "D": "Doğrudan ve dolaylı hizmet birbirinin aynısı olan kavramlardır."
+      },
+      "correctOption": "B",
+      "explanation": "Doğrudan hizmette rehberlik uzmanı öğrenciyle ya da grupla doğrudan etkileşime girer. Dolaylı hizmette ise öğretmen, veli ve yöneticilerle çalışılarak öğrenciye dolaylı biçimde ulaşılır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Oryantasyon Hizmeti",
+      "difficulty": 1,
+      "text": "Okula yeni başlayan öğrencilere okulun bölümlerini, kurallarını ve çevresini tanıtmak amacıyla yapılan çalışma hangi rehberlik hizmetidir?",
+      "options": {
+        "A": "Yerleştirme",
+        "B": "İzleme",
+        "C": "Müşavirlik",
+        "D": "Oryantasyon"
+      },
+      "correctOption": "D",
+      "explanation": "Oryantasyon (alıştırma) hizmeti, bireyin yeni ortamına kısa sürede uyum sağlaması için ortamın tanıtılmasını amaçlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bilgi Toplama Hizmeti",
+      "difficulty": 2,
+      "text": "Rehberlik servisinin öğrencileri tanımak amacıyla anket, test ve gözlem gibi araçlarla onlar hakkında bilgi toplaması hangi hizmet kapsamındadır?",
+      "options": {
+        "A": "Bilgi toplama",
+        "B": "Danışma",
+        "C": "Yerleştirme",
+        "D": "Oryantasyon"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrenciyi çeşitli yollarla tanımak üzere bilgi ve veri toplanması, rehberliğin bilgi toplama (bireyi tanıma) hizmetidir. Sağlıklı rehberlik için doğru bilgiye gereksinim vardır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Danışma Hizmeti",
+      "difficulty": 2,
+      "text": "Öğrencinin bir uzmanla birebir görüşerek yaşadığı sorunu paylaşması ve çözüm yollarını birlikte araması rehberlik hizmetlerinden hangisidir?",
+      "options": {
+        "A": "Araştırma-değerlendirme",
+        "B": "İzleme",
+        "C": "Danışma",
+        "D": "Bilgi toplama"
+      },
+      "correctOption": "C",
+      "explanation": "Danışma (psikolojik danışma) hizmeti, bireyin bir uzmanla yüz yüze görüşerek kendini tanımasına ve sorunlarına çözüm bulmasına yardım eden temel hizmettir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Yerleştirme Hizmeti",
+      "difficulty": 3,
+      "text": "Öğrencilerin ilgi, yetenek ve başarı durumlarına göre uygun okul, sınıf, ders veya iş alanlarına yönlendirilmesi hangi rehberlik hizmetidir?",
+      "options": {
+        "A": "Oryantasyon",
+        "B": "Yerleştirme",
+        "C": "Müşavirlik",
+        "D": "İzleme"
+      },
+      "correctOption": "B",
+      "explanation": "Yerleştirme hizmeti, bireyin özelliklerine en uygun eğitim veya iş ortamına yönlendirilmesini ve orada tutunmasının sağlanmasını kapsar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "İzleme Hizmeti",
+      "difficulty": 2,
+      "text": "Verilen rehberlik hizmetinin ardından öğrencinin gelişiminin belirli aralıklarla takip edilmesi hangi hizmetle ilgilidir?",
+      "options": {
+        "A": "Oryantasyon",
+        "B": "Bilgi toplama",
+        "C": "Yerleştirme",
+        "D": "İzleme"
+      },
+      "correctOption": "D",
+      "explanation": "İzleme hizmeti, yapılan yerleştirme ve yönlendirmelerin sonuçlarının düzenli olarak kontrol edilip gerektiğinde yeni düzenlemeler yapılmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Müşavirlik Hizmeti",
+      "difficulty": 2,
+      "text": "Rehberlik uzmanının, öğretmenlere ve ailelere öğrencilerle ilgili bilgi ve öneriler sunarak onlara yardımcı olması hangi hizmet kapsamındadır?",
+      "options": {
+        "A": "Danışma",
+        "B": "Yerleştirme",
+        "C": "Müşavirlik",
+        "D": "İzleme"
+      },
+      "correctOption": "C",
+      "explanation": "Müşavirlik (konsültasyon) hizmeti, rehberlik uzmanının doğrudan öğrenciye değil, öğrenciyle ilgilenen öğretmen ve velilere bilgi ve destek sunmasıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Araştırma ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Okulun rehberlik programının etkililiğinin araştırılıp değerlendirilmesi ve elde edilen sonuçlara göre programın geliştirilmesi hangi rehberlik hizmetidir?",
+      "options": {
+        "A": "Araştırma-değerlendirme",
+        "B": "Bilgi toplama",
+        "C": "Yerleştirme",
+        "D": "Oryantasyon"
+      },
+      "correctOption": "A",
+      "explanation": "Rehberlik hizmetlerinin verimliliğini ölçmek, sorunları belirlemek ve programı geliştirmek için yapılan araştırma ve değerlendirme çalışmaları bu hizmetin kapsamındadır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Klinik Model",
+      "difficulty": 3,
+      "text": "Sorun yaşayan bireyi merkeze alıp uzman tedavisi ve bireysel görüşmelerle var olan sorunu gidermeyi amaçlayan, genellikle okul dışı uzmanlarla işbirliği gerektiren rehberlik modeli hangisidir?",
+      "options": {
+        "A": "Gelişimsel model",
+        "B": "Klinik (iyileştirici) model",
+        "C": "Önleyici model",
+        "D": "Kapsamlı rehberlik modeli"
+      },
+      "correctOption": "B",
+      "explanation": "Klinik model, ortaya çıkmış bir sorunu iyileştirmeye ve bireyi tedavi etmeye odaklanır. Bu nedenle daha çok sorunlu bireyle ve uzman desteğiyle çalışır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Gelişimsel Model",
+      "difficulty": 2,
+      "text": "Rehberliği tüm öğrencilere yönelik, gelişim dönemlerine göre planlanan ve sorun çıkmadan önce gelişimi desteklemeyi esas alan model hangisidir?",
+      "options": {
+        "A": "Klinik model",
+        "B": "İyileştirici model",
+        "C": "Kriz modeli",
+        "D": "Gelişimsel model"
+      },
+      "correctOption": "D",
+      "explanation": "Gelişimsel rehberlik modeli, rehberliği sorun gidermeye değil; tüm öğrencilerin gelişim görevlerini yerine getirmesine ve potansiyelini geliştirmesine yardımcı olmaya odaklar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikanalitik Kuram",
+      "difficulty": 2,
+      "text": "Davranışların büyük ölçüde bilinç dışı içsel çatışmalardan kaynaklandığını savunan ve id, ego, süperego kavramlarını ortaya koyan kuramcı kimdir?",
+      "options": {
+        "A": "Carl Rogers",
+        "B": "Alfred Adler",
+        "C": "Sigmund Freud",
+        "D": "Frederick Perls"
+      },
+      "correctOption": "C",
+      "explanation": "Psikanalitik kuramın kurucusu Sigmund Freud'dur. Freud, kişiliği id, ego ve süperego olarak açıklamış ve bilinç dışı süreçlerin davranışı yönlendirdiğini savunmuştur."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Adler Yaklaşımı",
+      "difficulty": 3,
+      "text": "Davranışların temelinde aşağılık duygusu ve üstünlük çabasının bulunduğunu, ayrıca doğum sırasının kişilik üzerinde etkili olduğunu savunan kuramcı kimdir?",
+      "options": {
+        "A": "Alfred Adler",
+        "B": "Sigmund Freud",
+        "C": "Carl Jung",
+        "D": "Burrhus F. Skinner"
+      },
+      "correctOption": "A",
+      "explanation": "Bireysel psikolojinin kurucusu Alfred Adler, aşağılık duygusu ve üstünlük çabası kavramlarını geliştirmiş; doğum sırasının kişiliği etkilediğini belirtmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Danışan Merkezli Yaklaşım",
+      "difficulty": 1,
+      "text": "Bireyin kendini gerçekleştirme potansiyeline sahip olduğunu savunan; danışmanın koşulsuz saygı, içtenlik ve empatik anlayış sunması gerektiğini vurgulayan yaklaşım hangisidir?",
+      "options": {
+        "A": "Psikanalitik kuram",
+        "B": "Danışan merkezli yaklaşım",
+        "C": "Gerçeklik terapisi",
+        "D": "Davranışçı yaklaşım"
+      },
+      "correctOption": "B",
+      "explanation": "Carl Rogers'ın geliştirdiği danışan merkezli yaklaşımda danışmanın koşulsuz olumlu saygı, saydamlık ve empatik anlayış sunması danışanın kendini gerçekleştirmesini kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Gestalt Yaklaşımı",
+      "difficulty": 2,
+      "text": "Bireyin şimdi ve buradaki yaşantısına, farkındalığa ve duygularını bütün olarak kabul etmesine odaklanan; boş sandalye ve rol oynama gibi teknikleri kullanan yaklaşımın öncüsü kimdir?",
+      "options": {
+        "A": "Carl Rogers",
+        "B": "Albert Ellis",
+        "C": "Aaron Beck",
+        "D": "Frederick Perls"
+      },
+      "correctOption": "D",
+      "explanation": "Gestalt yaklaşımının kurucusu Frederick Perls'tir. Yaklaşım, geçmiş yerine şimdiye ve bireyin yaşadığı anda farkındalık kazanmasına odaklanır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bilişsel Terapiler",
+      "difficulty": 3,
+      "text": "Danışanın olaylarla ilgili akılcı olmayan ve çarpık düşüncelerini değiştirmeyi amaçlayan ABC modelini geliştiren kuramcı kimdir?",
+      "options": {
+        "A": "Aaron Beck",
+        "B": "Sigmund Freud",
+        "C": "Albert Ellis",
+        "D": "William Glasser"
+      },
+      "correctOption": "C",
+      "explanation": "Albert Ellis, Akılcı Duygusal Davranışçı Terapi'yi ve olay-inanç-sonuç ilişkisini açıklayan ABC modelini geliştirmiştir. Aaron Beck ise bilişsel terapiyi geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Gerçeklik Terapisi",
+      "difficulty": 2,
+      "text": "Bireyin geçmiş yaşantılarından çok şu andaki davranışlarına ve sorumluluk almasına odaklanan; seçim kuramı ve gerçeklik terapisini geliştiren kuramcı kimdir?",
+      "options": {
+        "A": "William Glasser",
+        "B": "Albert Ellis",
+        "C": "Frederick Perls",
+        "D": "Carl Rogers"
+      },
+      "correctOption": "A",
+      "explanation": "William Glasser, bireyin geçmişteki sorunları yerine bugünkü davranışlarını ve seçimlerinin sorumluluğunu vurgulayan gerçeklik terapisini ve seçim kuramını geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Transaksiyonel Analiz",
+      "difficulty": 2,
+      "text": "Kişiler arası iletişimin ebeveyn, yetişkin ve çocuk ego durumlarıyla açıklandığı kuram hangisidir?",
+      "options": {
+        "A": "Gestalt terapisi",
+        "B": "Transaksiyonel analiz",
+        "C": "Danışan merkezli yaklaşım",
+        "D": "Akılcı duygusal terapi"
+      },
+      "correctOption": "B",
+      "explanation": "Eric Berne'in geliştirdiği transaksiyonel analiz, kişiler arası iletişimi ebeveyn, yetişkin ve çocuk ego durumları arasındaki etkileşimlerle açıklar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Danışma Becerileri",
+      "difficulty": 2,
+      "text": "Psikolojik danışma sürecinde danışmanın, danışanın söylediklerini kendi cümleleriyle ve duygularını da dikkate alarak ona geri yansıtması hangi iletişim becerisidir?",
+      "options": {
+        "A": "Emir verme",
+        "B": "Yönlendirme",
+        "C": "Sorgulama",
+        "D": "Yansıtma"
+      },
+      "correctOption": "D",
+      "explanation": "Yansıtma, danışmanın danışanın ifade ettiği içerik ve duyguları kendi sözcükleriyle geri vermesidir. Bu beceri danışanın kendini daha iyi anlamasına yardımcı olur."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Sınav Kaygısı",
+      "difficulty": 1,
+      "text": "Sınava hazırlanan bir öğrenci, Başarısız olacağım, hiçbir şeyi yapamıyorum, biçiminde düşüncelerle yoğun kaygı yaşamaktadır. Danışmanın öncelikle başvurması gereken yaklaşım hangisidir?",
+      "options": {
+        "A": "Öğrenciyi kaygı duyduğu için eleştirmek",
+        "B": "Sınavı hiç önemsememesini öğütlemek",
+        "C": "Kaygıya yol açan akılcı olmayan düşünceleri fark ettirip gerçekçi düşüncelerle değiştirmesine yardım etmek",
+        "D": "Öğrenciyle görüşmeyi tamamen reddetmek"
+      },
+      "correctOption": "C",
+      "explanation": "Sınav kaygısında çoğu zaman gerçekçi olmayan olumsuz düşünceler etkilidir. Bu düşünceleri fark ettirip yerine gerçekçi düşünceler geliştirmek bilişsel yaklaşımın temel çalışmasıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Akran Zorbalığı",
+      "difficulty": 2,
+      "text": "Bir öğrenci, sınıf arkadaşları tarafından sürekli lakap takılması, dışlanması ve tehdit edilmesiyle karşı karşıyadır. Bu durum en iyi hangi kavramla açıklanır?",
+      "options": {
+        "A": "Akran zorbalığı",
+        "B": "Normal arkadaş şakalaşması",
+        "C": "Rekabete dayalı oyun",
+        "D": "Öğretmenin disiplin uygulaması"
+      },
+      "correctOption": "A",
+      "explanation": "Akran zorbalığı, güç dengesizliği olan taraflar arasında kasıtlı, tekrarlayan ve zarar verici saldırgan davranışlardır. Süreklilik ve zarar verme niyeti bu kavramın temel özellikleridir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bilinenden Bilinmeyene",
+      "difficulty": 1,
+      "text": "Bir öğretmen yeni bir konuya başlarken öğrencilerin daha önce öğrendiği bilgilerden yararlanıp bunlarla ilişki kurarak konuyu anlatmaktadır. Öğretmen hangi öğretim ilkesine uygun davranmıştır?",
+      "options": {
+        "A": "Bilinenden bilinmeyene",
+        "B": "Somuttan soyuta",
+        "C": "Yakından uzağa",
+        "D": "Ekonomiklik"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrencinin sahip olduğu ön bilgilerden hareket edilerek yeni bilgilerin kazandırılması bilinenden bilinmeyene ilkesinin gereğidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Somuttan Soyuta",
+      "difficulty": 2,
+      "text": "Öğretimde önce somut nesne ve yaşantılardan yararlanılıp sonra soyut kavram ve genellemelere geçilmesi hangi ilkenin gereğidir?",
+      "options": {
+        "A": "Bilinenden bilinmeyene",
+        "B": "Somuttan soyuta",
+        "C": "Bütünlük",
+        "D": "Hayatilik"
+      },
+      "correctOption": "B",
+      "explanation": "Çocuğun düşünmesi somuttan soyuta doğru geliştiği için öğretimin de somut unsurlardan başlayıp soyut kavramlara yönelmesi gerekir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Yakından Uzağa",
+      "difficulty": 2,
+      "text": "Bir öğretmen çevre konusunu işlerken önce öğrencilerin kendi evini ve mahallesini, ardından ülkesini ve dünyayı ele almıştır. Bu öğretmen hangi ilkeye uygun davranmıştır?",
+      "options": {
+        "A": "Somuttan soyuta",
+        "B": "Ekonomiklik",
+        "C": "Yakından uzağa",
+        "D": "Açıklık"
+      },
+      "correctOption": "C",
+      "explanation": "Öğrencinin yakın çevresinden ve yaşantısından başlayıp giderek uzak çevreye yönelmek yakından uzağa ilkesinin gereğidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Hayatilik",
+      "difficulty": 2,
+      "text": "Öğretim konularının öğrencinin günlük yaşamıyla ve gerçek hayattaki uygulamalarla ilişkilendirilerek işlenmesi hangi ilkeyle açıklanır?",
+      "options": {
+        "A": "Açıklık",
+        "B": "Ekonomiklik",
+        "C": "Bütünlük",
+        "D": "Hayatilik"
+      },
+      "correctOption": "D",
+      "explanation": "Hayatilik ilkesi, okulda öğrenilenlerin gerçek yaşamla bağlantılı olmasını ve yaşamda işe yaramasını ifade eder."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Açıklık",
+      "difficulty": 1,
+      "text": "Dersin hedeflerinin öğrencilere açıkça belirtilmesi, kullanılan dilin ve örneklerin anlaşılır olması hangi öğretim ilkesiyle ilgilidir?",
+      "options": {
+        "A": "Açıklık",
+        "B": "Ekonomiklik",
+        "C": "Bütünlük",
+        "D": "Aktif katılım"
+      },
+      "correctOption": "A",
+      "explanation": "Açıklık ilkesi, öğretimde neyin amaçlandığının ve konuların öğrencinin anlayacağı biçimde sunulmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Ekonomiklik",
+      "difficulty": 2,
+      "text": "Bir öğretmen aynı öğretim hedefine en kısa sürede, en az araç-gereç ve emekle ulaşmayı amaçlamaktadır. Bu öğretmen hangi ilkeye göre hareket etmektedir?",
+      "options": {
+        "A": "Açıklık",
+        "B": "Ekonomiklik",
+        "C": "Hayatilik",
+        "D": "Bütünlük"
+      },
+      "correctOption": "B",
+      "explanation": "Ekonomiklik ilkesi, öğretimde zaman, emek ve maddi kaynakların verimli kullanılmasını, hedefe en kısa yoldan ulaşılmasını ifade eder."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bütünlük",
+      "difficulty": 2,
+      "text": "Öğretimde konuların kendi içinde anlamlı bir bütün oluşturacak biçimde, parçalar arasındaki ilişkiler kurularak işlenmesi hangi ilkedir?",
+      "options": {
+        "A": "Ekonomiklik",
+        "B": "Açıklık",
+        "C": "Bütünlük",
+        "D": "Bireysel farklılıklara uygunluk"
+      },
+      "correctOption": "C",
+      "explanation": "Bütünlük ilkesi, konuların kopuk parçalar hâlinde değil, aralarında ilişki kurularak bir bütün olarak öğrenilmesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Aktif Katılım",
+      "difficulty": 1,
+      "text": "Öğretimde öğrencilerin yalnızca dinlemekle kalmayıp soru sormalarına, tartışmalarına ve uygulama yapmalarına olanak tanınması hangi ilkenin gereğidir?",
+      "options": {
+        "A": "Açıklık",
+        "B": "Ekonomiklik",
+        "C": "Bütünlük",
+        "D": "Aktif katılım"
+      },
+      "correctOption": "D",
+      "explanation": "Öğrencinin öğrenme sürecine etkin biçimde katılması, öğrenmenin kalıcılığını artırır. Bu, aktif katılım ilkesinin gereğidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bireysel Farklılıklara Uygunluk",
+      "difficulty": 2,
+      "text": "Aynı sınıftaki öğrencilerin öğrenme hızı ve hazırbulunuşluk düzeyi farklı olduğu için öğretimin farklı yöntem ve etkinliklerle düzenlenmesi hangi ilkenin gereğidir?",
+      "options": {
+        "A": "Bireysel farklılıklara uygunluk",
+        "B": "Ekonomiklik",
+        "C": "Açıklık",
+        "D": "Somuttan soyuta"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrenciler ilgi, yetenek ve öğrenme hızı bakımından farklıdır. Öğretimin bu farklılıklara göre düzenlenmesi ve bireyselleştirilmesi bu ilkenin gereğidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Sunuş Stratejisi",
+      "difficulty": 2,
+      "text": "Yeni bilginin öğretmen tarafından düzenli ve aşamalı biçimde, doğrudan sunulduğu ve öğretmenin merkezde olduğu öğretim stratejisi hangisidir?",
+      "options": {
+        "A": "Buluş yoluyla öğretim",
+        "B": "Sunuş yoluyla öğretim",
+        "C": "Araştırma-inceleme yoluyla öğretim",
+        "D": "İşbirlikli öğrenme"
+      },
+      "correctOption": "B",
+      "explanation": "Sunuş yoluyla öğretimde bilgi genellikle öğretmen tarafından, anlamlı ve aşamalı bir düzen içinde doğrudan aktarılır; öğretmen merkezlidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Buluş Stratejisi",
+      "difficulty": 3,
+      "text": "Öğretmenin öğrencilere örnekler sunup onların kendi çabalarıyla kurala veya genellemeye ulaşmalarını sağladığı öğretim stratejisi hangisidir?",
+      "options": {
+        "A": "Araştırma-inceleme yoluyla öğretim",
+        "B": "Sunuş yoluyla öğretim",
+        "C": "Buluş yoluyla öğretim",
+        "D": "Gösterip yaptırma"
+      },
+      "correctOption": "C",
+      "explanation": "Buluş yoluyla öğretimde öğretmen örnek ve ipuçları verir, öğrenci ise kural ya da genellemeye kendisi ulaşır. Bruner'in savunduğu bu strateji öğrenciyi daha etkin kılar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Araştırma-İnceleme Stratejisi",
+      "difficulty": 3,
+      "text": "Öğrencilerin bir problemi kendilerinin belirleyip bilgi toplayarak, deneyerek ve raporlaştırarak çözüme ulaştığı, en üst düzeyde öğrenci merkezli strateji hangisidir?",
+      "options": {
+        "A": "Sunuş yoluyla öğretim",
+        "B": "Buluş yoluyla öğretim",
+        "C": "Anlatım yöntemi",
+        "D": "Araştırma-inceleme yoluyla öğretim"
+      },
+      "correctOption": "D",
+      "explanation": "Araştırma-inceleme yoluyla öğretimde öğrenci problemi kendisi belirler, bilgi toplar ve sonuca ulaşır. Bu strateji öğrenci merkezli yaklaşımların en ileri düzeyidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Anlatım Yöntemi",
+      "difficulty": 1,
+      "text": "Öğretmenin bilgiyi sözlü olarak aktardığı, öğrencinin daha çok dinleyici olduğu ve kalabalık gruplarda sıkça kullanılan öğretim yöntemi hangisidir?",
+      "options": {
+        "A": "Anlatım",
+        "B": "Tartışma",
+        "C": "Örnek olay",
+        "D": "Problem çözme"
+      },
+      "correctOption": "A",
+      "explanation": "Anlatım (takrir) yönteminde bilgi öğretmen tarafından sözlü olarak sunulur. Kalabalık sınıflarda ve kısa sürede çok bilgi vermede kullanışlıdır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Tartışma Yöntemi",
+      "difficulty": 2,
+      "text": "Bir konu üzerinde öğrencilerin karşılıklı görüşlerini belirtip bir sonuca ulaşmaya çalıştığı, sözlü etkileşime dayalı öğretim yöntemi hangisidir?",
+      "options": {
+        "A": "Anlatım",
+        "B": "Tartışma",
+        "C": "Gösterip yaptırma",
+        "D": "Proje"
+      },
+      "correctOption": "B",
+      "explanation": "Tartışma yönteminde öğrenciler bir konu üzerinde görüş alışverişinde bulunarak ortak bir sonuca ulaşmaya çalışır. Sözlü etkileşim ve düşünme becerilerini geliştirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Örnek Olay Yöntemi",
+      "difficulty": 2,
+      "text": "Gerçek yaşamdan alınmış bir olayın sınıfa getirilerek öğrencilerin bu olayı inceleyip nedenlerini ve çözüm yollarını tartışmasına dayanan yöntem hangisidir?",
+      "options": {
+        "A": "Beyin fırtınası",
+        "B": "Gösterip yaptırma",
+        "C": "Örnek olay",
+        "D": "Problem çözme"
+      },
+      "correctOption": "C",
+      "explanation": "Örnek olay (vaka) yönteminde gerçek ya da gerçeğe yakın bir olay öğrencilere sunulur ve öğrenciler bunu inceleyerek çözüm üretir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Gösterip Yaptırma",
+      "difficulty": 2,
+      "text": "Öğretmenin bir işlemi önce kendisi yaparak gösterdiği, ardından öğrencilerin aynı işlemi uygulayarak öğrendiği yöntem hangisidir?",
+      "options": {
+        "A": "Anlatım",
+        "B": "Tartışma",
+        "C": "Örnek olay",
+        "D": "Gösterip yaptırma"
+      },
+      "correctOption": "D",
+      "explanation": "Gösterip yaptırma yönteminde öğretmen beceriyi önce gösterir, sonra öğrenci uygulayarak öğrenir. Daha çok psikomotor becerilerin öğretiminde kullanılır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Problem Çözme Yöntemi",
+      "difficulty": 2,
+      "text": "Öğrencilerin karşılaştıkları bir güçlüğü tanımlayıp çözüm yolları önererek bunları denediği ve sonucu değerlendirdiği yöntem hangisidir?",
+      "options": {
+        "A": "Problem çözme",
+        "B": "Anlatım",
+        "C": "Beyin fırtınası",
+        "D": "Mikro öğretim"
+      },
+      "correctOption": "A",
+      "explanation": "Problem çözme yönteminde öğrenci problemi fark eder, çözüm yolları geliştirir, dener ve sonucu değerlendirir. Dewey'in problem çözme basamaklarıyla ilişkilidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Proje Yöntemi",
+      "difficulty": 2,
+      "text": "Öğrencilerin belirli bir konuda uzun süreli ve kapsamlı bir çalışma yaparak bir ürün ortaya koyduğu; planlama, araştırma ve sunum aşamalarını içeren yöntem hangisidir?",
+      "options": {
+        "A": "Gösterip yaptırma",
+        "B": "Proje",
+        "C": "Tartışma",
+        "D": "Soru-cevap"
+      },
+      "correctOption": "B",
+      "explanation": "Proje yönteminde öğrenciler bir konuyu uzun süreli olarak araştırıp planlar ve ortaya somut bir ürün koyar. Öğrenciyi merkeze alan, üretkenliği destekleyen bir yöntemdir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Beyin Fırtınası",
+      "difficulty": 1,
+      "text": "Öğrencilerin bir konuya ilişkin olabildiğince çok fikir ürettiği, fikirlerin önce yargılanmadan toplandığı ve değerlendirmenin sonraya bırakıldığı teknik hangisidir?",
+      "options": {
+        "A": "Örnek olay",
+        "B": "Problem çözme",
+        "C": "Beyin fırtınası",
+        "D": "Konuşma halkası"
+      },
+      "correctOption": "C",
+      "explanation": "Beyin fırtınasında amaç kısa sürede çok sayıda fikir üretmektir; bu nedenle fikirler önce yargılanmadan toplanır ve değerlendirme daha sonra yapılır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Altı Şapkalı Düşünme",
+      "difficulty": 3,
+      "text": "Öğrencilerin bir konuya farklı bakış açılarıyla yaklaşmasını sağlamak amacıyla duygu, bilgi, risk, yaratıcılık, olumlu ve olumsuz düşünme biçimlerinin ayrı ayrı ele alındığı teknik hangisidir?",
+      "options": {
+        "A": "Altı ayakkabılı uygulama",
+        "B": "Balık kılçığı",
+        "C": "İstasyon tekniği",
+        "D": "Altı şapkalı düşünme"
+      },
+      "correctOption": "D",
+      "explanation": "Edward de Bono'nun geliştirdiği altı şapkalı düşünmede her renk bir düşünme biçimini temsil eder. Böylece öğrenciler konuyu çok yönlü ele alır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İstasyon Tekniği",
+      "difficulty": 3,
+      "text": "Öğrencilerin gruplar hâlinde farklı masalarda dolaşarak bir konunun değişik bölümlerini tamamladığı ve sonuçta ortak bir ürün oluşturduğu teknik hangisidir?",
+      "options": {
+        "A": "İstasyon tekniği",
+        "B": "Akvaryum",
+        "C": "Zıt panel",
+        "D": "Görüş geliştirme"
+      },
+      "correctOption": "A",
+      "explanation": "İstasyon tekniğinde sınıfta konunun farklı yönlerine ayrılmış istasyonlar kurulur ve gruplar dolaşarak her istasyona katkı verir. Böylece işbirliği ve ortak ürün ortaya çıkar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Mikro Öğretim",
+      "difficulty": 3,
+      "text": "Öğretmen adayının küçük bir grupla kısa süreli ders işleyip kendi performansının kaydedilerek değerlendirilmesi yoluyla mesleki becerilerini geliştirdiği teknik hangisidir?",
+      "options": {
+        "A": "İstasyon",
+        "B": "Mikro öğretim",
+        "C": "Altı şapkalı düşünme",
+        "D": "Beyin fırtınası"
+      },
+      "correctOption": "B",
+      "explanation": "Mikro öğretim, öğretmen adayının küçük bir grupla kısa bir ders yapıp kayıt üzerinden kendini değerlendirmesine dayanır. Amaç öğretmenlik becerilerini geliştirmektir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Balık Kılçığı",
+      "difficulty": 3,
+      "text": "Bir sorunun nedenlerinin ana ve alt başlıklar hâlinde balık iskeleti biçiminde görselleştirilerek neden-sonuç ilişkisinin ortaya konduğu teknik hangisidir?",
+      "options": {
+        "A": "Kavram haritası",
+        "B": "Zihin haritası",
+        "C": "Balık kılçığı",
+        "D": "Akvaryum"
+      },
+      "correctOption": "C",
+      "explanation": "Balık kılçığı (neden-sonuç diyagramı) tekniğinde bir sorunun nedenleri sınıflandırılarak görsel biçimde gösterilir. Böylece sorunun kaynakları daha kolay görülür."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Yapılandırmacı Yaklaşım",
+      "difficulty": 3,
+      "text": "Yapılandırmacı yaklaşıma göre öğrenmenin nasıl gerçekleştiğini en iyi açıklayan ifade aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrenme, uyarıcı ile tepki arasında bağ kurulup pekiştirme yapılmasıyla gerçekleşir.",
+        "B": "Öğrenme, bilginin öğretmen tarafından öğrenciye doğrudan aktarılmasıyla oluşur.",
+        "C": "Öğrenme, yalnızca gözlenebilen davranış değişikliğiyle açıklanır.",
+        "D": "Öğrenci yeni bilgiyi önceki bilgileriyle ilişkilendirip kendi zihninde anlamlandırarak yapılandırır."
+      },
+      "correctOption": "D",
+      "explanation": "Yapılandırmacı yaklaşımda bilgi pasif biçimde alınmaz; öğrenci onu ön bilgileriyle ilişkilendirerek kendi zihninde yeniden yapılandırır. Öğretmen bu süreçte rehberdir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kavram Yanılgıları",
+      "difficulty": 2,
+      "text": "Öğrencilerin bilimsel olarak doğru olmayan, kendi deneyimlerine dayanan ve öğretime direnç gösterebilen yanlış anlamalarına ne ad verilir?",
+      "options": {
+        "A": "Öğrenme güçlüğü",
+        "B": "Kavram yanılgısı",
+        "C": "Hazırbulunuşluk",
+        "D": "Transfer"
+      },
+      "correctOption": "B",
+      "explanation": "Kavram yanılgısı, öğrencinin bilimsel gerçeklerle çelişen ancak kendisi için anlamlı görünen yanlış öğrenmeleridir. Bu yanılgıların belirlenip düzeltilmesi gerekir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Soru Sorma Teknikleri",
+      "difficulty": 2,
+      "text": "Bir öğretmenin soruyu sorduktan hemen sonra cevabı kendisinin vermesi veya öğrencilere yeterli bekleme süresi tanımaması aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Öğrencilerin derse katılımının artmasına",
+        "B": "Soruların daha anlaşılır olmasına",
+        "C": "Öğrencilerin özgüveninin artmasına",
+        "D": "Öğrencilerin düşünmeye yeterli zaman bulamamasına ve katılımın azalmasına"
+      },
+      "correctOption": "D",
+      "explanation": "Sorudan sonra yeterli bekleme süresi verilmesi, öğrencinin düşünüp cevap oluşturmasını sağlar. Süre tanınmadan cevabın verilmesi ise öğrencilerin düşünme ve katılma fırsatını azaltır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretim Materyalleri",
+      "difficulty": 3,
+      "text": "Öğretim materyali seçiminde aşağıdakilerden hangisi göz önünde bulundurulması gereken ölçütlerden biri değildir?",
+      "options": {
+        "A": "Hedefe ve öğrenci düzeyine uygunluk",
+        "B": "Materyalin fiyatının olabildiğince yüksek olması",
+        "C": "Basit, anlaşılır ve kullanışlı olması",
+        "D": "Öğrencinin ilgisini çekmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Materyal seçiminde hedefe uygunluk, öğrenci düzeyine uygunluk, sadelik ve ilgi çekicilik gibi ölçütler önemlidir. Fiyatın yüksek olması bir seçim ölçütü değildir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Ders Planı",
+      "difficulty": 1,
+      "text": "Bir öğretmenin belirli bir ders saatinde neyi, hangi yöntemle ve hangi araçlarla işleyeceğini ayrıntılı olarak gösteren plana ne ad verilir?",
+      "options": {
+        "A": "Yıllık plan",
+        "B": "Ünite planı",
+        "C": "Zümre planı",
+        "D": "Günlük plan"
+      },
+      "correctOption": "D",
+      "explanation": "Günlük (ders) planı, bir ders saatinde işlenecek konunun hedeflerini, yöntemini, araç-gereçlerini ve değerlendirmesini ayrıntılı biçimde gösterir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğrenme Stilleri",
+      "difficulty": 1,
+      "text": "Öğrencinin bilgiyi en iyi nasıl algılayıp işlediğini gösteren; görsel, işitsel ve kinestetik gibi boyutları bulunan bireysel öğrenme tercihine ne ad verilir?",
+      "options": {
+        "A": "Öğrenme stratejisi",
+        "B": "Zekâ düzeyi",
+        "C": "Öğrenme stili",
+        "D": "Hazırbulunuşluk"
+      },
+      "correctOption": "C",
+      "explanation": "Öğrenme stili, bireyin bilgiyi algılama ve işleme sırasında tercih ettiği kendine özgü yoldur. Görsel, işitsel ve kinestetik boyutları vardır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Çoklu Zekâ Kuramı",
+      "difficulty": 1,
+      "text": "Howard Gardner'ın çoklu zekâ kuramına göre zekâyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Zekâ, birbirinden bağımsız ve farklı alanlarda ortaya çıkan çoklu yeteneklerden oluşur.",
+        "B": "Zekâ, tek bir sayısal değerle tam olarak ölçülebilir.",
+        "C": "Zekâ, yalnızca kalıtımla belirlenir ve hiç değiştirilemez.",
+        "D": "Zekâ, yalnızca sözel ve matematiksel becerilerden oluşur."
+      },
+      "correctOption": "A",
+      "explanation": "Gardner'a göre zekâ tek bir boyutla açıklanamaz; dilsel, mantıksal-matematiksel, müziksel, bedensel, uzamsal ve sosyal gibi çoklu zekâ alanları vardır."
+    }
+  ]
+}

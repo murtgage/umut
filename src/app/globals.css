@@ -1,0 +1,146 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------------------
+   Umut — tasarım jetonları (Tailwind v4 `@theme`)
+   Koyu, enerjik bir "yarışma gecesi" paleti: derin lacivert zemin,
+   indigo ana renk, turkuaz vurgu, yeşil/kırmızı geri bildirim.
+--------------------------------------------------------------------------- */
+
+@theme {
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, -apple-system,
+    "Segoe UI", sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  /* Yüzeyler */
+  --color-canvas: #05080f;
+  --color-surface: #0b1220;
+  --color-elevated: #121b2e;
+  --color-line: #1e2a42;
+  --color-line-strong: #2c3b5a;
+
+  /* Marka */
+  --color-brand-soft: #a5b4fc;
+  --color-brand: #6366f1;
+  --color-brand-strong: #4f46e5;
+  --color-brand-deep: #3730a3;
+
+  /* Vurgu ve durumlar */
+  --color-accent: #22d3ee;
+  --color-success: #34d399;
+  --color-danger: #fb7185;
+  --color-warning: #fbbf24;
+  --color-gold: #f59e0b;
+
+  /* Metin */
+  --color-ink: #e8eefc;
+  --color-ink-muted: #97a6c4;
+  --color-ink-faint: #64748b;
+
+  --radius-card: 1rem;
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    /* Zemin ışıması: iki yumuşak radyal parıltı */
+    background-image:
+      radial-gradient(60rem 40rem at 15% -10%, color-mix(in oklab, var(--color-brand) 22%, transparent), transparent),
+      radial-gradient(45rem 35rem at 90% 0%, color-mix(in oklab, var(--color-accent) 12%, transparent), transparent);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+  /* Tailwind v4'te kenarlık rengi currentColor'a düşer; tema ile tutarlı olsun. */
+  *,
+  ::before,
+  ::after {
+    border-color: var(--color-line);
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-brand) 55%, transparent);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-brand-soft);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  /* Kart yüzeyi — cam efektli, ince üst ışıklı */
+  .surface-card {
+    background:
+      linear-gradient(180deg, color-mix(in oklab, var(--color-elevated) 92%, transparent) 0%, var(--color-surface) 100%);
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius-card);
+    box-shadow: 0 18px 40px -28px rgb(0 0 0 / 0.9);
+  }
+
+  /* Sayısal skorlar için tabular rakamlar */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* İnce kaydırma çubuğu */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-canvas);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-line-strong);
+  border-radius: 9999px;
+  border: 2px solid var(--color-canvas);
+}
+
+@keyframes umut-rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@utility animate-rise {
+  animation: umut-rise 0.35s ease-out both;
+}
+
+@keyframes umut-pop {
+  0% {
+    transform: scale(0.94);
+  }
+  60% {
+    transform: scale(1.03);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@utility animate-pop {
+  animation: umut-pop 0.28s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
