@@ -6,9 +6,7 @@ import { useRouter } from "next/navigation";
 
 import { startRunAction } from "@/app/oyun/actions";
 import { CategoryIcon } from "@/components/category-icon";
-import { Badge } from "@/components/ui/badge";
 import { Button, buttonVariants } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
 import { EXAM_TYPES, examTypeBySlug } from "@/lib/exam-types";
 import { formatNumber } from "@/lib/format";
 import type { RunMode } from "@/lib/game-types";
@@ -46,7 +44,6 @@ export function ModePicker({
   const [error, setError] = useState<string | null>(initialError ?? null);
   const [examSlug, setExamSlug] = useState<string | null>(null);
 
-  // Misafir deneme hakkı bitti mi?
   const guestBlocked = isGuest && guestRunsLeft !== null && guestRunsLeft <= 0;
 
   const categoryBySlug = useMemo(
@@ -56,7 +53,6 @@ export function ModePicker({
 
   const exam = examTypeBySlug(examSlug);
 
-  // Seçilen sınav türüne giren dersler. Karışık türünde liste boştur.
   const examCategories = useMemo(() => {
     if (!exam || exam.categorySlugs.length === 0) return [];
     return exam.categorySlugs
@@ -109,35 +105,7 @@ export function ModePicker({
     });
   }
 
-  function selectExam(slug: string) {
-    setError(null);
-    setExamSlug((current) => (current === slug ? null : slug));
-  }
-
-  const otherModes: {
-    mode: RunMode;
-    key: string;
-    disabled: boolean;
-    note?: string;
-    action: () => void;
-  }[] = [
-    {
-      mode: "DAILY",
-      key: "DAILY",
-      disabled: dailyPlayed,
-      note: dailyPlayed ? "Bugün tamamlandı" : undefined,
-      action: () => launch("DAILY", { key: "DAILY" }),
-    },
-    {
-      mode: "DUEL",
-      key: "DUEL",
-      disabled: true,
-      note: "Çok yakında",
-      action: () => undefined,
-    },
-  ];
-
-  const mixedBusy = busyKey === "EXAM" && pending;
+  const examBusy = busyKey === "EXAM" && pending;
 
   return (
     <div className="flex flex-col gap-8">
@@ -146,8 +114,8 @@ export function ModePicker({
           className={cn(
             "flex flex-wrap items-center justify-between gap-3 rounded-xl border px-4 py-3 text-sm",
             guestBlocked
-              ? "border-danger/40 bg-danger/10 text-danger"
-              : "border-brand/30 bg-brand/10 text-brand-soft",
+              ? "border-danger/30 bg-danger/5 text-danger"
+              : "border-brand/25 bg-brand/5 text-ink-muted",
           )}
         >
           <span>
@@ -158,8 +126,8 @@ export function ModePicker({
               </>
             ) : (
               <>
-                Misafir olarak oynuyorsun — kalan tur hakkın:{" "}
-                <strong className="tnum">{guestRunsLeft}</strong> /{" "}
+                Misafir olarak oynuyorsun — kalan tur hakkın{" "}
+                <strong className="tnum text-ink">{guestRunsLeft}</strong> /{" "}
                 {GUEST_RUN_LIMIT}. Kayıt olursan puanların sıralamaya işlenir.
               </>
             )}
@@ -173,215 +141,188 @@ export function ModePicker({
       {error ? (
         <p
           role="alert"
-          className="rounded-xl border border-danger/40 bg-danger/10 px-4 py-3 text-sm text-danger"
+          className="rounded-xl border border-danger/30 bg-danger/5 px-4 py-3 text-sm text-danger"
         >
           {error}
         </p>
       ) : null}
 
-      <section className="flex flex-col gap-4">
-        <div className="flex items-end justify-between gap-3">
-          <h2 className="text-sm font-semibold tracking-[0.16em] text-ink-faint uppercase">
-            1 · Sınav türünü seç
+      {/* 1. adım — sınav türü */}
+      <section className="flex flex-col gap-3">
+        <div className="flex items-baseline justify-between gap-3">
+          <h2 className="text-lg font-semibold tracking-tight text-ink">
+            Hangi sınavdan çalışıyorsun?
           </h2>
-          <p className="text-xs text-ink-faint">KPSS bölümleri</p>
+          <span className="hidden text-xs text-ink-faint sm:inline">
+            Bölümler farklı soru havuzlarıdır
+          </span>
         </div>
 
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
           {EXAM_TYPES.map((type) => {
             const active = type.slug === examSlug;
-            const total = questionCountOf(type.categorySlugs);
 
             return (
               <button
                 key={type.slug}
                 type="button"
                 aria-pressed={active}
-                onClick={() => selectExam(type.slug)}
+                onClick={() => {
+                  setError(null);
+                  setExamSlug((current) =>
+                    current === type.slug ? null : type.slug,
+                  );
+                }}
                 className={cn(
-                  "surface-card group flex flex-col gap-2 p-4 text-left transition",
-                  "hover:-translate-y-0.5 hover:border-brand-soft/50",
-                  active && "border-brand-soft/60 ring-1 ring-brand-soft/40",
+                  "flex items-center gap-3 rounded-xl border px-4 py-3 text-left transition",
+                  "border-line bg-surface hover:border-brand/40 hover:bg-elevated/60",
+                  active && "border-brand bg-brand/5 ring-1 ring-brand/30",
                 )}
               >
-                <span className="text-2xl" aria-hidden>
+                <span className="text-xl leading-none" aria-hidden>
                   {type.icon}
                 </span>
-                <span className="text-sm font-semibold text-ink">
-                  {type.name}
-                </span>
-                <span className="flex-1 text-xs leading-relaxed text-ink-muted">
-                  {type.description}
-                </span>
-                <span className="tnum text-xs text-ink-faint">
-                  {formatNumber(total)} soru
+                <span className="flex min-w-0 flex-col">
+                  <span
+                    className={cn(
+                      "truncate text-sm font-semibold",
+                      active ? "text-brand-soft" : "text-ink",
+                    )}
+                  >
+                    {type.name}
+                  </span>
+                  <span className="tnum text-xs text-ink-faint">
+                    {formatNumber(questionCountOf(type.categorySlugs))} soru
+                  </span>
                 </span>
               </button>
             );
           })}
         </div>
-
-        {exam ? null : (
-          <p className="rounded-xl border border-line bg-elevated/50 px-4 py-3 text-sm text-ink-muted">
-            Devam etmek için önce bir sınav türü seç. Genel Yetenek,
-            Genel Kültür ve Eğitim Bilimleri farklı soru havuzlarıdır.
-          </p>
-        )}
       </section>
 
+      {/* 2. adım — ders / karma tur */}
       {exam ? (
-        <section className="flex flex-col gap-4">
-          <div className="flex items-end justify-between gap-3">
-            <h2 className="text-sm font-semibold tracking-[0.16em] text-ink-faint uppercase">
-              2 · Dersini seç
-            </h2>
-            <button
-              type="button"
-              onClick={() => setExamSlug(null)}
-              className="text-xs text-ink-faint underline underline-offset-2 hover:text-ink-muted"
-            >
-              Sınav türünü değiştir
-            </button>
-          </div>
+        <section className="animate-rise flex flex-col gap-4">
+          <div className="surface-card flex flex-col gap-4 p-4 sm:p-5">
+            <div className="flex flex-wrap items-center justify-between gap-3">
+              <div className="min-w-0">
+                <p className="text-sm font-semibold text-ink">
+                  {exam.name}
+                  {exam.categorySlugs.length === 0
+                    ? " · bütün dersler"
+                    : ""}
+                </p>
+                <p className="text-xs text-ink-muted">
+                  {exam.categorySlugs.length === 0
+                    ? "Tüm derslerden rastgele 10 soru"
+                    : "Seçtiğin bölümün derslerinden rastgele 10 soru"}
+                </p>
+              </div>
 
-          <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between rounded-xl border border-line bg-elevated/50 px-4 py-3">
-            <div className="flex flex-col gap-0.5">
-              <span className="text-sm font-semibold text-ink">
-                {exam.name}
-              </span>
-              <span className="text-xs text-ink-muted">
-                {exam.categorySlugs.length === 0
-                  ? "Tüm derslerden karışık sorular"
-                  : "Seçili bölümün derslerinden karışık sorular"}
-              </span>
-            </div>
-            <Button
-              variant="primary"
-              size="sm"
-              disabled={pending || guestBlocked}
-              onClick={() => launch("EXAM", { examType: exam.slug, key: "EXAM" })}
-            >
-              {mixedBusy
-                ? "Hazırlanıyor…"
-                : exam.categorySlugs.length === 0
-                  ? "Tüm derslerden karışık 10 soru"
-                  : `${exam.name} karma 10 soru`}
-            </Button>
-          </div>
-
-          {exam.categorySlugs.length === 0 ? null : (
-            <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-              {examCategories.map((category) => {
-                const isBusy = busyKey === category.id && pending;
-                const enough = category.questionCount >= QUESTIONS_PER_RUN;
-
-                return (
-                  <button
-                    key={category.id}
-                    type="button"
-                    disabled={pending || !enough || guestBlocked}
-                    onClick={() =>
-                      launch("CATEGORY", {
-                        categoryId: category.id,
-                        key: category.id,
-                      })
-                    }
-                    className={cn(
-                      "surface-card group flex flex-col gap-2 p-4 text-left transition",
-                      "hover:-translate-y-0.5 hover:border-brand-soft/50",
-                      (!enough || pending || guestBlocked) && "opacity-60",
-                    )}
-                  >
-                    <span
-                      className="grid size-9 place-items-center rounded-lg"
-                      style={{ backgroundColor: `${category.color}22` }}
-                      aria-hidden
-                    >
-                      <CategoryIcon
-                        name={category.icon}
-                        color={category.color}
-                        size={18}
-                      />
-                    </span>
-                    <span className="text-sm font-semibold text-ink">
-                      {category.name}
-                    </span>
-                    <span className="tnum text-xs text-ink-faint">
-                      {isBusy
-                        ? "Hazırlanıyor…"
-                        : enough
-                          ? `${category.questionCount} soru`
-                          : `Yetersiz soru (${category.questionCount})`}
-                    </span>
-                  </button>
-                );
-              })}
-            </div>
-          )}
-        </section>
-      ) : null}
-
-      <section className="flex flex-col gap-4">
-        <h2 className="text-sm font-semibold tracking-[0.16em] text-ink-faint uppercase">
-          Diğer modlar
-        </h2>
-
-        <div className="grid gap-4 sm:grid-cols-2">
-          {otherModes.map((item) => {
-            const info = MODE_INFO[item.mode];
-            const isBusy = busyKey === item.key && pending;
-
-            return (
-              <Card
-                key={item.key}
-                className={cn(
-                  "flex flex-col transition",
-                  !item.disabled &&
-                    "hover:-translate-y-0.5 hover:border-brand-soft/50",
-                  item.disabled && "opacity-60",
-                )}
+              <Button
+                size="lg"
+                disabled={pending || guestBlocked}
+                onClick={() =>
+                  launch("EXAM", { examType: exam.slug, key: "EXAM" })
+                }
               >
-                <CardContent className="flex flex-1 flex-col gap-3 pt-6">
-                  <div className="flex items-start justify-between gap-2">
-                    <h3 className="text-base font-semibold text-ink">
-                      {info.label}
-                    </h3>
-                    <Badge
-                      tone={
-                        item.mode === "DUEL"
-                          ? "neutral"
-                          : item.mode === "DAILY"
-                            ? "warning"
-                            : "brand"
-                      }
-                    >
-                      {item.note ?? info.tag}
-                    </Badge>
-                  </div>
+                {examBusy ? "Hazırlanıyor…" : "Karma 10 soru ile başla"}
+              </Button>
+            </div>
 
-                  <p className="flex-1 text-sm leading-relaxed text-ink-muted">
-                    {info.description}
-                  </p>
+            {examCategories.length > 0 ? (
+              <div className="flex flex-col gap-2.5 border-t border-line pt-4">
+                <p className="text-xs text-ink-faint">
+                  Ya da tek bir derse odaklan
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  {examCategories.map((category) => {
+                    const isBusy = busyKey === category.id && pending;
+                    const enough = category.questionCount >= QUESTIONS_PER_RUN;
 
-                  <Button
-                    variant="secondary"
-                    disabled={item.disabled || pending || guestBlocked}
-                    onClick={item.action}
-                    className="w-full"
-                  >
-                    {isBusy
-                      ? "Hazırlanıyor…"
-                      : item.disabled
-                        ? "Kilitli"
-                        : item.mode === "DAILY"
-                          ? "Bugünün turuna başla"
-                          : "Başla"}
-                  </Button>
-                </CardContent>
-              </Card>
-            );
-          })}
-        </div>
+                    return (
+                      <button
+                        key={category.id}
+                        type="button"
+                        disabled={pending || !enough || guestBlocked}
+                        onClick={() =>
+                          launch("CATEGORY", {
+                            categoryId: category.id,
+                            key: category.id,
+                          })
+                        }
+                        className={cn(
+                          "flex items-center gap-2 rounded-full border border-line bg-surface px-3.5 py-1.5 text-sm transition",
+                          "hover:border-brand/40 hover:bg-elevated/60",
+                          (!enough || pending || guestBlocked) &&
+                            "cursor-not-allowed opacity-50",
+                        )}
+                      >
+                        <span
+                          className="size-2 shrink-0 rounded-full"
+                          style={{ backgroundColor: category.color }}
+                          aria-hidden
+                        />
+                        <span className="font-medium text-ink">
+                          {category.name}
+                        </span>
+                        <span className="tnum text-xs text-ink-faint">
+                          {isBusy
+                            ? "…"
+                            : enough
+                              ? category.questionCount
+                              : `${category.questionCount} (yetersiz)`}
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            ) : null}
+          </div>
+
+          <button
+            type="button"
+            onClick={() => setExamSlug(null)}
+            className="self-start text-xs text-ink-faint underline underline-offset-2 transition hover:text-ink-muted"
+          >
+            Sınav türünü değiştir
+          </button>
+        </section>
+      ) : (
+        <p className="rounded-xl border border-dashed border-line px-4 py-3 text-sm text-ink-faint">
+          Devam etmek için yukarıdan bir sınav türü seç.
+        </p>
+      )}
+
+      {/* Diğer modlar — tek satır, gürültüsüz */}
+      <section className="flex flex-wrap items-center gap-3 border-t border-line pt-6">
+        <span className="text-xs font-medium tracking-wide text-ink-faint uppercase">
+          Diğer
+        </span>
+
+        <Button
+          variant="outline"
+          size="sm"
+          disabled={dailyPlayed || pending || guestBlocked}
+          onClick={() => launch("DAILY", { key: "DAILY" })}
+        >
+          {busyKey === "DAILY" && pending
+            ? "Hazırlanıyor…"
+            : dailyPlayed
+              ? `${MODE_INFO.DAILY.label} · bugün tamamlandı`
+              : MODE_INFO.DAILY.label}
+        </Button>
+
+        <Button
+          variant="ghost"
+          size="sm"
+          disabled
+          title="Canlı 1v1 modu çok yakında"
+        >
+          {MODE_INFO.DUEL.label} · yakında
+        </Button>
       </section>
     </div>
   );

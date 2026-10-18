@@ -2,8 +2,13 @@
 
 /* ---------------------------------------------------------------------------
    Umut — tasarım jetonları (Tailwind v4 `@theme`)
-   Koyu, enerjik bir "yarışma gecesi" paleti: derin lacivert zemin,
-   indigo ana renk, turkuaz vurgu, yeşil/kırmızı geri bildirim.
+
+   AÇIK (light) ve sade bir palet: yumuşak kırık beyaz zemin, beyaz kartlar,
+   ince gri çizgiler, indigo ana renk. Amaç: göz yormayan, ferah bir okuma
+   alanı. Süs yerine boşluk ve tipografi öne çıkar.
+
+   Jeton ADLARI değişmedi (canvas/surface/elevated/line/brand/accent/ink...),
+   böylece tüm bileşenler aynı sınıflarla çalışmaya devam eder.
 --------------------------------------------------------------------------- */
 
 @theme {
@@ -12,47 +17,56 @@
   --font-mono: var(--font-geist-mono), ui-monospace, monospace;
 
   /* Yüzeyler */
-  --color-canvas: #05080f;
-  --color-surface: #0b1220;
-  --color-elevated: #121b2e;
-  --color-line: #1e2a42;
-  --color-line-strong: #2c3b5a;
+  --color-canvas: #f4f6fb;
+  --color-surface: #ffffff;
+  --color-elevated: #f1f4fa;
+  --color-line: #e5e9f1;
+  --color-line-strong: #ccd4e2;
 
-  /* Marka */
-  --color-brand-soft: #a5b4fc;
+  /* Marka (metin olarak da kullanıldığı için koyu indigo) */
+  --color-brand-soft: #4f46e5;
   --color-brand: #6366f1;
   --color-brand-strong: #4f46e5;
-  --color-brand-deep: #3730a3;
+  --color-brand-deep: #4338ca;
 
-  /* Vurgu ve durumlar */
-  --color-accent: #22d3ee;
-  --color-success: #34d399;
-  --color-danger: #fb7185;
-  --color-warning: #fbbf24;
-  --color-gold: #f59e0b;
+  /* Vurgu ve durumlar (açık zeminde okunur tonlar) */
+  --color-accent: #0891b2;
+  --color-success: #059669;
+  --color-danger: #dc2626;
+  --color-warning: #c2740a;
+  --color-gold: #b45309;
 
   /* Metin */
-  --color-ink: #e8eefc;
-  --color-ink-muted: #97a6c4;
-  --color-ink-faint: #64748b;
+  --color-ink: #0f172a;
+  --color-ink-muted: #5b657a;
+  --color-ink-faint: #8b94a7;
 
   --radius-card: 1rem;
 }
 
 @layer base {
   html {
-    color-scheme: dark;
+    color-scheme: light;
     -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
   }
 
   body {
     background-color: var(--color-canvas);
     color: var(--color-ink);
     font-family: var(--font-sans);
-    /* Zemin ışıması: iki yumuşak radyal parıltı */
+    /* Çok hafif zemin ışıması — göz yormayan bir derinlik. */
     background-image:
-      radial-gradient(60rem 40rem at 15% -10%, color-mix(in oklab, var(--color-brand) 22%, transparent), transparent),
-      radial-gradient(45rem 35rem at 90% 0%, color-mix(in oklab, var(--color-accent) 12%, transparent), transparent);
+      radial-gradient(
+        55rem 34rem at 10% -10%,
+        color-mix(in oklab, var(--color-brand) 9%, transparent),
+        transparent
+      ),
+      radial-gradient(
+        45rem 30rem at 95% -6%,
+        color-mix(in oklab, var(--color-accent) 7%, transparent),
+        transparent
+      );
     background-attachment: fixed;
     background-repeat: no-repeat;
   }
@@ -65,7 +79,7 @@
   }
 
   ::selection {
-    background: color-mix(in oklab, var(--color-brand) 55%, transparent);
+    background: color-mix(in oklab, var(--color-brand) 22%, transparent);
   }
 
   :focus-visible {
@@ -75,13 +89,14 @@
 }
 
 @layer components {
-  /* Kart yüzeyi — cam efektli, ince üst ışıklı */
+  /* Kart yüzeyi — beyaz, ince çizgili, çok yumuşak gölge. */
   .surface-card {
-    background:
-      linear-gradient(180deg, color-mix(in oklab, var(--color-elevated) 92%, transparent) 0%, var(--color-surface) 100%);
+    background: var(--color-surface);
     border: 1px solid var(--color-line);
     border-radius: var(--radius-card);
-    box-shadow: 0 18px 40px -28px rgb(0 0 0 / 0.9);
+    box-shadow:
+      0 1px 2px rgb(15 23 42 / 0.04),
+      0 10px 28px -22px rgb(15 23 42 / 0.22);
   }
 
   /* Sayısal skorlar için tabular rakamlar */
@@ -96,13 +111,18 @@
   height: 10px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--color-canvas);
+  background: transparent;
 }
 ::-webkit-scrollbar-thumb {
   background: var(--color-line-strong);
   border-radius: 9999px;
-  border: 2px solid var(--color-canvas);
+  border: 3px solid transparent;
+  background-clip: content-box;
 }
+
+/* ------------------------------------------------------------------ */
+/* Hareketler                                                          */
+/* ------------------------------------------------------------------ */
 
 @keyframes umut-rise {
   from {
@@ -133,6 +153,130 @@
 
 @utility animate-pop {
   animation: umut-pop 0.28s ease-out both;
+}
+
+/* Seçeneklerin sırayla belirmesi */
+@keyframes umut-stagger {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@utility animate-stagger {
+  animation: umut-stagger 0.32s ease-out both;
+}
+
+/* Yanlış cevap: kısa, yumuşak bir sarsıntı */
+@keyframes umut-shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(-5px);
+  }
+  40% {
+    transform: translateX(4px);
+  }
+  60% {
+    transform: translateX(-3px);
+  }
+  80% {
+    transform: translateX(2px);
+  }
+}
+
+@utility animate-shake {
+  animation: umut-shake 0.4s ease-in-out both;
+}
+
+/* Doğru cevap: yumuşak yeşil parıltı */
+@keyframes umut-glow {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in oklab, var(--color-success) 45%, transparent);
+  }
+  70% {
+    box-shadow: 0 0 0 10px transparent;
+  }
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+}
+
+@utility animate-glow {
+  animation: umut-glow 0.7s ease-out both;
+}
+
+/* Kazanılan puanın yukarı süzülmesi */
+@keyframes umut-float-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px) scale(0.9);
+  }
+  30% {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-26px) scale(1.04);
+  }
+}
+
+@utility animate-float-up {
+  animation: umut-float-up 1.1s ease-out both;
+}
+
+/* Seri rozetinin nabzı */
+@keyframes umut-streak {
+  0% {
+    transform: scale(0.8) rotate(-6deg);
+  }
+  45% {
+    transform: scale(1.14) rotate(4deg);
+  }
+  100% {
+    transform: scale(1) rotate(0);
+  }
+}
+
+@utility animate-streak {
+  animation: umut-streak 0.45s ease-out both;
+}
+
+/* Otomatik geçiş çubuğu: süre dolarken soldan sağa boşalır */
+@keyframes umut-advance {
+  from {
+    width: 100%;
+  }
+  to {
+    width: 0%;
+  }
+}
+
+@utility animate-advance {
+  animation-name: umut-advance;
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+}
+
+/* Zaman çubuğunun son saniyelerde nabzı */
+@keyframes umut-pulse-soft {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.55;
+  }
+}
+
+@utility animate-pulse-soft {
+  animation: umut-pulse-soft 1s ease-in-out infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -5,9 +5,7 @@ import { useRouter } from "next/navigation";
 
 import { answerAction } from "@/app/oyun/actions";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Progress } from "@/components/ui/progress";
 import { formatNumber } from "@/lib/format";
 import type {
   AnsweredSummary,
@@ -28,6 +26,14 @@ const KEY_TO_OPTION: Record<string, OptionKey> = {
   "3": "C",
   "4": "D",
 };
+
+/**
+ * Cevap sonrası otomatik geçiş süreleri.
+ * Doğru cevapta hızlı, yanlışta açıklamayı okuyabilmek için daha uzun.
+ * "Sonraki soru" butonu yok — tıklama veya Enter/Space ile anında geçilebilir.
+ */
+const ADVANCE_DELAY_CORRECT_MS = 1300;
+const ADVANCE_DELAY_WRONG_MS = 3400;
 
 /** Boş bırakılan sorular seriyi kırar; devam eden turda seriyi geri hesaplar. */
 function streakAt(answered: AnsweredSummary[], position: number): number {
@@ -68,7 +74,9 @@ export function GameBoard({ view }: { view: RunView }) {
   const [score, setScore] = useState(view.score);
   const [correct, setCorrect] = useState(view.correctCount);
   const [streak, setStreak] = useState(() => streakAt(view.answered, startIndex));
-  const [bestStreak, setBestStreak] = useState(() => streakAt(view.answered, startIndex));
+  const [bestStreak, setBestStreak] = useState(() =>
+    streakAt(view.answered, startIndex),
+  );
   const [elapsed, setElapsed] = useState(0);
   const [pending, setPending] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -151,8 +159,22 @@ export function GameBoard({ view }: { view: RunView }) {
     submittedRef.current = false;
     setFeedback(null);
     setError(null);
+    setElapsed(0);
     setIndex((current) => current + 1);
   }, [feedback, router, view.runId]);
+
+  // --- Otomatik ilerleme ---------------------------------------------------
+  const advanceMs = feedback
+    ? feedback.isCorrect
+      ? ADVANCE_DELAY_CORRECT_MS
+      : ADVANCE_DELAY_WRONG_MS
+    : 0;
+
+  useEffect(() => {
+    if (!feedback) return;
+    const id = window.setTimeout(goNext, advanceMs);
+    return () => window.clearTimeout(id);
+  }, [feedback, advanceMs, goNext]);
 
   // --- Klavye kısayolları --------------------------------------------------
   useEffect(() => {
@@ -191,196 +213,277 @@ export function GameBoard({ view }: { view: RunView }) {
   const remainingRatio = Math.max(0, 1 - elapsed / QUESTION_TIME_MS);
   const secondsLeft = Math.ceil((QUESTION_TIME_MS - elapsed) / 1000);
   const progress = (index + (feedback ? 1 : 0)) / view.questions.length;
+  const streakUp = Boolean(feedback && feedback.streakAfter > 1);
 
   return (
-    <div className="flex flex-col gap-5">
-      {/* Üst bilgi çubuğu */}
-      <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
-        <StatTile label="Soru" value={`${index + 1}/${view.questions.length}`} />
-        <StatTile label="Puan" value={formatNumber(score)} tone="brand" />
-        <StatTile label="Doğru" value={String(correct)} tone="success" />
-        <StatTile
-          label="Seri"
-          value={`${streak}${streak >= 3 ? " 🔥" : ""}`}
-          tone={streak >= 3 ? "warning" : "plain"}
-        />
+    <div className="flex flex-col gap-4">
+      {/* Kompakt üst şerit: ilerleme + puan + seri */}
+      <div className="flex items-center gap-3">
+        <span className="tnum shrink-0 text-sm font-semibold text-ink">
+          {index + 1}
+          <span className="text-ink-faint">/{view.questions.length}</span>
+        </span>
+
+        <div
+          className="h-1.5 min-w-0 flex-1 overflow-hidden rounded-full bg-line"
+          role="progressbar"
+          aria-label={`Tur ilerlemesi: ${index + 1}/${view.questions.length}`}
+          aria-valuenow={index + 1}
+          aria-valuemin={0}
+          aria-valuemax={view.questions.length}
+        >
+          <div
+            className="h-full rounded-full bg-gradient-to-r from-brand to-accent transition-[width] duration-500 ease-out"
+            style={{ width: `${Math.round(progress * 100)}%` }}
+          />
+        </div>
+
+        <span className="tnum shrink-0 text-sm font-bold text-brand-soft">
+          {formatNumber(score)}
+          <span className="ml-0.5 text-xs font-medium text-ink-faint">p</span>
+        </span>
+
+        {streak >= 2 ? (
+          <span
+            key={streak}
+            className={cn(
+              "tnum shrink-0 rounded-full bg-warning/10 px-2 py-0.5 text-xs font-bold text-warning",
+              streakUp && "animate-streak",
+            )}
+          >
+            {streak} 🔥
+          </span>
+        ) : null}
       </div>
 
-      <Progress value={progress} label={`Tur ilerlemesi: ${index + 1}/${view.questions.length}`} />
-
       {resumed && !feedback && index === startIndex ? (
-        <p className="rounded-xl border border-brand/30 bg-brand/10 px-4 py-2.5 text-sm text-brand-soft">
+        <p className="rounded-xl border border-brand/25 bg-brand/5 px-4 py-2 text-sm text-ink-muted">
           Yarım kalan turuna devam ediyorsun — {view.answered.length} soru zaten
           cevaplandı.
         </p>
       ) : null}
 
       {/* Soru kartı */}
-      <Card className="animate-rise" key={question.position}>
-        <CardContent className="flex flex-col gap-5 pt-6">
-          <div className="flex flex-wrap items-center gap-2">
-            <Badge tone="brand">{question.categoryName}</Badge>
-            <Badge tone="neutral">
-              {DIFFICULTY_LABEL[question.difficulty] ?? "Orta"}
-            </Badge>
-            {question.topic ? <Badge tone="neutral">{question.topic}</Badge> : null}
-            {!feedback ? (
-              <span className="ml-auto flex items-center gap-2 text-sm">
+      <Card className="animate-rise overflow-hidden" key={question.position}>
+        <CardContent className="flex flex-col gap-4 p-0">
+          {/* Süre çubuğu — kartın en üstünde ince bir şerit */}
+          {!feedback ? (
+            <div
+              className="h-1 w-full bg-line"
+              role="progressbar"
+              aria-label="Kalan süre"
+            >
+              <div
+                className={cn(
+                  "h-full bg-gradient-to-r transition-[width] duration-100 ease-linear",
+                  timerTone(remainingRatio),
+                  secondsLeft <= 5 && "animate-pulse-soft",
+                )}
+                style={{ width: `${remainingRatio * 100}%` }}
+              />
+            </div>
+          ) : null}
+
+          <div className="flex flex-col gap-4 px-5 pt-5 pb-5">
+            {/* Etiketler + sayaç */}
+            <div className="flex flex-wrap items-center gap-2">
+              <Badge tone="brand">{question.categoryName}</Badge>
+              <Badge tone="neutral">
+                {DIFFICULTY_LABEL[question.difficulty] ?? "Orta"}
+              </Badge>
+              {question.topic ? (
+                <Badge tone="neutral">{question.topic}</Badge>
+              ) : null}
+
+              {!feedback ? (
                 <span
                   className={cn(
-                    "tnum font-semibold",
+                    "tnum ml-auto text-sm font-semibold",
                     secondsLeft <= 5 ? "text-danger" : "text-ink-muted",
                   )}
                 >
                   {secondsLeft} sn
                 </span>
-              </span>
-            ) : null}
-          </div>
+              ) : null}
+            </div>
 
-          {!feedback ? (
-            <Progress
-              value={remainingRatio}
-              barClassName={cn("bg-gradient-to-r", timerTone(remainingRatio))}
-              className="h-1.5"
-              label="Kalan süre"
-            />
-          ) : null}
+            <p className="text-lg leading-relaxed font-medium text-ink sm:text-xl">
+              {question.text}
+            </p>
 
-          <p className="text-lg leading-relaxed font-medium text-ink sm:text-xl">
-            {question.text}
-          </p>
+            {/* Seçenekler — sırayla belirir */}
+            <div className="flex flex-col gap-2">
+              {question.options.map((option, optionIndex) => {
+                const isCorrectOption = feedback?.correctOption === option.key;
+                const isPicked = feedback?.selectedOption === option.key;
+                const revealed = Boolean(feedback);
 
-          <div className="flex flex-col gap-2.5">
-            {question.options.map((option) => {
-              const isCorrectOption = feedback?.correctOption === option.key;
-              const isPicked = feedback?.selectedOption === option.key;
-              const revealed = Boolean(feedback);
-
-              return (
-                <button
-                  key={option.key}
-                  type="button"
-                  disabled={revealed || pending}
-                  onClick={() => void submit(option.key)}
-                  className={cn(
-                    "group flex w-full items-start gap-3 rounded-xl border px-4 py-3 text-left transition",
-                    "border-line bg-elevated/60",
-                    !revealed &&
-                      !pending &&
-                      "hover:border-brand-soft/60 hover:bg-elevated focus-visible:border-brand-soft",
-                    pending && "opacity-60",
-                    revealed &&
-                      isCorrectOption &&
-                      "border-success/70 bg-success/12 text-ink",
-                    revealed &&
-                      isPicked &&
-                      !isCorrectOption &&
-                      "border-danger/70 bg-danger/12",
-                    revealed && !isCorrectOption && !isPicked && "opacity-55",
-                  )}
-                >
-                  <span
+                return (
+                  <button
+                    key={option.key}
+                    type="button"
+                    disabled={revealed || pending}
+                    onClick={() => void submit(option.key)}
+                    style={{ animationDelay: `${optionIndex * 45}ms` }}
                     className={cn(
-                      "grid size-7 shrink-0 place-items-center rounded-lg border text-sm font-bold",
-                      "border-line-strong bg-canvas/60 text-ink-muted",
+                      "animate-stagger group flex w-full items-start gap-3 rounded-xl border px-4 py-2.5 text-left transition",
+                      "border-line bg-elevated/50",
+                      !revealed &&
+                        !pending &&
+                        "hover:-translate-y-px hover:border-brand/40 hover:bg-elevated",
+                      pending && "opacity-60",
                       revealed &&
                         isCorrectOption &&
-                        "border-success bg-success text-canvas",
+                        "animate-glow border-success/60 bg-success/8",
                       revealed &&
                         isPicked &&
                         !isCorrectOption &&
-                        "border-danger bg-danger text-canvas",
+                        "animate-shake border-danger/60 bg-danger/8",
+                      revealed && !isCorrectOption && !isPicked && "opacity-45",
                     )}
                   >
-                    {option.key}
-                  </span>
-                  <span className="pt-0.5 text-sm leading-relaxed text-ink sm:text-base">
-                    {option.text}
-                  </span>
-                  {revealed && isCorrectOption ? (
-                    <span className="ml-auto shrink-0 pt-0.5 text-success">✓</span>
-                  ) : null}
-                  {revealed && isPicked && !isCorrectOption ? (
-                    <span className="ml-auto shrink-0 pt-0.5 text-danger">✕</span>
-                  ) : null}
-                </button>
-              );
-            })}
-          </div>
-
-          {error ? (
-            <p
-              role="alert"
-              className="rounded-xl border border-danger/40 bg-danger/10 px-4 py-2.5 text-sm text-danger"
-            >
-              {error}
-            </p>
-          ) : null}
-
-          {pending ? (
-            <p className="text-sm text-ink-faint">Cevabın kaydediliyor…</p>
-          ) : null}
-
-          {/* Cevap sonrası geri bildirim */}
-          {feedback ? (
-            <div className="animate-rise flex flex-col gap-3 border-t border-line pt-4">
-              <div className="flex flex-wrap items-center gap-3">
-                <span
-                  className={cn(
-                    "text-sm font-semibold",
-                    feedback.isCorrect ? "text-success" : "text-danger",
-                  )}
-                >
-                  {feedback.isCorrect
-                    ? "Doğru!"
-                    : feedback.selectedOption === null
-                      ? "Süre doldu"
-                      : "Yanlış"}
-                </span>
-
-                {feedback.isCorrect ? (
-                  <span className="tnum rounded-full border border-brand/40 bg-brand/10 px-3 py-0.5 text-xs text-brand-soft">
-                    +{feedback.points} puan
-                    {feedback.speedBonus > 0 ? ` · hız +${feedback.speedBonus}` : ""}
-                    {feedback.streakBonus > 0 ? ` · seri +${feedback.streakBonus}` : ""}
-                  </span>
-                ) : (
-                  <span className="text-xs text-ink-muted">
-                    Doğru cevap:{" "}
-                    <strong className="text-success">{feedback.correctOption}</strong>
-                  </span>
-                )}
-
-                {feedback.streakAfter >= 3 ? (
-                  <Badge tone="warning">
-                    {feedback.streakAfter} seri 🔥
-                  </Badge>
-                ) : null}
-              </div>
-
-              {feedback.explanation ? (
-                <p className="rounded-xl border border-line bg-canvas/50 px-4 py-3 text-sm leading-relaxed text-ink-muted">
-                  {feedback.explanation}
-                </p>
-              ) : null}
-
-              <div className="flex items-center gap-3">
-                <Button size="lg" onClick={goNext}>
-                  {feedback.isLast ? "Sonuçları gör" : "Sonraki soru"}
-                </Button>
-                <span className="hidden text-xs text-ink-faint sm:inline">
-                  Enter tuşuyla da geçebilirsin
-                </span>
-              </div>
+                    <span
+                      className={cn(
+                        "grid size-6 shrink-0 place-items-center rounded-lg border text-xs font-bold transition",
+                        "border-line-strong bg-surface text-ink-muted",
+                        revealed &&
+                          isCorrectOption &&
+                          "border-success bg-success text-white",
+                        revealed &&
+                          isPicked &&
+                          !isCorrectOption &&
+                          "border-danger bg-danger text-white",
+                      )}
+                    >
+                      {option.key}
+                    </span>
+                    <span className="pt-0.5 text-sm leading-relaxed text-ink sm:text-base">
+                      {option.text}
+                    </span>
+                    {revealed && isCorrectOption ? (
+                      <span className="ml-auto shrink-0 pt-0.5 font-bold text-success">
+                        ✓
+                      </span>
+                    ) : null}
+                    {revealed && isPicked && !isCorrectOption ? (
+                      <span className="ml-auto shrink-0 pt-0.5 font-bold text-danger">
+                        ✕
+                      </span>
+                    ) : null}
+                  </button>
+                );
+              })}
             </div>
-          ) : null}
+
+            {error ? (
+              <p
+                role="alert"
+                className="rounded-xl border border-danger/30 bg-danger/5 px-4 py-2.5 text-sm text-danger"
+              >
+                {error}
+              </p>
+            ) : null}
+
+            {pending ? (
+              <p className="text-sm text-ink-faint">Cevabın kaydediliyor…</p>
+            ) : null}
+
+            {/* Cevap sonrası geri bildirim — buton yok, otomatik geçiş */}
+            {feedback ? (
+              <div
+                className="animate-rise flex cursor-pointer flex-col gap-3 border-t border-line pt-4 select-none"
+                onClick={goNext}
+                role="button"
+                tabIndex={0}
+                aria-label={
+                  feedback.isLast ? "Sonuçları gör" : "Sonraki soruya geç"
+                }
+                onKeyDown={(event) => {
+                  if (event.key === "Enter" || event.key === " ") {
+                    event.preventDefault();
+                    goNext();
+                  }
+                }}
+              >
+                <div className="flex flex-wrap items-center gap-3">
+                  <span
+                    className={cn(
+                      "relative text-sm font-semibold",
+                      feedback.isCorrect ? "text-success" : "text-danger",
+                    )}
+                  >
+                    {feedback.isCorrect
+                      ? "Doğru!"
+                      : feedback.selectedOption === null
+                        ? "Süre doldu"
+                        : "Yanlış"}
+                    {feedback.isCorrect && feedback.points > 0 ? (
+                      <span className="tnum animate-float-up pointer-events-none absolute -top-1 left-full ml-2 font-bold whitespace-nowrap text-success">
+                        +{feedback.points}
+                      </span>
+                    ) : null}
+                  </span>
+
+                  {feedback.isCorrect ? (
+                    <span className="tnum rounded-full border border-brand/30 bg-brand/5 px-3 py-0.5 text-xs text-brand-soft">
+                      {feedback.speedBonus > 0
+                        ? `hız +${feedback.speedBonus}`
+                        : "hız bonusu yok"}
+                      {feedback.streakBonus > 0
+                        ? ` · seri +${feedback.streakBonus}`
+                        : ""}
+                    </span>
+                  ) : (
+                    <span className="text-xs text-ink-muted">
+                      Doğru cevap:{" "}
+                      <strong className="text-success">
+                        {feedback.correctOption}
+                      </strong>
+                    </span>
+                  )}
+
+                  {feedback.streakAfter >= 3 ? (
+                    <Badge tone="warning">{feedback.streakAfter} seri 🔥</Badge>
+                  ) : null}
+                </div>
+
+                {feedback.explanation ? (
+                  <p className="rounded-xl border border-line bg-elevated/50 px-4 py-3 text-sm leading-relaxed text-ink-muted">
+                    {feedback.explanation}
+                  </p>
+                ) : null}
+
+                <div className="flex items-center justify-between gap-3 text-xs text-ink-faint">
+                  <span>
+                    {feedback.isLast
+                      ? "Sonuçlara geçiliyor…"
+                      : "Sonraki soruya geçiliyor…"}
+                  </span>
+                  <span className="hidden sm:inline">
+                    Tıkla veya <kbd className="font-sans">Enter</kbd>
+                  </span>
+                </div>
+
+                {/* Otomatik geçiş göstergesi */}
+                <div className="h-0.5 w-full overflow-hidden rounded-full bg-line">
+                  <div
+                    className={cn(
+                      "animate-advance h-full rounded-full",
+                      feedback.isCorrect ? "bg-success" : "bg-brand",
+                    )}
+                    style={{ animationDuration: `${advanceMs}ms` }}
+                  />
+                </div>
+              </div>
+            ) : null}
+          </div>
         </CardContent>
       </Card>
 
       <div className="flex items-center justify-between text-xs text-ink-faint">
         <span>
-          En uzun seri: <span className="tnum">{bestStreak}</span> · Mod:{" "}
+          En uzun seri: <span className="tnum">{bestStreak}</span> · Doğru:{" "}
+          <span className="tnum">{correct}</span> · Mod:{" "}
           {view.categoryName ?? "Karma"}
         </span>
         <button
@@ -403,35 +506,6 @@ export function GameBoard({ view }: { view: RunView }) {
             : "Yanlış cevap"
           : `Soru ${index + 1}`}
       </p>
-    </div>
-  );
-}
-
-function StatTile({
-  label,
-  value,
-  tone = "plain",
-}: {
-  label: string;
-  value: string;
-  tone?: "plain" | "brand" | "success" | "warning";
-}) {
-  return (
-    <div className="surface-card flex flex-col gap-0.5 px-3.5 py-2.5">
-      <span className="text-[0.68rem] font-medium tracking-wide text-ink-faint uppercase">
-        {label}
-      </span>
-      <span
-        className={cn(
-          "tnum text-lg font-bold",
-          tone === "brand" && "text-brand-soft",
-          tone === "success" && "text-success",
-          tone === "warning" && "text-warning",
-          tone === "plain" && "text-ink",
-        )}
-      >
-        {value}
-      </span>
     </div>
   );
 }
