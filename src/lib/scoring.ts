@@ -98,11 +98,12 @@ export function accuracy(correctCount: number, totalQuestions: number): number {
 
 /** Sonuca göre oyuncuya verilecek derece/etiket. */
 export function gradeFor(percent: number): { label: string; tone: string } {
-  if (percent >= 90) return { label: "Efsane", tone: "text-amber-300" };
-  if (percent >= 75) return { label: "Uzman", tone: "text-emerald-300" };
-  if (percent >= 60) return { label: "Yetkin", tone: "text-sky-300" };
-  if (percent >= 40) return { label: "Gelişiyor", tone: "text-violet-300" };
-  return { label: "Yeni Başlayan", tone: "text-rose-300" };
+  // Açık tema: 300 tonları beyaz zeminde okunmaz, 600 tonları kullanılır.
+  if (percent >= 90) return { label: "Efsane", tone: "text-amber-600" };
+  if (percent >= 75) return { label: "Uzman", tone: "text-emerald-600" };
+  if (percent >= 60) return { label: "Yetkin", tone: "text-sky-600" };
+  if (percent >= 40) return { label: "Gelişiyor", tone: "text-violet-600" };
+  return { label: "Yeni Başlayan", tone: "text-rose-600" };
 }
 
 // --- Tecrübe puanı (XP) ve seviye -----------------------------------------

@@ -31,7 +31,7 @@ export function ResultView({
     <div className="flex flex-col gap-6">
       {/* Sonuç kartı */}
       <Card className="animate-rise overflow-hidden">
-        <div className="bg-gradient-to-br from-brand-deep/60 via-brand/25 to-accent/15 px-6 pt-8 pb-6 sm:px-8">
+        <div className="border-b border-line bg-gradient-to-br from-brand/10 via-accent/5 to-transparent px-6 pt-8 pb-6 sm:px-8">
           <div className="flex flex-wrap items-center justify-between gap-4">
             <div>
               <p className="text-xs font-semibold tracking-[0.18em] text-brand-soft uppercase">
