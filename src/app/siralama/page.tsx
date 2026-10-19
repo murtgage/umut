@@ -8,9 +8,11 @@ import { Card, CardContent } from "@/components/ui/card";
 import { formatNumber, formatPercent, rankTone } from "@/lib/format";
 import {
   countRankedPlayers,
+  countWeeklyRankedPlayers,
   getGlobalLeaderboard,
   getPlayerRank,
-  type LeaderboardRow,
+  getWeeklyLeaderboard,
+  getWeeklyStanding,
 } from "@/lib/leaderboard";
 import { getSession } from "@/lib/session";
 import { cn } from "@/lib/utils";
@@ -18,8 +20,32 @@ import { cn } from "@/lib/utils";
 export const metadata: Metadata = {
   title: "Sıralama",
   description:
-    "Umut KPSS Arena genel sıralaması: en yüksek puanlı oyuncular, seviyeler ve isabet oranları.",
+    "Umut KPSS Arena sıralaması: genel ve haftalık en yüksek puanlı oyuncular, isabet oranları ve seriler.",
 };
+
+type Period = "genel" | "hafta";
+
+/** İki dönemin ortak satır biçimi — tablo ve mobil kart bunu kullanır. */
+interface BoardRow {
+  rank: number;
+  userId: string;
+  name: string;
+  image: string | null;
+  score: number;
+  correctAnswers: number;
+  accuracy: number;
+  gamesPlayed: number;
+  /** Genel sıralamada oyuncunun seviyesi; haftalıkta yoktur. */
+  level: number | null;
+  bestStreak: number;
+  /** Genel sıralamada en iyi tur puanı; haftalıkta yoktur. */
+  bestScore: number | null;
+}
+
+const PERIODS: { id: Period; label: string; href: string }[] = [
+  { id: "genel", label: "Genel", href: "/siralama" },
+  { id: "hafta", label: "Bu hafta", href: "/siralama?donem=hafta" },
+];
 
 /** İlk üç sıra için renk tonu — tabloda ve mobil kartta ortak kullanılır. */
 function rankBadgeClass(tone: ReturnType<typeof rankTone>): string {
@@ -32,28 +58,79 @@ function rankBadgeClass(tone: ReturnType<typeof rankTone>): string {
   );
 }
 
-export default async function LeaderboardPage() {
+export default async function LeaderboardPage(props: PageProps<"/siralama">) {
+  const searchParams = await props.searchParams;
+  const rawDonem = searchParams?.donem;
+  const donemValue = Array.isArray(rawDonem) ? rawDonem[0] : rawDonem;
+  const period: Period = donemValue === "hafta" ? "hafta" : "genel";
+
   const session = await getSession();
-
-  const [rows, totalPlayers, myRank] = await Promise.all([
-    getGlobalLeaderboard({ limit: 50 }),
-    countRankedPlayers(),
-    session ? getPlayerRank(session.user.id) : Promise.resolve(null),
-  ]);
-
   const myId = session?.user.id ?? null;
-  const inTopList = myId ? rows.some((row) => row.userId === myId) : false;
+
+  let board: BoardRow[] = [];
+  let totalPlayers = 0;
+  let myRank: number | null = null;
+
+  if (period === "hafta") {
+    const [rows, total, standing] = await Promise.all([
+      getWeeklyLeaderboard({ limit: 50 }),
+      countWeeklyRankedPlayers(),
+      myId ? getWeeklyStanding(myId) : Promise.resolve(null),
+    ]);
+
+    totalPlayers = total;
+    myRank = standing?.rank ?? null;
+    board = rows.map((row) => ({
+      rank: row.rank,
+      userId: row.userId,
+      name: row.name,
+      image: row.image,
+      score: row.weekScore,
+      correctAnswers: row.correctAnswers,
+      accuracy: row.accuracy,
+      gamesPlayed: row.gamesPlayed,
+      level: null,
+      bestStreak: row.bestStreak,
+      bestScore: null,
+    }));
+  } else {
+    const [rows, total, rank] = await Promise.all([
+      getGlobalLeaderboard({ limit: 50 }),
+      countRankedPlayers(),
+      myId ? getPlayerRank(myId) : Promise.resolve(null),
+    ]);
+
+    totalPlayers = total;
+    myRank = rank;
+    board = rows.map((row) => ({
+      rank: row.rank,
+      userId: row.userId,
+      name: row.name,
+      image: row.image,
+      score: row.totalScore,
+      correctAnswers: row.correctAnswers,
+      accuracy: row.accuracy,
+      gamesPlayed: row.gamesPlayed,
+      level: row.level,
+      bestStreak: row.longestStreak,
+      bestScore: row.bestScore,
+    }));
+  }
+
+  const inTopList = myId ? board.some((row) => row.userId === myId) : false;
+  const isWeekly = period === "hafta";
 
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-col gap-6 px-4 py-10 sm:px-6">
       <header className="flex flex-wrap items-end justify-between gap-4">
         <div>
           <h1 className="text-2xl font-bold tracking-tight text-ink sm:text-3xl">
-            Genel sıralama
+            {isWeekly ? "Bu haftanın sıralaması" : "Genel sıralama"}
           </h1>
           <p className="mt-1 text-sm text-ink-muted">
-            Sıralama toplam puana göre belirlenir; eşit puanda daha çok doğru
-            yapan öne geçer.
+            {isWeekly
+              ? "Son 7 günde topladığın puanlarla yarışırsın; her hafta sıfırdan başlar."
+              : "Sıralama toplam puana göre belirlenir; eşit puanda daha çok doğru yapan öne geçer."}
           </p>
         </div>
 
@@ -79,6 +156,27 @@ export default async function LeaderboardPage() {
         </div>
       </header>
 
+      <nav className="flex flex-wrap gap-2" aria-label="Sıralama dönemi">
+        {PERIODS.map((item) => {
+          const active = item.id === period;
+          return (
+            <Link
+              key={item.id}
+              href={item.href}
+              aria-current={active ? "page" : undefined}
+              className={cn(
+                "rounded-lg border px-3.5 py-1.5 text-sm font-medium transition",
+                active
+                  ? "border-brand/50 bg-brand/10 text-brand-soft"
+                  : "border-line bg-canvas/40 text-ink-muted hover:bg-elevated/60 hover:text-ink",
+              )}
+            >
+              {item.label}
+            </Link>
+          );
+        })}
+      </nav>
+
       {myRank && !inTopList ? (
         <p className="rounded-xl border border-brand/30 bg-brand/10 px-4 py-2.5 text-sm text-brand-soft">
           İlk 50&apos;nin dışındasın — daha fazla tur oynayarak yüksel.
@@ -87,14 +185,18 @@ export default async function LeaderboardPage() {
 
       <Card>
         <CardContent className="pt-6">
-          {rows.length === 0 ? (
+          {board.length === 0 ? (
             <div className="flex flex-col items-center gap-4 py-12 text-center">
               <p className="text-3xl">🏁</p>
               <p className="font-semibold text-ink">
-                Henüz kimse yarışmadı
+                {isWeekly
+                  ? "Bu hafta henüz kimse yarışmadı"
+                  : "Henüz kimse yarışmadı"}
               </p>
               <p className="max-w-sm text-sm text-ink-muted">
-                İlk turu sen tamamla ve sıralamanın tepesine yerleş.
+                {isWeekly
+                  ? "Bu haftanın ilk turunu sen tamamla ve zirveye yerleş."
+                  : "İlk turu sen tamamla ve sıralamanın tepesine yerleş."}
               </p>
               <Link href="/oyna" className={buttonVariants({ size: "lg" })}>
                 Hemen oyna
@@ -104,7 +206,7 @@ export default async function LeaderboardPage() {
             <>
               {/* Telefon: tablo yerine kart listesi — yatay kaydırma gerekmez. */}
               <ul className="flex flex-col gap-2 sm:hidden">
-                {rows.map((row) => (
+                {board.map((row) => (
                   <li key={row.userId}>
                     <LeaderboardCard row={row} isMe={row.userId === myId} />
                   </li>
@@ -118,15 +220,19 @@ export default async function LeaderboardPage() {
                     <tr className="text-left text-xs tracking-wide text-ink-faint uppercase">
                       <th className="px-3 py-2 font-medium">#</th>
                       <th className="px-3 py-2 font-medium">Oyuncu</th>
-                      <th className="px-3 py-2 text-right font-medium">Puan</th>
+                      <th className="px-3 py-2 text-right font-medium">
+                        {isWeekly ? "Haftalık puan" : "Puan"}
+                      </th>
                       <th className="px-3 py-2 text-right font-medium">Doğru</th>
                       <th className="px-3 py-2 text-right font-medium">İsabet</th>
                       <th className="px-3 py-2 text-right font-medium">Tur</th>
-                      <th className="px-3 py-2 text-right font-medium">Seviye</th>
+                      <th className="px-3 py-2 text-right font-medium">
+                        {isWeekly ? "Seri" : "Seviye"}
+                      </th>
                     </tr>
                   </thead>
                   <tbody>
-                    {rows.map((row) => (
+                    {board.map((row) => (
                       <LeaderboardTableRow
                         key={row.userId}
                         row={row}
@@ -148,7 +254,7 @@ function LeaderboardTableRow({
   row,
   isMe,
 }: {
-  row: LeaderboardRow;
+  row: BoardRow;
   isMe: boolean;
 }) {
   const tone = rankTone(row.rank);
@@ -174,14 +280,19 @@ function LeaderboardTableRow({
               {isMe ? <Badge tone="brand">sen</Badge> : null}
             </span>
             <span className="text-xs text-ink-faint">
-              En iyi tur: <span className="tnum">{formatNumber(row.bestScore)}</span>{" "}
-              · Seri <span className="tnum">{row.longestStreak}</span>
+              {row.bestScore !== null ? (
+                <>
+                  En iyi tur:{" "}
+                  <span className="tnum">{formatNumber(row.bestScore)}</span> ·{" "}
+                </>
+              ) : null}
+              Seri <span className="tnum">{row.bestStreak}</span>
             </span>
           </div>
         </div>
       </td>
       <td className="tnum px-3 py-3 text-right font-bold text-brand-soft">
-        {formatNumber(row.totalScore)}
+        {formatNumber(row.score)}
       </td>
       <td className="tnum px-3 py-3 text-right text-ink-muted">
         {formatNumber(row.correctAnswers)}
@@ -193,7 +304,13 @@ function LeaderboardTableRow({
         {formatNumber(row.gamesPlayed)}
       </td>
       <td className="px-3 py-3 text-right">
-        <Badge tone={row.level >= 10 ? "gold" : "neutral"}>Sv. {row.level}</Badge>
+        {row.level !== null ? (
+          <Badge tone={row.level >= 10 ? "gold" : "neutral"}>
+            Sv. {row.level}
+          </Badge>
+        ) : (
+          <span className="tnum text-ink-muted">{row.bestStreak}</span>
+        )}
       </td>
     </tr>
   );
@@ -204,7 +321,7 @@ function LeaderboardCard({
   row,
   isMe,
 }: {
-  row: LeaderboardRow;
+  row: BoardRow;
   isMe: boolean;
 }) {
   const tone = rankTone(row.rank);
@@ -228,7 +345,7 @@ function LeaderboardCard({
         </div>
         <div className="mt-0.5 flex flex-wrap items-center gap-x-2 text-xs text-ink-faint">
           <span className="tnum font-semibold text-brand-soft">
-            {formatNumber(row.totalScore)} puan
+            {formatNumber(row.score)} puan
           </span>
           <span className="tnum">{formatNumber(row.correctAnswers)} doğru</span>
           <span className="tnum">{formatPercent(row.accuracy)}</span>
@@ -236,7 +353,13 @@ function LeaderboardCard({
         </div>
       </div>
 
-      <Badge tone={row.level >= 10 ? "gold" : "neutral"}>Sv. {row.level}</Badge>
+      {row.level !== null ? (
+        <Badge tone={row.level >= 10 ? "gold" : "neutral"}>
+          Sv. {row.level}
+        </Badge>
+      ) : (
+        <Badge tone="neutral">Seri {row.bestStreak}</Badge>
+      )}
     </div>
   );
 }

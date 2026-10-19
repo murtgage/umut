@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 
 import { SiteFooter } from "@/components/site-footer";
@@ -25,6 +25,16 @@ export const metadata: Metadata = {
     "KPSS'ye hazırlanırken bilgini yarıştır: güncel format sorular, puan sistemi, seri bonusları ve genel sıralama.",
   applicationName: "Umut",
   keywords: ["KPSS", "bilgi yarışması", "test çöz", "puan", "sıralama"],
+  appleWebApp: {
+    capable: true,
+    title: "Umut",
+    statusBarStyle: "default",
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#6366f1",
+  colorScheme: "light",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

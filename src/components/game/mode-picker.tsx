@@ -31,12 +31,14 @@ export function ModePicker({
   initialError,
   isGuest = false,
   guestRunsLeft = null,
+  reviewCount = 0,
 }: {
   categories: CategoryOption[];
   dailyPlayed: boolean;
   initialError?: string | null;
   isGuest?: boolean;
   guestRunsLeft?: number | null;
+  reviewCount?: number;
 }) {
   const router = useRouter();
   const [pending, startTransition] = useTransition();
@@ -301,6 +303,24 @@ export function ModePicker({
         <span className="text-xs font-medium tracking-wide text-ink-faint uppercase">
           Diğer
         </span>
+
+        <Button
+          variant="outline"
+          size="sm"
+          disabled={pending || guestBlocked || reviewCount < 1}
+          onClick={() => launch("REVIEW", { key: "REVIEW" })}
+          title={
+            reviewCount < 1
+              ? "Henüz yanlış yaptığın soru yok"
+              : `${reviewCount} yanlış soru tekrar çözülebilir`
+          }
+        >
+          {busyKey === "REVIEW" && pending
+            ? "Hazırlanıyor…"
+            : reviewCount < 1
+              ? `${MODE_INFO.REVIEW.label} · yok`
+              : `${MODE_INFO.REVIEW.label} · ${reviewCount}`}
+        </Button>
 
         <Button
           variant="outline"

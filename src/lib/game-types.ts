@@ -9,6 +9,7 @@ export const RUN_MODES = [
   "QUICK",
   "CATEGORY",
   "DAILY",
+  "REVIEW",
   "EXAM",
   "DUEL",
 ] as const;
@@ -65,6 +66,14 @@ export const MODE_INFO: Record<RunMode, ModeInfo> = {
     description:
       "Herkes için aynı 10 soru, günde bir kez. Kendini Türkiye geneliyle kıyasla.",
     tag: "günde 1",
+    available: true,
+  },
+  REVIEW: {
+    id: "REVIEW",
+    label: "Yanlışlarım",
+    description:
+      "Daha önce yanlış yaptığın soruları tekrar çöz, açıklamalarla eksiklerini kapat.",
+    tag: "tekrar",
     available: true,
   },
   EXAM: {

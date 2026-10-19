@@ -24,7 +24,8 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
   const rawError = searchParams.hata;
   const initialError = Array.isArray(rawError) ? rawError[0] : rawError;
 
-  const [categories, stats, dailyRun, rank, completedRuns] = await Promise.all([
+  const [categories, stats, dailyRun, rank, completedRuns, wrongAnswers] =
+    await Promise.all([
     prisma.category.findMany({
       where: { isActive: true },
       orderBy: { sortOrder: "asc" },
@@ -49,6 +50,16 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
     }),
     getPlayerRank(userId),
     prisma.gameRun.count({ where: { userId, status: "COMPLETED" } }),
+    prisma.gameAnswer.findMany({
+      where: {
+        answered: true,
+        isCorrect: false,
+        run: { userId, status: "COMPLETED" },
+      },
+      select: { questionId: true },
+      distinct: ["questionId"],
+      take: 500,
+    }),
   ]);
 
   const xp = stats?.xp ?? 0;
@@ -121,6 +132,7 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
         initialError={initialError ?? null}
         isGuest={isGuest}
         guestRunsLeft={guestRunsLeft}
+        reviewCount={wrongAnswers.length}
       />
 
       <p className="text-center text-xs text-ink-faint">

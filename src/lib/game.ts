@@ -65,6 +65,16 @@ function asOptionKey(value: string | null): OptionKey | null {
 // Tur başlatma
 // ---------------------------------------------------------------------------
 
+/** Turun başlığında gösterilecek kategori adı. */
+function runCategoryName(run: {
+  mode: string;
+  category: { name: string } | null;
+  examType: string | null;
+}): string | null {
+  if (run.mode === "REVIEW") return "Yanlışlarım";
+  return run.category?.name ?? examTypeName(run.examType);
+}
+
 export interface StartRunInput {
   userId: string;
   mode: RunMode;
@@ -121,6 +131,63 @@ export async function startRun({
         `Üye olmadan ${GUEST_RUN_LIMIT} tur oynayabilirsin. Ücretsiz kayıt olup ilerlemeni kalıcı hale getir!`,
       );
     }
+  }
+
+  // "Yanlışlarım" turu: kullanıcının geçmişte yanlış cevapladığı sorular.
+  // Aynı soru birden çok kez yanlış yapılmış olabilir; tekrar sormamak için
+  // soru kimlikleri tekilleştirilir.
+  if (mode === "REVIEW") {
+    const wrongRows = await prisma.gameAnswer.findMany({
+      where: {
+        answered: true,
+        isCorrect: false,
+        run: { userId, status: "COMPLETED" },
+      },
+      select: { questionId: true },
+      orderBy: { answeredAt: "desc" },
+      take: 500,
+    });
+
+    const uniqueIds = [...new Set(wrongRows.map((row) => row.questionId))];
+
+    const pool = uniqueIds.length
+      ? await prisma.question.findMany({
+          where: { id: { in: uniqueIds }, isActive: true },
+          select: { id: true },
+        })
+      : [];
+
+    if (pool.length === 0) {
+      throw new GameError(
+        "NOT_ENOUGH_QUESTIONS",
+        "Tekrar çözecek yanlış sorun yok. Önce bir tur oynayıp yanlışlarını biriktir!",
+      );
+    }
+
+    const picked = shuffle(pool.map((row) => row.id)).slice(
+      0,
+      Math.min(count, pool.length),
+    );
+
+    const reviewRun = await prisma.gameRun.create({
+      data: {
+        userId,
+        mode: "REVIEW",
+        totalQuestions: picked.length,
+        status: "IN_PROGRESS",
+      },
+      select: { id: true },
+    });
+
+    await prisma.gameAnswer.createMany({
+      data: picked.map((questionId, position) => ({
+        runId: reviewRun.id,
+        questionId,
+        position,
+      })),
+    });
+
+    return { runId: reviewRun.id };
   }
 
   if (mode === "DAILY") {
@@ -276,7 +343,7 @@ export async function getRunView(
     runId: run.id,
     mode: run.mode as RunMode,
     status: run.status,
-    categoryName: run.category?.name ?? examTypeName(run.examType),
+    categoryName: runCategoryName(run),
     totalQuestions: run.totalQuestions,
     score: run.answers.reduce((total, answer) => total + answer.points, 0),
     correctCount: run.answers.filter((answer) => answer.isCorrect).length,
@@ -553,7 +620,7 @@ export async function finishRun({
   return {
     runId: run.id,
     mode: run.mode as RunMode,
-    categoryName: run.category?.name ?? examTypeName(run.examType),
+    categoryName: runCategoryName(run),
     score,
     totalQuestions: run.answers.length,
     correctCount,

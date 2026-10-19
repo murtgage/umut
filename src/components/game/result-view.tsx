@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { ShareResultButton } from "@/components/game/share-result";
 import { Badge } from "@/components/ui/badge";
 import { buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -19,6 +20,9 @@ export function ResultView({
   const mode = MODE_INFO[summary.mode];
   const leveledUp = summary.levelAfter > summary.levelBefore;
   const progress = levelProgress(summary.totalXp);
+
+  // Paylaşım metni — hem yerel paylaşım menüsünde hem panoda kullanılır.
+  const shareText = `Umut'ta ${mode.label} turunda ${formatNumber(summary.score)} puan topladım (${summary.correctCount}/${summary.totalQuestions} doğru, isabet ${formatPercent(summary.accuracy)}). Sen de dene!`;
 
   const stats = [
     { label: "Doğru", value: String(summary.correctCount), tone: "success" as const },
@@ -139,6 +143,7 @@ export function ResultView({
             >
               Profilim
             </Link>
+            <ShareResultButton text={shareText} />
           </div>
         </CardContent>
       </Card>

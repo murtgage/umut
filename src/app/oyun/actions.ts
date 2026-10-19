@@ -40,7 +40,7 @@ function toActionError(error: unknown): string {
 }
 
 const startSchema = z.object({
-  mode: z.enum(["QUICK", "CATEGORY", "DAILY", "EXAM", "DUEL"]),
+  mode: z.enum(["QUICK", "CATEGORY", "DAILY", "REVIEW", "EXAM", "DUEL"]),
   categoryId: z.string().min(1).nullish(),
   /** EXAM modunda seçilen sınav bölümü (ör. "genel-yetenek"). */
   examType: z.string().min(1).max(60).nullish(),
