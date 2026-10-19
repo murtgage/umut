@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ResultView } from "@/components/game/result-view";
 import { GameError, getSummary } from "@/lib/game";
 import { getPlayerRank } from "@/lib/leaderboard";
+import { findDuelByRunId } from "@/lib/duel";
 import { requireUser } from "@/lib/session";
 
 export const metadata: Metadata = {
@@ -25,9 +26,13 @@ export default async function ResultPage(props: PageProps<"/oyun/[runId]/sonuc">
 
   const rank = await getPlayerRank(session.user.id);
 
+  // Düello turu ise karşılaştırma ekranına bağlantı ver.
+  const duelId =
+    summary.mode === "DUEL" ? await findDuelByRunId(runId) : null;
+
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
-      <ResultView summary={summary} rank={rank} />
+      <ResultView summary={summary} rank={rank} duelId={duelId} />
     </div>
   );
 }

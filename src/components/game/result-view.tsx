@@ -15,9 +15,12 @@ import { cn } from "@/lib/utils";
 export function ResultView({
   summary,
   rank,
+  duelId = null,
 }: {
   summary: RunSummary;
   rank: number | null;
+  /** Düello turu ise düellonun kimliği (durum kartı + bağlantı için). */
+  duelId?: string | null;
 }) {
   const mode = MODE_INFO[summary.mode];
   const leveledUp = summary.levelAfter > summary.levelBefore;
@@ -35,6 +38,26 @@ export function ResultView({
 
   return (
     <div className="flex flex-col gap-6">
+      {/* Düello durumu — düello turu sona erince */}
+      {duelId ? (
+        <Card>
+          <CardContent className="flex flex-wrap items-center justify-between gap-3 pt-6">
+            <div>
+              <p className="text-sm font-semibold text-ink">Düello durumu</p>
+              <p className="text-xs text-ink-muted">
+                Rakibinle karşılaştırma burada gösterilir.
+              </p>
+            </div>
+            <Link
+              href={`/duello/${duelId}`}
+              className={buttonVariants({ variant: "secondary", size: "sm" })}
+            >
+              Düelloyu gör →
+            </Link>
+          </CardContent>
+        </Card>
+      ) : null}
+
       {/* Sonuç kartı */}
       <Card className="animate-rise overflow-hidden">
         <div className="border-b border-line bg-gradient-to-br from-brand/10 via-accent/5 to-transparent px-6 pt-8 pb-6 sm:px-8">

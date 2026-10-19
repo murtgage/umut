@@ -43,7 +43,11 @@ export type GameErrorCode =
   | "NOT_ENOUGH_QUESTIONS"
   | "NO_CATEGORY"
   | "DAILY_ALREADY_PLAYED"
-  | "GUEST_LIMIT";
+  | "GUEST_LIMIT"
+  | "DUEL_NOT_FOUND"
+  | "DUEL_EXPIRED"
+  | "DUEL_JOINED"
+  | "DUEL_SELF";
 
 /** Kullanıcıya gösterilebilir, Türkçe mesajlı oyun hatası. */
 export class GameError extends Error {
@@ -74,6 +78,7 @@ function runCategoryName(run: {
   examType: string | null;
 }): string | null {
   if (run.mode === "REVIEW") return "Yanlışlarım";
+  if (run.mode === "DUEL") return "Düello";
   return run.category?.name ?? examTypeName(run.examType);
 }
 
@@ -86,10 +91,17 @@ export interface StartRunInput {
   questionCount?: number;
   /** 0 = karışık (varsayılan), 1 = kolay, 2 = orta, 3 = zor. */
   difficulty?: number | null;
+  /**
+   * DUEL modunda kullanılır: rakiple birebir aynı sorular, aynı sırada.
+   * Verilirse soru havuzundan yeni seçim yapılmaz.
+   */
+  questionIds?: string[] | null;
 }
 
 export interface StartRunResult {
   runId: string;
+  /** Turda oynanan soruların sıralı kimlikleri (düello kurulumu için). */
+  questionIds: string[];
 }
 
 export async function startRun({
@@ -99,17 +111,13 @@ export async function startRun({
   examType,
   questionCount = QUESTIONS_PER_RUN,
   difficulty = 0,
+  questionIds = null,
 }: StartRunInput): Promise<StartRunResult> {
   const count = Math.max(1, Math.min(questionCount, 50));
   // 0 = karışık (filtre yok); 1-3 = yalnızca o zorluk seviyesindeki sorular.
   const difficultyFilter = Math.min(Math.max(Math.trunc(difficulty ?? 0), 0), 3);
-
-  if (mode === "DUEL") {
-    throw new GameError(
-      "NOT_ENOUGH_QUESTIONS",
-      "Düello modu henüz açık değil. Çok yakında!",
-    );
-  }
+  // DUEL modunda sorular hazır bir listeden gelir (rakiple birebir aynı).
+  const fixedQuestionIds = questionIds?.filter((id) => id.length > 0) ?? null;
 
   // Sınav turu: kullanıcı mutlaka bir sınav bölümü seçmiş olmalı.
   const exam = mode === "EXAM" ? examTypeBySlug(examType) : null;
@@ -142,8 +150,9 @@ export async function startRun({
 
   // Aynı modda yarım kalmış eski tur varsa "bırakıldı" işaretlenir; aksi hâlde
   // her yeni tur birikir ve "Devam et" listesi bozulur. Günlük tur istisnadır:
-  // günde bir kez oynanır ve kendi dalında zaten korunur.
-  if (mode !== "DAILY") {
+  // günde bir kez oynanır ve kendi dalında zaten korunur. Düello da istisnadır:
+  // bir oyuncu aynı anda birden çok düelloda olabilir.
+  if (mode !== "DAILY" && mode !== "DUEL") {
     await prisma.gameRun.updateMany({
       where: { userId, status: "IN_PROGRESS", mode },
       data: { status: "ABANDONED" },
@@ -204,7 +213,7 @@ export async function startRun({
       })),
     });
 
-    return { runId: reviewRun.id };
+    return { runId: reviewRun.id, questionIds: picked };
   }
 
   if (mode === "DAILY") {
@@ -222,7 +231,16 @@ export async function startRun({
     });
 
     if (todayDaily && todayDaily.status === "IN_PROGRESS") {
-      return { runId: todayDaily.id };
+      const dailyAnswers = await prisma.gameAnswer.findMany({
+        where: { runId: todayDaily.id },
+        orderBy: { position: "asc" },
+        select: { questionId: true },
+      });
+
+      return {
+        runId: todayDaily.id,
+        questionIds: dailyAnswers.map((answer) => answer.questionId),
+      };
     }
 
     if (todayDaily) {
@@ -250,27 +268,40 @@ export async function startRun({
     examCategoryIds = examCategories.map((row) => row.id);
   }
 
-  const candidates = await prisma.question.findMany({
-    where: {
-      isActive: true,
-      ...(effectiveCategoryId ? { categoryId: effectiveCategoryId } : {}),
-      ...(examCategoryIds ? { categoryId: { in: examCategoryIds } } : {}),
-      ...(difficultyFilter > 0 ? { difficulty: difficultyFilter } : {}),
-    },
-    select: { id: true },
-  });
+  let ids: string[];
+  if (fixedQuestionIds) {
+    // Düello: sorular ve sıraları hazır geldiği için havuz taraması yapılmaz.
+    ids = fixedQuestionIds;
+  } else {
+    const candidates = await prisma.question.findMany({
+      where: {
+        isActive: true,
+        ...(effectiveCategoryId ? { categoryId: effectiveCategoryId } : {}),
+        ...(examCategoryIds ? { categoryId: { in: examCategoryIds } } : {}),
+        ...(difficultyFilter > 0 ? { difficulty: difficultyFilter } : {}),
+      },
+      select: { id: true },
+    });
 
-  if (candidates.length < count) {
-    throw new GameError(
-      "NOT_ENOUGH_QUESTIONS",
-      `Bu seçim için yeterli soru yok (${candidates.length}/${count}). Lütfen başka bir mod dene.`,
-    );
+    if (candidates.length < count) {
+      throw new GameError(
+        "NOT_ENOUGH_QUESTIONS",
+        `Bu seçim için yeterli soru yok (${candidates.length}/${count}). Lütfen başka bir mod dene.`,
+      );
+    }
+
+    ids = candidates.map((row) => row.id);
   }
 
-  const ids = candidates.map((row) => row.id);
   // Günlük turda sorular herkes için aynı ve deterministik olmalı.
-  const ordered = mode === "DAILY" ? shuffleSeeded(ids, daySeed()) : shuffle(ids);
-  const selected = ordered.slice(0, count);
+  // Düelloda ise iki taraf birebir aynı sırayı görmeli.
+  const ordered =
+    mode === "DAILY"
+      ? shuffleSeeded(ids, daySeed())
+      : mode === "DUEL" && fixedQuestionIds
+        ? ids
+        : shuffle(ids);
+  const selected = fixedQuestionIds ? ordered : ordered.slice(0, count);
 
   const run = await prisma.gameRun.create({
     data: {
@@ -292,7 +323,7 @@ export async function startRun({
     })),
   });
 
-  return { runId: run.id };
+  return { runId: run.id, questionIds: selected };
 }
 
 // ---------------------------------------------------------------------------

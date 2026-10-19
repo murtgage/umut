@@ -4,7 +4,7 @@ import { useMemo, useState, useTransition } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
-import { startRunAction } from "@/app/oyun/actions";
+import { startDuelAction, startRunAction } from "@/app/oyun/actions";
 import { CategoryIcon } from "@/components/category-icon";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { EXAM_TYPES, examTypeBySlug } from "@/lib/exam-types";
@@ -436,12 +436,36 @@ export function ModePicker({
         </Button>
 
         <Button
-          variant="ghost"
+          variant="outline"
           size="sm"
-          disabled
-          title="Canlı 1v1 modu çok yakında"
+          disabled={pending || guestBlocked}
+          onClick={() => {
+            if (guestBlocked) {
+              setError(
+                "Üye olmadan oynayabileceğin tur hakkın doldu. Ücretsiz kayıt olup kaldığın yerden devam et!",
+              );
+              return;
+            }
+
+            setError(null);
+            setBusyKey("DUEL");
+
+            startTransition(async () => {
+              const result = await startDuelAction({ questionCount, difficulty });
+
+              if (!result.ok) {
+                setError(result.error);
+                setBusyKey(null);
+                return;
+              }
+
+              router.push(`/duello/${result.data.duelId}`);
+            });
+          }}
         >
-          {MODE_INFO.DUEL.label} · yakında
+          {busyKey === "DUEL" && pending
+            ? "Düello hazırlanıyor…"
+            : MODE_INFO.DUEL.label}
         </Button>
       </section>
     </div>

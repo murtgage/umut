@@ -115,9 +115,9 @@ export const MODE_INFO: Record<RunMode, ModeInfo> = {
     id: "DUEL",
     label: "Karşılıklı Düello",
     description:
-      "Gerçek bir rakiple aynı anda yarış. Eşleştirme ve canlı skor yolda.",
-    tag: "yakında",
-    available: false,
+      "Arkadaşına bağlantı gönder, aynı sorularda yarışın. En yüksek puan kazanır.",
+    tag: "rakip çağır",
+    available: true,
   },
 };
 

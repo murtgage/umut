@@ -11,6 +11,7 @@ import {
   startRun,
 } from "@/lib/game";
 import type { AnswerFeedback, RunSummary } from "@/lib/game-types";
+import { createDuel, joinDuel } from "@/lib/duel";
 import {
   requirePlayableSessionOrThrow,
   requireSessionOrThrow,
@@ -40,7 +41,7 @@ function toActionError(error: unknown): string {
 }
 
 const startSchema = z.object({
-  mode: z.enum(["QUICK", "CATEGORY", "DAILY", "REVIEW", "EXAM", "DUEL"]),
+  mode: z.enum(["QUICK", "CATEGORY", "DAILY", "REVIEW", "EXAM"]),
   categoryId: z.string().min(1).nullish(),
   /** EXAM modunda seçilen sınav bölümü (ör. "genel-yetenek"). */
   examType: z.string().min(1).max(60).nullish(),
@@ -75,6 +76,58 @@ export async function startRunAction(input: {
       questionCount: parsed.questionCount ?? undefined,
       difficulty: parsed.difficulty ?? 0,
     });
+
+    revalidatePath("/oyna");
+    return { ok: true, data: { runId } };
+  } catch (error) {
+    return { ok: false, error: toActionError(error) };
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Düello (karşılıklı yarış) — genel startRunAction üzerinden AÇILMAZ; sorular
+// rakiple birebir aynı olmak zorunda olduğundan src/lib/duel.ts üzerinden açılır.
+// ---------------------------------------------------------------------------
+
+const duelStartSchema = z.object({
+  questionCount: z.number().int().min(5).max(30).nullish(),
+  difficulty: z.number().int().min(0).max(3).nullish(),
+});
+
+/** Düello oluşturur ve davet bağlantısı için düello kimliğini döndürür. */
+export async function startDuelAction(input: {
+  questionCount?: number | null;
+  difficulty?: number | null;
+}): Promise<ActionResult<{ duelId: string }>> {
+  try {
+    const { session } = await requirePlayableSessionOrThrow();
+    const parsed = duelStartSchema.parse({
+      questionCount: input.questionCount ?? null,
+      difficulty: input.difficulty ?? null,
+    });
+
+    const { duelId } = await createDuel({
+      userId: session.user.id,
+      questionCount: parsed.questionCount ?? undefined,
+      difficulty: parsed.difficulty ?? 0,
+    });
+
+    revalidatePath("/oyna");
+    return { ok: true, data: { duelId } };
+  } catch (error) {
+    return { ok: false, error: toActionError(error) };
+  }
+}
+
+/** Davet bağlantısıyla düelloya katılır ve kendi turunun kimliğini döndürür. */
+export async function joinDuelAction(input: {
+  duelId: string;
+}): Promise<ActionResult<{ runId: string }>> {
+  try {
+    const { session } = await requirePlayableSessionOrThrow();
+    const duelId = z.string().min(1).parse(input.duelId);
+
+    const { runId } = await joinDuel({ duelId, userId: session.user.id });
 
     revalidatePath("/oyna");
     return { ok: true, data: { runId } };

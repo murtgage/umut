@@ -36,6 +36,8 @@ model User {
   accounts        Account[]
   gameRuns        GameRun[]
   stats           PlayerStats?
+  duelsAsChallenger Duel[] @relation("DuelChallenger")
+  duelsAsOpponent   Duel[] @relation("DuelOpponent")
 
   @@unique([email])
   @@unique([username])
@@ -184,6 +186,29 @@ model GameAnswer {
   @@index([questionId])
   @@index([runId])
   @@map("game_answer")
+}
+
+/// İki oyuncunun birebir aynı soruları çözüp puan kıyasladığı düello.
+/// Sorular davetçinin turundan okunur; rakip aynı soruları aynı sırada oynar.
+model Duel {
+  id              String   @id @default(cuid())
+  challengerId    String
+  challenger      User     @relation("DuelChallenger", fields: [challengerId], references: [id], onDelete: Cascade)
+  opponentId      String?
+  opponent        User?    @relation("DuelOpponent", fields: [opponentId], references: [id], onDelete: Cascade)
+  /// Düelloyu başlatanın turu (soru sırası buradan okunur).
+  challengerRunId String?
+  /// Davetlinin turu (challenger ile aynı sorular).
+  opponentRunId   String?
+  /// OPEN = rakip bekleniyor, JOINED = rakip katıldı, FINISHED = ikisi de bitti.
+  status          String   @default("OPEN")
+  questionCount   Int      @default(10)
+  createdAt       DateTime @default(now())
+  expiresAt       DateTime
+
+  @@index([challengerId])
+  @@index([opponentId])
+  @@map("duel")
 }
 
 /// Genel sıralama için denormalize edilmiş oyuncu istatistikleri.
