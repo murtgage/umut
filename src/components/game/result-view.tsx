@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { startRunFormAction } from "@/app/oyun/actions";
+import { RunRundown } from "@/components/game/run-rundown";
 import { ShareResultButton } from "@/components/game/share-result";
 import { Badge } from "@/components/ui/badge";
 import { Button, buttonVariants } from "@/components/ui/button";
@@ -215,6 +216,8 @@ export function ResultView({
         </Card>
       )}
 
+      {/* Turdaki TÜM soruların dökümü — öğrenmek ve pekiştirmek için */}
+      <RunRundown items={summary.review} />
     </div>
   );
 }

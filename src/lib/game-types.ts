@@ -120,6 +120,23 @@ export interface MissedQuestion {
   explanation: string | null;
 }
 
+/** Sonuç ekranında gösterilen, turdaki her sorunun ayrıntılı özeti. */
+export interface QuestionReviewItem {
+  position: number;
+  text: string;
+  options: { key: OptionKey; text: string }[];
+  correctOption: OptionKey;
+  selectedOption: OptionKey | null;
+  isCorrect: boolean;
+  /** Kullanıcı soruyu hiç cevaplamadıysa false. */
+  answered: boolean;
+  explanation: string | null;
+  /** 1 = kolay, 2 = orta, 3 = zor. */
+  difficulty: number;
+  timeMs: number;
+  points: number;
+}
+
 export interface AnswerFeedback {
   position: number;
   isCorrect: boolean;
@@ -157,6 +174,8 @@ export interface RunSummary {
   isNewBest: boolean;
   grade: { label: string; tone: string };
   missed: MissedQuestion[];
+  /** Turdaki TÜM soruların dökümü (öğrenmek için). */
+  review: QuestionReviewItem[];
 }
 
 /** Tur içinde verilmiş bir cevabın özeti (devam eden turu geri yüklemek için). */

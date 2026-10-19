@@ -14,6 +14,7 @@ import type {
   AnsweredSummary,
   MissedQuestion,
   OptionKey,
+  QuestionReviewItem,
   RunMode,
   RunQuestion,
   RunSummary,
@@ -510,6 +511,10 @@ export async function finishRun({
           question: {
             select: {
               text: true,
+              optionA: true,
+              optionB: true,
+              optionC: true,
+              optionD: true,
               correctOption: true,
               explanation: true,
               difficulty: true,
@@ -628,6 +633,26 @@ export async function finishRun({
       explanation: answer.question.explanation,
     }));
 
+  // Turdaki TÜM soruların dökümü — sonuç ekranında öğrenmek için.
+  const review: QuestionReviewItem[] = run.answers.map((answer) => ({
+    position: answer.position,
+    text: answer.question.text,
+    options: [
+      { key: "A" as const, text: answer.question.optionA },
+      { key: "B" as const, text: answer.question.optionB },
+      { key: "C" as const, text: answer.question.optionC },
+      { key: "D" as const, text: answer.question.optionD },
+    ],
+    correctOption: (asOptionKey(answer.question.correctOption) ?? "A") as OptionKey,
+    selectedOption: asOptionKey(answer.selectedOption),
+    isCorrect: answer.isCorrect,
+    answered: answer.answered,
+    explanation: answer.question.explanation,
+    difficulty: answer.question.difficulty,
+    timeMs: answer.timeMs,
+    points: answer.points,
+  }));
+
   const percent = accuracy(correctCount, run.answers.length);
 
   return {
@@ -650,6 +675,7 @@ export async function finishRun({
     isNewBest,
     grade: gradeFor(percent),
     missed,
+    review,
   };
 }
 
