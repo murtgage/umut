@@ -15478,6 +15478,36 @@
     {
       "categorySlug": "tarih",
       "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 2,
+      "text": "1040 yılında Selçuklular ile Gazneliler arasında yapılan ve Büyük Selçuklu Devleti'nin kurulmasıyla sonuçlanan savaş aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Pasinler",
+        "B": "Malazgirt",
+        "C": "Dandanakan",
+        "D": "Katvan"
+      },
+      "correctOption": "C",
+      "explanation": "Dandanakan Savaşı'nda Gazneli Sultan Mesud'u yenilgiye uğratan Selçuklular, 1040'ta Büyük Selçuklu Devleti'ni kurmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 2,
+      "text": "1055'te Bağdat'a girerek Abbasi halifesini Şii Büveyhoğulları'nın baskısından kurtaran Büyük Selçuklu hükümdarı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tuğrul Bey",
+        "B": "Alp Arslan",
+        "C": "Melikşah",
+        "D": "Sencer"
+      },
+      "correctOption": "A",
+      "explanation": "Tuğrul Bey 1055'te Bağdat'a girerek Abbasi halifesini Büveyhoğulları'nın etkisinden kurtarmış, halife ona Doğu'nun ve Batı'nın hükümdarı unvanını vermiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
       "difficulty": 1,
       "text": "1071 Malazgirt Savaşı'nda Büyük Selçuklu ordusunun başında bulunan hükümdar aşağıdakilerden hangisidir?",
       "options": {
@@ -15507,6 +15537,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 3,
+      "text": "1141 yılında yapılan Katvan Savaşı'nda Büyük Selçuklu Sultanı Sencer'in yenildiği devlet aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Gazneliler",
+        "B": "Harzemşahlar",
+        "C": "Abbasiler",
+        "D": "Karahitaylar"
+      },
+      "correctOption": "D",
+      "explanation": "Katvan Savaşı'nda Sencer, Karahitaylara yenilmiş; bu yenilgi Büyük Selçuklu Devleti'nin dağılma sürecini hızlandırmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
       "difficulty": 1,
       "text": "1176 Miryokefalon Savaşı'nda Türkiye Selçukluları hangi devleti yenilgiye uğratmıştır?",
@@ -15518,6 +15563,36 @@
       },
       "correctOption": "B",
       "explanation": "1176 Miryokefalon Savaşı'nda II. Kılıç Arslan, Bizans ordusunu yenilgiye uğratmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 2,
+      "text": "1230 yılında Anadolu Selçuklu Sultanı I. Alâeddin Keykubad'ın Harzemşahları yenilgiye uğrattığı savaş aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Miryokefalon",
+        "B": "Yassıçemen",
+        "C": "Kösedağ",
+        "D": "Malazgirt"
+      },
+      "correctOption": "B",
+      "explanation": "Yassıçemen Savaşı'nda I. Alâeddin Keykubad, Celaleddin Harzemşah'ı yenerek Anadolu Selçuklu Devleti'nin siyasi üstünlüğünü pekiştirmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 3,
+      "text": "1240 yılında Anadolu Selçuklu Devleti'nde çıkan ve merkezî otoriteyi ciddi biçimde sarsan Baba İshak İsyanı hangi padişah döneminde yaşanmıştır?",
+      "options": {
+        "A": "I. Alâeddin Keykubad",
+        "B": "I. Gıyaseddin Keyhüsrev",
+        "C": "II. Kılıç Arslan",
+        "D": "II. Gıyaseddin Keyhüsrev"
+      },
+      "correctOption": "D",
+      "explanation": "Baba İshak İsyanı, 1240'ta II. Gıyaseddin Keyhüsrev döneminde çıkmış ve Anadolu Selçuklu Devleti'ni sarsmıştır.",
       "source": "özgün"
     },
     {
@@ -15548,6 +15623,36 @@
       },
       "correctOption": "B",
       "explanation": "Kösedağ Savaşı'nda Moğollara yenilen Anadolu Selçuklu Devleti yıkılma sürecine girmiş ve Anadolu Moğol egemenliğine girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "1302 yılında Osman Bey komutasındaki Osmanlı kuvvetlerinin Bizans ordusunu yenerek ilk önemli askerî başarısını kazandığı savaş aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Koyunhisar",
+        "B": "Maltepe",
+        "C": "Sırpsındığı",
+        "D": "Niğbolu"
+      },
+      "correctOption": "A",
+      "explanation": "Koyunhisar (Bapheus) Savaşı, 1302'de Osman Bey ile Bizans kuvvetleri arasında yapılmış ve Osmanlıların ilk önemli zaferi olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "1396 yılında Yıldırım Bayezid'in Haçlı ordusunu yenilgiye uğratarak Balkanlar'daki Osmanlı egemenliğini güçlendirdiği savaş aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Varna",
+        "B": "I. Kosova",
+        "C": "Sırpsındığı",
+        "D": "Niğbolu"
+      },
+      "correctOption": "D",
+      "explanation": "Niğbolu Savaşı'nda Yıldırım Bayezid, Macar Kralı Sigismund'un başında bulunduğu Haçlı ordusunu yenmiş ve Balkanlar'daki otoritesini pekiştirmiştir.",
       "source": "özgün"
     },
     {
@@ -15608,6 +15713,21 @@
       },
       "correctOption": "B",
       "explanation": "Yavuz Sultan Selim, 1517'de Memlûk Devleti'ne son vererek Mısır'ı fethetmiş ve halifelik Osmanlılara geçmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 1,
+      "text": "1522 yılında Rodos'u fethederek Rodos Şövalyeleri'ne son veren Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yavuz Sultan Selim",
+        "B": "Kanuni Sultan Süleyman",
+        "C": "Fatih Sultan Mehmed",
+        "D": "II. Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "Kanuni Sultan Süleyman, 1522'de Rodos'u fethederek Akdeniz'deki Rodos Şövalyeleri'nin varlığına son vermiştir.",
       "source": "özgün"
     },
     {
@@ -15689,6 +15809,36 @@
       "categorySlug": "tarih",
       "topic": "Osmanlı Duraklama ve Gerileme",
       "difficulty": 2,
+      "text": "1711 yılında imzalanan Prut Antlaşması ile Osmanlı Devleti'nin Rusya'dan geri aldığı yer aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kırım",
+        "B": "Belgrad",
+        "C": "Azak",
+        "D": "Özi"
+      },
+      "correctOption": "C",
+      "explanation": "Prut Antlaşması'nda Rusya, Azak Kalesi'ni Osmanlı Devleti'ne geri vermeyi kabul etmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 1,
+      "text": "1727 yılında İbrahim Müteferrika ve Sait Efendi tarafından kurulan ilk Türk matbaası hangi dönemde açılmıştır?",
+      "options": {
+        "A": "Tanzimat Dönemi",
+        "B": "Nizam-ı Cedid Dönemi",
+        "C": "II. Meşrutiyet Dönemi",
+        "D": "Lale Devri"
+      },
+      "correctOption": "D",
+      "explanation": "İlk Türk matbaası, III. Ahmed döneminde yaşanan ve yeniliklerin öne çıktığı Lale Devri'nde açılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 2,
       "text": "1730 Patrona Halil İsyanı sonucunda tahttan indirilen ve Lale Devri'nin sona ermesine yol açan padişah aşağıdakilerden hangisidir?",
       "options": {
         "A": "I. Mahmud",
@@ -15747,6 +15897,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 2,
+      "text": "1807 yılında çıkan Kabakçı Mustafa İsyanı sonucunda tahttan indirilen Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "II. Mahmud",
+        "B": "III. Selim",
+        "C": "I. Abdülhamid",
+        "D": "IV. Mustafa"
+      },
+      "correctOption": "B",
+      "explanation": "Kabakçı Mustafa İsyanı sonucunda III. Selim tahttan indirilmiş, yerine IV. Mustafa geçmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Tanzimat ve Meşrutiyet",
       "difficulty": 3,
       "text": "1808'de ayanlar ile Osmanlı yönetimi arasında imzalanan ve padişahın yetkilerini ilk kez sınırlayan belge aşağıdakilerden hangisidir?",
@@ -15793,6 +15958,21 @@
     {
       "categorySlug": "tarih",
       "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "1881 yılında Osmanlı Devleti'nin dış borçlarını denetlemek ve alacaklılara ödeme yapmak amacıyla kurulan kurum aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Reji İdaresi",
+        "B": "Bank-ı Osmanî",
+        "C": "Düyun-ı Umumiye İdaresi",
+        "D": "Ziraat Bankası"
+      },
+      "correctOption": "C",
+      "explanation": "Düyun-ı Umumiye İdaresi, 1881'de Osmanlı dış borçlarının yönetimi için kurulmuş ve devletin mali bağımsızlığını zedelemiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
       "difficulty": 1,
       "text": "1908'de II. Meşrutiyet'in ilan edilmesinde etkili olan örgüt aşağıdakilerden hangisidir?",
       "options": {
@@ -15803,6 +15983,36 @@
       },
       "correctOption": "D",
       "explanation": "II. Meşrutiyet, İttihat ve Terakki Cemiyeti'nin öncülüğündeki hareket sonucunda 1908'de ilan edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "1909 yılında II. Meşrutiyet rejimine karşı çıkan 31 Mart Olayı'nı bastırmak üzere Selanik'ten İstanbul'a gelen askerî birlik aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Nizam-ı Cedid",
+        "B": "Asakir-i Mansure",
+        "C": "Kuvâ-yı Milliye",
+        "D": "Hareket Ordusu"
+      },
+      "correctOption": "D",
+      "explanation": "31 Mart Olayı, Mahmud Şevket Paşa komutasındaki Hareket Ordusu'nun İstanbul'a gelmesiyle bastırılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "1913 yılında İttihat ve Terakki Cemiyeti'nin hükümeti ele geçirmek amacıyla düzenlediği baskın aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "31 Mart Olayı",
+        "B": "Bâb-ı Âli Baskını",
+        "C": "Halaskâr Zabitan Hareketi",
+        "D": "Çerkez Ethem Ayaklanması"
+      },
+      "correctOption": "B",
+      "explanation": "Bâb-ı Âli Baskını ile İttihat ve Terakki Cemiyeti yönetime fiilen el koymuş ve Mahmud Şevket Paşa sadrazam olmuştur.",
       "source": "özgün"
     },
     {
@@ -15818,6 +16028,21 @@
       },
       "correctOption": "D",
       "explanation": "Tekke, zaviye ve türbelerin kapatılması, din ile toplumsal yaşamın ayrıştırılmasını amaçlayan laiklik ilkesinin uygulamasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "1926 yılında çıkarılan Kabotaj Kanunu ile aşağıdakilerden hangisi gerçekleştirilmiştir?",
+      "options": {
+        "A": "Yabancı gemilerin Boğazlardan geçişi serbest bırakılmıştır.",
+        "B": "Deniz ticaretinde gümrük vergileri kaldırılmıştır.",
+        "C": "Türk karasularında yük ve yolcu taşıma hakkı Türk gemilerine verilmiştir.",
+        "D": "Yabancı şirketlere liman işletme imtiyazı tanınmıştır."
+      },
+      "correctOption": "C",
+      "explanation": "Kabotaj Kanunu, Türk karasularında kabotaj hakkını yalnızca Türk gemilerine tanımış ve deniz ticaretinde ulusal egemenliği güçlendirmiştir.",
       "source": "özgün"
     },
     {
@@ -15972,6 +16197,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "I. Dünya Savaşı",
+      "difficulty": 1,
+      "text": "28 Haziran 1914'te Saraybosna'da düzenlenen suikast sonucu öldürülen Avusturya-Macaristan veliahdı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Arşidük Karl",
+        "B": "Prens Eugen",
+        "C": "General Conrad",
+        "D": "Arşidük Franz Ferdinand"
+      },
+      "correctOption": "D",
+      "explanation": "Saraybosna'da öldürülen Avusturya-Macaristan veliahdı Arşidük Franz Ferdinand'dır; bu suikast I. Dünya Savaşı'nın tetikleyicisi olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Atatürk İlkeleri",
       "difficulty": 2,
       "text": "3 Mart 1924'te halifeliğin kaldırılması, Atatürk ilkelerinden en çok hangisiyle ilişkilidir?",
@@ -16078,6 +16318,21 @@
     {
       "categorySlug": "tarih",
       "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 1,
+      "text": "Anadolu'da esnaf ve zanaatkârlar arasında mesleki dayanışmayı sağlayan Ahilik teşkilatının kurucusu kabul edilen kişi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yunus Emre",
+        "B": "Mevlânâ Celâleddin Rumi",
+        "C": "Ahi Evran",
+        "D": "Hacı Bektaş Veli"
+      },
+      "correctOption": "C",
+      "explanation": "Ahilik teşkilatı, XIII. yüzyılda Kırşehir'de Ahi Evran tarafından kurulmuş; esnaflar arasında dayanışma ve ahlak esaslarını düzenlemiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
       "difficulty": 2,
       "text": "Anadolu'da Türk tasavvuf edebiyatının öncülerinden olan ve şiirlerinde sade bir Türkçe kullanan mutasavvıf şair aşağıdakilerden hangisidir?",
       "options": {
@@ -16134,6 +16389,36 @@
       "correctOption": "A",
       "explanation": "Uygurlar yerleşik hayata geçen ilk Türk topluluğudur; şehirler kurmuş, matbaa ve kâğıdı kullanmışlardır. Diğer seçeneklerdeki özellikler daha önceki Türk topluluklarına aittir.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlkeleri",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi Atatürk ilkelerinin bütünleyici ilkelerinden biridir?",
+      "options": {
+        "A": "Devletçilik",
+        "B": "Millî birlik ve beraberlik",
+        "C": "Laiklik",
+        "D": "Cumhuriyetçilik"
+      },
+      "correctOption": "B",
+      "explanation": "Millî birlik ve beraberlik, Atatürk ilkelerinin uygulanmasını destekleyen bütünleyici ilkeler arasında yer alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 3,
+      "text": "Aşağıdakilerden hangisi II. Mahmud'un merkezî otoriteyi güçlendirmek amacıyla gerçekleştirdiği düzenlemelerden biridir?",
+      "options": {
+        "A": "Divan-ı Hümayun'u kaldırıp nazırlıkları kurması",
+        "B": "Kanûn-ı Esâsî'yi ilan etmesi",
+        "C": "Tanzimat Fermanı'nı yayımlaması",
+        "D": "Sened-i İttifak'ı imzalaması"
+      },
+      "correctOption": "A",
+      "explanation": "II. Mahmud, Divan-ı Hümayun'u kaldırarak yerine nazırlıkları kurmuş ve böylece merkezî yönetimi güçlendirmiştir.",
+      "source": "özgün"
     },
     {
       "categorySlug": "tarih",
@@ -16827,6 +17112,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "I. Dünya Savaşı",
+      "difficulty": 2,
+      "text": "I. Dünya Savaşı'nda Osmanlı ordusunun Irak Cephesi'nde İngiliz kuvvetlerini kuşatarak teslim almasıyla kazanılan Kûtü'l-Amâre zaferi hangi yılda gerçekleşmiştir?",
+      "options": {
+        "A": "1914",
+        "B": "1915",
+        "C": "1916",
+        "D": "1918"
+      },
+      "correctOption": "C",
+      "explanation": "Kûtü'l-Amâre'de General Townshend komutasındaki İngiliz kuvvetleri 1916'da teslim olmuş ve Osmanlı ordusu önemli bir zafer kazanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Çağdaş Türk ve Dünya Tarihi",
       "difficulty": 2,
       "text": "I. Dünya Savaşı'nın sonunda imzalanan ve Almanya'yı ağır koşullara zorlayan antlaşma aşağıdakilerden hangisidir?",
@@ -17022,6 +17322,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 1,
+      "text": "İlk Türk-İslam edebiyatının önemli eserlerinden Divan-ı Hikmet'in yazarı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yusuf Has Hacip",
+        "B": "Ahmed Yesevi",
+        "C": "Kaşgarlı Mahmud",
+        "D": "Edip Ahmet Yükneki"
+      },
+      "correctOption": "B",
+      "explanation": "Divan-ı Hikmet, Ahmed Yesevi'nin tasavvufi görüşlerini yansıtan şiirlerinden oluşan eserdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Osmanlı Yükselme",
       "difficulty": 2,
       "text": "İnebahtı Deniz Savaşı hangi yılda yapılmıştır?",
@@ -17083,6 +17398,21 @@
     {
       "categorySlug": "tarih",
       "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "İslamiyet öncesi Türk devletlerinden hangisi, yönetici kesiminin Museviliği kabul etmesiyle Türk tarihinde bu dini benimseyen tek devlet olarak bilinir?",
+      "options": {
+        "A": "Uygurlar",
+        "B": "Peçenekler",
+        "C": "Kıpçaklar",
+        "D": "Hazarlar"
+      },
+      "correctOption": "D",
+      "explanation": "Hazarlar, VIII-IX. yüzyıllarda yönetici kesiminin Museviliği kabul etmesiyle Türk tarihinde Museviliği benimseyen tek Türk devleti olarak bilinir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
       "difficulty": 1,
       "text": "İslamiyet öncesi Türklerde ölen bir kişinin ardından düzenlenen cenaze törenine ne ad verilir?",
       "options": {
@@ -17123,6 +17453,21 @@
       },
       "correctOption": "A",
       "explanation": "İslamiyet öncesi Türklerde yazılı olmayan ve zamanla oluşan hukuk kurallarına töre denir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 1,
+      "text": "İslamiyet öncesi Türklerde yılların fare, sığır, pars, tavşan gibi hayvan adlarıyla adlandırıldığı takvim aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Hicri takvim",
+        "B": "Celali takvim",
+        "C": "On İki Hayvanlı Türk takvimi",
+        "D": "Rumi takvim"
+      },
+      "correctOption": "C",
+      "explanation": "On İki Hayvanlı Türk takviminde her yıla bir hayvan adı verilmiş ve bu takvim İslamiyet öncesi Türkler tarafından kullanılmıştır.",
       "source": "özgün"
     },
     {
@@ -17318,6 +17663,21 @@
       },
       "correctOption": "B",
       "explanation": "Miryokefalon Savaşı 1176'da yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "Kıpçak Türkçesinin söz varlığını ve günlük konuşma dilini yansıtan, Latin alfabesiyle yazılmış Codex Cumanicus hangi Türk topluluğuyla ilişkilidir?",
+      "options": {
+        "A": "Kıpçaklar",
+        "B": "Peçenekler",
+        "C": "Oğuzlar",
+        "D": "Kırgızlar"
+      },
+      "correctOption": "A",
+      "explanation": "Codex Cumanicus, Kuman yani Kıpçak Türkçesiyle yazılmış bir sözlük ve dua kitabı olup Kıpçakların dil ve kültürünü yansıtır.",
       "source": "özgün"
     },
     {
@@ -18038,6 +18398,21 @@
       },
       "correctOption": "C",
       "explanation": "1533 İstanbul Antlaşması ile Avusturya, Macaristan üzerindeki Osmanlı egemenliğini kabul etmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nin 1535 yılında Fransa'ya kapitülasyonlar tanımasının temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Fransa'yı Habsburglara karşı denge unsuru olarak kullanmak",
+        "B": "İngiltere ile deniz ticaretinde rekabeti artırmak",
+        "C": "Rusya'nın Karadeniz'e inmesini engellemek",
+        "D": "Memlük Devleti'ne karşı ittifak kurmak"
+      },
+      "correctOption": "A",
+      "explanation": "Osmanlı Devleti, Avrupa'da Habsburglara karşı Fransa'yı yanına çekerek güç dengesi oluşturmayı amaçlamıştır.",
       "source": "özgün"
     },
     {
@@ -18987,6 +19362,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi",
+      "difficulty": 2,
+      "text": "Şubat 1923'te toplanan ve 'Siyasi bağımsızlık ekonomik bağımsızlıkla desteklenmelidir' ilkesinin benimsendiği kongre aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sivas Kongresi",
+        "B": "Erzurum Kongresi",
+        "C": "Ankara Sanayi Kongresi",
+        "D": "İzmir İktisat Kongresi"
+      },
+      "correctOption": "D",
+      "explanation": "İzmir İktisat Kongresi'nde ekonomik bağımsızlık hedefi doğrultusunda Misak-ı İktisadi kararları alınmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Osmanlı Modernleşme",
       "difficulty": 2,
       "text": "Tanzimat Fermanı hangi yılda ilan edilmiştir?",
@@ -19028,6 +19418,21 @@
       },
       "correctOption": "D",
       "explanation": "1921 Moskova Antlaşması ile Sovyet Rusya, TBMM Hükümeti'ni tanımıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "TBMM'nin 1920 yılında ayaklanmaları bastırmak ve asker kaçaklarını yargılamak amacıyla kurduğu mahkemeler aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İstiklal Mahkemeleri",
+        "B": "Divan-ı Harp",
+        "C": "Şûra-yı Devlet",
+        "D": "Mahkeme-i Temyiz"
+      },
+      "correctOption": "A",
+      "explanation": "İstiklal Mahkemeleri, 1920'de Hıyanet-i Vataniye Kanunu'na dayanılarak kurulmuş ve ayaklanmalar ile asker kaçaklarının yargılanmasında görev almıştır.",
       "source": "özgün"
     },
     {
@@ -19077,6 +19482,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Temmuz 1921'de Türk ordusunun Sakarya'nın doğusuna çekilmesine ve Mustafa Kemal'e Başkomutanlık yetkisinin verilmesine yol açan gelişme aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "I. İnönü Savaşı",
+        "B": "Kütahya-Eskişehir Muharebeleri",
+        "C": "II. İnönü Savaşı",
+        "D": "Sakarya Meydan Savaşı"
+      },
+      "correctOption": "B",
+      "explanation": "Kütahya-Eskişehir Muharebeleri'nde alınan yenilgi üzerine Türk ordusu Sakarya'nın doğusuna çekilmiş, TBMM Mustafa Kemal'e Başkomutanlık yetkisi vermiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Osmanlı Modernleşme",
       "difficulty": 2,
       "text": "Trablusgarp Savaşı hangi yılda yapılmıştır?",
@@ -19088,6 +19508,21 @@
       },
       "correctOption": "A",
       "explanation": "Trablusgarp Savaşı 1911'de yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "Trablusgarp Savaşı'nı sona erdiren ve Rodos ile On İki Ada'nın geçici olarak İtalya'ya bırakılmasını öngören antlaşma aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Uşi Antlaşması",
+        "B": "Lozan Antlaşması",
+        "C": "Londra Antlaşması",
+        "D": "Bükreş Antlaşması"
+      },
+      "correctOption": "A",
+      "explanation": "Uşi (Ouchy) Antlaşması, 1912'de Trablusgarp Savaşı'nı sona erdirmiş; Rodos ve On İki Ada geçici olarak İtalya'ya bırakılmıştır.",
       "source": "özgün"
     },
     {
@@ -19118,6 +19553,21 @@
       },
       "correctOption": "B",
       "explanation": "Türk Medeni Kanunu 1926'da kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "Türk tarihinde Hristiyanlığı resmî din olarak kabul eden ilk Türk devleti aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Volga Bulgarları",
+        "B": "Tuna Bulgarları",
+        "C": "Hazarlar",
+        "D": "Uygurlar"
+      },
+      "correctOption": "B",
+      "explanation": "Tuna Bulgarları, 864'te Çar Boris döneminde Hristiyanlığı resmî din olarak kabul etmiş ve Hristiyanlığı benimseyen ilk Türk devleti olmuştur.",
       "source": "özgün"
     },
     {
@@ -19557,6 +20007,66 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Akarsuların eğimin azaldığı kesimlerde menderesler çizerek akması, aşağıdakilerden hangisinin sonucudur?",
+      "options": {
+        "A": "Akarsuyun yatak eğiminin azalması ve yanlara doğru aşındırma yapması",
+        "B": "Akarsuyun kaynağının yükselmesi",
+        "C": "Akarsuyun taşıdığı malzemenin tamamen durması",
+        "D": "Akarsuyun debisinin aniden artması"
+      },
+      "correctOption": "A",
+      "explanation": "Eğim azalınca akarsu hızı düşer, derine aşındırma zayıflar ve akarsu yatağını yanlara doğru aşındırarak kıvrımlı (menderesli) bir yol izler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Akarsuların taşıdığı alüvyonların deniz kıyısında birikmesiyle oluşan delta ovalarının tarımsal açıdan verimli olmasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Topraklarının tuzlu olması",
+        "B": "Yükseltilerinin çok fazla olması",
+        "C": "Taşınmış verimli malzemeyle sürekli beslenmeleri",
+        "D": "Yağış miktarının düşük olması"
+      },
+      "correctOption": "C",
+      "explanation": "Delta ovaları akarsuyun taşıyıp biriktirdiği alüvyonlardan oluşur; bu malzeme bitki besin maddelerince zengin ve verimlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Akdeniz iklim bölgesinde makilerin yapraklarının sert, küçük ve genellikle parlak olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yaz kuraklığında terleme yoluyla su kaybını azaltmak",
+        "B": "Kışın kar altında fotosentez yapmak",
+        "C": "Bitkilerin rüzgârla tozlaşmasını önlemek",
+        "D": "Toprağın tuzluluğunu artırmak"
+      },
+      "correctOption": "A",
+      "explanation": "Maki bitkileri, yaz boyunca süren kuraklıkta su kaybını en aza indirmek için sert, küçük ve tüylü yapraklar geliştirmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 3,
+      "text": "Akdeniz iklim bölgesinde yaz kuraklığının belirgin olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yaz aylarında bölgede sürekli kar yağması",
+        "B": "Bölgenin okyanustan çok uzakta bulunması",
+        "C": "Bölgede yaz aylarında rüzgârların denizden karaya esmesi",
+        "D": "Yazın bölgenin alçalıcı hava hareketlerinin görüldüğü yüksek basınç etkisine girmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Yaz aylarında Akdeniz çevresi subtropikal yüksek basınç etkisine girer; havanın alçalması yağış oluşumunu engellediğinden yazlar sıcak ve kurak geçer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "İklim ve Bitki Örtüsü",
       "difficulty": 2,
       "text": "Akdeniz ikliminin doğal bitki örtüsü aşağıdakilerden hangisidir?",
@@ -19613,6 +20123,21 @@
       },
       "correctOption": "A",
       "explanation": "Akdeniz iklimi: yazlar sıcak-kurak, kışlar ılık-yağışlı.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Akdeniz kıyılarında maki, Karadeniz kıyılarında orman ve İç Anadolu'da step bitki örtüsünün görülmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Denize olan uzaklığın her bölgede eşit olması",
+        "B": "Yer altı kaynaklarının farklı olması",
+        "C": "Yağış ve nem koşullarının bölgeden bölgeye değişmesi",
+        "D": "Enlem farkının çok az olması"
+      },
+      "correctOption": "C",
+      "explanation": "Bitki örtüsü temel olarak iklimle, özellikle yağış ve nem koşullarıyla belirlenir; bu koşulların faklılaşması bölgesel bitki örtüsü çeşitliliği yaratır.",
       "source": "özgün"
     },
     {
@@ -19707,6 +20232,81 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 3,
+      "text": "Aynı bölge içinde iki merkezden birinde kış yağışlarının, diğerinde yaz yağışlarının daha fazla olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Merkezlerin farklı bölgelere ait olması",
+        "B": "Farklı basınç ve rüzgâr sistemlerinin etkisinde kalmaları",
+        "C": "Yükseltilerinin aynı olması",
+        "D": "Enlemlerinin aynı olması"
+      },
+      "correctOption": "B",
+      "explanation": "Yağış rejimi büyük ölçüde egemen basınç merkezleri ve rüzgârlarca belirlenir; farklı sistemler farklı mevsimlerde yağış getirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 2,
+      "text": "Aynı şiddetteki bir depremin bir yerleşim yerinde ağır, başka bir yerleşim yerinde daha hafif hasara yol açması aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Depremin yalnızca bir bölgeyi etkileyebilmesiyle",
+        "B": "Yerleşim yerlerinin aynı iklim bölgesinde bulunmasıyla",
+        "C": "Zemin özelliklerinin ve yapıların depreme dayanıklılığının farklı olmasıyla",
+        "D": "Her iki bölgede de fay hattı bulunmamasıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Deprem kaybı yalnızca depremin büyüklüğüne değil, zeminin yapısına, yapıların dayanıklılığına ve odağa uzaklığa göre değişir; bu nedenle hasar farklı olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 2,
+      "text": "Bir afetin oluşumunda doğa olayının yanı sıra zararın büyüklüğünü belirleyen temel etken aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Olayın haberleşme araçlarıyla duyurulması",
+        "B": "Ülkenin yüzölçümünün büyüklüğü",
+        "C": "Olayın yalnızca gece yaşanması",
+        "D": "Olayın meydana geldiği alandaki nüfus ve yapı yoğunluğu"
+      },
+      "correctOption": "D",
+      "explanation": "Aynı şiddetteki bir doğa olayı, insan ve yapı yoğunluğunun az olduğu alanda az zarar verirken yoğun yerleşimlerde büyük afete dönüşür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 2,
+      "text": "Bir akarsuya boşaltılan evsel ve sanayi atıklarının, akarsuyun denize döküldüğü kıyı bölgesinde deniz canlılarını olumsuz etkilemesi, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Deniz canlılarının tatlı suda yaşamasıyla",
+        "B": "Deniz suyunun atıkları zehirsiz hâle getirmesiyle",
+        "C": "Atıkların akarsu boyunca taşınarak kıyıya ulaşmasıyla",
+        "D": "Atıkların yalnızca kaynakta kalmasıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Akarsular kirleticileri kaynaktan denize taşıdığından, akarsu havzasındaki kirlilik denize ulaşarak kıyı ekosistemini ve canlıları etkiler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Bir akarsuyun aşağı çığırına doğru taşıdığı malzemenin boyutunun küçülmesi, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Akarsuyun kaynağının denize yakın olmasıyla",
+        "B": "Akarsu debisinin aşağı çığırda tamamen kurumasıyla",
+        "C": "Akarsuyun taşıma sırasında malzemeyi sürekli aşındırması ve parçalamasıyla",
+        "D": "Aşağı çığırda yağışın artmasıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Akarsu taşıdığı malzemeyi uzun yol boyunca birbirine ve yatağına çarparak ufalayıp yuvarlaklaştırır; bu nedenle çakıl ve kum aşağı çığırda daha küçük boyutlara iner.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Yer Şekilleri",
       "difficulty": 3,
       "text": "Bir akarsuyun hidroelektrik enerji potansiyelinin yüksek olması aşağıdakilerden hangisine bağlıdır?",
@@ -19718,6 +20318,216 @@
       },
       "correctOption": "D",
       "explanation": "Hidroelektrik üretim eğim ve debiyle ilgilidir; eğim arttıkça suyun akış hızı ve enerji potansiyeli büyür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 3,
+      "text": "Bir akarsuyun hidroelektrik enerji potansiyelinin yüksek olması için aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Yatağının geniş ve akış hızının düşük olması",
+        "B": "Havzasında yağışın her mevsim aynı olması",
+        "C": "Akarsuyun eğiminin ve taşıdığı su miktarının fazla olması",
+        "D": "Akarsuyun kapalı bir havzada bulunması"
+      },
+      "correctOption": "C",
+      "explanation": "Hidroelektrik üretimi suyun düşme yüksekliğine (eğim) ve akım miktarına bağlıdır; eğim ile akım arttıkça üretilebilecek enerji de artar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Bir akarsuyun rejiminin düzensiz olması, yani debisinin yıl içinde büyük dalgalanma göstermesi en çok hangi durumda ortaya çıkar?",
+      "options": {
+        "A": "Havzasında kar erimesinin yanında yağışların düzensiz olduğu alanlarda",
+        "B": "Akış yönünde göl geçtiğinde",
+        "C": "Havzanın bitki örtüsü sık olduğunda",
+        "D": "Kaynağını sürekli beslenen karstik kaynaklardan aldığında"
+      },
+      "correctOption": "A",
+      "explanation": "Göl ve kaynak beslenmesi debiyi düzenler; buna karşılık düzensiz yağış ve sınırlı kar birikimi rejimi düzensizleştirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir bölgede nüfusun hızla artması, öncelikle aşağıdakilerden hangisini zorunlu kılar?",
+      "options": {
+        "A": "Konut, eğitim, sağlık ve altyapı hizmetlerine olan talebin artmasını",
+        "B": "Bölgedeki iş olanaklarının kendiliğinden azalmasını",
+        "C": "Tarım alanlarının sınırsız biçimde büyümesini",
+        "D": "Doğal kaynakların tükenmeden çoğalmasını"
+      },
+      "correctOption": "A",
+      "explanation": "Nüfus hızla arttığında barınma, eğitim, sağlık, ulaşım ve iş gibi hizmetlere olan talep de artar; bu hizmetlerin önceden planlanması gerekir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 2,
+      "text": "Bir bölgede sulak alanların kurutulmasının, aşağıdakilerden hangisine yol açması beklenir?",
+      "options": {
+        "A": "Yıllık yağışın artmasına",
+        "B": "Kuş göç yollarının ve biyolojik çeşitliliğin zarar görmesine",
+        "C": "Erozyonun tamamen durmasına",
+        "D": "Yer altı suyunun yükselmesine"
+      },
+      "correctOption": "B",
+      "explanation": "Sulak alanlar çok sayıda canlı için beslenme ve barınma ortamıdır; kurutulması habitat kaybına ve tür çeşitliliğinin azalmasına neden olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Bir bölgede ulaşım ağının geçitlerden (dağ geçitleri, boğazlar) geçmek zorunda kalması, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Ulaşımın her yöne eşit biçimde dağılmasına",
+        "B": "Ulaşım güzergâhlarının belirli hatlarda toplanmasına",
+        "C": "Ulaşım maliyetlerinin sıfırlanmasına",
+        "D": "Bölgede hiç demiryolu yapılamamasına"
+      },
+      "correctOption": "B",
+      "explanation": "Doğal geçitler ulaşım için zorunlu koridorlar oluşturduğundan yollar bu noktalarda düğümlenir ve ağ belirli hatlarda yoğunlaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 3,
+      "text": "Bir bölgeye göç eden nüfusun çoğunlukla erkeklerden ve genç yetişkinlerden oluşması, göç alan yörede aşağıdakilerden hangisine neden olur?",
+      "options": {
+        "A": "Bağımlılık oranının sıfıra inmesine",
+        "B": "Çalışma çağındaki nüfusun ve cinsiyet oranının değişmesine",
+        "C": "Doğum oranının anında düşmesine",
+        "D": "Ortalama yaşam süresinin kısalmasına"
+      },
+      "correctOption": "B",
+      "explanation": "Göç edenlerin çoğunlukla genç ve erkek olması, göç alan yörede çalışma çağı nüfusunu artırır ve kadın-erkek dengesini bozarak cinsiyet yapısını değiştirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Bir dağ yamacı boyunca deniz seviyesinden yükseklere çıkıldıkça sıcaklığın düşmesi ve yağış rejiminin değişmesi, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Enlem etkisiyle",
+        "B": "Denizellik etkisiyle",
+        "C": "Kara ve deniz dağılışıyla",
+        "D": "Yükseltinin etkisiyle"
+      },
+      "correctOption": "D",
+      "explanation": "Yükselti arttıkça hava soğur; aynı zamanda nem yoğuşarak yağış oluşur ve bitki kuşakları değişir. Bu temel etken yükseltidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Bir gölün suyunun tuzlu olmasında aşağıdakilerden hangisi etkili olur?",
+      "options": {
+        "A": "Beslenmenin çok fazla olması",
+        "B": "Gölün kapalı bir havzada yer alıp gideğeninin bulunmaması",
+        "C": "Göl çevresinde kar yağışının fazla olması",
+        "D": "Gölün bir vadiyi setlemesiyle oluşması"
+      },
+      "correctOption": "B",
+      "explanation": "Kapalı havzada suyun buharlaşmasına karşın tuzlar gölde kalır ve birikir; gideğeni olan göller tuzu boşaltır, tatlı kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 3,
+      "text": "Bir kıyı kentinde kışın denizin karaya göre daha ılık olması, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Kışın kar yağışının hiç görülmemesine",
+        "B": "Yıllık yağışın iç kesimlerden az olmasına",
+        "C": "Yaz sıcaklığının iç kesimlerden düşük olmasına",
+        "D": "Kış sıcaklığının aynı enlemdeki iç kesimlere göre daha yüksek olmasına"
+      },
+      "correctOption": "D",
+      "explanation": "Suyun ısıyı depolama ve geç salma özelliği nedeniyle deniz kışın çevresini ılıtır; böylece kıyılar aynı enlemdeki iç kesimlerden daha ılık kışlar yaşar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madencilik",
+      "difficulty": 2,
+      "text": "Bir maden yatağının ekonomik olarak işletilebilmesi için öncelikle aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Rezervin yeterli büyüklükte ve cevher oranının uygun olması",
+        "B": "Yatağın deniz kıyısında bulunması",
+        "C": "Yatağın yerleşim yerlerine çok yakın olması",
+        "D": "Cevherin yüzeyde hiç bulunmaması"
+      },
+      "correctOption": "A",
+      "explanation": "Bir madenin işletilmesi, yatağın yeterli rezerve sahip olmasına, cevher oranının (tenörünün) uygun olmasına ve ulaşım koşullarına bağlıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Bir madenin çıkarıldığı yerde işlenmesi yerine başka bir yöreye taşınarak işlenmesinin başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İşleme tesisinin gereksinim duyduğu enerji, sermaye ve iş gücünün başka yerde bulunması",
+        "B": "Taşımanın her zaman ücretsiz olması",
+        "C": "Madenin işlenmesinin yasak olması",
+        "D": "Madenin çıkarıldığı alanda rezervin bitmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Madenin işlenmesi bol ve ucuz enerji, sermaye ile nitelikli iş gücü gerektirir; bunların bulunduğu sanayi merkezleri tercih edilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Bir merkezde bağıl (nispi) nemin yüksek olmasına karşın yağışın az olması, aşağıdakilerden hangisiyle açıklanabilir?",
+      "options": {
+        "A": "Havanın doymuş olmasıyla",
+        "B": "Havanın yükselip soğuyamamasıyla",
+        "C": "Sıcaklığın çok düşük olmasıyla",
+        "D": "Rüzgârın hiç esmemesiyle"
+      },
+      "correctOption": "B",
+      "explanation": "Yağış için nemli havanın yükselip soğuyarak yoğuşması gerekir; hava yükselmediğinde nem oranı yüksek olsa bile yağış oluşmaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 3,
+      "text": "Bir sanayi kolunun emek yoğun özellik taşıması durumunda, bu tesislerin kuruluş yerinin seçiminde aşağıdakilerden hangisi belirleyici olur?",
+      "options": {
+        "A": "Nüfusun yoğun ve iş gücünün bol-olduğu merkezlerde bulunması",
+        "B": "Enerji üretim tesislerinin tesisin yanında bulunması",
+        "C": "Ham madde kaynağının mutlaka deniz kıyısında olması",
+        "D": "Tesisin kesinlikle kırsal alanda kurulması"
+      },
+      "correctOption": "A",
+      "explanation": "Emek yoğun sanayide üretim maliyetinin büyük bölümü işçilik olduğundan tesisler, iş gücünün bol ve ulaşılabilir olduğu kalabalık merkezlerde yoğunlaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 3,
+      "text": "Bir sanayi tesisinin ham madde kaynağına yakın kurulması ile pazara yakın kurulması arasındaki temel tercih nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Üretim maliyetini düşüren taşıma giderinin azaltılmak istenmesi",
+        "B": "Tesisin devlet tarafından zorunlu kılınması",
+        "C": "İklim koşullarının uygunluğu",
+        "D": "İş gücünün ucuz olması"
+      },
+      "correctOption": "A",
+      "explanation": "Ham maddesi ağır ve hacimli ya da ürünü çabuk bozulan tesisler taşıma giderini azaltmak için kaynağa veya pazara yakın kurulur.",
       "source": "özgün"
     },
     {
@@ -19737,6 +20547,81 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Bir tarım ürününün hasat edildikten sonra kısa sürede bozulabilen (dayanıksız) bir ürün olması, o ürünün yetiştirildiği yöreyle ilgili aşağıdakilerden hangisini zorunlu kılar?",
+      "options": {
+        "A": "Üretim alanlarının tüketim ve pazar merkezlerine yakın olmasını",
+        "B": "Ürünün mutlaka deniz yoluyla taşınmasını",
+        "C": "Üretimin yalnızca kış aylarında yapılmasını",
+        "D": "Üretimin yalnızca yüksek yörelerde yapılmasını"
+      },
+      "correctOption": "A",
+      "explanation": "Çabuk bozulan ürünlerde nakliye süresi maliyeti ve kaybı artırdığından üretim, pazar ve tüketim merkezlerine yakın yerlerde yoğunlaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 3,
+      "text": "Bir toprak örneğinin renginin koyu ve kireç oranının düşük olması, tarımsal verimliliğinin yüksek olması hangi ortamda oluştuğunun göstergesidir?",
+      "options": {
+        "A": "Sürekli buzullarla kaplı alanlarda",
+        "B": "Tuzlu ve kurak kapalı havzalarda",
+        "C": "Bitki örtüsünün gür olduğu, yıkanmanın ölçülü gerçekleştiği alanlarda",
+        "D": "Yeni oluşmuş volkanik arazilerde"
+      },
+      "correctOption": "C",
+      "explanation": "Dengeli yıkanma ve bol bitki artığı, toprağı humusça zenginleştirir; bu topraklar koyu renkli ve verimli olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir ülke nüfus piramidinin tabanının geniş ve tepesinin sivri olması, o ülke için aşağıdakilerden hangisini gösterir?",
+      "options": {
+        "A": "Nüfus artış hızının negatif olduğunu",
+        "B": "Kadın nüfusun erkek nüfustan çok fazla olduğunu",
+        "C": "Doğum oranının yüksek, ortalama yaşam süresinin kısa olduğunu",
+        "D": "Yaşlı nüfus oranının genç nüfustan fazla olduğunu"
+      },
+      "correctOption": "C",
+      "explanation": "Geniş taban yüksek doğum oranını, sivri tepe kısa ortalama yaşam süresini gösterir; bu ülkelerde nüfus genç ve hızlı artar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 3,
+      "text": "Bir ülkede doğal nüfus artış hızı düşerken toplam nüfusun artmaya devam etmesi aşağıdakilerden hangisiyle açıklanabilir?",
+      "options": {
+        "A": "Nüfus artışının doğum-ölüm dengesinin yanı sıra göçlerle de beslenmesiyle",
+        "B": "Doğum oranının yeniden yükselmesiyle",
+        "C": "Ortalama yaşam süresinin kısalmasıyla",
+        "D": "Kadın başına düşen doğum sayısının artmasıyla"
+      },
+      "correctOption": "A",
+      "explanation": "Doğal artış hızı düşse bile ülkeye yönelen göçler toplam nüfusu artırmaya devam ettirebilir; toplam artış doğal artış ile net göçün toplamıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir ülkede doğum oranının hızla düşmesine karşın ortalama yaşam süresinin uzaması, nüfusun yapısı üzerinde hangi değişime yol açar?",
+      "options": {
+        "A": "Çalışan nüfus oranının sınırsız artmasına",
+        "B": "Nüfusun yaşlanmasına ve bağımlılık oranının değişmesine",
+        "C": "Nüfus yoğunluğunun sıfırlanmasına",
+        "D": "Okuma yazma oranının düşmesine"
+      },
+      "correctOption": "B",
+      "explanation": "Doğumların azalıp yaşam süresinin uzaması yaşlı nüfus payını artırır; yaşlı bağımlılık oranı yükselir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Nüfus",
       "difficulty": 2,
       "text": "Bir ülkede nüfusun yaş ve cinsiyet yapısını en iyi yansıtan araç aşağıdakilerden hangisidir?",
@@ -19752,6 +20637,156 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir ülkede toplam nüfusun yüzey şekillerine ve iklime bağlı olarak ülke geneline dengesiz dağılması, öncelikle aşağıdakilerden hangisini gerektirir?",
+      "options": {
+        "A": "Ülke nüfusunun doğum oranıyla hızla azalmasını",
+        "B": "Nüfusun yalnızca kıyılarda toplanmasını",
+        "C": "Tüm bölgelerde sanayinin aynı hızda gelişmesini",
+        "D": "Bölgeler arası yatırım ve hizmet planlamasının farklılaşmasını"
+      },
+      "correctOption": "D",
+      "explanation": "Nüfusun dengesiz dağıldığı ülkelerde plansal yatırım, ulaşım ve kamu hizmetleri bölgelere göre farklı biçimde planlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 2,
+      "text": "Bir ülkeden nitelikli iş gücünün (doktor, mühendis, akademisyen) başka ülkelere göç etmesi, kaynak ülke açısından aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Kişi başına düşen gelirin kesin olarak artmasına",
+        "B": "Doğum oranlarının kısa sürede artmasına",
+        "C": "Nüfus yoğunluğunun ülke genelinde yükselmesine",
+        "D": "Nitelikli iş gücü kaybına ve beşeri sermayenin zayıflamasına"
+      },
+      "correctOption": "D",
+      "explanation": "Eğitimli bireylerin ülkeyi terk etmesi 'beyin göçü' olarak adlandırılır ve kaynak ülkenin yetişmiş insan gücünü, dolayısıyla beşeri sermayesini azaltır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 3,
+      "text": "Bir ülkenin nüfusunun yaşlı sayılabilecek bir yapıya dönüşmesi, o ülke ekonomisi ve kamu hizmetleri açısından öncelikle aşağıdakilerden hangisini gündeme getirir?",
+      "options": {
+        "A": "Okul öncesi eğitime olan talebin artmasını",
+        "B": "Geniş aile tipinin yeniden yaygınlaşmasını",
+        "C": "Sağlık ve sosyal güvenlik harcamalarının artmasını",
+        "D": "Doğum oranlarının kendiliğinden yükselmesini"
+      },
+      "correctOption": "C",
+      "explanation": "Yaşlı nüfus oranının yükselmesi bakım, tedavi ve emeklilik giderlerini artırarak sağlık ile sosyal güvenlik sistemine yük getirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Bir vadinin önünün heyelan, lav akıntısı veya alüvyonla kapanması sonucu oluşan göllere ne ad verilir?",
+      "options": {
+        "A": "Set gölleri",
+        "B": "Buzul gölleri",
+        "C": "Krater gölleri",
+        "D": "Karstik göller"
+      },
+      "correctOption": "A",
+      "explanation": "Doğal engelleme (set) ile suyun birikmesiyle oluşan göllere set gölü denir; oluşum biçimine göre heyelan, lav ve alüvyon seti olabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 2,
+      "text": "Bir yerleşmenin 'kent' sayılabilmesi için yalnızca nüfus büyüklüğünün yeterli olmaması, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Nüfus sayımlarının sık yapılmamasıyla",
+        "B": "Kentin ekonomik ve idari işlevlerinin de belirleyici olmasıyla",
+        "C": "Kır ve kent arasında kesin bir nüfus sınırı bulunmamasıyla",
+        "D": "Kentlerin yalnızca kıyılarda kurulabilmesiyle"
+      },
+      "correctOption": "B",
+      "explanation": "Bir yerleşmenin kent niteliği kazanması, nüfus büyüklüğünün yanında tarım dışı ekonomik etkinlikler, yönetim, hizmet ve altyapı işlevlerinin varlığına bağlıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 3,
+      "text": "Bir yörede konutların yapı malzemesinin orman varlığına, diğer bir yörede ise kolay işlenen toprağa dayanması aşağıdakilerden hangisini gösterir?",
+      "options": {
+        "A": "Yerleşmenin toplu olduğunu",
+        "B": "Konut malzemesinin doğal çevre koşullarına göre biçimlendiğini",
+        "C": "İklimin her yerde aynı olduğunu",
+        "D": "Konutların sanayi ürünü olduğunu"
+      },
+      "correctOption": "B",
+      "explanation": "Ahşap konutlar ormanın, kerpiç konutlar kurak ortamın göstergesidir; yapı malzemesi çevredeki doğal kaynaklardan sağlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir yörede tarımsal nüfus yoğunluğunun (tarım alanı başına düşen insan sayısının) aritmetik nüfus yoğunluğundan çok yüksek çıkması, o yöre için aşağıdakilerden hangisini gösterir?",
+      "options": {
+        "A": "Yörede nüfus artış hızının negatif olduğunu",
+        "B": "Yörede tarım dışı sektörlerin hızla geliştiğini",
+        "C": "Nüfusun büyük bölümünün tarımla geçindiğini ve tarım alanlarının sınırlı olduğunu",
+        "D": "Yörenin yüz ölçümünün küçük olduğunu"
+      },
+      "correctOption": "C",
+      "explanation": "Tarımsal nüfus yoğunluğu yalnızca tarım alanları esas alınarak hesaplandığından, değerin yüksek olması geçimini tarımdan sağlayan kalabalık bir nüfus ile dar tarım alanı birlikteliğini gösterir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Turizm",
+      "difficulty": 2,
+      "text": "Bir yörede turizm faaliyetlerinin yılın yalnızca belirli bir döneminde yoğunlaşması, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Turizmde çalışan iş gücünün mevsimlik olmasına",
+        "B": "Yörede turizm faaliyetinin tamamen durmasına",
+        "C": "Yöredeki konaklama ve hizmet işlerinin yıl boyunca kesintisiz sürmesine",
+        "D": "Turizmin sanayiye dönüşmesine"
+      },
+      "correctOption": "A",
+      "explanation": "Turizmin mevsimlik olması, yöredeki konaklama ve hizmet işlerinin yılın yalnızca bir bölümünde istihdam sağlamasına, dolayısıyla iş gücünün mevsimlik nitelik taşımasına neden olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 3,
+      "text": "Bir yörede yüksek dağların çevresindeki çukurluklarda kalın tortul katmanlar ile kıvrımlı (kıvrım) dağ sıralarının birlikte görülmesi, aşağıdakilerden hangisine işaret eder?",
+      "options": {
+        "A": "Yörede buzullaşmanın etkili olduğuna",
+        "B": "Yörenin karstik aşınım evresinde olduğuna",
+        "C": "Yörenin eskiden deniz tabanı olup yer kabuğu hareketleriyle sıkıştığına",
+        "D": "Yörenin volkanik faaliyetlerle oluştuğuna"
+      },
+      "correctOption": "C",
+      "explanation": "Denizel tortul katmanların kıvrımlanarak yükselmesi, bölgenin bir zamanlar deniz tabanı olduğunu ve orojenik (dağ oluşum) hareketlerle sıkıştığını gösterir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Bir yörenin doğal bitki örtüsünün orman, bozkır ya da çayır olmasını belirleyen temel etmen aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Toprağın rengi",
+        "B": "Yer şekillerinin yaşı",
+        "C": "Nemlilik (yağış) koşulları",
+        "D": "Kayaçların sertliği"
+      },
+      "correctOption": "C",
+      "explanation": "Bitki örtüsünün türünü belirleyen en önemli etmen nemliliktir; nem arttıkça orman, azaldıkça bozkır, yeterli nem bulunan kesimlerde ise çayır görülür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Tarım",
       "difficulty": 2,
       "text": "Buğday tarımının Türkiye'de İç Anadolu'da yaygın olmasının nedeni aşağıdakilerden hangisidir?",
@@ -19763,6 +20798,21 @@
       },
       "correctOption": "D",
       "explanation": "Buğday kuraklığa dayanıklıdır; İç Anadolu'nun yarı kurak karasal koşulları bu ürüne uygundur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 2,
+      "text": "Bulunduğu yerde, bölgenin iklim ve bitki örtüsünün etkisiyle oluşan zonal (yerli) toprakların özelliklerini belirleyen temel etmen aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuların taşıdığı alüvyonlar",
+        "B": "İklim ve bitki örtüsü",
+        "C": "Yer çekimiyle yamaçtan taşınma",
+        "D": "Deniz suyunun etkisi"
+      },
+      "correctOption": "B",
+      "explanation": "Zonal topraklar, bulundukları bölgenin iklim ve bitki örtüsünün etkisiyle yerli olarak oluşur; laterit, çernozyom ve terra rossa bu gruba girer.",
       "source": "özgün"
     },
     {
@@ -19793,6 +20843,21 @@
       },
       "correctOption": "A",
       "explanation": "Çatalhöyük, Konya il sınırları içinde yer alan önemli bir Neolitik yerleşimdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 1,
+      "text": "Doğal afet sonrasında insanların yaşadıkları yerleşmeyi geçici ya da kalıcı olarak terk etmesiyle gerçekleşen göç, aşağıdaki göç nedenlerinden hangisiyle açıklanır?",
+      "options": {
+        "A": "Ekonomik nedenler",
+        "B": "Doğal nedenler",
+        "C": "Dinî nedenler",
+        "D": "Siyasi nedenler"
+      },
+      "correctOption": "B",
+      "explanation": "Deprem, sel, heyelan, kuraklık gibi doğa olaylarının yarattığı zorunlu yer değiştirme, doğal nedenli göç kapsamında değerlendirilir.",
       "source": "özgün"
     },
     {
@@ -20142,6 +21207,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 3,
+      "text": "Eğimi dik olan yamaçlarda toprak örtüsünün genellikle ince olmasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bu alanlarda ana kayanın hiç bulunmaması",
+        "B": "Buralarda bitki örtüsünün çok gür olması",
+        "C": "Aşınma ve yer çekimiyle üst toprağın sürekli taşınması",
+        "D": "Bu alanlarda yağışın hiç görülmemesi"
+      },
+      "correctOption": "C",
+      "explanation": "Dik yamaçlarda bitki örtüsü zayıf olduğundan yağmur ve yer çekimi etkisiyle üst toprak sürekli taşınır; bu nedenle toprak örtüsü ince kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 3,
+      "text": "Eğimli ve bitki örtüsünden yoksun bırakılmış bir yamaçta şiddetli yağıştan sonra hangi iki olayın birlikte görülmesi beklenir?",
+      "options": {
+        "A": "Deprem ve tsunami",
+        "B": "Volkanik patlama ve don",
+        "C": "Çığ ve kuraklık",
+        "D": "Erozyon ve heyelan"
+      },
+      "correctOption": "D",
+      "explanation": "Bitki örtüsü tutuculuğunun kaybolması yüzeysel akışı artırır; toprağın taşınması erozyonu, doygun kütlenin kayması heyelanı doğurur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Hayvancılık",
       "difficulty": 2,
       "text": "Erzurum-Kars yöresinde büyükbaş hayvancılığın gelişmesinde etkili olan temel faktör aşağıdakilerden hangisidir?",
@@ -20153,6 +21248,36 @@
       },
       "correctOption": "C",
       "explanation": "Erzurum-Kars yöresindeki geniş ve gür çayırlar, büyükbaş hayvancılık için uygun beslenme ortamı sağlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 3,
+      "text": "Fay hatları boyunca yer kabuğunun çökmesiyle oluşan çukurluklarda göllerin dizilmesi ve bu alanlarda termal kaynakların bulunması, o yörenin hangi özelliğinin kanıtıdır?",
+      "options": {
+        "A": "Buzul örtüsü altında kaldığının",
+        "B": "Uzun süredir aşınma ile düzleştiğinin",
+        "C": "Genç ve tektonik yönden hareketli bir yapıda olduğunun",
+        "D": "Karstik aşınımın etkili olduğunun"
+      },
+      "correctOption": "C",
+      "explanation": "Faylanma, çöküntü ovaları ve kaplıca suları, yerin altındaki ısı ve hareketliliğin yani tektonik faaliyetin göstergesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Enerji",
+      "difficulty": 3,
+      "text": "Fosil yakıt kullanan termik santrallerin atmosfere bıraktığı karbondioksit, aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
+      "options": {
+        "A": "Ozon tabakasının kalınlaşmasıyla",
+        "B": "Sera etkisinin güçlenmesiyle",
+        "C": "Asit yağmurlarının azalmasıyla",
+        "D": "Yer altı su seviyesinin yükselmesiyle"
+      },
+      "correctOption": "B",
+      "explanation": "Karbondioksit başlıca sera gazlarından biridir; atmosferdeki miktarının artması ısının tutulmasını güçlendirerek sera etkisini ve küresel ısınmayı besler.",
       "source": "özgün"
     },
     {
@@ -20277,6 +21402,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "İç Anadolu'da ormanların yalnızca dağların yüksek kesimlerinde tutunabilmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yükselti arttıkça yağışın artması ve buharlaşmanın azalması",
+        "B": "Yüksek kesimlerde sıcaklığın sürekli yüksek olması",
+        "C": "Yüksek kesimlerde toprakların tuzlu olması",
+        "D": "Alçak kesimlerde kar yağışının görülmemesi"
+      },
+      "correctOption": "A",
+      "explanation": "İç Anadolu'da alçak kesimler kurak olduğu için ağaç yetişemez; yüksek kesimlerde yağış artıp buharlaşma azaldığından ormanlar burada tutunabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Göç",
       "difficulty": 2,
       "text": "İç göçte 'itici' (itme) faktörü olarak aşağıdakilerden hangisi öne çıkar?",
@@ -20348,6 +21488,66 @@
       },
       "correctOption": "B",
       "explanation": "Bu yörelerde yer altı sıcak su kaynaklarına imkân veren fay hatları ve volkanik etkinlik bulunduğundan jeotermal potansiyel yüksektir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Kalker gibi eriyebilen kayaçların bulunduğu alanlarda, yer altı sularının kayacı eritmesiyle oluşan çukurluklarda biriken suların meydana getirdiği göllere ne ad verilir?",
+      "options": {
+        "A": "Karstik göl",
+        "B": "Tektonik göl",
+        "C": "Buzul gölü",
+        "D": "Volkanik göl"
+      },
+      "correctOption": "A",
+      "explanation": "Kalkerli arazilerde erime sonucu oluşan çukurluklarda biriken sular karstik gölleri oluşturur; bu göller genellikle küçük ve düzensiz biçimlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Kalkerli arazilerde yer altına sızan suların oluşturduğu şekiller bir yörede yaygın biçimde görülüyorsa, bu yöre için aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Toprak örtüsü çok kalındır ve geçirimli değildir",
+        "B": "Yüzeydeki akarsu ağı seyrektir ve yer altı drenajı gelişmiştir",
+        "C": "Volkanik faaliyetler sürmektedir",
+        "D": "Buzul aşındırması etkilidir"
+      },
+      "correctOption": "B",
+      "explanation": "Kalker geçirimli olduğundan su yer altına iner; yüzey akarsuları azalır, mağara, obruk ve düden gibi karstik şekiller oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Kapadokya yöresinde peribacalarının oluşumunda aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Buzulların yüzeyi sıyırarak geniş çukurlar açmasının",
+        "B": "Deniz dalgalarının kıyıyı sürekli oymasının",
+        "C": "Volkanik tüf örtüsünün akarsu ve rüzgârla farklı dirençte aşınmasının",
+        "D": "Yer altı sularının kalkeri eriterek boşluklar oluşturmasının"
+      },
+      "correctOption": "C",
+      "explanation": "Peribacaları, volkanik tüfler ile bunların üzerindeki daha sert katmanların akarsu ve rüzgâr tarafından farklı hızda aşındırılması; üstteki sert şapkanın alttaki yumuşak tüfü korumasıyla oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Kar erimeleriyle beslenen bir akarsuyun akım miktarının en yüksek düzeye ulaştığı dönem aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kış sonu",
+        "B": "İlkbaharın sonu ve yazın başı",
+        "C": "Yaz sonu",
+        "D": "Sonbahar ortası"
+      },
+      "correctOption": "B",
+      "explanation": "Kar erimeleri ilkbaharın sonu ile yaz başında en fazla olduğundan, kar sularıyla beslenen akarsuların akımı bu dönemde en yüksek düzeye ulaşır.",
       "source": "özgün"
     },
     {
@@ -20442,6 +21642,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 2,
+      "text": "Kır yerleşmelerinden bazılarının sürekli, bazılarının geçici olmasını belirleyen temel etken aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ekonomik etkinliğin mevsimlik olup olmaması",
+        "B": "Yerleşmenin il merkezine uzaklığı",
+        "C": "Binaların yapı malzemesi",
+        "D": "Yerleşmenin deniz kıyısında bulunması"
+      },
+      "correctOption": "A",
+      "explanation": "Yayla, oba, mezra gibi geçici yerleşmeler mevsimlik faaliyetlere (otlatma, ekim) bağlıdır; faaliyet sürekli ise yerleşme kalıcılaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Konya Kapalı Havzası'ndaki akarsuların denize ulaşamamasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuların tamamen yapay kanallarla yönlendirilmesi",
+        "B": "Havzadaki akarsuların çok uzun olması",
+        "C": "Havzanın denize göre yüksek olması ve etrafının dağlarla çevrili olması",
+        "D": "Havzada yeterli yağış bulunmamasından akarsuyun kuruması"
+      },
+      "correctOption": "C",
+      "explanation": "Kapalı havzalarda yer şekilleri denize ulaşmayı engeller; Konya Kapalı Havzası çevresi dağlarla çevrili ve iç kesimde yer aldığı için akarsular denize ulaşamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Dünya Coğrafyası",
       "difficulty": 2,
       "text": "Körfez Akıntısı (Gulf Stream) aşağıdakilerden hangisi üzerinde ılımanlaştırıcı etki yapar?",
@@ -20468,6 +21698,21 @@
       },
       "correctOption": "D",
       "explanation": "Kahverengi step toprakları, İç Anadolu gibi yarı kurak bölgelerde oluşur ve üzerinde bozkır bitki örtüsü gelişir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Kümes hayvancılığının (tavukçuluk) büyük kentlerin çevresinde ve modern kapalı tesislerde gelişmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kentlerde hayvanların otlatılabileceği geniş meraların bulunması",
+        "B": "Ürünlerin taze olarak pazara kısa sürede ulaştırılabilmesi ve talebin yoğun olması",
+        "C": "Kümes hayvanlarının çok uzun mesafe yürütülmesi gerekliliği",
+        "D": "Kapalı tesislerde üretimin tamamen durdurulması"
+      },
+      "correctOption": "B",
+      "explanation": "Tavuk ve yumurta çabuk bozulabilen ürünler olduğundan üretim, talebin yoğun olduğu kentlerin çevresinde kurulan modern tesislerde yapılır.",
       "source": "özgün"
     },
     {
@@ -20532,6 +21777,66 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Enerji",
+      "difficulty": 2,
+      "text": "Rüzgâr enerjisi üretiminde türbinlerin, sürekli ve düzenli rüzgâr alan açık alanlara kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Türbinlerin yerleşim alanlarına mutlaka yakın olması gerektiği",
+        "B": "Elektrik üretiminin rüzgârın sürekliliğine ve hızına bağlı olması",
+        "C": "Türbinlerin yalnızca deniz kenarında çalışabilmesi",
+        "D": "Rüzgâr hızının düzensiz olduğu yerlerde maliyetin düşmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Bir rüzgâr türbininin ürettiği enerji rüzgâr hızının küpüyle orantılıdır; bu nedenle türbinler sürekli, düzenli ve yeterli hızda rüzgâr alan alanlara kurulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Rüzgârın sürekli olarak yüksek basınç alanından alçak basınç alanına doğru esmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İki alan arasındaki basınç farkı",
+        "B": "Yer çekiminin hava kütlesini sürekli aşağı doğru çekmesi",
+        "C": "Havanın her iki alanda da aynı sıcaklıkta olması",
+        "D": "Her iki alandaki nem oranının eşit olması"
+      },
+      "correctOption": "A",
+      "explanation": "Rüzgâr, basıncın yüksek olduğu alandan alçak olduğu alana doğru hareket eden hava akımıdır; bu hareketi doğuran temel etken iki alan arasındaki basınç farkıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 2,
+      "text": "Sanayi tesisleri ile fosil yakıtlardan atmosfere salınan kükürt dioksit ve azot oksitlerin su buharıyla birleşmesi, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Ozon tabakasının kalınlaşmasına",
+        "B": "Sera etkisinin tamamen ortadan kalkmasına",
+        "C": "Asit yağmurlarının oluşmasına",
+        "D": "Yer altı su seviyesinin yükselmesine"
+      },
+      "correctOption": "C",
+      "explanation": "Kükürt dioksit ve azot oksitler atmosferdeki su buharıyla birleşerek sülfürik ve nitrik asitleri oluşturur; bu asitler yağışla yeryüzüne inerek asit yağmurlarına neden olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 2,
+      "text": "Sanayi tesislerinin organize sanayi bölgelerinde bir arada yer seçmesinin sağladığı temel avantaj aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Her tesisin kendi enerji santralini kurmak zorunda kalması",
+        "B": "Üretilen ürünlerin pazara ulaştırılmasının yasaklanması",
+        "C": "İş gücünün bölgeye gelmesinin engellenmesi",
+        "D": "Ortak altyapı, ulaşım ve yan sanayi olanaklarından yararlanılması"
+      },
+      "correctOption": "D",
+      "explanation": "Organize sanayi bölgelerinde tesisler yol, enerji, su ve arıtma gibi ortak altyapıyı paylaşır; ayrıca birbirine ham madde sağlayan yan sanayi ilişkileri kurulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Yer Şekilleri",
       "difficulty": 3,
       "text": "Seyhan ve Ceyhan nehirlerinin oluşturduğu, Türkiye'nin en büyük delta ovası aşağıdakilerden hangisidir?",
@@ -20577,6 +21882,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 2,
+      "text": "Sürekli nemli ve sıcak bir iklimde, yıkanmanın şiddetli olması topraklar bakımından hangi sonucu doğurur?",
+      "options": {
+        "A": "Toprağın humus bakımından çok zenginleşmesi",
+        "B": "Demir ve alüminyum oksitlerinin birikmesiyle kırmızı, verimsiz toprakların oluşması",
+        "C": "Tuz birikiminin artması",
+        "D": "Toprağın kireç bakımından zenginleşmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Aşırı yıkanma ile besin maddeleri ve humus taşınır; geride demir-alüminyum oksitleri kalır ve laterit benzeri kırmızı topraklar oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 2,
+      "text": "Şeker fabrikalarının genellikle şeker pancarı üretim alanlarına yakın kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Şeker pancarının çabuk bozulması ve ağırlığının işlenme sırasında azalması",
+        "B": "Fabrikaların deniz kıyısında bulunmasının zorunlu olması",
+        "C": "Şekerin yalnızca soğuk bölgelerde üretilebilmesi",
+        "D": "Pancarın taşınmasının hiç maliyet gerektirmemesi"
+      },
+      "correctOption": "A",
+      "explanation": "Şeker pancarı çabuk bozulan ve ağırlığının büyük bölümünü işlenme sırasında kaybeden bir ham madde olduğundan fabrikalar üretim alanlarına yakın kurulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Ulaşım",
       "difficulty": 2,
       "text": "Taşınan yük miktarı bakımından Türkiye'nin dış ticaretinde en büyük pay hangi ulaşım yoluna aittir?",
@@ -20588,6 +21923,36 @@
       },
       "correctOption": "A",
       "explanation": "Dış ticarette taşınan yükün büyük bölümü, maliyetinin düşük olması nedeniyle denizyoluyla gerçekleştirilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 3,
+      "text": "Toplu yerleşmelerin su kaynağının bulunduğu tek bir nokta çevresinde, dağınık yerleşmelerin ise bol ve yaygın su kaynaklarının olduğu alanlarda görülmesi, aşağıdakilerden hangisinin yerleşme dokusunu belirlediğini gösterir?",
+      "options": {
+        "A": "Ortalama sıcaklığın",
+        "B": "Ulaşım ağının yoğunluğunun",
+        "C": "Sanayi tesislerinin konumunun",
+        "D": "Su kaynaklarının dağılışının"
+      },
+      "correctOption": "D",
+      "explanation": "Su kaynağının tek noktada toplandığı yerlerde evler o kaynak çevresinde kümelenir; kaynakların yaygın olduğu yerlerde ise her aile kendi suyuna yakın ayrı bir noktaya yerleşerek dağınık dokuyu oluşturur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 2,
+      "text": "Toprağın üst katmanında bulunan humusun oluşması aşağıdakilerden hangisinin sonucudur?",
+      "options": {
+        "A": "Ana kayanın yüksek sıcaklıkta erimesinin",
+        "B": "Akarsuların toprağı taşımasının",
+        "C": "Yağış sularının toprağı yıkamasının",
+        "D": "Bitki ve hayvan kalıntılarının ayrışmasının"
+      },
+      "correctOption": "D",
+      "explanation": "Humus, toprağa karışan bitki ve hayvan kalıntılarının mikroorganizmalarca ayrışmasıyla oluşur ve toprağın verimliliğini artırır.",
       "source": "özgün"
     },
     {
@@ -20633,6 +21998,21 @@
       },
       "correctOption": "A",
       "explanation": "Türkiye Asya ve Avrupa kıtaları üzerinde yer alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Türkiye kıyılarında dalga birikimiyle oluşan kıyı oklarının (kumsalların) geniş alan kaplaması, aşağıdakilerden hangisinin sonucudur?",
+      "options": {
+        "A": "Deniz suyunun çok tuzlu olmasının",
+        "B": "Yer altı sularının denize karışmasının",
+        "C": "Akarsuların taşıdığı alüvyonun kıyıda birikmesinin",
+        "D": "Kıyıların sürekli dik falezler halinde olmasının"
+      },
+      "correctOption": "C",
+      "explanation": "Akarsuların denize ulaştırdığı alüvyon dalga ve akıntılarla kıyı boyunca taşınarak birikir ve geniş kumul/kıyı oku alanları oluşturur.",
       "source": "özgün"
     },
     {
@@ -20727,6 +22107,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Türkiye'de Akşehir, Marmara ve Eğirdir gibi göllerin son yıllarda alan kaybederek kuruma tehlikesiyle karşılaşmasının başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Göllere aşırı miktarda balık bırakılması",
+        "B": "Beslenme havzasındaki yağışların azalması ve sulamada göl sularının aşırı kullanılması",
+        "C": "Göl tabanında volkanik püskürmelerin olması",
+        "D": "Göllerin deniz seviyesinden çok yüksekte bulunması"
+      },
+      "correctOption": "B",
+      "explanation": "Kuraklık ve azalan beslenmenin yanı sıra tarımsal sulamada göl ve yer altı suyunun aşırı kullanımı, göllerin alan kaybetmesine yol açar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Madencilik",
       "difficulty": 1,
       "text": "Türkiye'de alüminyum üretiminde kullanılan boksit madeninin çıkarıldığı yöre aşağıdakilerden hangisidir?",
@@ -20742,6 +22137,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Türkiye'de arıcılığın (bal üretiminin) gelişebilmesi için aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Zengin bir doğal bitki örtüsü (flora) çeşitliliği ve uygun iklim koşulları",
+        "B": "Geniş ve tuzlu göllerin bulunması",
+        "C": "Yıl boyunca kar altında kalan otlaklar",
+        "D": "Tek tip bitki örtüsünün yaygın olması"
+      },
+      "correctOption": "A",
+      "explanation": "Arıların bal yapabilmesi için farklı dönemlerde çiçek açan zengin bir bitki örtüsüne ve arının uçuş yapabildiği uygun sıcaklıklara ihtiyaç vardır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Nüfus",
       "difficulty": 3,
       "text": "Türkiye'de aritmetik nüfus yoğunluğunun hesaplanmasında aşağıdakilerden hangisi kullanılır?",
@@ -20753,6 +22163,21 @@
       },
       "correctOption": "A",
       "explanation": "Aritmetik nüfus yoğunluğu, toplam nüfusun toplam yüz ölçüme bölünmesiyle bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'de aynı enlemde bulunmalarına karşın Doğu Anadolu'nun İç Anadolu'dan daha soğuk olması, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Doğu Anadolu'da enlem değerinin daha küçük olmasıyla",
+        "B": "Doğu Anadolu'nun ortalama yükseltisinin daha fazla olmasıyla",
+        "C": "Doğu Anadolu'nun denize daha yakın olmasıyla",
+        "D": "Doğu Anadolu'da orman örtüsünün daha gür olmasıyla"
+      },
+      "correctOption": "B",
+      "explanation": "Sıcaklık yükseltiyle azalır; Doğu Anadolu'nun ortalama yükseltisinin İç Anadolu'dan belirgin biçimde fazla olması aynı enlemde daha düşük sıcaklıklara yol açar.",
       "source": "özgün"
     },
     {
@@ -20788,6 +22213,21 @@
     {
       "categorySlug": "cografya",
       "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'de bir dağın güney yamacının kuzey yamacına göre daha sıcak olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Güney yamacın güneş ışınlarını daha dik alması (bakı etkisi)",
+        "B": "Kuzey yamacın daha alçak olması",
+        "C": "Kuzey yamacın denize daha yakın olması",
+        "D": "Güney yamacın yağıştan daha az etkilenmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Bakı etkisiyle güneşe dönük (güney) yamaçlar ışınları daha dik aldığı için daha çok ısınır; kuzey yamaçlar daha serin kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
       "difficulty": 3,
       "text": "Türkiye'de bir yerin gerçek sıcaklığı ile indirgenmiş sıcaklığı arasındaki farkın büyük olması aşağıdakilerden hangisiyle açıklanır?",
       "options": {
@@ -20813,6 +22253,21 @@
       },
       "correctOption": "D",
       "explanation": "Bor yatakları Eskişehir (Kırka), Kütahya (Emet) ve Balıkesir (Bigadiç) çevresinde yoğunlaşmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 2,
+      "text": "Türkiye'de büyük kentlerde hava kirliliğinin kış aylarında artmasında aşağıdakilerden hangisi daha çok etkilidir?",
+      "options": {
+        "A": "Kışın kentlerde nüfusun azalması",
+        "B": "Kırsal alanlarda sanayinin gelişmesi",
+        "C": "Isınma amacıyla kullanılan yakıtların ve trafiğin yoğunlaşması",
+        "D": "Kentlerdeki yeşil alanların artması"
+      },
+      "correctOption": "C",
+      "explanation": "Kışın ısınma için yakılan fosil yakıtlar ve yoğun trafik, kentlerde havaya karışan kirleticileri artırarak hava kirliliğini yükseltir.",
       "source": "özgün"
     },
     {
@@ -20903,6 +22358,21 @@
       },
       "correctOption": "C",
       "explanation": "Yüksek ve engebeli arazisi ile uzun süre karla kaplı kalan Doğu Anadolu, çığ olaylarının en çok görüldüğü bölgedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madencilik",
+      "difficulty": 2,
+      "text": "Türkiye'de çıkarılan madenlerin önemli bir bölümünün işlenmeden ham olarak ihraç edilmesinin başlıca olumsuz sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Maden yataklarının daha hızlı tükenmesinin engellenmesi",
+        "B": "Ülkenin maden ihracatının tamamen durması",
+        "C": "Maden fiyatlarının dünyada yükselmesi",
+        "D": "Ürünün katma değerinin düşük kalması ve işlenmiş ürün ithalatına bağımlılık"
+      },
+      "correctOption": "D",
+      "explanation": "Ham maden işlenmeden satıldığında elde edilen gelir düşük olur; işlenmiş ürünler dışarıdan alındığında ise ülke katma değer kaybeder.",
       "source": "özgün"
     },
     {
@@ -21374,6 +22844,21 @@
       "categorySlug": "cografya",
       "topic": "Ulaşım",
       "difficulty": 3,
+      "text": "Türkiye'de karayolu taşımacılığında taşıma mesafesi uzadıkça birim maliyetin demiryoluna göre daha hızlı artması, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Demiryolunun yalnızca kısa mesafelerde kullanılmasıyla",
+        "B": "Karayolu araçlarının hiç yakıt kullanmamasıyla",
+        "C": "Karayolunda taşıma kapasitesinin çok yüksek olmasıyla",
+        "D": "Bir kamyonun taşıdığı yükün bir tren vagonundan çok az olmasıyla"
+      },
+      "correctOption": "D",
+      "explanation": "Bir kamyonun taşıma kapasitesi bir tren vagonundan çok daha düşük olduğundan uzun mesafelerde ton başına yakıt ve işçilik maliyeti demiryoluna göre hızla yükselir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 3,
       "text": "Türkiye'de karayolu ulaşımının en fazla tercih edilmesinin temel nedeni aşağıdakilerden hangisidir?",
       "options": {
         "A": "En güvenli ulaşım yolu olması",
@@ -21492,6 +22977,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Türkiye'de küçükbaş hayvancılığın (koyun ve keçi) yaygın olarak yapılabilmesinde etkili olan temel faktör aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yıl boyunca ahırda tutulmalarının zorunlu olması",
+        "B": "Yalnızca sulu tarım alanlarında beslenebilmeleri",
+        "C": "Farklı iklim ve yer şekillerine uyum sağlayabilmeleri",
+        "D": "Yem bitkisi üretiminin sınırlı olması"
+      },
+      "correctOption": "C",
+      "explanation": "Koyun ve keçi değişik iklim ve yer şekillerine uyum sağlayabildiği için bozkır ve dağlık alanlarda da küçükbaş hayvancılık yaygındır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Hayvancılık",
       "difficulty": 2,
       "text": "Türkiye'de küçükbaş hayvancılığın İç Anadolu ve Güneydoğu Anadolu'da yaygın olmasını sağlayan özellik aşağıdakilerden hangisidir?",
@@ -21533,6 +23033,21 @@
       },
       "correctOption": "C",
       "explanation": "Tarihi ve kültürel mirasıyla İstanbul ve doğal-kültürel dokusuyla Kapadokya, kültür turizminin en önemli merkezleridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Türkiye'de limanların büyük bölümünün kıyıdaki doğal körfez ve koylar çevresinde kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Körfezlerde suyun her zaman tatlı olması",
+        "B": "Bu alanlarda nüfusun hiç bulunmaması",
+        "C": "Körfezlerin karayolu bağlantısını engellemesi",
+        "D": "Buraların dalga ve rüzgârlardan korunaklı olması ve gelişmiş bir art bölgeye sahip bulunması"
+      },
+      "correctOption": "D",
+      "explanation": "Doğal koylar gemiler için korunaklı barınak sağlar; ayrıca bu alanların gerisindeki üretim ve tüketim bölgeleri limanların gelişmesini sağlar.",
       "source": "özgün"
     },
     {
@@ -21582,6 +23097,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'de Marmara Bölgesi'nde görülen iklimin, Akdeniz ve Karadeniz iklimleri arasında bir geçiş özelliği taşımasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bölgede hiç yağış görülmemesi",
+        "B": "En yüksek dağların bu bölgede bulunması",
+        "C": "Bölgenin bir kapalı havza olması",
+        "D": "Ülkenin kuzeybatısında, iki iklim bölgesi arasında yer alması"
+      },
+      "correctOption": "D",
+      "explanation": "Marmara, Akdeniz iklim bölgesi ile Karadeniz iklim bölgesi arasında geçiş alanında yer aldığından her iki iklimin özelliklerini taşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Türkiye'de mera (otlak) hayvancılığının yerini giderek ahır ve besi hayvancılığının almasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ahır hayvancılığında hayvan sayısının hiç artmaması",
+        "B": "Mera alanlarının her yıl genişlemesi",
+        "C": "Mera hayvancılığının daha az emek gerektirmesi",
+        "D": "Meraların aşırı otlatma ve amaç dışı kullanımla daralması ve verimlerinin düşmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Meraların azalması ve aşırı otlatmayla verimlerinin düşmesi, üretimini artırmak isteyen üreticileri yemle beslenen ahır ve besi hayvancılığına yöneltmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Tarım",
       "difficulty": 2,
       "text": "Türkiye'de muz üretiminin yalnızca Akdeniz kıyılarının belirli kesimlerinde yapılabilmesinin nedeni aşağıdakilerden hangisidir?",
@@ -21608,6 +23153,21 @@
       },
       "correctOption": "D",
       "explanation": "Kurak bölgelerde toprakta su biriktirmek amacıyla tarla bir yıl boş bırakılır; nadasın nedeni yağış yetersizliğidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 3,
+      "text": "Türkiye'de nüfus artış hızının 1960'lı yıllardan itibaren yavaşlamasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Kırsal nüfusun ve doğurganlığın sürekli artması",
+        "B": "Kentleşmenin hızlanması, eğitim düzeyinin yükselmesi ve kadının iş gücüne katılımının artması",
+        "C": "Ortalama yaşam süresinin kısalması",
+        "D": "Sağlık hizmetlerinin tamamen ortadan kalkması"
+      },
+      "correctOption": "B",
+      "explanation": "Kentleşme, eğitim süresinin uzaması, kadının iş hayatına girmesi ve aile planlaması hizmetlerinin yaygınlaşması doğum oranını düşürerek nüfus artış hızını azaltmıştır.",
       "source": "özgün"
     },
     {
@@ -21717,6 +23277,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Türkiye'de ormanların kıyıdan iç kesimlere doğru azalmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İç kesimlerde yükseltinin sıfıra yakın olması",
+        "B": "Kıyı kesimlerinde toprağın verimsiz olması",
+        "C": "İç kesimlerde sıcaklığın daha yüksek olması",
+        "D": "İç kesimlerde yağışın ve nemin azalması"
+      },
+      "correctOption": "D",
+      "explanation": "Orman oluşumu için yeterli yağış ve nem gerekir; bu koşullar kıyıdan iç kesimlere gidildikçe azaldığı için orman örtüsü seyrelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Türkiye'de ortalama yükseltinin batıdan doğuya doğru artmasının doğal bir sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Batıya gidildikçe kar yağışının artması",
+        "B": "Doğuya gidildikçe tarım ürünlerinin olgunlaşma süresinin uzaması",
+        "C": "Doğuya gidildikçe kış mevsiminin kısalması",
+        "D": "Batıda yer altı suyunun azalması"
+      },
+      "correctOption": "B",
+      "explanation": "Yükselti arttıkça sıcaklık düştüğü için doğuda tarım ürünlerinin olgunlaşması gecikir ve süre uzar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Sanayi",
       "difficulty": 1,
       "text": "Türkiye'de otomotiv sanayisinin yoğunlaştığı merkezler aşağıdakilerden hangisidir?",
@@ -21807,6 +23397,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 3,
+      "text": "Türkiye'de sanayi tesislerinin büyük bölümünün Marmara Bölgesi'nde toplanmasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Bölgenin ülkenin en az yağış alan yeri olması",
+        "B": "Bölgede ham madde kaynaklarının hiç bulunmaması",
+        "C": "Pazara ve limanlara yakınlık ile sermaye, ulaşım ve iş gücü birikiminin bulunması",
+        "D": "Bölgenin yüzey şekillerinin çok engebeli olması"
+      },
+      "correctOption": "C",
+      "explanation": "Marmara Bölgesi büyük tüketim pazarlarına, limanlara ve gelişmiş ulaşım ağlarına sahip olduğundan sermaye ile nitelikli iş gücünü de kendine çekmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Çevre Sorunları",
       "difficulty": 3,
       "text": "Türkiye'de sanayi ve yerleşmenin yoğun olduğu kıyı kentlerinde deniz kirliliğinin artmasının başlıca nedeni aşağıdakilerden hangisidir?",
@@ -21833,6 +23438,36 @@
       },
       "correctOption": "B",
       "explanation": "Karadeniz'de yağışın fazla, akarsu yataklarının dar ve arazinin eğimli olması sel riskini artırır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 2,
+      "text": "Türkiye'de sel ve taşkınların yerleşim yerlerinde can ve mal kaybına yol açmasının başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsu yataklarının sürekli temizlenmesi",
+        "B": "Yerleşim yerlerinin akarsu kaynaklarına çok uzak kurulması",
+        "C": "Yağışların her zaman kar biçiminde düşmesi",
+        "D": "Dere yataklarının yerleşime açılması ve geçirimsiz yüzeylerin artması"
+      },
+      "correctOption": "D",
+      "explanation": "Dere yatakları yapılaşmaya açıldığında sağanak yağışlarda yükselen sular yerleşim alanlarına taşar; betonlaşma da suyun toprağa sızmasını azaltarak taşkını büyütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Türkiye'de sulanabilen alanların genişlemesinin tarım üzerindeki en belirgin etkisi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarımsal ürün çeşidinin azalması",
+        "B": "Kuru tarım alanlarının tümüyle ortadan kalkması",
+        "C": "Tarımda makine kullanımının tamamen bırakılması",
+        "D": "Nadasa bırakılan alanların azalması ve verimin artması"
+      },
+      "correctOption": "D",
+      "explanation": "Sulama, tarımda ikinci ürün alınmasını ve nadas alanlarının azalmasını sağlar; birim alandan elde edilen verim yükselir.",
       "source": "özgün"
     },
     {
@@ -21897,6 +23532,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Turizm",
+      "difficulty": 3,
+      "text": "Türkiye'de turizmin kıyı bölgelerinde yoğunlaşmasının, iç bölgelerdeki tarihî ve kültürel değerlere dayalı turizme kıyasla aşağıdakilerden hangisine yol açtığı söylenebilir?",
+      "options": {
+        "A": "Kıyıların kültürel mirastan tamamen yoksun kalmasına",
+        "B": "Turizm gelirinin ekonomik katkısının ortadan kalkmasına",
+        "C": "İç bölgelerde turizm faaliyetinin tümüyle sona ermesine",
+        "D": "Turizmin daha çok yaz aylarında ve kıyı kesiminde toplanmasına"
+      },
+      "correctOption": "D",
+      "explanation": "Deniz-kum-güneş turizmine dayalı yoğunlaşma, turizmi yaz mevsimi ve kıyı kesimleriyle sınırlı tutarken iç bölgelerdeki kültür turizmi daha sınırlı ve dağınık kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Türkiye'de ulaşımı güçleştiren doğal etmenler arasında aşağıdakilerden hangisi yer alır?",
+      "options": {
+        "A": "Ülke yüzeyinin tamamen düz olması",
+        "B": "İklimin yıl boyunca her yerde aynı olması",
+        "C": "Yer şekillerinin engebeli olması ve iklim koşullarının değişkenliği",
+        "D": "Ülkenin denizlerle çevrili olmaması"
+      },
+      "correctOption": "C",
+      "explanation": "Yüksek ve engebeli yer şekilleri yol yapımını güçleştirir; kışın kar, sis ve buzlanma gibi iklim koşulları da ulaşımı zaman zaman aksatır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Bitki Örtüsü",
       "difficulty": 1,
       "text": "Türkiye'de yağışın az ve kuraklığın belirgin olduğu, bu nedenle orman varlığının en az bulunduğu bölge aşağıdakilerden hangisidir?",
@@ -21908,6 +23573,21 @@
       },
       "correctOption": "C",
       "explanation": "Yağışın az, kuraklığın belirgin olduğu Güneydoğu Anadolu, Türkiye'de orman varlığının en az olduğu bölgelerden biridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madencilik",
+      "difficulty": 2,
+      "text": "Türkiye'de yer altı kaynaklarının çeşitlilik bakımından zengin olmasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Ülkenin yalnızca tek bir jeolojik dönemde oluşması",
+        "B": "Farklı jeolojik dönemlerde oluşmuş çeşitli kayaç ve cevher yataklarının bulunması",
+        "C": "Toprakların her yerde aynı türde olması",
+        "D": "Ülke yüzeyinin sürekli buzullarla kaplı olması"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'de farklı jeolojik dönemlerde oluşan magmatik, tortul ve metamorfik kayaçlar bulunduğundan maden çeşitliliği fazladır.",
       "source": "özgün"
     },
     {
@@ -21968,6 +23648,21 @@
       },
       "correctOption": "A",
       "explanation": "Iğdır, yıllık ortalama 261 mm yağışla Türkiye'nin en kurak ilidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'de yıllık sıcaklık farkının (amplitüdün) iç bölgelerde kıyı bölgelerine göre daha büyük olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İç bölgelerin deniz seviyesinden daha alçak olması",
+        "B": "İç bölgelerde güneş ışınlarının hiç ulaşmaması",
+        "C": "İç bölgelerin denizden uzak olması ve nem oranının düşmesi",
+        "D": "Kıyı bölgelerinde kar yağışının hiç görülmemesi"
+      },
+      "correctOption": "C",
+      "explanation": "Denizden uzaklaşıldıkça nem azalır ve karasallık artar; nem azlığı nedeniyle iç bölgeler yazın çok ısınır, kışın çok soğur ve yıllık sıcaklık farkı büyür.",
       "source": "özgün"
     },
     {
@@ -22062,6 +23757,51 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 2,
+      "text": "Türkiye'de yükseltisi fazla ve eğimi dik alanlarda yerleşmelerin daha çok güneye bakan yamaçlarda kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kuzeye bakan yamaçlarda hiç su bulunmaması",
+        "B": "Güneye bakan yamaçların ulaşım için her zaman düz olması",
+        "C": "Güneye bakan yamaçların daha fazla güneş alması ve daha az kar tutması",
+        "D": "Güney yamaçların her zaman ormanla kaplı olması"
+      },
+      "correctOption": "C",
+      "explanation": "Kuzey yarım kürede güneşe dönük (bakı) güney yamaçlar daha sıcak olur, kar daha kısa süre kalır ve yerleşme ile tarım için daha elverişli koşullar sağlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Türkiye'deki akarsuların taşımacılık amacıyla çok az kullanılmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuların tuzlu su taşıması",
+        "B": "Akarsuların eğimlerinin fazla ve rejimlerinin düzensiz olması",
+        "C": "Akarsuların tamamının kapalı havzada bulunması",
+        "D": "Akarsu yataklarının çok geniş olması"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye akarsuları eğimli yataklarda hızlı akar ve akım miktarı mevsimlere göre büyük değişiklik gösterir; bu nedenle ulaşıma elverişli değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 3,
+      "text": "Türkiye'deki göllerin büyük bölümünün suyunun tatlı değil, acı veya tuzlu olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Göllerin yüksek dağların zirvelerinde yer alması",
+        "B": "Göllerin büyük bölümünün kapalı havzalarda yer alması ve suyu dışarı akıtan bir gideğeninin bulunmaması",
+        "C": "Göl sularının denizlerle sürekli bağlantılı olması",
+        "D": "Göllerin yalnızca kar sularıyla beslenmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Gideğeni bulunmayan kapalı havza göllerinde buharlaşan su geride tuz bırakır; bu nedenle göl suyunun tuzluluğu zamanla artar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Göç",
       "difficulty": 2,
       "text": "Türkiye'den 1960'lı yıllarda başlayan işçi göçünün başlıca hedefi aşağıdakilerden hangisidir?",
@@ -22073,6 +23813,21 @@
       },
       "correctOption": "C",
       "explanation": "Türkiye'den yurt dışına giden işçilerin büyük bölümü başta Almanya olmak üzere Batı Avrupa ülkelerine yönelmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "difficulty": 2,
+      "text": "Türkiye'nin 36°-42° kuzey enlemleri arasında yer almasının bir sonucu olarak, aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Kuzey kenarında kış gündüzleri güney kenarından daha kısadır",
+        "B": "Güneş ışınları yıl boyunca dik açıyla gelir",
+        "C": "Yıl içinde dört mevsim aynı anda yaşanır",
+        "D": "Yıl boyunca gece ile gündüz süresi her yerde eşittir"
+      },
+      "correctOption": "A",
+      "explanation": "Orta kuşakta enlem arttıkça kışın gündüz süresi kısalır; bu nedenle kuzeydeki noktalarda kış gündüzleri daha kısa olur.",
       "source": "özgün"
     },
     {
@@ -22103,6 +23858,21 @@
       },
       "correctOption": "B",
       "explanation": "Türkiye'nin başkenti Ankara'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "difficulty": 2,
+      "text": "Türkiye'nin bulunduğu Orta Doğu ve Balkanlar arasındaki geçiş konumu, aşağıdakilerden hangisini kolaylaştırmıştır?",
+      "options": {
+        "A": "Farklı kültür ve ticaret yollarının ülke topraklarında buluşmasını",
+        "B": "Ülke genelinde aynı iklim tipinin görülmesini",
+        "C": "Yer altı kaynaklarının ülke dışına taşınmasını",
+        "D": "Kıyılarının buzul şekilleriyle biçimlenmesini"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye Asya ile Avrupa arasında köprü konumunda olduğundan tarih boyunca kültürler ve ticaret yolları ülke topraklarında buluşmuştur.",
       "source": "özgün"
     },
     {
@@ -22602,6 +24372,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 3,
+      "text": "Türkiye'nin iç bölgelerinde tarımda sulamaya duyulan ihtiyacın kıyı bölgelerine göre daha fazla olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İç bölgelerde yağışın azalması ve buharlaşmanın fazla olması",
+        "B": "İç bölgelerde toprakların tuzlu olması",
+        "C": "İç bölgelerde yer altı suyunun hiç bulunmaması",
+        "D": "İç bölgelerde tarım alanlarının daha küçük olması"
+      },
+      "correctOption": "A",
+      "explanation": "Denizden uzaklık ve yükselti nedeniyle iç bölgelerde yağış azalır, sıcaklık farkı ve buharlaşma artar; bu durum tarımda sulamayı zorunlu kılar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Ticaret",
       "difficulty": 2,
       "text": "Türkiye'nin ihracatında önemli paya sahip ürün grupları aşağıdakilerden hangisidir?",
@@ -22677,6 +24462,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "difficulty": 3,
+      "text": "Türkiye'nin kuzeyi ile güneyi arasındaki enlem farkı yaklaşık 6° olduğuna göre, bu farkın doğal bir sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğusu ile batısı arasında 76 dakikalık yerel saat farkı bulunması",
+        "B": "Aynı anda farklı takvimlerin kullanılması",
+        "C": "Dağların kıyıya paralel uzanması",
+        "D": "Kıyılarındaki sıcaklık ve bitki örtüsü kuşaklarının birbirinden farklılaşması"
+      },
+      "correctOption": "D",
+      "explanation": "Kuzey-güney doğrultusundaki enlem farkı iklim ve bitki kuşaklarının çeşitlenmesine yol açar; yerel saat farkı ise boylam farkının sonucudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Nüfus",
       "difficulty": 2,
       "text": "Türkiye'nin nüfusu yaklaşık kaç milyondur? (2024)",
@@ -22722,6 +24522,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'ye batıdan gelen hava kütlelerinin deniz üzerinden geçtikten sonra kıyılarda bol yağış bırakmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Buharlaşmanın en çok yaz aylarında olması",
+        "B": "Yer şekillerinin denizden uzaklaştıkça alçalması",
+        "C": "Deniz üzerinden geçerken nem yüklenen havanın dağ yamaçlarında yükselip soğuması",
+        "D": "Hava kütlelerinin kışın anakarada soğuması"
+      },
+      "correctOption": "C",
+      "explanation": "Denizden nem yüklenen hava kıyı dağlarının yamacında yükselerek soğur; nem yoğunlaşarak bol yağış (yamaç yağışı) bırakır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 3,
+      "text": "Volkanik bir dağın kraterinin suyla dolmasıyla oluşan göllerin ortak özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Her zaman tatlı su içermeleri",
+        "B": "Alanlarının binlerce kilometre kareyi bulması",
+        "C": "Sularının denizle bağlantılı olması",
+        "D": "Genellikle yuvarlak biçimli ve küçük yüzeyli olmaları"
+      },
+      "correctOption": "D",
+      "explanation": "Krater çukurlukları sınırlı büyüklükte ve genellikle daireye yakın biçimde olduğundan krater gölleri küçük ve yuvarlaktır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "İklim Tipleri",
       "difficulty": 1,
       "text": "Yazları sıcak ve kurak, kışları ılık ve yağışlı geçen; doğal bitki örtüsü maki olan iklim tipi aşağıdakilerden hangisidir?",
@@ -22748,6 +24578,21 @@
       },
       "correctOption": "D",
       "explanation": "Adı geçen dört bölüm Doğu Anadolu Bölgesi'ni oluşturur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Yükseltisi fazla olan bir gölün yüzey suyu sıcaklığının, aynı enlemdeki alçak bir gölden daha düşük olmasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yükselti arttıkça sıcaklığın azalması",
+        "B": "Yüksek göllerde buharlaşmanın hiç görülmemesi",
+        "C": "Yüksek göllerin yalnızca kar sularıyla beslenmesi",
+        "D": "Yüksek göllerin suyunun tuzlu olması"
+      },
+      "correctOption": "A",
+      "explanation": "Yükselti arttıkça atmosferdeki sıcaklık azaldığından, yüksek kesimlerdeki göllerin suyu alçak kesimlerdeki göllere göre daha soğuk olur.",
       "source": "özgün"
     },
     {
@@ -22903,6 +24748,21 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Anayasal Gelişmeler",
+      "difficulty": 3,
+      "text": "1876 Kanûn-ı Esâsî'ye göre yürütme yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yürütme yetkisi tümüyle Meclis-i Umumi'ye aitti",
+        "B": "Yürütme yetkisi Heyet-i Ayan tarafından kullanılırdı",
+        "C": "Yürütme yetkisi bağımsız mahkemelere aitti",
+        "D": "Yürütme yetkisi padişaha ait olup padişahın sorumluluğu bulunmuyordu"
+      },
+      "correctOption": "D",
+      "explanation": "Kanûn-ı Esâsî'de yürütme yetkisi padişaha bırakılmış, padişahın sorumluluğu kabul edilmemişti; kuvvetler arasında gerçek bir denge bulunmuyordu.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
       "difficulty": 1,
       "text": "1876 Kanun-i Esasi ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": {
@@ -22964,6 +24824,21 @@
       "categorySlug": "vatandaslik",
       "topic": "Anayasal Gelişmeler",
       "difficulty": 2,
+      "text": "1924 Anayasası'na göre egemenlik ve yetkilerin kullanımı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yargı yetkisi padişah adına kullanılırdı",
+        "B": "Yetkiler padişah ile meclis arasında paylaşılmıştı",
+        "C": "Egemenlik millete aitti ancak yasama ve yürütme yetkileri TBMM'de toplanmıştı",
+        "D": "Yasama ve yürütme yetkileri ayrı organlara verilmişti"
+      },
+      "correctOption": "C",
+      "explanation": "1924 Anayasası'nda egemenliğin millete ait olduğu belirtilmiş, ancak yasama ve yürütme yetkileri TBMM'de toplanmış; Meclis hükûmeti sisteminin izleri korunmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 2,
       "text": "1961 Anayasası ile getirilen yenilik aşağıdakilerden hangisidir?",
       "options": {
         "A": "Meclis üstünlüğünün tam olarak korunması",
@@ -23007,6 +24882,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre anayasa değişikliği teklifinin kabulü için TBMM'de aranan oy çokluğuyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Teklifin kabulü için üye tamsayısının beşte üçü (360) aranır; kabul üçte ikiden az olursa referanduma sunulabilir",
+        "B": "Teklif üye tamsayısının salt çoğunluğuyla kabul edilir",
+        "C": "Teklif üye tamsayısının beşte üçü ile kabul edilirse doğrudan yürürlüğe girer",
+        "D": "Teklif üye tamsayısının üçte biriyle kabul edilir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 175. maddesine göre Anayasa değişikliği teklifi üye tamsayısının en az üçte biri tarafından yazılı olarak verilir; kabulü için üye tamsayısının beşte üçü (360) oy aranır, üçte iki çoğunluk (400) sağlanamazsa teklif referanduma sunulabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Yargı",
       "difficulty": 2,
       "text": "1982 Anayasası'na göre Anayasa Mahkemesi kaç üyeden oluşur?",
@@ -23018,6 +24908,81 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'ya göre Anayasa Mahkemesi on beş üyeden kurulur. Üyeler Cumhurbaşkanı ve Türkiye Büyük Millet Meclisi tarafından belirlenen usullere göre seçilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesine bireysel başvuruda bulunma süresi, başvuru yollarının tüketildiği tarihten itibaren kural olarak ne kadardır?",
+      "options": {
+        "A": "Yedi gün",
+        "B": "Otuz gün",
+        "C": "Altmış gün",
+        "D": "Doksan gün"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesi ve 6216 sayılı Kanun'a göre bireysel başvurunun, başvuru yollarının tüketildiği tarihten itibaren otuz gün içinde yapılması gerekir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesinin Anayasa değişiklikleri üzerindeki denetimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Anayasa değişiklikleri hiçbir şekilde denetlenemez",
+        "B": "Anayasa değişikliklerini yalnızca şekil bakımından denetler",
+        "C": "Anayasa değişikliklerini esas bakımından da denetler",
+        "D": "Denetim yetkisi Danıştaya aittir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesine göre Anayasa Mahkemesi, Anayasa değişikliklerini yalnızca şekil bakımından denetler; esas bakımından denetim yapamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesinin iptal davası açma yetkisi bulunan mercilerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İptal davası yalnızca Cumhurbaşkanı tarafından açılır",
+        "B": "Cumhurbaşkanı, TBMM üye tamsayısının en az beşte biri tutarındaki üyeler ve iktidar ile ana muhalefet partisi Meclis grupları iptal davası açabilir",
+        "C": "İptal davası yalnızca bir mahkeme tarafından açılır",
+        "D": "İptal davası yalnızca Danıştay tarafından açılır"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 150. maddesine göre kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İçtüzüğü'nün Anayasa'ya aykırılığı iddiasıyla iptal davası; Cumhurbaşkanı, TBMM üye tamsayısının en az beşte biri tutarındaki üyeler ve iktidar ile ana muhalefet partisinin Meclis grupları tarafından açılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesinin kararlarının niteliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Kararları kesin ve bağlayıcıdır; Resmî Gazete'de yayımlanır ve geriye yürümez",
+        "B": "Kararları yalnızca Cumhurbaşkanını bağlar",
+        "C": "Kararları TBMM onayıyla yürürlüğe girer",
+        "D": "Kararları geriye yürüyerek geçmişteki işlemleri de ortadan kaldırır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 153. maddesine göre Anayasa Mahkemesi kararları kesin ve bağlayıcıdır; kararlar Resmî Gazete'de yayımlanır ve kanun, kararname ve İçtüzük hükümlerini iptal eden kararlar geriye yürümez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Anayasa'nın ilk üç maddesinde yer alan hükümlerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Değiştirilemez ve değiştirilmesi teklif edilemez",
+        "B": "Yalnızca TBMM kararıyla değiştirilebilir",
+        "C": "Cumhurbaşkanlığı kararnamesi ile değiştirilebilir",
+        "D": "Referandumla her hâlde değiştirilebilir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 4. maddesine göre Anayasa'nın 1. maddesindeki devletin şekli, 2. maddesindeki cumhuriyetin nitelikleri ve 3. maddesindeki hükümler değiştirilemez ve değiştirilmesi teklif edilemez.",
       "source": "özgün"
     },
     {
@@ -23037,6 +25002,36 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre basının hür olduğu ve sansür edilemeyeceği aşağıdaki hak ve özgürlüklerden hangisiyle düzenlenmiştir?",
+      "options": {
+        "A": "Düşünce ve kanaat hürriyeti",
+        "B": "Basın hürriyeti",
+        "C": "Haberleşme hürriyeti",
+        "D": "Bilim ve sanat hürriyeti"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 28. maddesine göre basın hürdür ve sansür edilemez; basımevi kurmak izne tabi tutulamaz. Bu hak basın hürriyeti başlığı altında düzenlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre bir kanunun Anayasa'ya aykırılığı iddiasının bir mahkeme tarafından ciddi görülmesi hâlinde başvurulacak yol aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İtiraz yoluna başvuru",
+        "B": "Doğrudan iptal davası",
+        "C": "Bireysel başvuru",
+        "D": "Seçim iptali davası"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 152. maddesine göre bir davaya bakmakta olan mahkeme, uygulanacak kanunun Anayasa'ya aykırı olduğu kanısına varırsa ve iddia ciddi görülürse, işin geri kalanını erteleyerek itiraz yoluna başvurur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Yürütme",
       "difficulty": 1,
       "text": "1982 Anayasası'na göre bir kişi en fazla kaç kez Cumhurbaşkanı seçilebilir?",
@@ -23048,6 +25043,21 @@
       },
       "correctOption": "D",
       "explanation": "Anayasa'ya göre Cumhurbaşkanının görev süresi beş yıl olup bir kişi en fazla iki kez seçilebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanı göreve başlarken aşağıdaki işlemlerden hangisini yerine getirir?",
+      "options": {
+        "A": "TBMM'den güvenoyu alır",
+        "B": "Meclis araştırması başlatır",
+        "C": "TBMM önünde andiçer",
+        "D": "Anayasa Mahkemesine başvurur"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 103. maddesine göre Cumhurbaşkanı, görevine başlarken TBMM önünde Anayasa'da belirtilen metne göre andiçer.",
       "source": "özgün"
     },
     {
@@ -23097,6 +25107,96 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanının görevine son verilmesi, seçimlerin yenilenmesi gibi hâllerde seçilecek yeni Cumhurbaşkanının görev süresiyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Olağan seçimle göreve gelen Cumhurbaşkanının görev süresi beş yıldır",
+        "B": "Cumhurbaşkanının görev süresi TBMM tarafından belirlenir",
+        "C": "Yeni Cumhurbaşkanı her hâlde önceki süreyi tamamlar",
+        "D": "Cumhurbaşkanının görev süresi dört yıldır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 101. maddesine göre Cumhurbaşkanının görev süresi beş yıldır ve bir kişi en fazla iki kez Cumhurbaşkanı seçilebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanının katılamadığı hâllerde yerine kim vekâlet eder?",
+      "options": {
+        "A": "Cumhurbaşkanı yardımcısı",
+        "B": "TBMM Başkanı",
+        "C": "Anayasa Mahkemesi Başkanı",
+        "D": "En yaşlı bakan"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 106. maddesine göre Cumhurbaşkanı, hastalık ve yurt dışına çıkma gibi sebeplerle görevini geçici olarak yerine getiremezse Cumhurbaşkanı yardımcısı ona vekâlet eder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanının yardımcılarının ve bakanların atanmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yardımcılar ve bakanlar Anayasa Mahkemesi tarafından atanır",
+        "B": "Yardımcılar ve bakanlar yalnızca TBMM üyeleri arasından atanabilir",
+        "C": "Yardımcılar ve bakanlar TBMM tarafından seçilir",
+        "D": "Cumhurbaşkanı yardımcılarını ve bakanları atar ve görevden alır; bunlar TBMM üyesi olmayanlar arasından da atanabilir"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. ve 106. maddelerine göre Cumhurbaşkanı yardımcılarını ve bakanları atar ve görevden alır; bakan olabilmek için milletvekili olma şartı bulunmadığından TBMM dışından atama yapılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanlığı kararnamesi ile kanunlarda farklı hükümler bulunması hâlinde hangisi uygulanır?",
+      "options": {
+        "A": "Cumhurbaşkanlığı kararnamesi uygulanır",
+        "B": "Cumhurbaşkanı hangisinin uygulanacağına karar verir",
+        "C": "Anayasa Mahkemesi hangisinin uygulanacağını belirler",
+        "D": "Kanun hükümleri uygulanır"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. maddesinin son fıkrasına göre Cumhurbaşkanlığı kararnamesi ile kanunlarda farklı hükümler bulunması hâlinde kanun hükümleri uygulanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre çalışanların ve işverenlerin dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili hakları aşağıdaki haklardan hangisinin kapsamındadır?",
+      "options": {
+        "A": "Dinlenme hakkı",
+        "B": "Toplu iş sözleşmesi hakkı",
+        "C": "Sosyal güvenlik hakkı",
+        "D": "Sendika kurma hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 50. maddesi dinlenme hakkını düzenler; çalışanların dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakları bu kapsamdadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre duruşmaların açık olması ve yargılamanın herkesin izleyebileceği biçimde yapılması hangi ilkeyle ilgilidir?",
+      "options": {
+        "A": "Yargı birliği",
+        "B": "Yargılamanın aleniyeti",
+        "C": "Hâkimlerin bağımsızlığı",
+        "D": "Tabii hâkim ilkesi"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 141. maddesine göre mahkemelerde duruşmalar herkese açıktır; yargılamanın aleniyeti ilkesi budur. Gerekli görüldüğünde bazı duruşmaların kapalı yapılmasına kanun çerçevesinde karar verilebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "1982 Anayasası'nın Temel İlkeleri",
       "difficulty": 1,
       "text": "1982 Anayasası'na göre egemenlik kayıtsız şartsız kime aittir?",
@@ -23108,6 +25208,171 @@
       },
       "correctOption": "C",
       "explanation": "Anayasa'ya göre egemenlik kayıtsız şartsız millete aittir ve millet bunu yetkili organlar eliyle kullanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre grev hakkı ve lokavt hakkı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Lokavt hakkı işçilere tanınmış bir haktır",
+        "B": "Grev ve lokavt hakkı Anayasa'da ayrı bir maddeyle düzenlenmiş ve sınırları kanunla belirlenmiştir",
+        "C": "Grev hakkı yalnızca kamu görevlilerine tanınmıştır",
+        "D": "Grev hakkı hiçbir sınırlamaya tabi değildir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 54. maddesi grev ve lokavt hakkını ayrı bir maddede düzenler; grev ve lokavtın şekli ve kapsamı kanunla belirlenir ve bazı hizmetlerde kullanılması yasaklanabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Hâkimler ve Savcılar Kurulu kaç üyeden oluşur?",
+      "options": {
+        "A": "Yedi",
+        "B": "On bir",
+        "C": "On üç",
+        "D": "Yirmi iki"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 159. maddesine göre Hâkimler ve Savcılar Kurulu on üç üyeden oluşur; iki daire hâlinde çalışır ve Kurulun başkanı Adalet Bakanıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre hâkimlerin görev güvencesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Hâkimler her zaman Adalet Bakanı tarafından görevden alınabilir",
+        "B": "Hâkimler yalnızca HSK'nın izniyle görev yapabilir",
+        "C": "Hâkimler kendileri istemedikçe emekliye ayrılabilir",
+        "D": "Hâkimler azlolunamaz; kendileri istemedikçe emekliye ayrılamaz"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 139. maddesine göre hâkimler ve savcılar azlolunamaz; kendileri istemedikçe Anayasa'da öngörülen yaştan önce emekliye ayrılamaz ve bir mahkemenin kaldırılması hâli dışında görevden uzaklaştırılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre hâkimlik ve savcılık mesleği ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Hâkimler, savcılık görevini de yürütür",
+        "B": "Hâkim ve savcılar görevlerini yaparken farklı statülere tabi olup hâkimler savcılık görevini de yürütür",
+        "C": "Hâkimler ile savcılar ayrı meslek mensuplarıdır; hâkimlik ve savcılık görevi bir kişide birleşemez",
+        "D": "Hâkimler yürütmenin bir parçası olarak görev yapar"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 140. maddesine göre hâkimlik ve savcılık meslekleri mahkemelerin ve adaletin bağımsızlığı esasına göre ayrı ayrı ifa edilir; aynı kişi hem hâkimlik hem savcılık görevini birlikte yürütemez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin yerleşme ve seyahat hürriyetine sahip olması ile vatandaşın yurt dışına çıkma ve yurda girme hakkı aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Özel hayatın gizliliği",
+        "B": "Konut dokunulmazlığı",
+        "C": "Düşünceyi açıklama ve yayma hürriyeti",
+        "D": "Yerleşme ve seyahat hürriyeti"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 23. maddesine göre herkes yerleşme ve seyahat hürriyetine sahiptir; vatandaşın yurt dışına çıkma ve yurda girme hakkı da aynı maddeyle güvence altına alınmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, Devletin sosyal ve ekonomik alandaki görevlerini yerine getirmesini isteme hakkı olarak tanımlanan ve Anayasa'nın 65. maddesinde düzenlenen kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Toplu iş sözleşmesi hakkı",
+        "B": "Sosyal güvenlik hakkı",
+        "C": "Sosyal devlet ilkesi sınırı",
+        "D": "Sosyal hakların sınırı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 65. maddesi, Devletin sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, malî kaynaklarının yeterliliği ölçüsünde yerine getireceğini belirterek sosyal hakların sınırını çizer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma hakkına sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Kanun önünde eşitlik",
+        "B": "Mülkiyet hakkı",
+        "C": "Kişi hürriyeti ve güvenliği",
+        "D": "Hak arama hürriyeti"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 36. maddesine göre herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma hakkına sahiptir; bu hak arama hürriyetidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, önceden izin almaksızın silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Dernek kurma hürriyeti",
+        "B": "Toplantı ve gösteri yürüyüşü hakkı",
+        "C": "Dilekçe hakkı",
+        "D": "Sendika kurma hakkı"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 34. maddesine göre herkes, önceden izin almaksızın silâhsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir; bu hak ancak millî güvenlik, kamu düzeni, genel sağlık ve genel ahlâk gibi sebeplerle ve kanunla sınırlandırılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre hiçbir kimsenin işlediği zaman kanunun suç saymadığı bir fiilden dolayı ve kanunda öngörülen cezadan başka bir ceza ile cezalandırılamaması hangi ceza hukuku ilkesiyle ilgilidir?",
+      "options": {
+        "A": "Masumiyet karinesi",
+        "B": "Cezaların şahsiliği ilkesi",
+        "C": "Şüpheden sanık yararlanır ilkesi",
+        "D": "Kanunilik ilkesi"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 38. maddesindeki suç ve cezaların kanuniliği ilkesi, kanunda suç olarak öngörülmeyen fiillere ve kanunda belirtilenden başka cezaya izin vermez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre kanunların Cumhurbaşkanınca yayımlanma süresi, TBMM tarafından kabul edildiği tarihten itibaren en fazla kaç gündür?",
+      "options": {
+        "A": "Otuz",
+        "B": "On beş",
+        "C": "Yirmi",
+        "D": "On"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 89. maddesine göre Cumhurbaşkanı, TBMM'ce kabul edilen kanunları on beş gün içinde yayımlar; yayımlanmasını uygun bulmazsa bir kez daha görüşülmek üzere geri gönderebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre kişinin bir suçtan dolayı özgürlüğünden yoksun bırakılması hâlinde, yakalanma veya tutulma sebebinin kendisine yazılı olarak ve derhâl bildirilmesi hangi hakla güvence altına alınmıştır?",
+      "options": {
+        "A": "Basın hürriyeti",
+        "B": "Mülkiyet hakkı",
+        "C": "Kişi hürriyeti ve güvenliği",
+        "D": "Özel hayatın gizliliği"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 19. maddesi kişi hürriyeti ve güvenliğini düzenler; yakalanan veya tutulan kişiye yakalanma sebeplerinin yazılı olarak ve derhâl bildirilmesi bu güvencenin bir parçasıdır.",
       "source": "özgün"
     },
     {
@@ -23142,6 +25407,66 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre milletvekili tazminatı ve ödeneklerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ödenek miktarını Anayasa Mahkemesi belirler",
+        "B": "Milletvekilleri hiçbir ödenek almaz",
+        "C": "Milletvekillerine ödenecek tazminatlar ve ödenekler kanunla düzenlenir",
+        "D": "Milletvekillerine ödenek yalnızca TBMM kararıyla verilir ve kanuna gerek yoktur"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 86. maddesine göre milletvekillerine verilecek ödeneklerin miktarı, tazminatlar ve diğer sosyal haklar kanunla düzenlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre milletvekilleri ile ilgili olarak, göreve başlarken Anayasa'da öngörülen biçimde yerine getirdikleri işlem aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Meclise kayıt yaptırmak",
+        "B": "Andiçmek (yemin etmek)",
+        "C": "Güvenoyu almak",
+        "D": "Mal bildiriminde bulunmak"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 81. maddesine göre milletvekilleri, göreve başlarken Anayasa'da yer alan metne göre andiçerler; andiçme yeni üyelerin göreve başlamasının ön koşuludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Millî Güvenlik Kurulu ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Kurul üyelerinin tamamı TBMM tarafından seçilir",
+        "B": "Kurul, millî güvenlik politikasının oluşturulmasında hükûmete görüş bildiren bir organdır",
+        "C": "Kurul, olağanüstü hâl ilan etme yetkisini kullanır",
+        "D": "Kurul kararlarını doğrudan uygulama yetkisine sahiptir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 118. maddesine göre Millî Güvenlik Kurulu, millî güvenlik ve ülke savunmasına ilişkin kararlarda gerekli koordinasyonu sağlar ve görüş bildirir; Kurul kararları hükûmet tarafından değerlendirilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre olağanüstü hâl ilan edildiğinde bu durumun Resmî Gazete'de yayımlanmasından sonra TBMM'nin toplanması ve karar verilmesiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "TBMM olağanüstü hâl ilanını onaylamak zorunda değildir",
+        "B": "Olağanüstü hâl kararı Anayasa Mahkemesi tarafından onaylanır",
+        "C": "Meclis tatilde ise derhâl toplantıya çağrılır",
+        "D": "Olağanüstü hâl ancak TBMM kararıyla ilan edilebilir"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 119. ve 120. maddelerine göre olağanüstü hâl Cumhurbaşkanınca ilan edilir ve bu karar Resmî Gazete'de yayımlanır; TBMM tatilde ise derhâl toplantıya çağrılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Olağanüstü Hâl",
       "difficulty": 2,
       "text": "1982 Anayasası'na göre olağanüstü hâl ilan etme yetkisi aşağıdakilerden hangisine aittir?",
@@ -23153,6 +25478,21 @@
       },
       "correctOption": "D",
       "explanation": "Anayasa'ya göre savaş, ayaklanma, doğal afet ve kamu düzenini ciddi biçimde bozan durumlarda Cumhurbaşkanı olağanüstü hâl ilan edebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre olağanüstü hâl, süresi ne olursa olsun en fazla kaç ay için ilan edilebilir?",
+      "options": {
+        "A": "Üç ay",
+        "B": "Altı ay",
+        "C": "Dokuz ay",
+        "D": "On iki ay"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 119. maddesine göre olağanüstü hâl, süresi altı ayı geçmemek üzere Cumhurbaşkanınca ilan edilir; TBMM, her defasında dört ayı geçmemek üzere bu süreyi uzatabilir.",
       "source": "özgün"
     },
     {
@@ -23172,6 +25512,51 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Seçim Sistemi ve Siyasi Partiler",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre siyasi partilerin malî denetimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Siyasi partilerin malî denetimi Anayasa Mahkemesince yapılır",
+        "B": "Malî denetim Sayıştay tarafından yapılır",
+        "C": "Malî denetim Yüksek Seçim Kurulu tarafından yapılır",
+        "D": "Siyasi partilerin malî denetimi bulunmamaktadır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 69. maddesine göre siyasi partilerin malî denetimi Anayasa Mahkemesince yapılır; Anayasa Mahkemesi, partilerin gelir ve giderlerinin kanuna uygunluğunu denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Seçim Sistemi ve Siyasi Partiler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre siyasi partilerin tüzük ve programları bakımından uymak zorunda olduğu esas aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca ekonomik programa sahip olmak",
+        "B": "Önceden izin almak",
+        "C": "Tek bir siyasi görüşü benimsemek",
+        "D": "Demokrasi esaslarına ve Anayasa'ya uygun olmak"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 68. maddesine göre siyasi partilerin tüzüğü ve programı demokrasi esaslarına ve Anayasa'ya uygun olmalıdır; ayrıca partiler amaçlarına ulaşmak için şiddete başvuramaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre suç ve cezalara ilişkin esaslar bakımından aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İşkence ve kötü muamele suçları zamanaşımına uğrar.",
+        "B": "Suçluluğu hükmen sabit oluncaya kadar herkes suçlu sayılır.",
+        "C": "Kimse işlediği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz.",
+        "D": "Ceza hükümleri suçun işlenmesinden önceki döneme uygulanır."
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa m.38'e göre kanunsuz suç ve ceza olmaz; kimse işlediği zaman yürürlükte bulunan kanunun suç saymadığı fiilden cezalandırılamaz (suç ve cezalarda kanunilik).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Yasama",
       "difficulty": 2,
       "text": "1982 Anayasası'na göre TBMM Genel Kurulunun toplanma yeter sayısı en az kaçtır?",
@@ -23183,6 +25568,21 @@
       },
       "correctOption": "C",
       "explanation": "Anayasa'nın 96. maddesine göre TBMM, üye tamsayısının en az üçte biriyle yani 200 üye ile toplanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre TBMM üyelerinin seçim çevreleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Nüfusu belirli bir sayısının altında kalan iller milletvekili çıkaramaz",
+        "B": "Milletvekilleri ülke genelinde tek bir seçim çevresinden seçilir",
+        "C": "Seçim çevreleri yalnızca bölge esasına göre belirlenir",
+        "D": "Her il en az bir milletvekili çıkarır"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 80. ve 76. maddeleri çerçevesinde her il, nüfusuna bakılmaksızın en az bir milletvekili çıkarır; nüfusu fazla olan iller daha çok milletvekili seçer.",
       "source": "özgün"
     },
     {
@@ -23218,6 +25618,36 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi Başkanlık Divanı için bir yasama döneminde iki seçim yapılır. Buna göre ilk seçimde seçilenlerin görev süresi kaç yıldır?",
+      "options": {
+        "A": "Bir yıl",
+        "B": "Üç yıl",
+        "C": "İki yıl",
+        "D": "Beş yıl"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 94. maddesine göre TBMM Başkanlık Divanı için bir yasama döneminde iki seçim yapılır. İlk seçilenlerin görev süresi iki yıldır; ikinci devre için seçilenlerin görev süresi ise o yasama döneminin sonuna kadar devam eder. Başkan seçiminde ilk iki oylamada üye tamsayısının üçte iki çoğunluğu, üçüncü oylamada ise salt çoğunluk aranır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi Başkanlık Divanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Divan, Meclis Başkanı, başkanvekilleri, kâtip üyeler ve idare amirlerinden oluşur",
+        "B": "Divan üyeleri yargı organlarınca seçilir",
+        "C": "Divan yalnızca Meclis Başkanından oluşur",
+        "D": "Divan üyeleri Cumhurbaşkanı tarafından atanır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 94. maddesine göre TBMM Başkanlık Divanı, Meclis Başkanı, başkanvekilleri, kâtip üyeler ve idare amirlerinden oluşur; üyeler Meclis içinden seçilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
       "difficulty": 1,
       "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi genel seçimleri kaç yılda bir yapılır?",
       "options": {
@@ -23228,6 +25658,21 @@
       },
       "correctOption": "A",
       "explanation": "Anayasa'ya göre TBMM seçimleri beş yılda bir yapılır. Süresi biten Meclis, yeni Meclis seçilinceye kadar görevine devam eder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi her yıl hangi tarihte kendiliğinden toplanır?",
+      "options": {
+        "A": "1 Eylül",
+        "B": "1 Kasım",
+        "C": "1 Ekim",
+        "D": "1 Ocak"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 93. maddesine göre TBMM her yıl Ekim ayının ilk günü kendiliğinden toplanır; böylece yeni yasama yılı 1 Ekim'de başlar.",
       "source": "özgün"
     },
     {
@@ -23262,6 +25707,36 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisinin bilgi edinme ve denetim yollarından, belirli bir konuda bir bakanlık veya kurumdan bilgi talep edilmesini sağlayan araç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Meclis araştırması",
+        "B": "Gensoru",
+        "C": "Genel görüşme",
+        "D": "Soru"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 98. maddesinde sayılan bilgi edinme ve denetim yollarından soru, bir milletvekilinin belirli bir konuda bilgi edinmek amacıyla bakan veya yetkili merciden yazılı cevap istemesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisinin çalışmalarını yürütmek üzere kendi içinden çıkaracağı belge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "TBMM İçtüzüğü",
+        "B": "Cumhurbaşkanlığı kararnamesi",
+        "C": "Yönetmelik",
+        "D": "Kanun hükmünde kararname"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 95. maddesine göre TBMM, çalışmalarını kendi yaptığı İçtüzük hükümlerine göre yürütür; İçtüzük TBMM'nin kendi iç düzenini belirler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "1982 Anayasası'nın Temel İlkeleri",
       "difficulty": 1,
       "text": "1982 Anayasası'na göre Türkiye Cumhuriyeti'nin nitelikleri arasında aşağıdakilerden hangisi yer alır?",
@@ -23273,6 +25748,36 @@
       },
       "correctOption": "C",
       "explanation": "Anayasa'nın 2. maddesine göre Türkiye Cumhuriyeti demokratik, laik ve sosyal bir hukuk devletidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmaların Türk hukukundaki yeri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yalnızca yönetmelik düzeyinde bağlayıcıdır",
+        "B": "Kanunlara üstün olduğu kabul edilir ve Anayasa'ya aykırılığı ileri sürülemez",
+        "C": "Kanunlarla çatıştığında kanun üstün sayılır",
+        "D": "TBMM onayı olmadan hiçbir hukuki sonuç doğurmaz"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 90. maddesine göre usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalar kanun hükümlerine üstün tutulur ve Anayasa Mahkemesine bunlar hakkında iptal davası açılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre yargı yetkisi kim adına kullanılır?",
+      "options": {
+        "A": "TBMM adına",
+        "B": "Cumhurbaşkanı adına",
+        "C": "Türk Milleti adına",
+        "D": "Adalet Bakanlığı adına"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 9. maddesine göre yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır; mahkemeler kararlarını bu ad altında verir.",
       "source": "özgün"
     },
     {
@@ -23322,6 +25827,81 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre zorla çalıştırma ve angarya ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ücreti ödendiği takdirde angarya uygulanabilir",
+        "B": "Zorla çalıştırma, hiçbir istisnaya yer verilmeksizin mutlak biçimde yasaklanmıştır",
+        "C": "Hiç kimse zorla çalıştırılamaz ve angarya yasaktır",
+        "D": "Angarya yalnızca yabancılar bakımından yasaklanmıştır"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 18. maddesine göre hiç kimse zorla çalıştırılamaz ve angarya yasaktır; ancak hükümlülerin cezalarını çekerken çalıştırılması, olağanüstü hâllerde istenen hizmetler ve seferberlik gibi kanunda öngörülen bazı çalışmalar zorla çalıştırma sayılmaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre, kanunda gösterilen hâller dışında kimsenin konutuna girilememesi, konutunda arama yapılamaması ve konutundaki eşyalara el konulamaması aşağıdakilerden hangisiyle güvence altına alınmıştır?",
+      "options": {
+        "A": "Konut dokunulmazlığı",
+        "B": "Hak arama hürriyeti",
+        "C": "Yerleşme ve seyahat hürriyeti",
+        "D": "Dilekçe hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 21. maddesi konut dokunulmazlığını düzenler; kanunda gösterilen hâller dışında bir kimsenin konutuna girilemez, arama yapılamaz ve eşyalara el konulamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Cumhurbaşkanının Türkiye Büyük Millet Meclisi üyeliği sona erer; Cumhurbaşkanı kanun teklif edemez.",
+        "B": "Cumhurbaşkanı aynı zamanda milletvekili olarak görevine devam eder.",
+        "C": "Cumhurbaşkanı TBMM'ye kanun teklifi verebilir.",
+        "D": "Cumhurbaşkanı yalnızca TBMM üyeleri arasından seçilir."
+      },
+      "correctOption": "A",
+      "explanation": "2017 değişikliğiyle yürütme yetkisi Cumhurbaşkanına verilmiş; Cumhurbaşkanı seçilen kişinin TBMM üyeliği sona erer ve Cumhurbaşkanının kanun teklif etme yetkisi yoktur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 1,
+      "text": "1982 Anayasası'nın 3. maddesine göre aşağıdakilerden hangisi Devletin temel nitelikleri arasında yer alır?",
+      "options": {
+        "A": "Resmî dilin Türkçe olması ve bayrağın ay yıldızlı al sancak olması",
+        "B": "Başkentin İstanbul olması",
+        "C": "Resmî dilin yalnızca bölgelere göre belirlenmesi",
+        "D": "Millî marşın her dönem değiştirilebilmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 3. maddesine göre Devletin ülkesi ve milletiyle bölünmez bir bütündür; dili Türkçedir, bayrağı şekli kanunda belirtilen ay yıldızlı al sancaktır, millî marşı İstiklal Marşı'dır ve başkenti Ankara'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın başlangıç hükümleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Başlangıç kısmı Anayasa metnine dahildir ve dayandığı temel görüş ve ilkeleri belirtir",
+        "B": "Başlangıç metni yalnızca tarihî bir belge olup hukuki değeri yoktur",
+        "C": "Başlangıç metni kanunlarla değiştirilebilir",
+        "D": "Başlangıç hükümleri yalnızca Cumhurbaşkanını bağlar"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın başlangıç kısmı Anayasa metnine dahildir; dayandığı temel görüş ve ilkeleri açıklar ve Anayasa'nın yorumunda dikkate alınır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Anayasa",
       "difficulty": 2,
       "text": "1982 Anayasası'nın hangi maddesi \"Devletin şekli Cumhuriyettir.\" hükmünü içerir?",
@@ -23334,6 +25914,21 @@
       "correctOption": "A",
       "explanation": "Anayasa'nın 1. maddesi \"Devletin şekli Cumhuriyettir.\" hükmünü içerir. 2. madde Cumhuriyetin niteliklerini, 3. madde devletin bütünlüğü, dili, bayrağı ve başkentini düzenler.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İdari Yargı",
+      "difficulty": 3,
+      "text": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre iptal davasında, idari işlemin uygulanması hâlinde telafisi güç veya imkânsız zararların doğması ve işlemin açıkça hukuka aykırı olması koşullarının birlikte gerçekleşmesi durumunda verilebilecek karar aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İşlemin esastan iptali",
+        "B": "Yürütmenin durdurulması",
+        "C": "Tam yargı davasına dönüştürme",
+        "D": "Dosyanın Danıştaya gönderilmesi"
+      },
+      "correctOption": "B",
+      "explanation": "İYUK'un 27. maddesine göre, idari işlemin uygulanması hâlinde telafisi güç veya imkânsız zararlar doğması ve işlemin açıkça hukuka aykırı olması koşullarının birlikte gerçekleşmesi hâlinde yürütmenin durdurulmasına karar verilebilir.",
+      "source": "özgün"
     },
     {
       "categorySlug": "vatandaslik",
@@ -23363,6 +25958,36 @@
       },
       "correctOption": "A",
       "explanation": "Devlet Memurları Kanunu'na göre memurlar, göreve başlamadan önce kanunda belirtilen biçimde yemin ederek görevlerine bağlı kalacaklarını beyan ederler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Kamu Görevlileri",
+      "difficulty": 2,
+      "text": "657 sayılı Devlet Memurları Kanunu'na göre devlet memurlarının grev ve toplu eylem hakkı bakımından aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Memurlar sendika kurabilir ancak grev ve toplu eylem yapamaz",
+        "B": "Memurlar serbestçe grev yapabilir",
+        "C": "Memurların grev yapması Bakanlar Kurulu iznine bağlıdır",
+        "D": "Memurların grev hakkı hiçbir sınırlamaya tabi değildir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 51. maddesi ve 4688 sayılı Kanun çerçevesinde memurlar sendika kurabilir ve sendikalara üye olabilir; ancak 657 sayılı Kanun'un 26. maddesi toplu eylem ve hareketlerde bulunmayı, 27. maddesi ise greve karar vermeyi, grev tertip etmeyi ve greve katılmayı yasaklar. Dolayısıyla memurların grev ve toplu eylem hakkı yoktur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Kamu Görevlileri",
+      "difficulty": 2,
+      "text": "657 sayılı Devlet Memurları Kanunu'na göre Devlet memurluğuna alınacaklarda aranan genel şartlardan biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bir siyasi partiye üye olmak",
+        "B": "Türkiye Cumhuriyeti vatandaşı olmak",
+        "C": "En az yüksek lisans mezunu olmak",
+        "D": "Özel sektörde çalışmış olmak"
+      },
+      "correctOption": "B",
+      "explanation": "657 sayılı Kanun'un 48. maddesine göre Devlet memurluğuna alınacaklarda Türkiye Cumhuriyeti vatandaşı olmak, belirli bir yaşı doldurmuş olmak gibi genel şartlar aranır.",
       "source": "özgün"
     },
     {
@@ -24029,6 +26654,21 @@
       "categorySlug": "vatandaslik",
       "topic": "Mahalli İdareler",
       "difficulty": 2,
+      "text": "Belediye yönetiminde, belediye başkanının katılmadığı veya görevlendirmediği hâllerde belediye başkanvekilliği ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Vekâlet görevi il genel meclisi tarafından yerine getirilir",
+        "B": "Başkanın bulunmadığı hâllerde belediye meclisi başkan vekillerinden biri belediye başkanlığına vekâlet eder",
+        "C": "Belediye başkanına vali vekâlet eder",
+        "D": "Vekâlet görevi kaymakam tarafından yürütülür"
+      },
+      "correctOption": "B",
+      "explanation": "Belediye başkanının görevi başında olmadığı hâllerde, belediye meclisince kendi üyeleri arasından seçilen başkan vekillerinden biri belediye başkanlığına vekâlet eder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Mahalli İdareler",
+      "difficulty": 2,
       "text": "Belediyenin karar organı aşağıdakilerden hangisidir?",
       "options": {
         "A": "Belediye başkanı",
@@ -24038,6 +26678,21 @@
       },
       "correctOption": "D",
       "explanation": "Belediyenin karar organı belediye meclisidir; belediye başkanı yürütme organıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 2,
+      "text": "Bir hukuk kuralının, kuralın yürürlüğe girmesinden sonra meydana gelen olay ve ilişkilere uygulanması, geçmişe yürümemesi aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Kanunların bağlayıcılığı",
+        "B": "Kanunların geriye yürümezliği",
+        "C": "Kanunların kamu düzenine ilişkin olması",
+        "D": "Emredici hüküm"
+      },
+      "correctOption": "B",
+      "explanation": "Kanunların geriye yürümezliği ilkesine göre bir kural, yürürlüğe girdiği tarihten sonraki olay ve ilişkilere uygulanır; geçmişe etkili olması kural olarak kabul edilmez.",
       "source": "özgün"
     },
     {
@@ -24053,6 +26708,21 @@
       },
       "correctOption": "D",
       "explanation": "Düşünce ve kanaat hürriyeti, kişinin düşüncelerini açıklamaya zorlanamamasını içerir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 3,
+      "text": "Bir kişinin, kendisi hakkında verilmiş kesinleşmiş bir mahkeme kararı nedeniyle idareye başvurarak uğradığı zararın karşılanmasını istemesi aşağıdakilerden hangisiyle ilgilidir?",
+      "options": {
+        "A": "Mülkiyet hakkı",
+        "B": "Dilekçe hakkı",
+        "C": "Devletin sorumluluğu ve tazminat hakkı",
+        "D": "Milletlerarası andlaşmalara dayalı başvuru"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 40. maddesi, idarenin işlem ve eylemlerinden zarar görenlere karşı devletin sorumluluğunu ve zararın tazmin edilmesini güvence altına alır.",
       "source": "özgün"
     },
     {
@@ -24417,6 +27087,36 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "İdare Hukuku",
+      "difficulty": 3,
+      "text": "İdarenin, hukuka aykırı bir işlemini hiçbir yargı kararına gerek olmaksızın kendiliğinden geri almasına ne ad verilir?",
+      "options": {
+        "A": "Düzeltme",
+        "B": "Kaldırma",
+        "C": "İptal",
+        "D": "Geri alma"
+      },
+      "correctOption": "D",
+      "explanation": "İdarenin hukuka aykırı işlemini kendiliğinden ortadan kaldırmasına geri alma denir; hukuka uygun bir işlem ise ancak kanunda belirtilen koşullarla kaldırılabilir. İptal ise yargı kararıyla olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İdare Hukuku",
+      "difficulty": 2,
+      "text": "İdarenin, kamu hizmetini yürütürken her zaman ve her yerde önceden bir yetki verilmesine gerek olmaksızın harekete geçebilmesini sağlayan yetki aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Hiyerarşik denetim",
+        "B": "İdari vesayet",
+        "C": "Takdir yetkisi",
+        "D": "Kamu gücü ayrıcalığı"
+      },
+      "correctOption": "D",
+      "explanation": "Kamu gücü ayrıcalığı, idarenin özel hukuk kişilerinden farklı olarak tek taraflı işlem tesis edebilmesi ve icra gücüne sahip olmasıdır; idari işlemin uygulanması için ayrıca mahkeme kararı gerekmez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Yargı",
       "difficulty": 2,
       "text": "İdari yargı alanında son inceleme mercii ve bazı idari davaların ilk derece mahkemesi olan yüksek mahkeme aşağıdakilerden hangisidir?",
@@ -24473,6 +27173,21 @@
       },
       "correctOption": "C",
       "explanation": "İnsan haklarının kaynağı doğal hukuktur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İnsan Hakları",
+      "difficulty": 1,
+      "text": "İnsan haklarının uluslararası düzeyde korunmasında temel belge sayılan İnsan Hakları Evrensel Bildirgesi hangi yıl kabul edilmiştir?",
+      "options": {
+        "A": "1919",
+        "B": "1936",
+        "C": "1948",
+        "D": "1961"
+      },
+      "correctOption": "C",
+      "explanation": "İnsan Hakları Evrensel Bildirgesi, 10 Aralık 1948'de Birleşmiş Milletler Genel Kurulu tarafından kabul edilmiş ve insan haklarının uluslararası düzeyde korunmasının temel belgesi olmuştur.",
       "source": "özgün"
     },
     {
@@ -24594,6 +27309,21 @@
       "correctOption": "C",
       "explanation": "Kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İçtüzüğü'nün Anayasa'ya uygunluğunu Anayasa Mahkemesi denetler.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 3,
+      "text": "Kanunların Anayasa'ya, yönetmeliklerin kanunlara aykırı olamaması biçiminde ifade edilen ve hukuk düzeninin bir piramit gibi düzenlendiğini anlatan kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kuvvetler ayrılığı",
+        "B": "Kanun önünde eşitlik",
+        "C": "Hukuki güvenlik",
+        "D": "Normlar hiyerarşisi"
+      },
+      "correctOption": "D",
+      "explanation": "Normlar hiyerarşisi, hukuki düzenlemelerin bir alt basamağının üst basamağa aykırı olamaması esasına dayanır; en üstte Anayasa yer alır.",
+      "source": "özgün"
     },
     {
       "categorySlug": "vatandaslik",
@@ -24848,6 +27578,21 @@
       },
       "correctOption": "D",
       "explanation": "Ceza, suç işleyene devlet tarafından uygulanan ve özgürlüğü kısıtlayabilen bir yaptırımdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 2,
+      "text": "Tarafların aksini kararlaştırmasının mümkün olmadığı, mutlaka uyulması gereken ve aksine davranışa hukuki yaptırım bağlanan hukuk kurallarına ne ad verilir?",
+      "options": {
+        "A": "Tamamlayıcı hükümler",
+        "B": "Yorumlayıcı hükümler",
+        "C": "Tanımlayıcı hükümler",
+        "D": "Emredici hükümler"
+      },
+      "correctOption": "D",
+      "explanation": "Emredici hükümler, tarafların aksini kararlaştıramadığı ve uyulması zorunlu olan hukuk kurallarıdır; aksine davranış hukuki yaptırıma bağlanır. Tamamlayıcı hükümler ise ancak taraflar aksini kararlaştırmadıysa uygulanır.",
       "source": "özgün"
     },
     {
@@ -25137,6 +27882,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "İdari Yargı",
+      "difficulty": 2,
+      "text": "Türkiye'de vergi, resim ve harçlarla benzeri malî yükümlülüklerden doğan uyuşmazlıklara ilk derece mahkemesi olarak bakmakla görevli yargı mercii aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İdare mahkemesi",
+        "B": "Bölge idare mahkemesi",
+        "C": "Vergi mahkemesi",
+        "D": "Asliye hukuk mahkemesi"
+      },
+      "correctOption": "C",
+      "explanation": "2576 sayılı Kanun ve İYUK çerçevesinde vergi, resim, harç ve benzeri malî yükümlülüklere ilişkin uyuşmazlıklara ilk derece mahkemesi olarak vergi mahkemeleri bakar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Anayasa",
       "difficulty": 2,
       "text": "Türkiye'de yargı yetkisi kime aittir?",
@@ -25313,6 +28073,21 @@
       },
       "correctOption": "B",
       "explanation": "Yasama sorumsuzluğu milletvekilinin Meclis çalışmalarındaki söz ve oylarını korurken, yasama dokunulmazlığı Meclis dışındaki suç iddialarını kapsar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 2,
+      "text": "Yazılı olmayan, toplumda uzun süre tekrarlanarak uygulanan ve devlet desteğiyle yaptırıma bağlanan hukuk kuralları aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Uluslararası antlaşmalar",
+        "B": "Anayasa",
+        "C": "Kanun hükmünde kararnameler",
+        "D": "Örf ve âdet (teamül) hukuku"
+      },
+      "correctOption": "D",
+      "explanation": "Örf ve âdet (teamül) hukuku yazılı olmayan, sürekli uygulanan ve devlet yaptırımıyla desteklenen hukuk kurallarıdır; Türk Medeni Kanunu'nda da kaynak olarak sayılır.",
       "source": "özgün"
     },
     {

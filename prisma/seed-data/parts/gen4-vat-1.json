@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre kişinin bir suçtan dolayı özgürlüğünden yoksun bırakılması hâlinde, yakalanma veya tutulma sebebinin kendisine yazılı olarak ve derhâl bildirilmesi hangi hakla güvence altına alınmıştır?",
+      "options": {
+        "D": "Özel hayatın gizliliği",
+        "B": "Mülkiyet hakkı",
+        "A": "Basın hürriyeti",
+        "C": "Kişi hürriyeti ve güvenliği"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 19. maddesi kişi hürriyeti ve güvenliğini düzenler; yakalanan veya tutulan kişiye yakalanma sebeplerinin yazılı olarak ve derhâl bildirilmesi bu güvencenin bir parçasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmaların Türk hukukundaki yeri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "B": "Kanunlara üstün olduğu kabul edilir ve Anayasa'ya aykırılığı ileri sürülemez",
+        "A": "Yalnızca yönetmelik düzeyinde bağlayıcıdır",
+        "C": "Kanunlarla çatıştığında kanun üstün sayılır",
+        "D": "TBMM onayı olmadan hiçbir hukuki sonuç doğurmaz"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 90. maddesine göre usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalar kanun hükümlerine üstün tutulur ve Anayasa Mahkemesine bunlar hakkında iptal davası açılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 3,
+      "text": "Bir kişinin, kendisi hakkında verilmiş kesinleşmiş bir mahkeme kararı nedeniyle idareye başvurarak uğradığı zararın karşılanmasını istemesi aşağıdakilerden hangisiyle ilgilidir?",
+      "options": {
+        "B": "Dilekçe hakkı",
+        "A": "Mülkiyet hakkı",
+        "D": "Milletlerarası andlaşmalara dayalı başvuru",
+        "C": "Devletin sorumluluğu ve tazminat hakkı"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 40. maddesi, idarenin işlem ve eylemlerinden zarar görenlere karşı devletin sorumluluğunu ve zararın tazmin edilmesini güvence altına alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre grev hakkı ve lokavt hakkı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "C": "Grev hakkı yalnızca kamu görevlilerine tanınmıştır",
+        "A": "Lokavt hakkı işçilere tanınmış bir haktır",
+        "B": "Grev ve lokavt hakkı Anayasa'da ayrı bir maddeyle düzenlenmiş ve sınırları kanunla belirlenmiştir",
+        "D": "Grev hakkı hiçbir sınırlamaya tabi değildir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 54. maddesi grev ve lokavt hakkını ayrı bir maddede düzenler; grev ve lokavtın şekli ve kapsamı kanunla belirlenir ve bazı hizmetlerde kullanılması yasaklanabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, Devletin sosyal ve ekonomik alandaki görevlerini yerine getirmesini isteme hakkı olarak tanımlanan ve Anayasa'nın 65. maddesinde düzenlenen kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "C": "Sosyal devlet ilkesi sınırı",
+        "D": "Sosyal hakların sınırı",
+        "B": "Sosyal güvenlik hakkı",
+        "A": "Toplu iş sözleşmesi hakkı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 65. maddesi, Devletin sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, malî kaynaklarının yeterliliği ölçüsünde yerine getireceğini belirterek sosyal hakların sınırını çizer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre zorla çalıştırma ve angarya ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ücreti ödendiği takdirde angarya uygulanabilir",
+        "B": "Zorla çalıştırma, hiçbir istisnaya yer verilmeksizin mutlak biçimde yasaklanmıştır",
+        "C": "Hiç kimse zorla çalıştırılamaz ve angarya yasaktır",
+        "D": "Angarya yalnızca yabancılar bakımından yasaklanmıştır"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 18. maddesine göre hiç kimse zorla çalıştırılamaz ve angarya yasaktır; ancak hükümlülerin cezalarını çekerken çalıştırılması, olağanüstü hâllerde istenen hizmetler ve seferberlik gibi kanunda öngörülen bazı çalışmalar zorla çalıştırma sayılmaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi Başkanlık Divanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "D": "Divan üyeleri Cumhurbaşkanı tarafından atanır",
+        "A": "Divan, Meclis Başkanı, başkanvekilleri, kâtip üyeler ve idare amirlerinden oluşur",
+        "C": "Divan yalnızca Meclis Başkanından oluşur",
+        "B": "Divan üyeleri yargı organlarınca seçilir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 94. maddesine göre TBMM Başkanlık Divanı, Meclis Başkanı, başkanvekilleri, kâtip üyeler ve idare amirlerinden oluşur; üyeler Meclis içinden seçilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanının katılamadığı hâllerde yerine kim vekâlet eder?",
+      "options": {
+        "B": "TBMM Başkanı",
+        "C": "Anayasa Mahkemesi Başkanı",
+        "D": "En yaşlı bakan",
+        "A": "Cumhurbaşkanı yardımcısı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 106. maddesine göre Cumhurbaşkanı, hastalık ve yurt dışına çıkma gibi sebeplerle görevini geçici olarak yerine getiremezse Cumhurbaşkanı yardımcısı ona vekâlet eder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre TBMM üyelerinin seçim çevreleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "B": "Milletvekilleri ülke genelinde tek bir seçim çevresinden seçilir",
+        "A": "Nüfusu belirli bir sayısının altında kalan iller milletvekili çıkaramaz",
+        "D": "Her il en az bir milletvekili çıkarır",
+        "C": "Seçim çevreleri yalnızca bölge esasına göre belirlenir"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 80. ve 76. maddeleri çerçevesinde her il, nüfusuna bakılmaksızın en az bir milletvekili çıkarır; nüfusu fazla olan iller daha çok milletvekili seçer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre kanunların Cumhurbaşkanınca yayımlanma süresi, TBMM tarafından kabul edildiği tarihten itibaren en fazla kaç gündür?",
+      "options": {
+        "D": "On",
+        "C": "Yirmi",
+        "B": "On beş",
+        "A": "Otuz"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 89. maddesine göre Cumhurbaşkanı, TBMM'ce kabul edilen kanunları on beş gün içinde yayımlar; yayımlanmasını uygun bulmazsa bir kez daha görüşülmek üzere geri gönderebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre milletvekili tazminatı ve ödeneklerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "C": "Milletvekillerine ödenecek tazminatlar ve ödenekler kanunla düzenlenir",
+        "B": "Milletvekilleri hiçbir ödenek almaz",
+        "A": "Ödenek miktarını Anayasa Mahkemesi belirler",
+        "D": "Milletvekillerine ödenek yalnızca TBMM kararıyla verilir ve kanuna gerek yoktur"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 86. maddesine göre milletvekillerine verilecek ödeneklerin miktarı, tazminatlar ve diğer sosyal haklar kanunla düzenlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre olağanüstü hâl ilan edildiğinde bu durumun Resmî Gazete'de yayımlanmasından sonra TBMM'nin toplanması ve karar verilmesiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "TBMM olağanüstü hâl ilanını onaylamak zorunda değildir",
+        "D": "Olağanüstü hâl ancak TBMM kararıyla ilan edilebilir",
+        "C": "Meclis tatilde ise derhâl toplantıya çağrılır",
+        "B": "Olağanüstü hâl kararı Anayasa Mahkemesi tarafından onaylanır"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 119. ve 120. maddelerine göre olağanüstü hâl Cumhurbaşkanınca ilan edilir ve bu karar Resmî Gazete'de yayımlanır; TBMM tatilde ise derhâl toplantıya çağrılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Millî Güvenlik Kurulu ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "B": "Kurul, millî güvenlik politikasının oluşturulmasında hükûmete görüş bildiren bir organdır",
+        "D": "Kurul kararlarını doğrudan uygulama yetkisine sahiptir",
+        "C": "Kurul, olağanüstü hâl ilan etme yetkisini kullanır",
+        "A": "Kurul üyelerinin tamamı TBMM tarafından seçilir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 118. maddesine göre Millî Güvenlik Kurulu, millî güvenlik ve ülke savunmasına ilişkin kararlarda gerekli koordinasyonu sağlar ve görüş bildirir; Kurul kararları hükûmet tarafından değerlendirilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanının görevine son verilmesi, seçimlerin yenilenmesi gibi hâllerde seçilecek yeni Cumhurbaşkanının görev süresiyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "C": "Yeni Cumhurbaşkanı her hâlde önceki süreyi tamamlar",
+        "A": "Olağan seçimle göreve gelen Cumhurbaşkanının görev süresi beş yıldır",
+        "D": "Cumhurbaşkanının görev süresi dört yıldır",
+        "B": "Cumhurbaşkanının görev süresi TBMM tarafından belirlenir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 101. maddesine göre Cumhurbaşkanının görev süresi beş yıldır ve bir kişi en fazla iki kez Cumhurbaşkanı seçilebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre anayasa değişikliği teklifinin kabulü için TBMM'de aranan oy çokluğuyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "D": "Teklif üye tamsayısının üçte biriyle kabul edilir",
+        "B": "Teklif üye tamsayısının salt çoğunluğuyla kabul edilir",
+        "C": "Teklif üye tamsayısının beşte üçü ile kabul edilirse doğrudan yürürlüğe girer",
+        "A": "Teklifin kabulü için üye tamsayısının beşte üçü (360) aranır; kabul üçte ikiden az olursa referanduma sunulabilir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 175. maddesine göre Anayasa değişikliği teklifi üye tamsayısının en az üçte biri tarafından yazılı olarak verilir; kabulü için üye tamsayısının beşte üçü (360) oy aranır, üçte iki çoğunluk (400) sağlanamazsa teklif referanduma sunulabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre duruşmaların açık olması ve yargılamanın herkesin izleyebileceği biçimde yapılması hangi ilkeyle ilgilidir?",
+      "options": {
+        "B": "Yargılamanın aleniyeti",
+        "C": "Hâkimlerin bağımsızlığı",
+        "D": "Tabii hâkim ilkesi",
+        "A": "Yargı birliği"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 141. maddesine göre mahkemelerde duruşmalar herkese açıktır; yargılamanın aleniyeti ilkesi budur. Gerekli görüldüğünde bazı duruşmaların kapalı yapılmasına kanun çerçevesinde karar verilebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre hiçbir kimsenin işlediği zaman kanunun suç saymadığı bir fiilden dolayı ve kanunda öngörülen cezadan başka bir ceza ile cezalandırılamaması hangi ceza hukuku ilkesiyle ilgilidir?",
+      "options": {
+        "B": "Cezaların şahsiliği ilkesi",
+        "A": "Masumiyet karinesi",
+        "D": "Kanunilik ilkesi",
+        "C": "Şüpheden sanık yararlanır ilkesi"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 38. maddesindeki suç ve cezaların kanuniliği ilkesi, kanunda suç olarak öngörülmeyen fiillere ve kanunda belirtilenden başka cezaya izin vermez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre hâkimlik ve savcılık mesleği ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "B": "Hâkim ve savcılar görevlerini yaparken farklı statülere tabi olup hâkimler savcılık görevini de yürütür",
+        "A": "Hâkimler, savcılık görevini de yürütür",
+        "C": "Hâkimler ile savcılar ayrı meslek mensuplarıdır; hâkimlik ve savcılık görevi bir kişide birleşemez",
+        "D": "Hâkimler yürütmenin bir parçası olarak görev yapar"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 140. maddesine göre hâkimlik ve savcılık meslekleri mahkemelerin ve adaletin bağımsızlığı esasına göre ayrı ayrı ifa edilir; aynı kişi hem hâkimlik hem savcılık görevini birlikte yürütemez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesinin iptal davası açma yetkisi bulunan mercilerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İptal davası yalnızca Cumhurbaşkanı tarafından açılır",
+        "D": "İptal davası yalnızca Danıştay tarafından açılır",
+        "C": "İptal davası yalnızca bir mahkeme tarafından açılır",
+        "B": "Cumhurbaşkanı, TBMM üye tamsayısının en az beşte biri tutarındaki üyeler ve iktidar ile ana muhalefet partisi Meclis grupları iptal davası açabilir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 150. maddesine göre kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İçtüzüğü'nün Anayasa'ya aykırılığı iddiasıyla iptal davası; Cumhurbaşkanı, TBMM üye tamsayısının en az beşte biri tutarındaki üyeler ve iktidar ile ana muhalefet partisinin Meclis grupları tarafından açılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Cumhurbaşkanının Türkiye Büyük Millet Meclisi üyeliği sona erer; Cumhurbaşkanı kanun teklif edemez.",
+        "B": "Cumhurbaşkanı aynı zamanda milletvekili olarak görevine devam eder.",
+        "C": "Cumhurbaşkanı TBMM'ye kanun teklifi verebilir.",
+        "D": "Cumhurbaşkanı yalnızca TBMM üyeleri arasından seçilir."
+      },
+      "correctOption": "A",
+      "explanation": "2017 değişikliğiyle yürütme yetkisi Cumhurbaşkanına verilmiş; Cumhurbaşkanı seçilen kişinin TBMM üyeliği sona erer ve Cumhurbaşkanının kanun teklif etme yetkisi yoktur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre bir kanunun Anayasa'ya aykırılığı iddiasının bir mahkeme tarafından ciddi görülmesi hâlinde başvurulacak yol aşağıdakilerden hangisidir?",
+      "options": {
+        "B": "Doğrudan iptal davası",
+        "A": "İtiraz yoluna başvuru",
+        "C": "Bireysel başvuru",
+        "D": "Seçim iptali davası"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 152. maddesine göre bir davaya bakmakta olan mahkeme, uygulanacak kanunun Anayasa'ya aykırı olduğu kanısına varırsa ve iddia ciddi görülürse, işin geri kalanını erteleyerek itiraz yoluna başvurur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın başlangıç hükümleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "B": "Başlangıç metni yalnızca tarihî bir belge olup hukuki değeri yoktur",
+        "D": "Başlangıç hükümleri yalnızca Cumhurbaşkanını bağlar",
+        "C": "Başlangıç metni kanunlarla değiştirilebilir",
+        "A": "Başlangıç kısmı Anayasa metnine dahildir ve dayandığı temel görüş ve ilkeleri belirtir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın başlangıç kısmı Anayasa metnine dahildir; dayandığı temel görüş ve ilkeleri açıklar ve Anayasa'nın yorumunda dikkate alınır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 3,
+      "text": "1876 Kanûn-ı Esâsî'ye göre yürütme yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yürütme yetkisi tümüyle Meclis-i Umumi'ye aitti",
+        "C": "Yürütme yetkisi bağımsız mahkemelere aitti",
+        "B": "Yürütme yetkisi Heyet-i Ayan tarafından kullanılırdı",
+        "D": "Yürütme yetkisi padişaha ait olup padişahın sorumluluğu bulunmuyordu"
+      },
+      "correctOption": "D",
+      "explanation": "Kanûn-ı Esâsî'de yürütme yetkisi padişaha bırakılmış, padişahın sorumluluğu kabul edilmemişti; kuvvetler arasında gerçek bir denge bulunmuyordu.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 2,
+      "text": "Tarafların aksini kararlaştırmasının mümkün olmadığı, mutlaka uyulması gereken ve aksine davranışa hukuki yaptırım bağlanan hukuk kurallarına ne ad verilir?",
+      "options": {
+        "A": "Tamamlayıcı hükümler",
+        "B": "Yorumlayıcı hükümler",
+        "C": "Tanımlayıcı hükümler",
+        "D": "Emredici hükümler"
+      },
+      "correctOption": "D",
+      "explanation": "Emredici hükümler, tarafların aksini kararlaştıramadığı ve uyulması zorunlu olan hukuk kurallarıdır; aksine davranış hukuki yaptırıma bağlanır. Tamamlayıcı hükümler ise ancak taraflar aksini kararlaştırmadıysa uygulanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 2,
+      "text": "1924 Anayasası'na göre egemenlik ve yetkilerin kullanımı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "C": "Egemenlik millete aitti ancak yasama ve yürütme yetkileri TBMM'de toplanmıştı",
+        "B": "Yetkiler padişah ile meclis arasında paylaşılmıştı",
+        "A": "Yargı yetkisi padişah adına kullanılırdı",
+        "D": "Yasama ve yürütme yetkileri ayrı organlara verilmişti"
+      },
+      "correctOption": "C",
+      "explanation": "1924 Anayasası'nda egemenliğin millete ait olduğu belirtilmiş, ancak yasama ve yürütme yetkileri TBMM'de toplanmış; Meclis hükûmeti sisteminin izleri korunmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İdare Hukuku",
+      "difficulty": 2,
+      "text": "İdarenin, kamu hizmetini yürütürken her zaman ve her yerde önceden bir yetki verilmesine gerek olmaksızın harekete geçebilmesini sağlayan yetki aşağıdakilerden hangisidir?",
+      "options": {
+        "C": "Takdir yetkisi",
+        "D": "Kamu gücü ayrıcalığı",
+        "B": "İdari vesayet",
+        "A": "Hiyerarşik denetim"
+      },
+      "correctOption": "D",
+      "explanation": "Kamu gücü ayrıcalığı, idarenin özel hukuk kişilerinden farklı olarak tek taraflı işlem tesis edebilmesi ve icra gücüne sahip olmasıdır; idari işlemin uygulanması için ayrıca mahkeme kararı gerekmez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İdare Hukuku",
+      "difficulty": 3,
+      "text": "İdarenin, hukuka aykırı bir işlemini hiçbir yargı kararına gerek olmaksızın kendiliğinden geri almasına ne ad verilir?",
+      "options": {
+        "C": "İptal",
+        "D": "Geri alma",
+        "A": "Düzeltme",
+        "B": "Kaldırma"
+      },
+      "correctOption": "D",
+      "explanation": "İdarenin hukuka aykırı işlemini kendiliğinden ortadan kaldırmasına geri alma denir; hukuka uygun bir işlem ise ancak kanunda belirtilen koşullarla kaldırılabilir. İptal ise yargı kararıyla olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 3,
+      "text": "Kanunların Anayasa'ya, yönetmeliklerin kanunlara aykırı olamaması biçiminde ifade edilen ve hukuk düzeninin bir piramit gibi düzenlendiğini anlatan kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Normlar hiyerarşisi",
+        "A": "Kuvvetler ayrılığı",
+        "B": "Kanun önünde eşitlik",
+        "C": "Hukuki güvenlik"
+      },
+      "correctOption": "D",
+      "explanation": "Normlar hiyerarşisi, hukuki düzenlemelerin bir alt basamağının üst basamağa aykırı olamaması esasına dayanır; en üstte Anayasa yer alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 2,
+      "text": "Bir hukuk kuralının, kuralın yürürlüğe girmesinden sonra meydana gelen olay ve ilişkilere uygulanması, geçmişe yürümemesi aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "B": "Kanunların geriye yürümezliği",
+        "A": "Kanunların bağlayıcılığı",
+        "C": "Kanunların kamu düzenine ilişkin olması",
+        "D": "Emredici hüküm"
+      },
+      "correctOption": "B",
+      "explanation": "Kanunların geriye yürümezliği ilkesine göre bir kural, yürürlüğe girdiği tarihten sonraki olay ve ilişkilere uygulanır; geçmişe etkili olması kural olarak kabul edilmez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Mahalli İdareler",
+      "difficulty": 2,
+      "text": "Belediye yönetiminde, belediye başkanının katılmadığı veya görevlendirmediği hâllerde belediye başkanvekilliği ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "C": "Belediye başkanına vali vekâlet eder",
+        "B": "Başkanın bulunmadığı hâllerde belediye meclisi başkan vekillerinden biri belediye başkanlığına vekâlet eder",
+        "D": "Vekâlet görevi kaymakam tarafından yürütülür",
+        "A": "Vekâlet görevi il genel meclisi tarafından yerine getirilir"
+      },
+      "correctOption": "B",
+      "explanation": "Belediye başkanının görevi başında olmadığı hâllerde, belediye meclisince kendi üyeleri arasından seçilen başkan vekillerinden biri belediye başkanlığına vekâlet eder.",
+      "source": "özgün"
+    }
+  ]
+}

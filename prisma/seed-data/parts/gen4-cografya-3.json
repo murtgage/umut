@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Kalker gibi eriyebilen kayaçların bulunduğu alanlarda, yer altı sularının kayacı eritmesiyle oluşan çukurluklarda biriken suların meydana getirdiği göllere ne ad verilir?",
+      "options": {
+        "A": "Karstik göl",
+        "B": "Tektonik göl",
+        "C": "Buzul gölü",
+        "D": "Volkanik göl"
+      },
+      "correctOption": "A",
+      "explanation": "Kalkerli arazilerde erime sonucu oluşan çukurluklarda biriken sular karstik gölleri oluşturur; bu göller genellikle küçük ve düzensiz biçimlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 3,
+      "text": "Türkiye'deki göllerin büyük bölümünün suyunun tatlı değil, acı veya tuzlu olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Göllerin yüksek dağların zirvelerinde yer alması",
+        "B": "Göllerin büyük bölümünün kapalı havzalarda yer alması ve suyu dışarı akıtan bir gideğeninin bulunmaması",
+        "C": "Göl sularının denizlerle sürekli bağlantılı olması",
+        "D": "Göllerin yalnızca kar sularıyla beslenmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Gideğeni bulunmayan kapalı havza göllerinde buharlaşan su geride tuz bırakır; bu nedenle göl suyunun tuzluluğu zamanla artar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Türkiye'de Akşehir, Marmara ve Eğirdir gibi göllerin son yıllarda alan kaybederek kuruma tehlikesiyle karşılaşmasının başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Göllere aşırı miktarda balık bırakılması",
+        "B": "Beslenme havzasındaki yağışların azalması ve sulamada göl sularının aşırı kullanılması",
+        "C": "Göl tabanında volkanik püskürmelerin olması",
+        "D": "Göllerin deniz seviyesinden çok yüksekte bulunması"
+      },
+      "correctOption": "B",
+      "explanation": "Kuraklık ve azalan beslenmenin yanı sıra tarımsal sulamada göl ve yer altı suyunun aşırı kullanımı, göllerin alan kaybetmesine yol açar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Yükseltisi fazla olan bir gölün yüzey suyu sıcaklığının, aynı enlemdeki alçak bir gölden daha düşük olmasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yükselti arttıkça sıcaklığın azalması",
+        "B": "Yüksek göllerde buharlaşmanın hiç görülmemesi",
+        "C": "Yüksek göllerin yalnızca kar sularıyla beslenmesi",
+        "D": "Yüksek göllerin suyunun tuzlu olması"
+      },
+      "correctOption": "A",
+      "explanation": "Yükselti arttıkça atmosferdeki sıcaklık azaldığından, yüksek kesimlerdeki göllerin suyu alçak kesimlerdeki göllere göre daha soğuk olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Kar erimeleriyle beslenen bir akarsuyun akım miktarının en yüksek düzeye ulaştığı dönem aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kış sonu",
+        "B": "İlkbaharın sonu ve yazın başı",
+        "C": "Yaz sonu",
+        "D": "Sonbahar ortası"
+      },
+      "correctOption": "B",
+      "explanation": "Kar erimeleri ilkbaharın sonu ile yaz başında en fazla olduğundan, kar sularıyla beslenen akarsuların akımı bu dönemde en yüksek düzeye ulaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 3,
+      "text": "Bir akarsuyun hidroelektrik enerji potansiyelinin yüksek olması için aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Yatağının geniş ve akış hızının düşük olması",
+        "B": "Havzasında yağışın her mevsim aynı olması",
+        "C": "Akarsuyun eğiminin ve taşıdığı su miktarının fazla olması",
+        "D": "Akarsuyun kapalı bir havzada bulunması"
+      },
+      "correctOption": "C",
+      "explanation": "Hidroelektrik üretimi suyun düşme yüksekliğine (eğim) ve akım miktarına bağlıdır; eğim ile akım arttıkça üretilebilecek enerji de artar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Türkiye'deki akarsuların taşımacılık amacıyla çok az kullanılmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuların tuzlu su taşıması",
+        "B": "Akarsuların eğimlerinin fazla ve rejimlerinin düzensiz olması",
+        "C": "Akarsuların tamamının kapalı havzada bulunması",
+        "D": "Akarsu yataklarının çok geniş olması"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye akarsuları eğimli yataklarda hızlı akar ve akım miktarı mevsimlere göre büyük değişiklik gösterir; bu nedenle ulaşıma elverişli değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "İç Anadolu'da ormanların yalnızca dağların yüksek kesimlerinde tutunabilmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yükselti arttıkça yağışın artması ve buharlaşmanın azalması",
+        "B": "Yüksek kesimlerde sıcaklığın sürekli yüksek olması",
+        "C": "Yüksek kesimlerde toprakların tuzlu olması",
+        "D": "Alçak kesimlerde kar yağışının görülmemesi"
+      },
+      "correctOption": "A",
+      "explanation": "İç Anadolu'da alçak kesimler kurak olduğu için ağaç yetişemez; yüksek kesimlerde yağış artıp buharlaşma azaldığından ormanlar burada tutunabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Akdeniz iklim bölgesinde makilerin yapraklarının sert, küçük ve genellikle parlak olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yaz kuraklığında terleme yoluyla su kaybını azaltmak",
+        "B": "Kışın kar altında fotosentez yapmak",
+        "C": "Bitkilerin rüzgârla tozlaşmasını önlemek",
+        "D": "Toprağın tuzluluğunu artırmak"
+      },
+      "correctOption": "A",
+      "explanation": "Maki bitkileri, yaz boyunca süren kuraklıkta su kaybını en aza indirmek için sert, küçük ve tüylü yapraklar geliştirmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Bir yörenin doğal bitki örtüsünün orman, bozkır ya da çayır olmasını belirleyen temel etmen aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Toprağın rengi",
+        "B": "Yer şekillerinin yaşı",
+        "C": "Nemlilik (yağış) koşulları",
+        "D": "Kayaçların sertliği"
+      },
+      "correctOption": "C",
+      "explanation": "Bitki örtüsünün türünü belirleyen en önemli etmen nemliliktir; nem arttıkça orman, azaldıkça bozkır, yeterli nem bulunan kesimlerde ise çayır görülür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 2,
+      "text": "Bulunduğu yerde, bölgenin iklim ve bitki örtüsünün etkisiyle oluşan zonal (yerli) toprakların özelliklerini belirleyen temel etmen aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuların taşıdığı alüvyonlar",
+        "B": "İklim ve bitki örtüsü",
+        "C": "Yer çekimiyle yamaçtan taşınma",
+        "D": "Deniz suyunun etkisi"
+      },
+      "correctOption": "B",
+      "explanation": "Zonal topraklar, bulundukları bölgenin iklim ve bitki örtüsünün etkisiyle yerli olarak oluşur; laterit, çernozyom ve terra rossa bu gruba girer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 2,
+      "text": "Toprağın üst katmanında bulunan humusun oluşması aşağıdakilerden hangisinin sonucudur?",
+      "options": {
+        "A": "Ana kayanın yüksek sıcaklıkta erimesinin",
+        "B": "Akarsuların toprağı taşımasının",
+        "C": "Yağış sularının toprağı yıkamasının",
+        "D": "Bitki ve hayvan kalıntılarının ayrışmasının"
+      },
+      "correctOption": "D",
+      "explanation": "Humus, toprağa karışan bitki ve hayvan kalıntılarının mikroorganizmalarca ayrışmasıyla oluşur ve toprağın verimliliğini artırır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 3,
+      "text": "Eğimi dik olan yamaçlarda toprak örtüsünün genellikle ince olmasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bu alanlarda ana kayanın hiç bulunmaması",
+        "B": "Buralarda bitki örtüsünün çok gür olması",
+        "C": "Aşınma ve yer çekimiyle üst toprağın sürekli taşınması",
+        "D": "Bu alanlarda yağışın hiç görülmemesi"
+      },
+      "correctOption": "C",
+      "explanation": "Dik yamaçlarda bitki örtüsü zayıf olduğundan yağmur ve yer çekimi etkisiyle üst toprak sürekli taşınır; bu nedenle toprak örtüsü ince kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madencilik",
+      "difficulty": 2,
+      "text": "Bir maden yatağının ekonomik olarak işletilebilmesi için öncelikle aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Rezervin yeterli büyüklükte ve cevher oranının uygun olması",
+        "B": "Yatağın deniz kıyısında bulunması",
+        "C": "Yatağın yerleşim yerlerine çok yakın olması",
+        "D": "Cevherin yüzeyde hiç bulunmaması"
+      },
+      "correctOption": "A",
+      "explanation": "Bir madenin işletilmesi, yatağın yeterli rezerve sahip olmasına, cevher oranının (tenörünün) uygun olmasına ve ulaşım koşullarına bağlıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madencilik",
+      "difficulty": 2,
+      "text": "Türkiye'de çıkarılan madenlerin önemli bir bölümünün işlenmeden ham olarak ihraç edilmesinin başlıca olumsuz sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Maden yataklarının daha hızlı tükenmesinin engellenmesi",
+        "B": "Ülkenin maden ihracatının tamamen durması",
+        "C": "Maden fiyatlarının dünyada yükselmesi",
+        "D": "Ürünün katma değerinin düşük kalması ve işlenmiş ürün ithalatına bağımlılık"
+      },
+      "correctOption": "D",
+      "explanation": "Ham maden işlenmeden satıldığında elde edilen gelir düşük olur; işlenmiş ürünler dışarıdan alındığında ise ülke katma değer kaybeder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Madencilik",
+      "difficulty": 2,
+      "text": "Türkiye'de yer altı kaynaklarının çeşitlilik bakımından zengin olmasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Ülkenin yalnızca tek bir jeolojik dönemde oluşması",
+        "B": "Farklı jeolojik dönemlerde oluşmuş çeşitli kayaç ve cevher yataklarının bulunması",
+        "C": "Toprakların her yerde aynı türde olması",
+        "D": "Ülke yüzeyinin sürekli buzullarla kaplı olması"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'de farklı jeolojik dönemlerde oluşan magmatik, tortul ve metamorfik kayaçlar bulunduğundan maden çeşitliliği fazladır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 2,
+      "text": "Şeker fabrikalarının genellikle şeker pancarı üretim alanlarına yakın kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Şeker pancarının çabuk bozulması ve ağırlığının işlenme sırasında azalması",
+        "B": "Fabrikaların deniz kıyısında bulunmasının zorunlu olması",
+        "C": "Şekerin yalnızca soğuk bölgelerde üretilebilmesi",
+        "D": "Pancarın taşınmasının hiç maliyet gerektirmemesi"
+      },
+      "correctOption": "A",
+      "explanation": "Şeker pancarı çabuk bozulan ve ağırlığının büyük bölümünü işlenme sırasında kaybeden bir ham madde olduğundan fabrikalar üretim alanlarına yakın kurulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 2,
+      "text": "Sanayi tesislerinin organize sanayi bölgelerinde bir arada yer seçmesinin sağladığı temel avantaj aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Her tesisin kendi enerji santralini kurmak zorunda kalması",
+        "B": "Üretilen ürünlerin pazara ulaştırılmasının yasaklanması",
+        "C": "İş gücünün bölgeye gelmesinin engellenmesi",
+        "D": "Ortak altyapı, ulaşım ve yan sanayi olanaklarından yararlanılması"
+      },
+      "correctOption": "D",
+      "explanation": "Organize sanayi bölgelerinde tesisler yol, enerji, su ve arıtma gibi ortak altyapıyı paylaşır; ayrıca birbirine ham madde sağlayan yan sanayi ilişkileri kurulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 3,
+      "text": "Türkiye'de sanayi tesislerinin büyük bölümünün Marmara Bölgesi'nde toplanmasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Bölgenin ülkenin en az yağış alan yeri olması",
+        "B": "Bölgede ham madde kaynaklarının hiç bulunmaması",
+        "C": "Pazara ve limanlara yakınlık ile sermaye, ulaşım ve iş gücü birikiminin bulunması",
+        "D": "Bölgenin yüzey şekillerinin çok engebeli olması"
+      },
+      "correctOption": "C",
+      "explanation": "Marmara Bölgesi büyük tüketim pazarlarına, limanlara ve gelişmiş ulaşım ağlarına sahip olduğundan sermaye ile nitelikli iş gücünü de kendine çekmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Türkiye'de arıcılığın (bal üretiminin) gelişebilmesi için aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Zengin bir doğal bitki örtüsü (flora) çeşitliliği ve uygun iklim koşulları",
+        "B": "Geniş ve tuzlu göllerin bulunması",
+        "C": "Yıl boyunca kar altında kalan otlaklar",
+        "D": "Tek tip bitki örtüsünün yaygın olması"
+      },
+      "correctOption": "A",
+      "explanation": "Arıların bal yapabilmesi için farklı dönemlerde çiçek açan zengin bir bitki örtüsüne ve arının uçuş yapabildiği uygun sıcaklıklara ihtiyaç vardır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Türkiye'de mera (otlak) hayvancılığının yerini giderek ahır ve besi hayvancılığının almasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ahır hayvancılığında hayvan sayısının hiç artmaması",
+        "B": "Mera alanlarının her yıl genişlemesi",
+        "C": "Mera hayvancılığının daha az emek gerektirmesi",
+        "D": "Meraların aşırı otlatma ve amaç dışı kullanımla daralması ve verimlerinin düşmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Meraların azalması ve aşırı otlatmayla verimlerinin düşmesi, üretimini artırmak isteyen üreticileri yemle beslenen ahır ve besi hayvancılığına yöneltmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Hayvancılık",
+      "difficulty": 2,
+      "text": "Kümes hayvancılığının (tavukçuluk) büyük kentlerin çevresinde ve modern kapalı tesislerde gelişmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kentlerde hayvanların otlatılabileceği geniş meraların bulunması",
+        "B": "Ürünlerin taze olarak pazara kısa sürede ulaştırılabilmesi ve talebin yoğun olması",
+        "C": "Kümes hayvanlarının çok uzun mesafe yürütülmesi gerekliliği",
+        "D": "Kapalı tesislerde üretimin tamamen durdurulması"
+      },
+      "correctOption": "B",
+      "explanation": "Tavuk ve yumurta çabuk bozulabilen ürünler olduğundan üretim, talebin yoğun olduğu kentlerin çevresinde kurulan modern tesislerde yapılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Türkiye'de ulaşımı güçleştiren doğal etmenler arasında aşağıdakilerden hangisi yer alır?",
+      "options": {
+        "A": "Ülke yüzeyinin tamamen düz olması",
+        "B": "İklimin yıl boyunca her yerde aynı olması",
+        "C": "Yer şekillerinin engebeli olması ve iklim koşullarının değişkenliği",
+        "D": "Ülkenin denizlerle çevrili olmaması"
+      },
+      "correctOption": "C",
+      "explanation": "Yüksek ve engebeli yer şekilleri yol yapımını güçleştirir; kışın kar, sis ve buzlanma gibi iklim koşulları da ulaşımı zaman zaman aksatır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Türkiye'de limanların büyük bölümünün kıyıdaki doğal körfez ve koylar çevresinde kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Körfezlerde suyun her zaman tatlı olması",
+        "B": "Bu alanlarda nüfusun hiç bulunmaması",
+        "C": "Körfezlerin karayolu bağlantısını engellemesi",
+        "D": "Buraların dalga ve rüzgârlardan korunaklı olması ve gelişmiş bir art bölgeye sahip bulunması"
+      },
+      "correctOption": "D",
+      "explanation": "Doğal koylar gemiler için korunaklı barınak sağlar; ayrıca bu alanların gerisindeki üretim ve tüketim bölgeleri limanların gelişmesini sağlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir bölgede nüfusun hızla artması, öncelikle aşağıdakilerden hangisini zorunlu kılar?",
+      "options": {
+        "A": "Konut, eğitim, sağlık ve altyapı hizmetlerine olan talebin artmasını",
+        "B": "Bölgedeki iş olanaklarının kendiliğinden azalmasını",
+        "C": "Tarım alanlarının sınırsız biçimde büyümesini",
+        "D": "Doğal kaynakların tükenmeden çoğalmasını"
+      },
+      "correctOption": "A",
+      "explanation": "Nüfus hızla arttığında barınma, eğitim, sağlık, ulaşım ve iş gibi hizmetlere olan talep de artar; bu hizmetlerin önceden planlanması gerekir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 3,
+      "text": "Türkiye'de nüfus artış hızının 1960'lı yıllardan itibaren yavaşlamasında aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Kırsal nüfusun ve doğurganlığın sürekli artması",
+        "B": "Kentleşmenin hızlanması, eğitim düzeyinin yükselmesi ve kadının iş gücüne katılımının artması",
+        "C": "Ortalama yaşam süresinin kısalması",
+        "D": "Sağlık hizmetlerinin tamamen ortadan kalkması"
+      },
+      "correctOption": "B",
+      "explanation": "Kentleşme, eğitim süresinin uzaması, kadının iş hayatına girmesi ve aile planlaması hizmetlerinin yaygınlaşması doğum oranını düşürerek nüfus artış hızını azaltmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'de yıllık sıcaklık farkının (amplitüdün) iç bölgelerde kıyı bölgelerine göre daha büyük olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İç bölgelerin deniz seviyesinden daha alçak olması",
+        "B": "İç bölgelerde güneş ışınlarının hiç ulaşmaması",
+        "C": "İç bölgelerin denizden uzak olması ve nem oranının düşmesi",
+        "D": "Kıyı bölgelerinde kar yağışının hiç görülmemesi"
+      },
+      "correctOption": "C",
+      "explanation": "Denizden uzaklaşıldıkça nem azalır ve karasallık artar; nem azlığı nedeniyle iç bölgeler yazın çok ısınır, kışın çok soğur ve yıllık sıcaklık farkı büyür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 3,
+      "text": "Akdeniz iklim bölgesinde yaz kuraklığının belirgin olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yaz aylarında bölgede sürekli kar yağması",
+        "B": "Bölgenin okyanustan çok uzakta bulunması",
+        "C": "Bölgede yaz aylarında rüzgârların denizden karaya esmesi",
+        "D": "Yazın bölgenin alçalıcı hava hareketlerinin görüldüğü yüksek basınç etkisine girmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Yaz aylarında Akdeniz çevresi subtropikal yüksek basınç etkisine girer; havanın alçalması yağış oluşumunu engellediğinden yazlar sıcak ve kurak geçer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 2,
+      "text": "Aynı şiddetteki bir depremin bir yerleşim yerinde ağır, başka bir yerleşim yerinde daha hafif hasara yol açması aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Depremin yalnızca bir bölgeyi etkileyebilmesiyle",
+        "B": "Yerleşim yerlerinin aynı iklim bölgesinde bulunmasıyla",
+        "C": "Zemin özelliklerinin ve yapıların depreme dayanıklılığının farklı olmasıyla",
+        "D": "Her iki bölgede de fay hattı bulunmamasıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Deprem kaybı yalnızca depremin büyüklüğüne değil, zeminin yapısına, yapıların dayanıklılığına ve odağa uzaklığa göre değişir; bu nedenle hasar farklı olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 2,
+      "text": "Türkiye'de sel ve taşkınların yerleşim yerlerinde can ve mal kaybına yol açmasının başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsu yataklarının sürekli temizlenmesi",
+        "B": "Yerleşim yerlerinin akarsu kaynaklarına çok uzak kurulması",
+        "C": "Yağışların her zaman kar biçiminde düşmesi",
+        "D": "Dere yataklarının yerleşime açılması ve geçirimsiz yüzeylerin artması"
+      },
+      "correctOption": "D",
+      "explanation": "Dere yatakları yapılaşmaya açıldığında sağanak yağışlarda yükselen sular yerleşim alanlarına taşar; betonlaşma da suyun toprağa sızmasını azaltarak taşkını büyütür.",
+      "source": "özgün"
+    }
+  ]
+}

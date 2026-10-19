@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir yörede tarımsal nüfus yoğunluğunun (tarım alanı başına düşen insan sayısının) aritmetik nüfus yoğunluğundan çok yüksek çıkması, o yöre için aşağıdakilerden hangisini gösterir?",
+      "options": {
+        "B": "Yörede tarım dışı sektörlerin hızla geliştiğini",
+        "D": "Yörenin yüz ölçümünün küçük olduğunu",
+        "C": "Nüfusun büyük bölümünün tarımla geçindiğini ve tarım alanlarının sınırlı olduğunu",
+        "A": "Yörede nüfus artış hızının negatif olduğunu"
+      },
+      "correctOption": "C",
+      "explanation": "Tarımsal nüfus yoğunluğu yalnızca tarım alanları esas alınarak hesaplandığından, değerin yüksek olması geçimini tarımdan sağlayan kalabalık bir nüfus ile dar tarım alanı birlikteliğini gösterir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 3,
+      "text": "Bir ülkede doğal nüfus artış hızı düşerken toplam nüfusun artmaya devam etmesi aşağıdakilerden hangisiyle açıklanabilir?",
+      "options": {
+        "A": "Nüfus artışının doğum-ölüm dengesinin yanı sıra göçlerle de beslenmesiyle",
+        "B": "Doğum oranının yeniden yükselmesiyle",
+        "C": "Ortalama yaşam süresinin kısalmasıyla",
+        "D": "Kadın başına düşen doğum sayısının artmasıyla"
+      },
+      "correctOption": "A",
+      "explanation": "Doğal artış hızı düşse bile ülkeye yönelen göçler toplam nüfusu artırmaya devam ettirebilir; toplam artış doğal artış ile net göçün toplamıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir ülkede toplam nüfusun yüzey şekillerine ve iklime bağlı olarak ülke geneline dengesiz dağılması, öncelikle aşağıdakilerden hangisini gerektirir?",
+      "options": {
+        "D": "Bölgeler arası yatırım ve hizmet planlamasının farklılaşmasını",
+        "A": "Ülke nüfusunun doğum oranıyla hızla azalmasını",
+        "C": "Tüm bölgelerde sanayinin aynı hızda gelişmesini",
+        "B": "Nüfusun yalnızca kıyılarda toplanmasını"
+      },
+      "correctOption": "D",
+      "explanation": "Nüfusun dengesiz dağıldığı ülkelerde plansal yatırım, ulaşım ve kamu hizmetleri bölgelere göre farklı biçimde planlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 3,
+      "text": "Bir ülkenin nüfusunun yaşlı sayılabilecek bir yapıya dönüşmesi, o ülke ekonomisi ve kamu hizmetleri açısından öncelikle aşağıdakilerden hangisini gündeme getirir?",
+      "options": {
+        "A": "Okul öncesi eğitime olan talebin artmasını",
+        "B": "Geniş aile tipinin yeniden yaygınlaşmasını",
+        "D": "Doğum oranlarının kendiliğinden yükselmesini",
+        "C": "Sağlık ve sosyal güvenlik harcamalarının artmasını"
+      },
+      "correctOption": "C",
+      "explanation": "Yaşlı nüfus oranının yükselmesi bakım, tedavi ve emeklilik giderlerini artırarak sağlık ile sosyal güvenlik sistemine yük getirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 2,
+      "text": "Bir ülkeden nitelikli iş gücünün (doktor, mühendis, akademisyen) başka ülkelere göç etmesi, kaynak ülke açısından aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "D": "Nitelikli iş gücü kaybına ve beşeri sermayenin zayıflamasına",
+        "A": "Kişi başına düşen gelirin kesin olarak artmasına",
+        "C": "Nüfus yoğunluğunun ülke genelinde yükselmesine",
+        "B": "Doğum oranlarının kısa sürede artmasına"
+      },
+      "correctOption": "D",
+      "explanation": "Eğitimli bireylerin ülkeyi terk etmesi 'beyin göçü' olarak adlandırılır ve kaynak ülkenin yetişmiş insan gücünü, dolayısıyla beşeri sermayesini azaltır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 3,
+      "text": "Bir bölgeye göç eden nüfusun çoğunlukla erkeklerden ve genç yetişkinlerden oluşması, göç alan yörede aşağıdakilerden hangisine neden olur?",
+      "options": {
+        "D": "Ortalama yaşam süresinin kısalmasına",
+        "A": "Bağımlılık oranının sıfıra inmesine",
+        "B": "Çalışma çağındaki nüfusun ve cinsiyet oranının değişmesine",
+        "C": "Doğum oranının anında düşmesine"
+      },
+      "correctOption": "B",
+      "explanation": "Göç edenlerin çoğunlukla genç ve erkek olması, göç alan yörede çalışma çağı nüfusunu artırır ve kadın-erkek dengesini bozarak cinsiyet yapısını değiştirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 1,
+      "text": "Doğal afet sonrasında insanların yaşadıkları yerleşmeyi geçici ya da kalıcı olarak terk etmesiyle gerçekleşen göç, aşağıdaki göç nedenlerinden hangisiyle açıklanır?",
+      "options": {
+        "A": "Ekonomik nedenler",
+        "B": "Doğal nedenler",
+        "D": "Siyasi nedenler",
+        "C": "Dinî nedenler"
+      },
+      "correctOption": "B",
+      "explanation": "Deprem, sel, heyelan, kuraklık gibi doğa olaylarının yarattığı zorunlu yer değiştirme, doğal nedenli göç kapsamında değerlendirilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 2,
+      "text": "Bir yerleşmenin 'kent' sayılabilmesi için yalnızca nüfus büyüklüğünün yeterli olmaması, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "D": "Kentlerin yalnızca kıyılarda kurulabilmesiyle",
+        "A": "Nüfus sayımlarının sık yapılmamasıyla",
+        "C": "Kır ve kent arasında kesin bir nüfus sınırı bulunmamasıyla",
+        "B": "Kentin ekonomik ve idari işlevlerinin de belirleyici olmasıyla"
+      },
+      "correctOption": "B",
+      "explanation": "Bir yerleşmenin kent niteliği kazanması, nüfus büyüklüğünün yanında tarım dışı ekonomik etkinlikler, yönetim, hizmet ve altyapı işlevlerinin varlığına bağlıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 3,
+      "text": "Toplu yerleşmelerin su kaynağının bulunduğu tek bir nokta çevresinde, dağınık yerleşmelerin ise bol ve yaygın su kaynaklarının olduğu alanlarda görülmesi, aşağıdakilerden hangisinin yerleşme dokusunu belirlediğini gösterir?",
+      "options": {
+        "D": "Su kaynaklarının dağılışının",
+        "A": "Ortalama sıcaklığın",
+        "B": "Ulaşım ağının yoğunluğunun",
+        "C": "Sanayi tesislerinin konumunun"
+      },
+      "correctOption": "D",
+      "explanation": "Su kaynağının tek noktada toplandığı yerlerde evler o kaynak çevresinde kümelenir; kaynakların yaygın olduğu yerlerde ise her aile kendi suyuna yakın ayrı bir noktaya yerleşerek dağınık dokuyu oluşturur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 2,
+      "text": "Türkiye'de yükseltisi fazla ve eğimi dik alanlarda yerleşmelerin daha çok güneye bakan yamaçlarda kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "C": "Güneye bakan yamaçların daha fazla güneş alması ve daha az kar tutması",
+        "B": "Güneye bakan yamaçların ulaşım için her zaman düz olması",
+        "A": "Kuzeye bakan yamaçlarda hiç su bulunmaması",
+        "D": "Güney yamaçların her zaman ormanla kaplı olması"
+      },
+      "correctOption": "C",
+      "explanation": "Kuzey yarım kürede güneşe dönük (bakı) güney yamaçlar daha sıcak olur, kar daha kısa süre kalır ve yerleşme ile tarım için daha elverişli koşullar sağlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Kapadokya yöresinde peribacalarının oluşumunda aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Buzulların yüzeyi sıyırarak geniş çukurlar açmasının",
+        "B": "Deniz dalgalarının kıyıyı sürekli oymasının",
+        "C": "Volkanik tüf örtüsünün akarsu ve rüzgârla farklı dirençte aşınmasının",
+        "D": "Yer altı sularının kalkeri eriterek boşluklar oluşturmasının"
+      },
+      "correctOption": "C",
+      "explanation": "Peribacaları, volkanik tüfler ile bunların üzerindeki daha sert katmanların akarsu ve rüzgâr tarafından farklı hızda aşındırılması; üstteki sert şapkanın alttaki yumuşak tüfü korumasıyla oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 3,
+      "text": "Türkiye'nin iç bölgelerinde tarımda sulamaya duyulan ihtiyacın kıyı bölgelerine göre daha fazla olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "B": "İç bölgelerde toprakların tuzlu olması",
+        "D": "İç bölgelerde tarım alanlarının daha küçük olması",
+        "A": "İç bölgelerde yağışın azalması ve buharlaşmanın fazla olması",
+        "C": "İç bölgelerde yer altı suyunun hiç bulunmaması"
+      },
+      "correctOption": "A",
+      "explanation": "Denizden uzaklık ve yükselti nedeniyle iç bölgelerde yağış azalır, sıcaklık farkı ve buharlaşma artar; bu durum tarımda sulamayı zorunlu kılar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'de aynı enlemde bulunmalarına karşın Doğu Anadolu'nun İç Anadolu'dan daha soğuk olması, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "C": "Doğu Anadolu'nun denize daha yakın olmasıyla",
+        "D": "Doğu Anadolu'da orman örtüsünün daha gür olmasıyla",
+        "A": "Doğu Anadolu'da enlem değerinin daha küçük olmasıyla",
+        "B": "Doğu Anadolu'nun ortalama yükseltisinin daha fazla olmasıyla"
+      },
+      "correctOption": "B",
+      "explanation": "Sıcaklık yükseltiyle azalır; Doğu Anadolu'nun ortalama yükseltisinin İç Anadolu'dan belirgin biçimde fazla olması aynı enlemde daha düşük sıcaklıklara yol açar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Bir merkezde bağıl (nispi) nemin yüksek olmasına karşın yağışın az olması, aşağıdakilerden hangisiyle açıklanabilir?",
+      "options": {
+        "A": "Havanın doymuş olmasıyla",
+        "C": "Sıcaklığın çok düşük olmasıyla",
+        "D": "Rüzgârın hiç esmemesiyle",
+        "B": "Havanın yükselip soğuyamamasıyla"
+      },
+      "correctOption": "B",
+      "explanation": "Yağış için nemli havanın yükselip soğuyarak yoğuşması gerekir; hava yükselmediğinde nem oranı yüksek olsa bile yağış oluşmaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 3,
+      "text": "Bir kıyı kentinde kışın denizin karaya göre daha ılık olması, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "D": "Kış sıcaklığının aynı enlemdeki iç kesimlere göre daha yüksek olmasına",
+        "B": "Yıllık yağışın iç kesimlerden az olmasına",
+        "A": "Kışın kar yağışının hiç görülmemesine",
+        "C": "Yaz sıcaklığının iç kesimlerden düşük olmasına"
+      },
+      "correctOption": "D",
+      "explanation": "Suyun ısıyı depolama ve geç salma özelliği nedeniyle deniz kışın çevresini ılıtır; böylece kıyılar aynı enlemdeki iç kesimlerden daha ılık kışlar yaşar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Rüzgârın sürekli olarak yüksek basınç alanından alçak basınç alanına doğru esmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İki alan arasındaki basınç farkı",
+        "B": "Yer çekiminin hava kütlesini sürekli aşağı doğru çekmesi",
+        "C": "Havanın her iki alanda da aynı sıcaklıkta olması",
+        "D": "Her iki alandaki nem oranının eşit olması"
+      },
+      "correctOption": "A",
+      "explanation": "Rüzgâr, basıncın yüksek olduğu alandan alçak olduğu alana doğru hareket eden hava akımıdır; bu hareketi doğuran temel etken iki alan arasındaki basınç farkıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Akarsuların eğimin azaldığı kesimlerde menderesler çizerek akması, aşağıdakilerden hangisinin sonucudur?",
+      "options": {
+        "A": "Akarsuyun yatak eğiminin azalması ve yanlara doğru aşındırma yapması",
+        "D": "Akarsuyun debisinin aniden artması",
+        "B": "Akarsuyun kaynağının yükselmesi",
+        "C": "Akarsuyun taşıdığı malzemenin tamamen durması"
+      },
+      "correctOption": "A",
+      "explanation": "Eğim azalınca akarsu hızı düşer, derine aşındırma zayıflar ve akarsu yatağını yanlara doğru aşındırarak kıvrımlı (menderesli) bir yol izler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 3,
+      "text": "Bir yörede yüksek dağların çevresindeki çukurluklarda kalın tortul katmanlar ile kıvrımlı (kıvrım) dağ sıralarının birlikte görülmesi, aşağıdakilerden hangisine işaret eder?",
+      "options": {
+        "D": "Yörenin volkanik faaliyetlerle oluştuğuna",
+        "A": "Yörede buzullaşmanın etkili olduğuna",
+        "B": "Yörenin karstik aşınım evresinde olduğuna",
+        "C": "Yörenin eskiden deniz tabanı olup yer kabuğu hareketleriyle sıkıştığına"
+      },
+      "correctOption": "C",
+      "explanation": "Denizel tortul katmanların kıvrımlanarak yükselmesi, bölgenin bir zamanlar deniz tabanı olduğunu ve orojenik (dağ oluşum) hareketlerle sıkıştığını gösterir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Bir akarsuyun aşağı çığırına doğru taşıdığı malzemenin boyutunun küçülmesi, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Akarsuyun kaynağının denize yakın olmasıyla",
+        "C": "Akarsuyun taşıma sırasında malzemeyi sürekli aşındırması ve parçalamasıyla",
+        "B": "Akarsu debisinin aşağı çığırda tamamen kurumasıyla",
+        "D": "Aşağı çığırda yağışın artmasıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Akarsu taşıdığı malzemeyi uzun yol boyunca birbirine ve yatağına çarparak ufalayıp yuvarlaklaştırır; bu nedenle çakıl ve kum aşağı çığırda daha küçük boyutlara iner.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Bir tarım ürününün hasat edildikten sonra kısa sürede bozulabilen (dayanıksız) bir ürün olması, o ürünün yetiştirildiği yöreyle ilgili aşağıdakilerden hangisini zorunlu kılar?",
+      "options": {
+        "A": "Üretim alanlarının tüketim ve pazar merkezlerine yakın olmasını",
+        "D": "Üretimin yalnızca yüksek yörelerde yapılmasını",
+        "B": "Ürünün mutlaka deniz yoluyla taşınmasını",
+        "C": "Üretimin yalnızca kış aylarında yapılmasını"
+      },
+      "correctOption": "A",
+      "explanation": "Çabuk bozulan ürünlerde nakliye süresi maliyeti ve kaybı artırdığından üretim, pazar ve tüketim merkezlerine yakın yerlerde yoğunlaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 3,
+      "text": "Bir sanayi kolunun emek yoğun özellik taşıması durumunda, bu tesislerin kuruluş yerinin seçiminde aşağıdakilerden hangisi belirleyici olur?",
+      "options": {
+        "C": "Ham madde kaynağının mutlaka deniz kıyısında olması",
+        "B": "Enerji üretim tesislerinin tesisin yanında bulunması",
+        "A": "Nüfusun yoğun ve iş gücünün bol-olduğu merkezlerde bulunması",
+        "D": "Tesisin kesinlikle kırsal alanda kurulması"
+      },
+      "correctOption": "A",
+      "explanation": "Emek yoğun sanayide üretim maliyetinin büyük bölümü işçilik olduğundan tesisler, iş gücünün bol ve ulaşılabilir olduğu kalabalık merkezlerde yoğunlaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Türkiye'de sulanabilen alanların genişlemesinin tarım üzerindeki en belirgin etkisi aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Nadasa bırakılan alanların azalması ve verimin artması",
+        "C": "Tarımda makine kullanımının tamamen bırakılması",
+        "B": "Kuru tarım alanlarının tümüyle ortadan kalkması",
+        "A": "Tarımsal ürün çeşidinin azalması"
+      },
+      "correctOption": "D",
+      "explanation": "Sulama, tarımda ikinci ürün alınmasını ve nadas alanlarının azalmasını sağlar; birim alandan elde edilen verim yükselir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Bir bölgede ulaşım ağının geçitlerden (dağ geçitleri, boğazlar) geçmek zorunda kalması, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Ulaşımın her yöne eşit biçimde dağılmasına",
+        "B": "Ulaşım güzergâhlarının belirli hatlarda toplanmasına",
+        "C": "Ulaşım maliyetlerinin sıfırlanmasına",
+        "D": "Bölgede hiç demiryolu yapılamamasına"
+      },
+      "correctOption": "B",
+      "explanation": "Doğal geçitler ulaşım için zorunlu koridorlar oluşturduğundan yollar bu noktalarda düğümlenir ve ağ belirli hatlarda yoğunlaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 3,
+      "text": "Türkiye'de karayolu taşımacılığında taşıma mesafesi uzadıkça birim maliyetin demiryoluna göre daha hızlı artması, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "C": "Karayolunda taşıma kapasitesinin çok yüksek olmasıyla",
+        "B": "Karayolu araçlarının hiç yakıt kullanmamasıyla",
+        "A": "Demiryolunun yalnızca kısa mesafelerde kullanılmasıyla",
+        "D": "Bir kamyonun taşıdığı yükün bir tren vagonundan çok az olmasıyla"
+      },
+      "correctOption": "D",
+      "explanation": "Bir kamyonun taşıma kapasitesi bir tren vagonundan çok daha düşük olduğundan uzun mesafelerde ton başına yakıt ve işçilik maliyeti demiryoluna göre hızla yükselir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Turizm",
+      "difficulty": 2,
+      "text": "Bir yörede turizm faaliyetlerinin yılın yalnızca belirli bir döneminde yoğunlaşması, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "C": "Yöredeki konaklama ve hizmet işlerinin yıl boyunca kesintisiz sürmesine",
+        "B": "Yörede turizm faaliyetinin tamamen durmasına",
+        "A": "Turizmde çalışan iş gücünün mevsimlik olmasına",
+        "D": "Turizmin sanayiye dönüşmesine"
+      },
+      "correctOption": "A",
+      "explanation": "Turizmin mevsimlik olması, yöredeki konaklama ve hizmet işlerinin yılın yalnızca bir bölümünde istihdam sağlamasına, dolayısıyla iş gücünün mevsimlik nitelik taşımasına neden olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Turizm",
+      "difficulty": 3,
+      "text": "Türkiye'de turizmin kıyı bölgelerinde yoğunlaşmasının, iç bölgelerdeki tarihî ve kültürel değerlere dayalı turizme kıyasla aşağıdakilerden hangisine yol açtığı söylenebilir?",
+      "options": {
+        "B": "Turizm gelirinin ekonomik katkısının ortadan kalkmasına",
+        "A": "Kıyıların kültürel mirastan tamamen yoksun kalmasına",
+        "D": "Turizmin daha çok yaz aylarında ve kıyı kesiminde toplanmasına",
+        "C": "İç bölgelerde turizm faaliyetinin tümüyle sona ermesine"
+      },
+      "correctOption": "D",
+      "explanation": "Deniz-kum-güneş turizmine dayalı yoğunlaşma, turizmi yaz mevsimi ve kıyı kesimleriyle sınırlı tutarken iç bölgelerdeki kültür turizmi daha sınırlı ve dağınık kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Enerji",
+      "difficulty": 2,
+      "text": "Rüzgâr enerjisi üretiminde türbinlerin, sürekli ve düzenli rüzgâr alan açık alanlara kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "C": "Türbinlerin yalnızca deniz kenarında çalışabilmesi",
+        "B": "Elektrik üretiminin rüzgârın sürekliliğine ve hızına bağlı olması",
+        "A": "Türbinlerin yerleşim alanlarına mutlaka yakın olması gerektiği",
+        "D": "Rüzgâr hızının düzensiz olduğu yerlerde maliyetin düşmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Bir rüzgâr türbininin ürettiği enerji rüzgâr hızının küpüyle orantılıdır; bu nedenle türbinler sürekli, düzenli ve yeterli hızda rüzgâr alan alanlara kurulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Enerji",
+      "difficulty": 3,
+      "text": "Fosil yakıt kullanan termik santrallerin atmosfere bıraktığı karbondioksit, aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
+      "options": {
+        "C": "Asit yağmurlarının azalmasıyla",
+        "B": "Sera etkisinin güçlenmesiyle",
+        "A": "Ozon tabakasının kalınlaşmasıyla",
+        "D": "Yer altı su seviyesinin yükselmesiyle"
+      },
+      "correctOption": "B",
+      "explanation": "Karbondioksit başlıca sera gazlarından biridir; atmosferdeki miktarının artması ısının tutulmasını güçlendirerek sera etkisini ve küresel ısınmayı besler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 2,
+      "text": "Bir akarsuya boşaltılan evsel ve sanayi atıklarının, akarsuyun denize döküldüğü kıyı bölgesinde deniz canlılarını olumsuz etkilemesi, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "D": "Atıkların yalnızca kaynakta kalmasıyla",
+        "B": "Deniz suyunun atıkları zehirsiz hâle getirmesiyle",
+        "A": "Deniz canlılarının tatlı suda yaşamasıyla",
+        "C": "Atıkların akarsu boyunca taşınarak kıyıya ulaşmasıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Akarsular kirleticileri kaynaktan denize taşıdığından, akarsu havzasındaki kirlilik denize ulaşarak kıyı ekosistemini ve canlıları etkiler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 2,
+      "text": "Sanayi tesisleri ile fosil yakıtlardan atmosfere salınan kükürt dioksit ve azot oksitlerin su buharıyla birleşmesi, aşağıdakilerden hangisine yol açar?",
+      "options": {
+        "A": "Ozon tabakasının kalınlaşmasına",
+        "B": "Sera etkisinin tamamen ortadan kalkmasına",
+        "C": "Asit yağmurlarının oluşmasına",
+        "D": "Yer altı su seviyesinin yükselmesine"
+      },
+      "correctOption": "C",
+      "explanation": "Kükürt dioksit ve azot oksitler atmosferdeki su buharıyla birleşerek sülfürik ve nitrik asitleri oluşturur; bu asitler yağışla yeryüzüne inerek asit yağmurlarına neden olur.",
+      "source": "özgün"
+    }
+  ]
+}

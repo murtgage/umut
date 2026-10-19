@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, önceden izin almaksızın silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Dernek kurma hürriyeti",
+        "B": "Toplantı ve gösteri yürüyüşü hakkı",
+        "C": "Dilekçe hakkı",
+        "D": "Sendika kurma hakkı"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 34. maddesine göre herkes, önceden izin almaksızın silâhsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir; bu hak ancak millî güvenlik, kamu düzeni, genel sağlık ve genel ahlâk gibi sebeplerle ve kanunla sınırlandırılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre, kanunda gösterilen hâller dışında kimsenin konutuna girilememesi, konutunda arama yapılamaması ve konutundaki eşyalara el konulamaması aşağıdakilerden hangisiyle güvence altına alınmıştır?",
+      "options": {
+        "A": "Konut dokunulmazlığı",
+        "B": "Hak arama hürriyeti",
+        "C": "Yerleşme ve seyahat hürriyeti",
+        "D": "Dilekçe hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 21. maddesi konut dokunulmazlığını düzenler; kanunda gösterilen hâller dışında bir kimsenin konutuna girilemez, arama yapılamaz ve eşyalara el konulamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma hakkına sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Kanun önünde eşitlik",
+        "B": "Mülkiyet hakkı",
+        "C": "Kişi hürriyeti ve güvenliği",
+        "D": "Hak arama hürriyeti"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 36. maddesine göre herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma hakkına sahiptir; bu hak arama hürriyetidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin yerleşme ve seyahat hürriyetine sahip olması ile vatandaşın yurt dışına çıkma ve yurda girme hakkı aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Özel hayatın gizliliği",
+        "B": "Konut dokunulmazlığı",
+        "C": "Düşünceyi açıklama ve yayma hürriyeti",
+        "D": "Yerleşme ve seyahat hürriyeti"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 23. maddesine göre herkes yerleşme ve seyahat hürriyetine sahiptir; vatandaşın yurt dışına çıkma ve yurda girme hakkı da aynı maddeyle güvence altına alınmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre çalışanların ve işverenlerin dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili hakları aşağıdaki haklardan hangisinin kapsamındadır?",
+      "options": {
+        "A": "Dinlenme hakkı",
+        "B": "Toplu iş sözleşmesi hakkı",
+        "C": "Sosyal güvenlik hakkı",
+        "D": "Sendika kurma hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 50. maddesi dinlenme hakkını düzenler; çalışanların dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakları bu kapsamdadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre basının hür olduğu ve sansür edilemeyeceği aşağıdaki hak ve özgürlüklerden hangisiyle düzenlenmiştir?",
+      "options": {
+        "A": "Düşünce ve kanaat hürriyeti",
+        "B": "Basın hürriyeti",
+        "C": "Haberleşme hürriyeti",
+        "D": "Bilim ve sanat hürriyeti"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 28. maddesine göre basın hürdür ve sansür edilemez; basımevi kurmak izne tabi tutulamaz. Bu hak basın hürriyeti başlığı altında düzenlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi her yıl hangi tarihte kendiliğinden toplanır?",
+      "options": {
+        "A": "1 Eylül",
+        "B": "1 Kasım",
+        "C": "1 Ekim",
+        "D": "1 Ocak"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 93. maddesine göre TBMM her yıl Ekim ayının ilk günü kendiliğinden toplanır; böylece yeni yasama yılı 1 Ekim'de başlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisinin çalışmalarını yürütmek üzere kendi içinden çıkaracağı belge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "TBMM İçtüzüğü",
+        "B": "Cumhurbaşkanlığı kararnamesi",
+        "C": "Yönetmelik",
+        "D": "Kanun hükmünde kararname"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 95. maddesine göre TBMM, çalışmalarını kendi yaptığı İçtüzük hükümlerine göre yürütür; İçtüzük TBMM'nin kendi iç düzenini belirler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisinin bilgi edinme ve denetim yollarından, belirli bir konuda bir bakanlık veya kurumdan bilgi talep edilmesini sağlayan araç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Meclis araştırması",
+        "B": "Gensoru",
+        "C": "Genel görüşme",
+        "D": "Soru"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 98. maddesinde sayılan bilgi edinme ve denetim yollarından soru, bir milletvekilinin belirli bir konuda bilgi edinmek amacıyla bakan veya yetkili merciden yazılı cevap istemesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre milletvekilleri ile ilgili olarak, göreve başlarken Anayasa'da öngörülen biçimde yerine getirdikleri işlem aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Meclise kayıt yaptırmak",
+        "B": "Andiçmek (yemin etmek)",
+        "C": "Güvenoyu almak",
+        "D": "Mal bildiriminde bulunmak"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 81. maddesine göre milletvekilleri, göreve başlarken Anayasa'da yer alan metne göre andiçerler; andiçme yeni üyelerin göreve başlamasının ön koşuludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi Başkanlık Divanı için bir yasama döneminde iki seçim yapılır. Buna göre ilk seçimde seçilenlerin görev süresi kaç yıldır?",
+      "options": {
+        "A": "Bir yıl",
+        "B": "Üç yıl",
+        "C": "İki yıl",
+        "D": "Beş yıl"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 94. maddesine göre TBMM Başkanlık Divanı için bir yasama döneminde iki seçim yapılır. İlk seçilenlerin görev süresi iki yıldır; ikinci devre için seçilenlerin görev süresi ise o yasama döneminin sonuna kadar devam eder. Başkan seçiminde ilk iki oylamada üye tamsayısının üçte iki çoğunluğu, üçüncü oylamada ise salt çoğunluk aranır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesinin kararlarının niteliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Kararları kesin ve bağlayıcıdır; Resmî Gazete'de yayımlanır ve geriye yürümez",
+        "B": "Kararları yalnızca Cumhurbaşkanını bağlar",
+        "C": "Kararları TBMM onayıyla yürürlüğe girer",
+        "D": "Kararları geriye yürüyerek geçmişteki işlemleri de ortadan kaldırır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 153. maddesine göre Anayasa Mahkemesi kararları kesin ve bağlayıcıdır; kararlar Resmî Gazete'de yayımlanır ve kanun, kararname ve İçtüzük hükümlerini iptal eden kararlar geriye yürümez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre hâkimlerin görev güvencesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Hâkimler her zaman Adalet Bakanı tarafından görevden alınabilir",
+        "B": "Hâkimler yalnızca HSK'nın izniyle görev yapabilir",
+        "C": "Hâkimler kendileri istemedikçe emekliye ayrılabilir",
+        "D": "Hâkimler azlolunamaz; kendileri istemedikçe emekliye ayrılamaz"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 139. maddesine göre hâkimler ve savcılar azlolunamaz; kendileri istemedikçe Anayasa'da öngörülen yaştan önce emekliye ayrılamaz ve bir mahkemenin kaldırılması hâli dışında görevden uzaklaştırılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesine bireysel başvuruda bulunma süresi, başvuru yollarının tüketildiği tarihten itibaren kural olarak ne kadardır?",
+      "options": {
+        "A": "Yedi gün",
+        "B": "Otuz gün",
+        "C": "Altmış gün",
+        "D": "Doksan gün"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesi ve 6216 sayılı Kanun'a göre bireysel başvurunun, başvuru yollarının tüketildiği tarihten itibaren otuz gün içinde yapılması gerekir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre yargı yetkisi kim adına kullanılır?",
+      "options": {
+        "A": "TBMM adına",
+        "B": "Cumhurbaşkanı adına",
+        "C": "Türk Milleti adına",
+        "D": "Adalet Bakanlığı adına"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 9. maddesine göre yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır; mahkemeler kararlarını bu ad altında verir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Hâkimler ve Savcılar Kurulu kaç üyeden oluşur?",
+      "options": {
+        "A": "Yedi",
+        "B": "On bir",
+        "C": "On üç",
+        "D": "Yirmi iki"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 159. maddesine göre Hâkimler ve Savcılar Kurulu on üç üyeden oluşur; iki daire hâlinde çalışır ve Kurulun başkanı Adalet Bakanıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanının yardımcılarının ve bakanların atanmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yardımcılar ve bakanlar Anayasa Mahkemesi tarafından atanır",
+        "B": "Yardımcılar ve bakanlar yalnızca TBMM üyeleri arasından atanabilir",
+        "C": "Yardımcılar ve bakanlar TBMM tarafından seçilir",
+        "D": "Cumhurbaşkanı yardımcılarını ve bakanları atar ve görevden alır; bunlar TBMM üyesi olmayanlar arasından da atanabilir"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. ve 106. maddelerine göre Cumhurbaşkanı yardımcılarını ve bakanları atar ve görevden alır; bakan olabilmek için milletvekili olma şartı bulunmadığından TBMM dışından atama yapılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanlığı kararnamesi ile kanunlarda farklı hükümler bulunması hâlinde hangisi uygulanır?",
+      "options": {
+        "A": "Cumhurbaşkanlığı kararnamesi uygulanır",
+        "B": "Cumhurbaşkanı hangisinin uygulanacağına karar verir",
+        "C": "Anayasa Mahkemesi hangisinin uygulanacağını belirler",
+        "D": "Kanun hükümleri uygulanır"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. maddesinin son fıkrasına göre Cumhurbaşkanlığı kararnamesi ile kanunlarda farklı hükümler bulunması hâlinde kanun hükümleri uygulanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre olağanüstü hâl, süresi ne olursa olsun en fazla kaç ay için ilan edilebilir?",
+      "options": {
+        "A": "Üç ay",
+        "B": "Altı ay",
+        "C": "Dokuz ay",
+        "D": "On iki ay"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 119. maddesine göre olağanüstü hâl, süresi altı ayı geçmemek üzere Cumhurbaşkanınca ilan edilir; TBMM, her defasında dört ayı geçmemek üzere bu süreyi uzatabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanı göreve başlarken aşağıdaki işlemlerden hangisini yerine getirir?",
+      "options": {
+        "A": "TBMM'den güvenoyu alır",
+        "B": "Meclis araştırması başlatır",
+        "C": "TBMM önünde andiçer",
+        "D": "Anayasa Mahkemesine başvurur"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 103. maddesine göre Cumhurbaşkanı, görevine başlarken TBMM önünde Anayasa'da belirtilen metne göre andiçer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Anayasa'nın ilk üç maddesinde yer alan hükümlerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Değiştirilemez ve değiştirilmesi teklif edilemez",
+        "B": "Yalnızca TBMM kararıyla değiştirilebilir",
+        "C": "Cumhurbaşkanlığı kararnamesi ile değiştirilebilir",
+        "D": "Referandumla her hâlde değiştirilebilir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 4. maddesine göre Anayasa'nın 1. maddesindeki devletin şekli, 2. maddesindeki cumhuriyetin nitelikleri ve 3. maddesindeki hükümler değiştirilemez ve değiştirilmesi teklif edilemez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesinin Anayasa değişiklikleri üzerindeki denetimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Anayasa değişiklikleri hiçbir şekilde denetlenemez",
+        "B": "Anayasa değişikliklerini yalnızca şekil bakımından denetler",
+        "C": "Anayasa değişikliklerini esas bakımından da denetler",
+        "D": "Denetim yetkisi Danıştaya aittir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesine göre Anayasa Mahkemesi, Anayasa değişikliklerini yalnızca şekil bakımından denetler; esas bakımından denetim yapamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 1,
+      "text": "1982 Anayasası'nın 3. maddesine göre aşağıdakilerden hangisi Devletin temel nitelikleri arasında yer alır?",
+      "options": {
+        "A": "Resmî dilin Türkçe olması ve bayrağın ay yıldızlı al sancak olması",
+        "B": "Başkentin İstanbul olması",
+        "C": "Resmî dilin yalnızca bölgelere göre belirlenmesi",
+        "D": "Millî marşın her dönem değiştirilebilmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 3. maddesine göre Devletin ülkesi ve milletiyle bölünmez bir bütündür; dili Türkçedir, bayrağı şekli kanunda belirtilen ay yıldızlı al sancaktır, millî marşı İstiklal Marşı'dır ve başkenti Ankara'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İdari Yargı",
+      "difficulty": 3,
+      "text": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre iptal davasında, idari işlemin uygulanması hâlinde telafisi güç veya imkânsız zararların doğması ve işlemin açıkça hukuka aykırı olması koşullarının birlikte gerçekleşmesi durumunda verilebilecek karar aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İşlemin esastan iptali",
+        "B": "Yürütmenin durdurulması",
+        "C": "Tam yargı davasına dönüştürme",
+        "D": "Dosyanın Danıştaya gönderilmesi"
+      },
+      "correctOption": "B",
+      "explanation": "İYUK'un 27. maddesine göre, idari işlemin uygulanması hâlinde telafisi güç veya imkânsız zararlar doğması ve işlemin açıkça hukuka aykırı olması koşullarının birlikte gerçekleşmesi hâlinde yürütmenin durdurulmasına karar verilebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İdari Yargı",
+      "difficulty": 2,
+      "text": "Türkiye'de vergi, resim ve harçlarla benzeri malî yükümlülüklerden doğan uyuşmazlıklara ilk derece mahkemesi olarak bakmakla görevli yargı mercii aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İdare mahkemesi",
+        "B": "Bölge idare mahkemesi",
+        "C": "Vergi mahkemesi",
+        "D": "Asliye hukuk mahkemesi"
+      },
+      "correctOption": "C",
+      "explanation": "2576 sayılı Kanun ve İYUK çerçevesinde vergi, resim, harç ve benzeri malî yükümlülüklere ilişkin uyuşmazlıklara ilk derece mahkemesi olarak vergi mahkemeleri bakar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Seçim Sistemi ve Siyasi Partiler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre siyasi partilerin tüzük ve programları bakımından uymak zorunda olduğu esas aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca ekonomik programa sahip olmak",
+        "B": "Önceden izin almak",
+        "C": "Tek bir siyasi görüşü benimsemek",
+        "D": "Demokrasi esaslarına ve Anayasa'ya uygun olmak"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 68. maddesine göre siyasi partilerin tüzüğü ve programı demokrasi esaslarına ve Anayasa'ya uygun olmalıdır; ayrıca partiler amaçlarına ulaşmak için şiddete başvuramaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Seçim Sistemi ve Siyasi Partiler",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre siyasi partilerin malî denetimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Siyasi partilerin malî denetimi Anayasa Mahkemesince yapılır",
+        "B": "Malî denetim Sayıştay tarafından yapılır",
+        "C": "Malî denetim Yüksek Seçim Kurulu tarafından yapılır",
+        "D": "Siyasi partilerin malî denetimi bulunmamaktadır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 69. maddesine göre siyasi partilerin malî denetimi Anayasa Mahkemesince yapılır; Anayasa Mahkemesi, partilerin gelir ve giderlerinin kanuna uygunluğunu denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Kamu Görevlileri",
+      "difficulty": 2,
+      "text": "657 sayılı Devlet Memurları Kanunu'na göre Devlet memurluğuna alınacaklarda aranan genel şartlardan biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bir siyasi partiye üye olmak",
+        "B": "Türkiye Cumhuriyeti vatandaşı olmak",
+        "C": "En az yüksek lisans mezunu olmak",
+        "D": "Özel sektörde çalışmış olmak"
+      },
+      "correctOption": "B",
+      "explanation": "657 sayılı Kanun'un 48. maddesine göre Devlet memurluğuna alınacaklarda Türkiye Cumhuriyeti vatandaşı olmak, belirli bir yaşı doldurmuş olmak gibi genel şartlar aranır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Kamu Görevlileri",
+      "difficulty": 2,
+      "text": "657 sayılı Devlet Memurları Kanunu'na göre devlet memurlarının grev ve toplu eylem hakkı bakımından aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Memurlar sendika kurabilir ancak grev ve toplu eylem yapamaz",
+        "B": "Memurlar serbestçe grev yapabilir",
+        "C": "Memurların grev yapması Bakanlar Kurulu iznine bağlıdır",
+        "D": "Memurların grev hakkı hiçbir sınırlamaya tabi değildir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 51. maddesi ve 4688 sayılı Kanun çerçevesinde memurlar sendika kurabilir ve sendikalara üye olabilir; ancak 657 sayılı Kanun'un 26. maddesi toplu eylem ve hareketlerde bulunmayı, 27. maddesi ise greve karar vermeyi, grev tertip etmeyi ve greve katılmayı yasaklar. Dolayısıyla memurların grev ve toplu eylem hakkı yoktur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İnsan Hakları",
+      "difficulty": 1,
+      "text": "İnsan haklarının uluslararası düzeyde korunmasında temel belge sayılan İnsan Hakları Evrensel Bildirgesi hangi yıl kabul edilmiştir?",
+      "options": {
+        "A": "1919",
+        "B": "1936",
+        "C": "1948",
+        "D": "1961"
+      },
+      "correctOption": "C",
+      "explanation": "İnsan Hakları Evrensel Bildirgesi, 10 Aralık 1948'de Birleşmiş Milletler Genel Kurulu tarafından kabul edilmiş ve insan haklarının uluslararası düzeyde korunmasının temel belgesi olmuştur.",
+      "source": "özgün"
+    }
+  ]
+}
