@@ -58,6 +58,19 @@ function timerTone(ratio: number): string {
   return "from-danger to-danger";
 }
 
+/**
+ * Telefonda dokunmatik titreşim. Desteklemeyen cihazlarda sessizce yok sayılır.
+ */
+function buzz(pattern: number | number[]): void {
+  if (typeof navigator === "undefined") return;
+  if (typeof navigator.vibrate !== "function") return;
+  try {
+    navigator.vibrate(pattern);
+  } catch {
+    // Bazı tarayıcılar titreşimi reddedebilir; oyunu engellememeli.
+  }
+}
+
 export function GameBoard({ view }: { view: RunView }) {
   const router = useRouter();
 
@@ -82,6 +95,8 @@ export function GameBoard({ view }: { view: RunView }) {
   const [elapsed, setElapsed] = useState(0);
   const [pending, setPending] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  /** Sorunun bilerek pas geçilip geçilmediği (süre dolmadan ayrı gösterilir). */
+  const [skipped, setSkipped] = useState(false);
 
   const submittedRef = useRef(false);
   const elapsedRef = useRef(0);
@@ -133,6 +148,11 @@ export function GameBoard({ view }: { view: RunView }) {
       }
 
       const data = result.data;
+      // Dokunmatik geri bildirim — destekleyen telefonlarda.
+      if (data.isCorrect) buzz([12, 40, 18]);
+      else if (data.selectedOption === null) buzz(10);
+      else buzz([30, 50, 30]);
+
       setFeedback(data);
       setScore(data.runningScore);
       setCorrect(data.runningCorrect);
@@ -141,6 +161,14 @@ export function GameBoard({ view }: { view: RunView }) {
     },
     [question, view.runId],
   );
+
+  // --- Pas geç -------------------------------------------------------------
+  // Bilinmeyen soruda 30 saniye beklemek zorunda kalmamak için.
+  const skip = useCallback(() => {
+    if (submittedRef.current || feedback) return;
+    setSkipped(true);
+    void submit(null);
+  }, [feedback, submit]);
 
   // --- Süre dolunca otomatik gönder ---------------------------------------
   useEffect(() => {
@@ -162,6 +190,7 @@ export function GameBoard({ view }: { view: RunView }) {
     setFeedback(null);
     setError(null);
     setElapsed(0);
+    setSkipped(false);
     setIndex((current) => current + 1);
   }, [feedback, router, view.runId]);
 
@@ -205,12 +234,19 @@ export function GameBoard({ view }: { view: RunView }) {
       if (option) {
         event.preventDefault();
         void submit(option);
+        return;
+      }
+
+      // "s" → pas geç (bilinmeyen soruda beklemeden ilerle).
+      if (event.key.toLowerCase() === "s") {
+        event.preventDefault();
+        void skip();
       }
     }
 
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
-  }, [feedback, goNext, submit]);
+  }, [feedback, goNext, skip, submit]);
 
   if (!question) {
     return (
@@ -385,6 +421,16 @@ export function GameBoard({ view }: { view: RunView }) {
                   </button>
                 );
               })}
+              {!feedback && !pending ? (
+                <button
+                  type="button"
+                  title="Bilmiyorsan pas geç (S)"
+                  onClick={() => void skip()}
+                  className="mt-1 self-end rounded-lg px-2 py-1 text-xs font-medium text-ink-faint transition hover:text-danger hover:underline hover:underline-offset-4"
+                >
+                  Pas geç
+                </button>
+              ) : null}
             </div>
 
             {error ? (
@@ -427,7 +473,9 @@ export function GameBoard({ view }: { view: RunView }) {
                     {feedback.isCorrect
                       ? "Doğru!"
                       : feedback.selectedOption === null
-                        ? "Süre doldu"
+                        ? skipped
+                          ? "Pas geçtin"
+                          : "Süre doldu"
                         : "Yanlış"}
                     {feedback.isCorrect && feedback.points > 0 ? (
                       <span className="tnum animate-float-up pointer-events-none absolute -top-1 left-full ml-2 font-bold whitespace-nowrap text-success">
@@ -515,7 +563,11 @@ export function GameBoard({ view }: { view: RunView }) {
         {feedback
           ? feedback.isCorrect
             ? "Doğru cevap"
-            : "Yanlış cevap"
+            : feedback.selectedOption === null
+              ? skipped
+                ? "Soruyu pas geçtin"
+                : "Süre doldu"
+              : "Yanlış cevap"
           : `Soru ${index + 1}`}
       </p>
     </div>

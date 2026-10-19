@@ -676,7 +676,7 @@ export async function finishRun({
   });
 
   const missed: MissedQuestion[] = answered
-    .filter((answer) => !answer.isCorrect)
+    .filter((answer) => !answer.isCorrect && answer.selectedOption !== null)
     .map((answer) => ({
       position: answer.position,
       text: answer.question.text,
@@ -698,7 +698,10 @@ export async function finishRun({
     correctOption: (asOptionKey(answer.question.correctOption) ?? "A") as OptionKey,
     selectedOption: asOptionKey(answer.selectedOption),
     isCorrect: answer.isCorrect,
-    answered: answer.answered,
+    // Boş bırakılan sorular (süre doldu veya pas geçildi) yanlış sayılmaz.
+    // "answered" burada "kullanıcı bir şık seçti" anlamına gelir; veritabanındaki
+    // GameAnswer.answered ise "soru gönderildi" anlamındadır ve her zaman true'dur.
+    answered: answer.selectedOption !== null,
     explanation: answer.question.explanation,
     difficulty: answer.question.difficulty,
     timeMs: answer.timeMs,
