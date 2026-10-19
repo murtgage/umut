@@ -1,8 +1,9 @@
 import Link from "next/link";
 
+import { startRunFormAction } from "@/app/oyun/actions";
 import { ShareResultButton } from "@/components/game/share-result";
 import { Badge } from "@/components/ui/badge";
-import { buttonVariants } from "@/components/ui/button";
+import { Button, buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { formatDuration, formatNumber, formatPercent } from "@/lib/format";
@@ -190,6 +191,14 @@ export function ResultView({
                 </li>
               ))}
             </ul>
+
+            {/* Ayni yanlislari hemen tekrar cozebilmek icin (JS'siz de calisir). */}
+            <form action={startRunFormAction}>
+              <input type="hidden" name="mode" value="REVIEW" />
+              <Button type="submit" variant="secondary" className="w-full">
+                Yanlışlarımı tekrar çöz
+              </Button>
+            </form>
           </CardContent>
         </Card>
       ) : (

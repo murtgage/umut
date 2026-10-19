@@ -191,17 +191,24 @@ export async function startRun({
   }
 
   if (mode === "DAILY") {
-    const alreadyPlayed = await prisma.gameRun.findFirst({
+    // Gunun meydan okumasi gunde bir kez: turu yarim birakip yeniden baslatmak
+    // (sorulari begene kadar yeniden "cevirmek") engellenir. Yarim kalan tur
+    // kaybolmaz; oyuncu kaldigi yerden ayni tura devam ettirilir.
+    const todayDaily = await prisma.gameRun.findFirst({
       where: {
         userId,
         mode: "DAILY",
-        status: "COMPLETED",
         startedAt: { gte: startOfToday() },
       },
-      select: { id: true },
+      orderBy: { startedAt: "desc" },
+      select: { id: true, status: true },
     });
 
-    if (alreadyPlayed) {
+    if (todayDaily && todayDaily.status === "IN_PROGRESS") {
+      return { runId: todayDaily.id };
+    }
+
+    if (todayDaily) {
       throw new GameError(
         "DAILY_ALREADY_PLAYED",
         "Bugünün meydan okumasını tamamladın. Yarın yeni sorular seni bekliyor!",

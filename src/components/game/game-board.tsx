@@ -34,6 +34,8 @@ const KEY_TO_OPTION: Record<string, OptionKey> = {
  */
 const ADVANCE_DELAY_CORRECT_MS = 1300;
 const ADVANCE_DELAY_WRONG_MS = 3400;
+/** Yanlis cevapta aciklama uzunluguna gore uzayan bekleme suresi ust siniri. */
+const ADVANCE_DELAY_EXPLANATION_MAX_MS = 9000;
 
 /** Boş bırakılan sorular seriyi kırar; devam eden turda seriyi geri hesaplar. */
 function streakAt(answered: AnsweredSummary[], position: number): number {
@@ -164,10 +166,20 @@ export function GameBoard({ view }: { view: RunView }) {
   }, [feedback, router, view.runId]);
 
   // --- Otomatik ilerleme ---------------------------------------------------
+  // Yanlis cevapta aciklama rahat okunabilsin diye bekleme suresi aciklamanin
+  // uzunluguna gore olceklenir. Cevap verildikten sonra Enter'a basmak veya
+  // ekrana dokunmak yine de beklemeden sonraki soruya gecirir.
+  const explanationReadMs = feedback?.explanation
+    ? Math.min(
+        ADVANCE_DELAY_WRONG_MS + feedback.explanation.length * 22,
+        ADVANCE_DELAY_EXPLANATION_MAX_MS,
+      )
+    : ADVANCE_DELAY_WRONG_MS;
+
   const advanceMs = feedback
     ? feedback.isCorrect
       ? ADVANCE_DELAY_CORRECT_MS
-      : ADVANCE_DELAY_WRONG_MS
+      : explanationReadMs
     : 0;
 
   useEffect(() => {
