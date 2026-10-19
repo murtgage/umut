@@ -42,7 +42,7 @@
         "B": "Nüfusun yalnızca kıyılarda toplanmasını"
       },
       "correctOption": "D",
-      "explanation": "Nüfusun dengesiz dağıldığı ülkelerde plansal yatırım, ulaşım ve kamu hizmetleri bölgelere göre farklı biçimde planlanır.",
+      "explanation": "Nüfusun dengesiz dağıldığı ülkelerde yatırım, ulaşım ve kamu hizmetleri bölgelere göre farklı biçimde planlanır.",
       "source": "özgün"
     },
     {
@@ -113,7 +113,7 @@
       "options": {
         "D": "Kentlerin yalnızca kıyılarda kurulabilmesiyle",
         "A": "Nüfus sayımlarının sık yapılmamasıyla",
-        "C": "Kır ve kent arasında kesin bir nüfus sınırı bulunmamasıyla",
+        "C": "Yerleşmelerin yalnızca tarımla geçinen nüfusa göre sınıflandırılmasıyla",
         "B": "Kentin ekonomik ve idari işlevlerinin de belirleyici olmasıyla"
       },
       "correctOption": "B",
@@ -219,7 +219,7 @@
         "D": "Kış sıcaklığının aynı enlemdeki iç kesimlere göre daha yüksek olmasına",
         "B": "Yıllık yağışın iç kesimlerden az olmasına",
         "A": "Kışın kar yağışının hiç görülmemesine",
-        "C": "Yaz sıcaklığının iç kesimlerden düşük olmasına"
+        "C": "Yaz sıcaklığının iç kesimlerden yüksek olmasına"
       },
       "correctOption": "D",
       "explanation": "Suyun ısıyı depolama ve geç salma özelliği nedeniyle deniz kışın çevresini ılıtır; böylece kıyılar aynı enlemdeki iç kesimlerden daha ılık kışlar yaşar.",
@@ -308,7 +308,7 @@
       "options": {
         "C": "Ham madde kaynağının mutlaka deniz kıyısında olması",
         "B": "Enerji üretim tesislerinin tesisin yanında bulunması",
-        "A": "Nüfusun yoğun ve iş gücünün bol-olduğu merkezlerde bulunması",
+        "A": "Nüfusun yoğun ve iş gücünün bol olduğu merkezlerde bulunması",
         "D": "Tesisin kesinlikle kırsal alanda kurulması"
       },
       "correctOption": "A",

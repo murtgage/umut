@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Petrol İhraç Eden Ülkeler Örgütü (OPEC) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1960",
+        "C": "1973",
+        "D": "1995"
+      },
+      "correctOption": "B",
+      "explanation": "OPEC, 1960 yılında Bağdat'ta yapılan konferansta kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Uluslararası Olimpiyat Komitesi (IOC) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1894",
+        "B": "1904",
+        "C": "1912",
+        "D": "1920"
+      },
+      "correctOption": "A",
+      "explanation": "IOC, Pierre de Coubertin'in öncülüğünde 1894 yılında Paris'te kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Çevre Programının (UNEP) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "New York",
+        "C": "Nairobi",
+        "D": "Roma"
+      },
+      "correctOption": "C",
+      "explanation": "UNEP'in merkezi Kenya'nın başkenti Nairobi'de bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 1,
+      "text": "Dünya Ekonomik Forumu'nun her yıl düzenlediği ve dünya liderlerini bir araya getiren toplantı hangi ülkede yapılır?",
+      "options": {
+        "A": "İsviçre",
+        "B": "Fransa",
+        "C": "Almanya",
+        "D": "Avusturya"
+      },
+      "correctOption": "A",
+      "explanation": "Dünya Ekonomik Forumu'nun yıllık toplantısı İsviçre'nin Davos kasabasında yapılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Dünya Bankası Grubu içinde yer alan ve gelişmekte olan ülkelere uzun vadeli kalkınma kredisi sağlayan temel kuruluş hangisidir?",
+      "options": {
+        "A": "Uluslararası Para Fonu",
+        "B": "Uluslararası İmar ve Kalkınma Bankası",
+        "C": "Dünya Ticaret Örgütü",
+        "D": "Avrupa Yatırım Bankası"
+      },
+      "correctOption": "B",
+      "explanation": "Dünya Bankası Grubunun temel kredi kuruluşu Uluslararası İmar ve Kalkınma Bankasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Avrupa Konseyinin karar alma sürecinde belirleyici olan ve üye ülkelerin dışişleri bakanları ile daimi temsilcilerinden oluşan organ hangisidir?",
+      "options": {
+        "A": "Avrupa Parlamentosu",
+        "B": "Bakanlar Komitesi",
+        "C": "Avrupa Komisyonu",
+        "D": "Avrupa Zirvesi"
+      },
+      "correctOption": "B",
+      "explanation": "Avrupa Konseyinin temel karar organı Bakanlar Komitesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "G20 hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1995",
+        "B": "2003",
+        "C": "1999",
+        "D": "2008"
+      },
+      "correctOption": "C",
+      "explanation": "G20, 1999 yılında küresel finansal istikrarı güçlendirmek amacıyla kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Para Fonunun (IMF) en yüksek karar organı hangisidir?",
+      "options": {
+        "A": "Guvernörler Kurulu",
+        "B": "Güvenlik Konseyi",
+        "C": "Genel Direktörler Konseyi",
+        "D": "Yürütme Komitesi"
+      },
+      "correctOption": "A",
+      "explanation": "IMF'de her üye ülke bir guvernörle temsil edilir ve en yüksek karar organı Guvernörler Kuruludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 1,
+      "text": "Birleşmiş Milletler Genel Kurulunda her üye ülkenin kaç oyu bulunur?",
+      "options": {
+        "A": "Bir",
+        "B": "İki",
+        "C": "Üç",
+        "D": "Beş"
+      },
+      "correctOption": "A",
+      "explanation": "BM Genel Kurulunda her üye ülke bir oya sahiptir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Güvenlik Konseyinin daimi olmayan (geçici) üye sayısı kaçtır?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correctOption": "B",
+      "explanation": "Güvenlik Konseyi 5 daimi ve 10 geçici üye olmak üzere toplam 15 üyeden oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletlerin 1945 yılında San Francisco'da imzalanan kurucu belgesi hangisidir?",
+      "options": {
+        "A": "İnsan Hakları Evrensel Beyannamesi",
+        "B": "Birleşmiş Milletler Antlaşması (Şartı)",
+        "C": "Cenevre Sözleşmesi",
+        "D": "Paris İklim Anlaşması"
+      },
+      "correctOption": "B",
+      "explanation": "BM, 1945 yılında imzalanan Birleşmiş Milletler Antlaşması (Şartı) ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Merkezi Roma'da bulunan ve acil durumlarda gıda yardımı sağlayan Birleşmiş Milletler kuruluşu hangisidir?",
+      "options": {
+        "A": "UNICEF",
+        "B": "Dünya Gıda Programı",
+        "C": "UNESCO",
+        "D": "Birleşmiş Milletler Kalkınma Programı"
+      },
+      "correctOption": "B",
+      "explanation": "Dünya Gıda Programının (WFP) merkezi Roma'da olup açlıkla mücadele ve gıda yardımı yapar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi Birleşmiş Milletlerin resmî dilleri arasında yer alır?",
+      "options": {
+        "A": "Almanca",
+        "B": "Arapça",
+        "C": "İtalyanca",
+        "D": "Türkçe"
+      },
+      "correctOption": "B",
+      "explanation": "BM'nin resmî dilleri Arapça, Çince, İngilizce, Fransızca, Rusça ve İspanyolcadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de piyasalarda rekabetin korunması ve tekelleşmenin önlenmesiyle görevli kurum hangisidir?",
+      "options": {
+        "A": "Rekabet Kurumu",
+        "B": "Sermaye Piyasası Kurulu",
+        "C": "Bankacılık Düzenleme ve Denetleme Kurumu",
+        "D": "Türkiye İstatistik Kurumu"
+      },
+      "correctOption": "A",
+      "explanation": "Rekabet Kurumu, 4054 sayılı Kanunla piyasalarda rekabeti korumakla görevlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de sermaye piyasalarını düzenlemek ve denetlemekle görevli kurum hangisidir?",
+      "options": {
+        "A": "Türkiye Cumhuriyet Merkez Bankası",
+        "B": "Sermaye Piyasası Kurulu",
+        "C": "Rekabet Kurumu",
+        "D": "Hazine ve Maliye Bakanlığı"
+      },
+      "correctOption": "B",
+      "explanation": "Sermaye Piyasası Kurulu (SPK) sermaye piyasalarını düzenler ve denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de bankacılık ve finansal kuruluşların düzenlenmesi ve denetlenmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Sermaye Piyasası Kurulu",
+        "B": "Türkiye İstatistik Kurumu",
+        "C": "Bankacılık Düzenleme ve Denetleme Kurumu",
+        "D": "Sayıştay"
+      },
+      "correctOption": "C",
+      "explanation": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) bankacılık sistemini denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de kişisel verilerin işlenmesine ilişkin düzenlemeleri yürüten ve denetleyen kurum hangisidir?",
+      "options": {
+        "A": "Radyo ve Televizyon Üst Kurulu",
+        "B": "Kişisel Verileri Koruma Kurumu",
+        "C": "Millî İstihbarat Teşkilatı",
+        "D": "Türkiye İstatistik Kurumu"
+      },
+      "correctOption": "B",
+      "explanation": "Kişisel Verileri Koruma Kurumu (KVKK), kişisel verilerin korunmasını denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de elektrik, doğal gaz ve petrol piyasalarının düzenlenmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Enerji Piyasası Düzenleme Kurumu",
+        "B": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "C": "Türkiye Petrolleri Anonim Ortaklığı",
+        "D": "Boru Hatları ile Petrol Taşıma A.Ş."
+      },
+      "correctOption": "A",
+      "explanation": "Enerji Piyasası Düzenleme Kurumu (EPDK) enerji piyasalarını düzenler ve denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de maden ve jeolojik kaynakların araştırılması amacıyla faaliyet gösteren kamu kurumu hangisidir?",
+      "options": {
+        "A": "TÜBİTAK",
+        "B": "Maden Tetkik ve Arama Genel Müdürlüğü",
+        "C": "Türk Standardları Enstitüsü",
+        "D": "Devlet Su İşleri Genel Müdürlüğü"
+      },
+      "correctOption": "B",
+      "explanation": "Maden Tetkik ve Arama Genel Müdürlüğü (MTA) maden ve jeolojik araştırmalar yapar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'de keşif ve gözetleme amacıyla geliştirilen ANKA insansız hava aracı hangi kuruluş tarafından üretilmiştir?",
+      "options": {
+        "A": "ASELSAN",
+        "B": "ROKETSAN",
+        "C": "TUSAŞ",
+        "D": "HAVELSAN"
+      },
+      "correctOption": "C",
+      "explanation": "ANKA insansız hava aracı TUSAŞ (Türk Havacılık ve Uzay Sanayii) tarafından geliştirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin yerli ve millî elektrikli otomobili TOGG'un üretim tesisi hangi ilde bulunmaktadır?",
+      "options": {
+        "A": "Ankara",
+        "B": "İzmir",
+        "C": "Kocaeli",
+        "D": "Bursa"
+      },
+      "correctOption": "D",
+      "explanation": "TOGG fabrikası Bursa'nın Gemlik ilçesinde yer almaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin ilk yerli otomobili Devrim hangi ilde üretilmiştir?",
+      "options": {
+        "A": "İstanbul",
+        "B": "Ankara",
+        "C": "Kocaeli",
+        "D": "Eskişehir"
+      },
+      "correctOption": "D",
+      "explanation": "Devrim otomobili 1961 yılında Eskişehir'deki TÜLOMSAŞ tesislerinde üretilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "MİLGEM projesi kapsamında inşa edilen ilk yerli korvet hangisidir?",
+      "options": {
+        "A": "TCG Heybeliada",
+        "B": "TCG Anadolu",
+        "C": "TCG Büyükada",
+        "D": "TCG Barbaros"
+      },
+      "correctOption": "A",
+      "explanation": "MİLGEM projesinin ilk gemisi TCG Heybeliada'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 1,
+      "text": "Sinema alanında verilen ve halk arasında 'Oscar' olarak bilinen ödülün resmî adı hangisidir?",
+      "options": {
+        "A": "Altın Küre Ödülleri",
+        "B": "Akademi Ödülleri",
+        "C": "BAFTA Ödülleri",
+        "D": "Altın Ayı Ödülü"
+      },
+      "correctOption": "B",
+      "explanation": "Oscar olarak bilinen ödülün resmî adı Akademi Ödülleri'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Matematik alanında üstün başarı gösteren bilim insanlarına verilen ve matematiğin en prestijli ödüllerinden sayılan uluslararası ödül hangisidir?",
+      "options": {
+        "A": "Turing Ödülü",
+        "B": "Fields Madalyası",
+        "C": "Pulitzer Ödülü",
+        "D": "Nobel Kimya Ödülü"
+      },
+      "correctOption": "B",
+      "explanation": "Fields Madalyası, matematik alanında verilen en prestijli ödüllerden biridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Sinema alanında verilen 'Altın Palmiye' ödülü hangi film festivalinde dağıtılmaktadır?",
+      "options": {
+        "A": "Berlin Film Festivali",
+        "B": "Venedik Film Festivali",
+        "C": "Sundance Film Festivali",
+        "D": "Cannes Film Festivali"
+      },
+      "correctOption": "D",
+      "explanation": "Altın Palmiye, Fransa'da düzenlenen Cannes Film Festivali'nin en büyük ödülüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 1,
+      "text": "Her yıl 1 Mayıs'ta kutlanan ve işçilerin birlik ve dayanışmasını simgeleyen gün hangisidir?",
+      "options": {
+        "A": "Emek ve Dayanışma Günü",
+        "B": "Dünya Kadınlar Günü",
+        "C": "Dünya Çevre Günü",
+        "D": "İnsan Hakları Günü"
+      },
+      "correctOption": "A",
+      "explanation": "1 Mayıs, işçilerin birlik ve dayanışmasını simgeleyen Emek ve Dayanışma Günü olarak kutlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "UNESCO tarafından her yıl 8 Eylül'de kutlanan ve okuma yazma becerisinin önemine dikkat çeken gün hangisidir?",
+      "options": {
+        "A": "Dünya Öğretmenler Günü",
+        "B": "Dünya Kitap Günü",
+        "C": "Dünya Okuma Yazma Günü",
+        "D": "Dünya Çocuk Günü"
+      },
+      "correctOption": "C",
+      "explanation": "Dünya Okuma Yazma Günü her yıl 8 Eylül'de kutlanmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 5 Ekim'de kutlanan ve öğretmenlik mesleğinin önemine dikkat çeken uluslararası gün hangisidir?",
+      "options": {
+        "A": "Dünya Çocuk Günü",
+        "B": "Dünya Eğitim Günü",
+        "C": "Dünya Okuma Yazma Günü",
+        "D": "Dünya Öğretmenler Günü"
+      },
+      "correctOption": "D",
+      "explanation": "Dünya Öğretmenler Günü, UNESCO tarafından her yıl 5 Ekim'de kutlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Türkiye'nin ilk haberleşme uydusu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "GÖKTÜRK-1",
+        "B": "RASAT",
+        "C": "Türksat 1B",
+        "D": "BİLSAT"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye'nin ilk haberleşme uydusu 1994 yılında fırlatılan Türksat 1B'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Türkiye'nin ilk yerli yer gözlem uydusu RASAT hangi kurum tarafından geliştirilmiştir?",
+      "options": {
+        "A": "TUSAŞ",
+        "B": "ASELSAN",
+        "C": "Türkiye Uzay Ajansı",
+        "D": "TÜBİTAK UZAY"
+      },
+      "correctOption": "D",
+      "explanation": "RASAT, TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü tarafından geliştirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Haberleşme uydularının çoğunlukla yerleştirildiği, ekvator düzleminde bulunan ve Dünya'ya göre sabit görünen yörünge hangisidir?",
+      "options": {
+        "A": "Yer eş zamanlı (jeosenkron) yörünge",
+        "B": "Kutup yörüngesi",
+        "C": "Eliptik yörünge",
+        "D": "Atmosfer yörüngesi"
+      },
+      "correctOption": "A",
+      "explanation": "Jeosenkron yörünge ekvator düzlemindedir ve uydu Dünya'ya göre sabit görünür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyetinde ilk nüfus sayımı hangi yıl yapılmıştır?",
+      "options": {
+        "A": "1923",
+        "B": "1924",
+        "C": "1926",
+        "D": "1927"
+      },
+      "correctOption": "D",
+      "explanation": "Türkiye'de ilk nüfus sayımı 1927 yılında yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye Büyük Millet Meclisi döneminde kabul edilen ilk anayasa hangisidir?",
+      "options": {
+        "A": "Kânûn-i Esâsî",
+        "B": "1924 Anayasası",
+        "C": "Teşkilât-ı Esasiye Kanunu (1921)",
+        "D": "1961 Anayasası"
+      },
+      "correctOption": "C",
+      "explanation": "1921 Teşkilât-ı Esasiye Kanunu, TBMM döneminin ilk anayasasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye'de ilk çok partili genel seçim hangi yıl yapılmıştır?",
+      "options": {
+        "A": "1946",
+        "B": "1950",
+        "C": "1923",
+        "D": "1961"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye'de ilk çok partili genel seçim 1946 yılında yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Aşağıdaki ülkelerden hangisi Avrupa Birliğinin temelini oluşturan Avrupa Ekonomik Topluluğunun kurucu üyeleri arasında yer alır?",
+      "options": {
+        "A": "Türkiye",
+        "B": "İngiltere",
+        "C": "Fransa",
+        "D": "İspanya"
+      },
+      "correctOption": "C",
+      "explanation": "AET'in kurucu üyeleri arasında Fransa, Almanya, İtalya, Belçika, Hollanda ve Lüksemburg bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Avrupa Birliğinin para politikasını yürüten Avrupa Merkez Bankasının merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Strazburg",
+        "C": "Lüksemburg",
+        "D": "Frankfurt"
+      },
+      "correctOption": "D",
+      "explanation": "Avrupa Merkez Bankası Almanya'nın Frankfurt şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa Birliği hukukunun uygulanmasını denetleyen Avrupa Birliği Adalet Divanı hangi şehirde bulunur?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Lahey",
+        "C": "Lüksemburg",
+        "D": "Strazburg"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Birliği Adalet Divanı Lüksemburg'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 1,
+      "text": "Bir ülkenin belirli bir dönemde sınırları içinde ürettiği nihai mal ve hizmetlerin toplam değerini ifade eden kavram hangisidir?",
+      "options": {
+        "A": "Gayri Safi Yurt İçi Hasıla",
+        "B": "Enflasyon",
+        "C": "Cari açık",
+        "D": "Dış borç"
+      },
+      "correctOption": "A",
+      "explanation": "Gayri Safi Yurt İçi Hasıla, ülke sınırları içinde üretilen nihai mal ve hizmetlerin toplam değeridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler üyesi ülkelerin 2015 yılında kabul ettiği Sürdürülebilir Kalkınma Amaçları toplam kaç hedeften oluşur?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "15",
+        "D": "17"
+      },
+      "correctOption": "D",
+      "explanation": "2030 Sürdürülebilir Kalkınma Amaçları toplam 17 hedeften oluşmaktadır.",
+      "source": "özgün"
+    }
+  ]
+}

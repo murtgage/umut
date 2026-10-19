@@ -174,7 +174,7 @@
         "B": "Havzadaki akarsuların çok uzun olması",
         "A": "Akarsuların tamamen yapay kanallarla yönlendirilmesi",
         "D": "Havzada yeterli yağış bulunmamasından akarsuyun kuruması",
-        "C": "Havzanın denize göre yüksek olması ve etrafının dağlarla çevrili olması"
+        "C": "Çevresinin dağlarla çevrili olması ve havzanın denize gideğeninin bulunmaması"
       },
       "correctOption": "C",
       "explanation": "Kapalı havzalarda yer şekilleri denize ulaşmayı engeller; Konya Kapalı Havzası çevresi dağlarla çevrili ve iç kesimde yer aldığı için akarsular denize ulaşamaz.",
@@ -259,7 +259,7 @@
       "categorySlug": "cografya",
       "topic": "Toprak Tipleri",
       "difficulty": 3,
-      "text": "Bir toprak örneğinin renginin koyu ve kireç oranının düşük olması, tarımsal verimliliğinin yüksek olması hangi ortamda oluştuğunun göstergesidir?",
+      "text": "Bir toprak örneğinin renginin koyu, humus oranının yüksek ve tarımsal verimliliğinin yüksek olması, hangi ortamda oluştuğunun göstergesidir?",
       "options": {
         "D": "Yeni oluşmuş volkanik arazilerde",
         "A": "Sürekli buzullarla kaplı alanlarda",
@@ -267,7 +267,7 @@
         "B": "Tuzlu ve kurak kapalı havzalarda"
       },
       "correctOption": "C",
-      "explanation": "Dengeli yıkanma ve bol bitki artığı, toprağı humusça zenginleştirir; bu topraklar koyu renkli ve verimli olur.",
+      "explanation": "Bol bitki artığı toprağı humusça zenginleştirir; humus hem rengi koyulaştırır hem verimliliği artırır. Şiddetli yıkanmanın humusu taşımadığı, yıkanmanın ölçülü kaldığı alanlarda bu tür topraklar oluşur.",
       "source": "özgün"
     },
     {
@@ -297,7 +297,7 @@
         "B": "Yer altı kaynaklarının farklı olması"
       },
       "correctOption": "C",
-      "explanation": "Bitki örtüsü temel olarak iklimle, özellikle yağış ve nem koşullarıyla belirlenir; bu koşulların faklılaşması bölgesel bitki örtüsü çeşitliliği yaratır.",
+      "explanation": "Bitki örtüsü temel olarak iklimle, özellikle yağış ve nem koşullarıyla belirlenir; bu koşulların farklılaşması bölgesel bitki örtüsü çeşitliliği yaratır.",
       "source": "özgün"
     },
     {

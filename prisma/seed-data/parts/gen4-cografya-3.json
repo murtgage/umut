@@ -6,12 +6,12 @@
       "difficulty": 2,
       "text": "Kalker gibi eriyebilen kayaçların bulunduğu alanlarda, yer altı sularının kayacı eritmesiyle oluşan çukurluklarda biriken suların meydana getirdiği göllere ne ad verilir?",
       "options": {
-        "A": "Karstik göl",
-        "B": "Tektonik göl",
-        "C": "Buzul gölü",
+        "A": "Tektonik göl",
+        "B": "Buzul gölü",
+        "C": "Karstik göl",
         "D": "Volkanik göl"
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "explanation": "Kalkerli arazilerde erime sonucu oluşan çukurluklarda biriken sular karstik gölleri oluşturur; bu göller genellikle küçük ve düzensiz biçimlidir.",
       "source": "özgün"
     },
@@ -19,15 +19,15 @@
       "categorySlug": "cografya",
       "topic": "Göller",
       "difficulty": 3,
-      "text": "Türkiye'deki göllerin büyük bölümünün suyunun tatlı değil, acı veya tuzlu olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "text": "Buzul aşındırmasıyla dağların yüksek kesimlerinde oyulan çukurluklarda (sirklerde) biriken suların oluşturduğu buzul (sirk) gölleri, Türkiye'de en yaygın olarak hangi dağlık alanda görülür?",
       "options": {
-        "A": "Göllerin yüksek dağların zirvelerinde yer alması",
-        "B": "Göllerin büyük bölümünün kapalı havzalarda yer alması ve suyu dışarı akıtan bir gideğeninin bulunmaması",
-        "C": "Göl sularının denizlerle sürekli bağlantılı olması",
-        "D": "Göllerin yalnızca kar sularıyla beslenmesi"
+        "A": "Kaçkar Dağları çevresi (Doğu Karadeniz)",
+        "B": "Konya Ovası ve çevresi",
+        "C": "Ergene Havzası",
+        "D": "Çukurova ve çevresi"
       },
-      "correctOption": "B",
-      "explanation": "Gideğeni bulunmayan kapalı havza göllerinde buharlaşan su geride tuz bırakır; bu nedenle göl suyunun tuzluluğu zamanla artar.",
+      "correctOption": "A",
+      "explanation": "Sirk gölleri, buzul aşındırmasının etkili olduğu yüksek dağlık alanlarda oluşur; Türkiye'de en yaygın olarak Doğu Karadeniz'deki Kaçkar Dağları çevresinde görülür.",
       "source": "özgün"
     },
     {
@@ -49,15 +49,15 @@
       "categorySlug": "cografya",
       "topic": "Göller",
       "difficulty": 2,
-      "text": "Yükseltisi fazla olan bir gölün yüzey suyu sıcaklığının, aynı enlemdeki alçak bir gölden daha düşük olmasının nedeni aşağıdakilerden hangisidir?",
+      "text": "Türkiye'de bir gölün su seviyesinin genellikle ilkbaharda yükselip yaz sonuna doğru düşmesinin temel nedeni aşağıdakilerden hangisidir?",
       "options": {
-        "A": "Yükselti arttıkça sıcaklığın azalması",
-        "B": "Yüksek göllerde buharlaşmanın hiç görülmemesi",
-        "C": "Yüksek göllerin yalnızca kar sularıyla beslenmesi",
-        "D": "Yüksek göllerin suyunun tuzlu olması"
+        "A": "Yaz aylarında gölün denizle olan bağlantısının kesilmesi",
+        "B": "Kışın göl yüzeyinin tamamen buzla kaplanması",
+        "C": "İlkbaharda tarımsal sulama amacıyla gölden aşırı su alınması",
+        "D": "İlkbaharda kar erimeleri ve yağışlarla beslenmenin artması, yazın ise buharlaşmanın artması"
       },
-      "correctOption": "A",
-      "explanation": "Yükselti arttıkça atmosferdeki sıcaklık azaldığından, yüksek kesimlerdeki göllerin suyu alçak kesimlerdeki göllere göre daha soğuk olur.",
+      "correctOption": "D",
+      "explanation": "İlkbaharda kar erimeleri ve yağışlarla gölün beslenmesi artar; yaz aylarında sıcaklık ve buna bağlı buharlaşma arttığı için göl seviyesi düşer.",
       "source": "özgün"
     },
     {
@@ -79,15 +79,15 @@
       "categorySlug": "cografya",
       "topic": "Akarsular",
       "difficulty": 3,
-      "text": "Bir akarsuyun hidroelektrik enerji potansiyelinin yüksek olması için aşağıdakilerden hangisi gereklidir?",
+      "text": "Bir akarsuyun yukarı çığırında (kaynağa yakın kesiminde) V biçimli derin vadilerin oluşmasının temel nedeni aşağıdakilerden hangisidir?",
       "options": {
-        "A": "Yatağının geniş ve akış hızının düşük olması",
-        "B": "Havzasında yağışın her mevsim aynı olması",
-        "C": "Akarsuyun eğiminin ve taşıdığı su miktarının fazla olması",
-        "D": "Akarsuyun kapalı bir havzada bulunması"
+        "A": "Akarsuyun yanlara doğru aşındırma yapmasının artması",
+        "B": "Taşınan alüvyonların yatakta birikmesi",
+        "C": "Yatak eğiminin fazla olması ve derine doğru aşındırmanın baskın olması",
+        "D": "Akarsu debisinin aşağı çığırlara göre az olması"
       },
       "correctOption": "C",
-      "explanation": "Hidroelektrik üretimi suyun düşme yüksekliğine (eğim) ve akım miktarına bağlıdır; eğim ile akım arttıkça üretilebilecek enerji de artar.",
+      "explanation": "Yukarı çığırda eğim ve akış hızı fazla olduğundan akarsu yatağını derine doğru aşındırır; böylece V biçimli derin vadiler oluşur.",
       "source": "özgün"
     },
     {
@@ -124,30 +124,30 @@
       "categorySlug": "cografya",
       "topic": "Bitki Örtüsü",
       "difficulty": 2,
-      "text": "Akdeniz iklim bölgesinde makilerin yapraklarının sert, küçük ve genellikle parlak olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "text": "Doğu Karadeniz kıyılarında ormanların insan eliyle tahrip edilmesi sonucu ortaya çıkan, makiye benzeyen fakat daha nemli ortamda gelişen çalı topluluğuna ne ad verilir?",
       "options": {
-        "A": "Yaz kuraklığında terleme yoluyla su kaybını azaltmak",
-        "B": "Kışın kar altında fotosentez yapmak",
-        "C": "Bitkilerin rüzgârla tozlaşmasını önlemek",
-        "D": "Toprağın tuzluluğunu artırmak"
+        "A": "Garig",
+        "B": "Antropojen bozkır",
+        "C": "Psödomaki (yalancı maki)",
+        "D": "Alpin çayır"
       },
-      "correctOption": "A",
-      "explanation": "Maki bitkileri, yaz boyunca süren kuraklıkta su kaybını en aza indirmek için sert, küçük ve tüylü yapraklar geliştirmiştir.",
+      "correctOption": "C",
+      "explanation": "Karadeniz kıyılarında tahrip edilen nemli ormanların yerini alan, maki görünümlü çalı topluluğuna psödomaki (yalancı maki) denir.",
       "source": "özgün"
     },
     {
       "categorySlug": "cografya",
       "topic": "Bitki Örtüsü",
       "difficulty": 2,
-      "text": "Bir yörenin doğal bitki örtüsünün orman, bozkır ya da çayır olmasını belirleyen temel etmen aşağıdakilerden hangisidir?",
+      "text": "Akdeniz iklim bölgesinde makilerin yangın ve kesim gibi etkilerle tahrip edilmesi sonucu ortaya çıkan, makiye göre daha kısa boylu ve seyrek çalılardan oluşan bitki örtüsüne ne ad verilir?",
       "options": {
-        "A": "Toprağın rengi",
-        "B": "Yer şekillerinin yaşı",
-        "C": "Nemlilik (yağış) koşulları",
-        "D": "Kayaçların sertliği"
+        "A": "Psödomaki",
+        "B": "Tundra",
+        "C": "Savan",
+        "D": "Garig (frigana)"
       },
-      "correctOption": "C",
-      "explanation": "Bitki örtüsünün türünü belirleyen en önemli etmen nemliliktir; nem arttıkça orman, azaldıkça bozkır, yeterli nem bulunan kesimlerde ise çayır görülür.",
+      "correctOption": "D",
+      "explanation": "Makinin tahrip edilmesiyle oluşan, daha bodur ve seyrek çalılardan oluşan ikincil bitki örtüsüne garig (frigana) denir.",
       "source": "özgün"
     },
     {
@@ -171,12 +171,12 @@
       "difficulty": 2,
       "text": "Toprağın üst katmanında bulunan humusun oluşması aşağıdakilerden hangisinin sonucudur?",
       "options": {
-        "A": "Ana kayanın yüksek sıcaklıkta erimesinin",
-        "B": "Akarsuların toprağı taşımasının",
-        "C": "Yağış sularının toprağı yıkamasının",
-        "D": "Bitki ve hayvan kalıntılarının ayrışmasının"
+        "A": "Bitki ve hayvan kalıntılarının ayrışmasının",
+        "B": "Ana kayanın yüksek sıcaklıkta erimesinin",
+        "C": "Akarsuların toprağı taşımasının",
+        "D": "Yağış sularının toprağı yıkamasının"
       },
-      "correctOption": "D",
+      "correctOption": "A",
       "explanation": "Humus, toprağa karışan bitki ve hayvan kalıntılarının mikroorganizmalarca ayrışmasıyla oluşur ve toprağın verimliliğini artırır.",
       "source": "özgün"
     },
@@ -274,15 +274,15 @@
       "categorySlug": "cografya",
       "topic": "Sanayi",
       "difficulty": 3,
-      "text": "Türkiye'de sanayi tesislerinin büyük bölümünün Marmara Bölgesi'nde toplanmasında aşağıdakilerden hangisi etkili olmuştur?",
+      "text": "Türkiye'de sanayi faaliyetlerinin son yıllarda Marmara Bölgesi'nin yanı sıra Anadolu'nun iç kesimlerindeki kentlerde de hızla gelişmesinde aşağıdakilerden hangisi etkili olmuştur?",
       "options": {
-        "A": "Bölgenin ülkenin en az yağış alan yeri olması",
-        "B": "Bölgede ham madde kaynaklarının hiç bulunmaması",
-        "C": "Pazara ve limanlara yakınlık ile sermaye, ulaşım ve iş gücü birikiminin bulunması",
-        "D": "Bölgenin yüzey şekillerinin çok engebeli olması"
+        "A": "Marmara Bölgesi'nde ham madde kaynaklarının tamamen tükenmesi",
+        "B": "Büyük kentlerde arazi, iş gücü ve çevre maliyetlerinin artması ile bölgesel yatırım teşvikleri",
+        "C": "Marmara Bölgesi'nin deniz yolu bağlantısını tümüyle yitirmesi",
+        "D": "Anadolu'nun iç kesimlerinde nüfusun tamamen boşalması"
       },
-      "correctOption": "C",
-      "explanation": "Marmara Bölgesi büyük tüketim pazarlarına, limanlara ve gelişmiş ulaşım ağlarına sahip olduğundan sermaye ile nitelikli iş gücünü de kendine çekmiştir.",
+      "correctOption": "B",
+      "explanation": "Büyük kentlerde sanayi için arazi, iş gücü ve çevre maliyetlerinin yükselmesi ile verilen yatırım teşvikleri, sanayinin Anadolu'nun iç kesimlerindeki kentlere yayılmasını hızlandırmıştır.",
       "source": "özgün"
     },
     {
@@ -394,15 +394,15 @@
       "categorySlug": "cografya",
       "topic": "İklim",
       "difficulty": 2,
-      "text": "Türkiye'de yıllık sıcaklık farkının (amplitüdün) iç bölgelerde kıyı bölgelerine göre daha büyük olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "text": "İlkbahar ve yaz başlarında İç Anadolu'da öğleden sonra sıkça görülen 'kırkikindi' yağışlarının oluşum biçimi aşağıdakilerden hangisidir?",
       "options": {
-        "A": "İç bölgelerin deniz seviyesinden daha alçak olması",
-        "B": "İç bölgelerde güneş ışınlarının hiç ulaşmaması",
-        "C": "İç bölgelerin denizden uzak olması ve nem oranının düşmesi",
-        "D": "Kıyı bölgelerinde kar yağışının hiç görülmemesi"
+        "A": "Cephesel (frontal) yağış",
+        "B": "Orografik (yamaç) yağış",
+        "C": "Konveksiyonel (yükselim) yağış",
+        "D": "Muson yağışı"
       },
       "correctOption": "C",
-      "explanation": "Denizden uzaklaşıldıkça nem azalır ve karasallık artar; nem azlığı nedeniyle iç bölgeler yazın çok ısınır, kışın çok soğur ve yıllık sıcaklık farkı büyür.",
+      "explanation": "Isınarak yükselen havanın soğuyup neminin yoğuşmasıyla oluşan konveksiyonel (yükselim) yağışlar, İç Anadolu'da ilkbahar sonlarında kırkikindi yağışları olarak görülür.",
       "source": "özgün"
     },
     {

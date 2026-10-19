@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Mülkiyet hakkı",
+        "B": "Özel hayatın gizliliği",
+        "C": "Konut dokunulmazlığı",
+        "D": "Haberleşme hürriyeti"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 20. maddesine göre herkes, kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahiptir; kişisel veriler ancak kanunda öngörülen usul ve esaslara uygun olarak işlenebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre herkesin, kendisiyle veya kamuyla ilgili dilek ve şikâyetleri hakkında yetkili makamlara ve Türkiye Büyük Millet Meclisine yazılı olarak başvurma hakkı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Dilekçe hakkı",
+        "B": "Bilgi edinme hakkı",
+        "C": "Düzeltme ve cevap hakkı",
+        "D": "Kamu hizmetlerine girme hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 74. maddesi vatandaşlara ve karşılıklılık esası gözetilmek kaydıyla Türkiye'de ikamet eden yabancılara dilekçe hakkı tanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre Devletin, ailenin huzur ve refahı ile özellikle ananın ve çocukların korunması ve aile planlamasının öğretimi ile uygulanmasını sağlamak için gerekli tedbirleri alması hangi hakla ilgilidir?",
+      "options": {
+        "A": "Ailenin korunması ve çocuk hakları",
+        "B": "Konut hakkı",
+        "C": "Sağlık hakkı",
+        "D": "Mülkiyet hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 41. maddesine göre aile, Türk toplumunun temelidir; Devlet, ailenin huzur ve refahı ile özellikle ananın ve çocukların korunması için gerekli tedbirleri alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Devletin, şehirlerin özelliklerini ve çevre şartlarını gözeten bir planlama çerçevesinde konut ihtiyacını karşılayacak tedbirleri alması aşağıdakilerden hangisiyle ilgilidir?",
+      "options": {
+        "A": "Çevre hakkı",
+        "B": "Sağlık hakkı",
+        "C": "Konut hakkı",
+        "D": "Sosyal güvenlik hakkı"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 57. maddesi konut hakkını düzenler; Devlet, şehirlerin özelliklerini ve çevre şartlarını gözeten bir planlama çerçevesinde konut ihtiyacını karşılayacak tedbirleri alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Devletin, tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlaması ve bu amaçla destekleyici ve teşvik edici tedbirleri alması hangi hak ve ödevle ilgilidir?",
+      "options": {
+        "A": "Çevre hakkı",
+        "B": "Tarih, kültür ve tabiat varlıklarının korunması",
+        "C": "Bilim ve sanat hürriyeti",
+        "D": "Eğitim ve öğrenim hakkı"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 63. maddesine göre Devlet, tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlar ve bu amaçla destekleyici ve teşvik edici tedbirleri alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Devlet ve kamu tüzel kişilerinin, kamu yararının gerektirdiği hâllerde, karşılıklarını peşin ödemek şartıyla özel mülkiyette bulunan taşınmaz malları kanunda gösterilen esas ve usullere göre satın alabilmesi aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Kamulaştırma",
+        "B": "Müsadere",
+        "C": "Devletleştirme",
+        "D": "İstimval"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 46. maddesine göre Devlet ve kamu tüzel kişileri, kamu yararının gerektirdiği hâllerde, karşılıklarını peşin ödemek şartıyla özel mülkiyette bulunan taşınmaz malları kamulaştırmaya yetkilidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi bir yasama yılında en çok kaç ay tatil yapabilir?",
+      "options": {
+        "A": "Bir ay",
+        "B": "İki ay",
+        "C": "Üç ay",
+        "D": "Dört ay"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 93. maddesine göre TBMM bir yasama yılında en çok üç ay tatil yapabilir; ara verme veya tatil sırasında Cumhurbaşkanı tarafından toplantıya çağrılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında görevleriyle ilgili cezaî sorumluluk iddiaları nedeniyle meclis soruşturması açılması, Türkiye Büyük Millet Meclisi üye tamsayısının en az kaçta kaçının vereceği önergeyle istenebilir?",
+      "options": {
+        "A": "Beşte biri",
+        "B": "Salt çoğunluğu",
+        "C": "Üçte biri",
+        "D": "Üçte ikisi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 106. maddesine göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında görevleriyle ilgili suç işledikleri iddiasıyla meclis soruşturması açılması, TBMM üye tamsayısının beşte birinin vereceği önergeyle istenebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi üyelerinin, seçildikleri bölgeyi veya kendilerini seçenleri değil bütün Milleti temsil etmesi aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Yasama dokunulmazlığı",
+        "B": "Yasama sorumsuzluğu",
+        "C": "Milletvekilliği ile bağdaşmayan işler",
+        "D": "Milletvekillerinin bütün Milleti temsil etmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 80. maddesine göre TBMM üyeleri, seçildikleri bölgeyi veya kendilerini seçenleri değil, bütün Milleti temsil ederler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre genel ve özel af ilanına karar vermek aşağıdakilerden hangisinin görev ve yetkileri arasında yer alır?",
+      "options": {
+        "A": "Cumhurbaşkanının",
+        "B": "Anayasa Mahkemesinin",
+        "C": "Türkiye Büyük Millet Meclisinin",
+        "D": "Yargıtayın"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 87. maddesine göre genel ve özel af ilanına karar vermek TBMM'nin görev ve yetkileri arasında sayılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 116. maddesine göre Türkiye Büyük Millet Meclisi, üye tamsayısının hangi çoğunluğuyla seçimlerin yenilenmesine karar verebilir?",
+      "options": {
+        "A": "Salt çoğunluğuyla",
+        "B": "Beşte üçüyle",
+        "C": "Üçte ikisiyle",
+        "D": "Üçte biriyle"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 116. maddesine göre TBMM, üye tamsayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verebilir; bu kararın ardından Cumhurbaşkanlığı seçimi ile TBMM seçimleri birlikte yapılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre \"Devletin başı\" olan ve bu sıfatla Türkiye Cumhuriyetini ve Türk Milletinin birliğini temsil eden organ aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi",
+        "B": "Cumhurbaşkanı",
+        "C": "Anayasa Mahkemesi",
+        "D": "Danıştay"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 104. maddesine göre Cumhurbaşkanı Devletin başıdır; bu sıfatla Türkiye Cumhuriyetini ve Türk Milletinin birliğini temsil eder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre millî güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından Türkiye Büyük Millet Meclisine karşı sorumlu olan organ aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Adalet Bakanı",
+        "B": "Millî Savunma Bakanı",
+        "C": "Genelkurmay Başkanı",
+        "D": "Cumhurbaşkanı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 117. maddesine göre millî güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından, Türkiye Büyük Millet Meclisine karşı Cumhurbaşkanı sorumludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 119. maddesine göre aşağıdakilerden hangisi olağanüstü hâl ilanını gerektiren sebeplerden biri değildir?",
+      "options": {
+        "A": "Tabii afetler",
+        "B": "Tehlikeli salgın hastalıklar",
+        "C": "Milletvekili genel seçimlerinin yenilenmesi",
+        "D": "Ağır ekonomik bunalım"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 119. maddesine göre tabii afetler, tehlikeli salgın hastalıklar, ağır ekonomik bunalımlar ve şiddet olayları olağanüstü hâl ilanını gerektiren sebeplerdendir; seçimlerin yenilenmesi bu sebepler arasında yer almaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 118. maddesine göre Millî Güvenlik Kurulunun üyeleri arasında aşağıdaki bakanlardan hangisi yer almaz?",
+      "options": {
+        "A": "Adalet Bakanı",
+        "B": "İçişleri Bakanı",
+        "C": "Millî Eğitim Bakanı",
+        "D": "Millî Savunma Bakanı"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 118. maddesine göre Millî Güvenlik Kurulu; Cumhurbaşkanı başkanlığında, Cumhurbaşkanı yardımcıları, Adalet, Millî Savunma, İçişleri ve Dışişleri bakanları, Genelkurmay Başkanı ve kuvvet komutanlarından oluşur; Millî Eğitim Bakanı Kurulun üyesi değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 104. maddesine göre milletlerarası andlaşmaları onaylamak ve yayımlamak aşağıdakilerden hangisinin görev ve yetkileri arasında yer alır?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisinin",
+        "B": "Danıştayın",
+        "C": "Anayasa Mahkemesinin",
+        "D": "Cumhurbaşkanının"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. maddesine göre milletlerarası andlaşmaları onaylamak ve yayımlamak Cumhurbaşkanının görev ve yetkileri arasında sayılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre hiçbir organ, makam, merci veya kişinin, yargı yetkisinin kullanılmasında mahkemelere ve hâkimlere emir ve talimat verememesi, genelge gönderememesi, tavsiye ve telkinde bulunamaması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Mahkemelerin bağımsızlığı",
+        "B": "Yargılamanın aleniyeti",
+        "C": "Kanunî hâkim güvencesi",
+        "D": "Tabiî hâkim ilkesi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 138. maddesine göre mahkemeler bağımsızdır; hiçbir organ, makam, merci veya kişi, yargı yetkisinin kullanılmasında mahkemelere ve hâkimlere emir ve talimat veremez, genelge gönderemez, tavsiye ve telkinde bulunamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 148. maddesine göre Anayasa Mahkemesinin Yüce Divan sıfatıyla yargılayacağı kişiler arasında aşağıdakilerden hangisi yer alır?",
+      "options": {
+        "A": "Valiler",
+        "B": "Cumhurbaşkanı yardımcıları ve bakanlar",
+        "C": "Yalnızca kaymakamlar",
+        "D": "Belediye başkanları"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesine göre Anayasa Mahkemesi; Cumhurbaşkanını, TBMM Başkanını, Cumhurbaşkanı yardımcılarını, bakanları ve kanunda gösterilen diğer yüksek görevlileri görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre Hâkimler ve Savcılar Kurulunun başkanı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Adalet Bakanı",
+        "B": "Cumhurbaşkanı",
+        "C": "Danıştay Başkanı",
+        "D": "Yargıtay Birinci Başkanı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 159. maddesine göre Hâkimler ve Savcılar Kurulunun başkanı Adalet Bakanıdır; Kurul iki daire hâlinde çalışır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 125. maddesine göre idarenin her türlü eylem ve işlemlerine karşı yargı yolunun açık olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "İdari vesayet",
+        "B": "Yargı yolunun açık olması (yargısal denetim)",
+        "C": "Hiyerarşik denetim",
+        "D": "Takdir yetkisi"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 125. maddesine göre idarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır; idare, yargı kararlarının uygulanmasını geciktiremez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 146. maddesine göre Anayasa Mahkemesi Başkanı ve başkanvekili nasıl belirlenir?",
+      "options": {
+        "A": "Cumhurbaşkanı tarafından atanır",
+        "B": "Türkiye Büyük Millet Meclisi tarafından seçilir",
+        "C": "Adalet Bakanı tarafından atanır",
+        "D": "Kendi üyeleri arasından gizli oyla ve üye tamsayısının salt çoğunluğuyla dört yıl için seçilir"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 146. maddesine göre Anayasa Mahkemesi, Başkanını ve başkanvekilini kendi üyeleri arasından gizli oyla ve üye tamsayısının salt çoğunluğuyla dört yıl için seçer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 1,
+      "text": "1982 Anayasası'nın 7. maddesine göre yasama yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Türk Milleti adına Türkiye Büyük Millet Meclisinindir ve bu yetki devredilemez",
+        "B": "Yalnızca Cumhurbaşkanına aittir ve devredilebilir",
+        "C": "Bağımsız mahkemelerce kullanılır",
+        "D": "Halk tarafından doğrudan referandumla kullanılır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 7. maddesine göre yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisinindir ve bu yetki devredilemez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 123. maddesine göre idarenin bütünlüğü ve düzenlenmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İdare, her ilin ayrı tüzel kişiliği esasına göre düzenlenir",
+        "B": "İdarenin kuruluş ve görevleri yalnızca Cumhurbaşkanlığı kararnamesiyle düzenlenir",
+        "C": "İdare, kuruluş ve görevleriyle bir bütündür ve kanunla düzenlenir",
+        "D": "İdare, kuruluş ve görevleri bakımından yargı organlarına bağlıdır"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 123. maddesine göre idare, kuruluş ve görevleriyle bir bütündür ve kanunla düzenlenir; idarenin kuruluş ve görevleri, merkezî idare ile mahallî idareler arasındaki görev ve yetki bölüşümü gözetilerek belirlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 148. maddesine göre aşağıdakilerden hangisinin Anayasa'ya aykırılığı iddiasıyla Anayasa Mahkemesinde dava açılamaz?",
+      "options": {
+        "A": "Kanunların",
+        "B": "Olağan dönemde çıkarılan Cumhurbaşkanlığı kararnamelerinin",
+        "C": "Türkiye Büyük Millet Meclisi İçtüzüğünün",
+        "D": "Olağanüstü hâl, savaş hâli ve seferberlik hâllerinde çıkarılan Cumhurbaşkanlığı kararnamelerinin"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 148. maddesine göre olağanüstü hâl, savaş hâli ve seferberlik hâllerinde çıkarılan Cumhurbaşkanlığı kararnamelerinin şekil ve esas bakımından Anayasa'ya aykırılığı iddiasıyla Anayasa Mahkemesinde dava açılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 3,
+      "text": "1876 Kanûn-ı Esâsî'de 1909 yılında yapılan değişikliklerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Padişahın yetkileri genişletilmiş, Meclisin yetkileri azaltılmıştır",
+        "B": "Padişahın yetkileri sınırlandırılmış, Meclis-i Mebusan'ın yetkileri artırılmıştır",
+        "C": "Meclis-i Umumi kapatılmış ve tek meclisli sisteme geçilmiştir",
+        "D": "Yürütme yetkisi tümüyle Meclise devredilmiştir"
+      },
+      "correctOption": "B",
+      "explanation": "1909'da Kanûn-ı Esâsî'de yapılan değişikliklerle padişahın yetkileri sınırlandırılmış, Meclis-i Mebusan'ın yetkileri artırılmış ve hükümetin Meclise karşı sorumluluğu güçlendirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 2,
+      "text": "1924 Anayasası'nın ilk şeklinde yer alan ve 1928 yılındaki Anayasa değişikliğiyle metinden çıkarılan hüküm aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Egemenliğin kayıtsız şartsız millete ait olduğu",
+        "B": "Türkiye Devletinin bir Cumhuriyet olduğu",
+        "C": "Yasama ve yürütme yetkilerinin TBMM'de toplandığı",
+        "D": "Türkiye Devletinin dininin İslam olduğu"
+      },
+      "correctOption": "D",
+      "explanation": "1924 Anayasası'nın ilk şeklinde yer alan \"Türkiye Devletinin dini, dini İslamdır\" hükmü 1928 yılındaki Anayasa değişikliğiyle metinden çıkarılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, dilediği alanda çalışma ve sözleşme hürriyetine sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Çalışma ve sözleşme hürriyeti",
+        "B": "Yerleşme ve seyahat hürriyeti",
+        "C": "Sendika kurma hakkı",
+        "D": "Toplu iş sözleşmesi hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 48. maddesine göre herkes, dilediği alanda çalışma ve sözleşme hürriyetlerine sahiptir; özel teşebbüs kurmak serbesttir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Mahalli İdareler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 127. maddesine göre mahallî idareler ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Mahallî idarelerin karar organları merkezî idare tarafından atanır",
+        "B": "Mahallî idareler, karar organları kanunda gösterilen seçmenler tarafından seçilerek oluşturulan kamu tüzel kişileridir",
+        "C": "Mahallî idareler tüzel kişiliği olmayan kuruluşlardır",
+        "D": "Mahallî idarelerin kuruluş esasları yönetmelikle belirlenir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 127. maddesine göre mahallî idareler; il, belediye veya köy halkının mahallî müşterek ihtiyaçlarını karşılamak üzere kuruluş esasları kanunla belirtilen ve karar organları kanunda gösterilen seçmenler tarafından seçilerek oluşturulan kamu tüzel kişileridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Mahalli İdareler",
+      "difficulty": 1,
+      "text": "İl özel idaresinde yürütme organı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İl genel meclisi",
+        "B": "İl encümeni",
+        "C": "Vali",
+        "D": "Kaymakam"
+      },
+      "correctOption": "C",
+      "explanation": "5302 sayılı İl Özel İdaresi Kanunu'na göre il özel idaresinin organları il genel meclisi, il encümeni ve validir; il özel idaresinin yürütme organı validir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İnsan Hakları",
+      "difficulty": 2,
+      "text": "İnsan haklarının uluslararası düzeyde korunmasında önemli bir belge olan Avrupa İnsan Hakları Sözleşmesi hangi yıl imzaya açılmıştır?",
+      "options": {
+        "A": "1950",
+        "B": "1948",
+        "C": "1961",
+        "D": "1975"
+      },
+      "correctOption": "A",
+      "explanation": "Avrupa İnsan Hakları Sözleşmesi, Avrupa Konseyi çerçevesinde 1950 yılında imzaya açılmış ve 1953 yılında yürürlüğe girmiştir.",
+      "source": "özgün"
+    }
+  ]
+}

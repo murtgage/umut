@@ -64,7 +64,7 @@
       "categorySlug": "vatandaslik",
       "topic": "Temel Hak ve Ödevler",
       "difficulty": 2,
-      "text": "1982 Anayasası'na göre çalışanların ve işverenlerin dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili hakları aşağıdaki haklardan hangisinin kapsamındadır?",
+      "text": "1982 Anayasası'na göre dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakları aşağıdaki haklardan hangisinin kapsamındadır?",
       "options": {
         "A": "Dinlenme hakkı",
         "B": "Toplu iş sözleşmesi hakkı",
@@ -72,7 +72,7 @@
         "D": "Sendika kurma hakkı"
       },
       "correctOption": "A",
-      "explanation": "Anayasa'nın 50. maddesi dinlenme hakkını düzenler; çalışanların dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakları bu kapsamdadır.",
+      "explanation": "Anayasa'nın 50. maddesine göre herkes dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakkına sahiptir.",
       "source": "özgün"
     },
     {
@@ -334,7 +334,7 @@
       "categorySlug": "vatandaslik",
       "topic": "Anayasa",
       "difficulty": 1,
-      "text": "1982 Anayasası'nın 3. maddesine göre aşağıdakilerden hangisi Devletin temel nitelikleri arasında yer alır?",
+      "text": "1982 Anayasası'nın 3. maddesine göre aşağıdakilerden hangisi doğrudur?",
       "options": {
         "A": "Resmî dilin Türkçe olması ve bayrağın ay yıldızlı al sancak olması",
         "B": "Başkentin İstanbul olması",
@@ -342,7 +342,7 @@
         "D": "Millî marşın her dönem değiştirilebilmesi"
       },
       "correctOption": "A",
-      "explanation": "Anayasa'nın 3. maddesine göre Devletin ülkesi ve milletiyle bölünmez bir bütündür; dili Türkçedir, bayrağı şekli kanunda belirtilen ay yıldızlı al sancaktır, millî marşı İstiklal Marşı'dır ve başkenti Ankara'dır.",
+      "explanation": "Anayasa'nın 3. maddesine göre Devlet, ülkesi ve milletiyle bölünmez bir bütündür; dili Türkçe, bayrağı şekli kanunda belirtilen ay yıldızlı al sancak, millî marşı İstiklal Marşı ve başkenti Ankara'dır. (Devletin temel nitelikleri ise 2. maddede sayılmıştır.)",
       "source": "özgün"
     },
     {

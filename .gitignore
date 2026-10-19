@@ -56,3 +56,6 @@ next-env.d.ts
 /prisma/seed-data/parts/_*.json
 /scripts/_*.js
 /scripts/_*.py
+
+# Ajanlarin gecici TS betikleri (dbcheck vb.) commit edilmez.
+/scripts/_*.ts

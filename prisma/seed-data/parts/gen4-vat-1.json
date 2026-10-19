@@ -34,7 +34,7 @@
       "categorySlug": "vatandaslik",
       "topic": "Temel Hak ve Ödevler",
       "difficulty": 3,
-      "text": "Bir kişinin, kendisi hakkında verilmiş kesinleşmiş bir mahkeme kararı nedeniyle idareye başvurarak uğradığı zararın karşılanmasını istemesi aşağıdakilerden hangisiyle ilgilidir?",
+      "text": "Devletin, resmî görevliler tarafından yapılan haksız işlemler sonucu doğan zararı tazmin etme yükümlülüğü aşağıdakilerden hangisiyle ilgilidir?",
       "options": {
         "B": "Dilekçe hakkı",
         "A": "Mülkiyet hakkı",
@@ -42,7 +42,7 @@
         "C": "Devletin sorumluluğu ve tazminat hakkı"
       },
       "correctOption": "C",
-      "explanation": "Anayasa'nın 40. maddesi, idarenin işlem ve eylemlerinden zarar görenlere karşı devletin sorumluluğunu ve zararın tazmin edilmesini güvence altına alır.",
+      "explanation": "Anayasa'nın 40. maddesinin son fıkrasına göre kişinin resmî görevliler tarafından yapılan haksız işlemler sonucu uğradığı zarar, kanuna göre Devletçe tazmin edilir; Devletin sorumlu görevliye rücu hakkı saklıdır.",
       "source": "özgün"
     },
     {
@@ -124,7 +124,7 @@
       "categorySlug": "vatandaslik",
       "topic": "Yasama",
       "difficulty": 3,
-      "text": "1982 Anayasası'na göre TBMM üyelerinin seçim çevreleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "text": "TBMM üyelerinin seçim çevreleri ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": {
         "B": "Milletvekilleri ülke genelinde tek bir seçim çevresinden seçilir",
         "A": "Nüfusu belirli bir sayısının altında kalan iller milletvekili çıkaramaz",
@@ -132,7 +132,7 @@
         "C": "Seçim çevreleri yalnızca bölge esasına göre belirlenir"
       },
       "correctOption": "D",
-      "explanation": "Anayasa'nın 80. ve 76. maddeleri çerçevesinde her il, nüfusuna bakılmaksızın en az bir milletvekili çıkarır; nüfusu fazla olan iller daha çok milletvekili seçer.",
+      "explanation": "Her il, nüfusuna bakılmaksızın en az bir milletvekili çıkarır; nüfusu fazla olan iller daha çok milletvekili seçer. Bu kural 2839 sayılı Milletvekili Seçimi Kanunu'nda düzenlenir; Anayasa ise TBMM'nin genel oyla seçilmesini ve milletvekillerinin milleti temsil etmesini öngörür.",
       "source": "özgün"
     },
     {

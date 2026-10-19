@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "İngiliz Milletler Topluluğunun (Commonwealth) sekretaryasının bulunduğu şehir hangisidir?",
+      "options": {
+        "A": "Londra",
+        "B": "Ottawa",
+        "C": "Canberra",
+        "D": "Yeni Delhi"
+      },
+      "correctOption": "A",
+      "explanation": "İngiliz Milletler Topluluğunun sekretaryası Birleşik Krallık'ın başkenti Londra'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Güney Amerika ülkelerinin oluşturduğu ortak pazar MERCOSUR'un merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Buenos Aires",
+        "B": "Montevideo",
+        "C": "Brasília",
+        "D": "Santiago"
+      },
+      "correctOption": "B",
+      "explanation": "MERCOSUR'un merkezi, Uruguay'ın başkenti Montevideo'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Asya-Pasifik Ekonomik İşbirliği (APEC) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1961",
+        "B": "1967",
+        "C": "1975",
+        "D": "1989"
+      },
+      "correctOption": "D",
+      "explanation": "APEC, 1989 yılında kurulmuş olup sekretaryası Singapur'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Kuzey Atlantik Antlaşması Örgütü (NATO) kurulduğunda kaç kurucu üyeye sahipti?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "15",
+        "D": "16"
+      },
+      "correctOption": "B",
+      "explanation": "NATO, 1949'da ABD, Kanada ve 10 Avrupa ülkesi olmak üzere toplam 12 kurucu üye ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Avrupa Birliğinin yatırım ve kalkınma finansmanı sağlayan bankası olan Avrupa Yatırım Bankasının merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Frankfurt",
+        "C": "Lüksemburg",
+        "D": "Strazburg"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Yatırım Bankasının merkezi Lüksemburg'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de sivil havacılık faaliyetlerini düzenlemek ve denetlemekle görevli kurum hangisidir?",
+      "options": {
+        "A": "Sivil Havacılık Genel Müdürlüğü",
+        "B": "Devlet Hava Meydanları İşletmesi",
+        "C": "Türkiye Petrolleri Anonim Ortaklığı",
+        "D": "Karayolları Genel Müdürlüğü"
+      },
+      "correctOption": "A",
+      "explanation": "Sivil Havacılık Genel Müdürlüğü (SHGM), sivil havacılık faaliyetlerini düzenler ve denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de ormanların korunması, geliştirilmesi ve işletilmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "B": "Devlet Su İşleri Genel Müdürlüğü",
+        "C": "Maden Tetkik ve Arama Genel Müdürlüğü",
+        "D": "Orman Genel Müdürlüğü"
+      },
+      "correctOption": "D",
+      "explanation": "Orman Genel Müdürlüğü (OGM), ormanların korunması, geliştirilmesi ve işletilmesinden sorumludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de posta ve telgraf hizmetlerini yürüten kuruluş hangisidir?",
+      "options": {
+        "A": "Türkiye Radyo Televizyon Kurumu",
+        "B": "Türkiye İstatistik Kurumu",
+        "C": "Posta ve Telgraf Teşkilatı",
+        "D": "Türk Standartları Enstitüsü"
+      },
+      "correctOption": "C",
+      "explanation": "Posta ve Telgraf Teşkilatı (PTT), ülke genelinde posta ve telgraf hizmetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de din hizmetlerini yürütmek ve ibadet yerlerine ilişkin işleri düzenlemekle görevli kurum hangisidir?",
+      "options": {
+        "A": "Diyanet İşleri Başkanlığı",
+        "B": "Vakıflar Genel Müdürlüğü",
+        "C": "Yunus Emre Enstitüsü",
+        "D": "Kültür ve Turizm Bakanlığı"
+      },
+      "correctOption": "A",
+      "explanation": "Diyanet İşleri Başkanlığı, din hizmetlerini yürütmek ve ibadet yerlerine ilişkin işleri düzenlemekle görevlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler kaç üye ülkeden oluşmaktadır?",
+      "options": {
+        "A": "150",
+        "B": "175",
+        "C": "193",
+        "D": "210"
+      },
+      "correctOption": "C",
+      "explanation": "Birleşmiş Milletler, günümüzde 193 üye ülkeden oluşan evrensel bir örgüttür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletlerin ana organlarından olup 1994 yılında görevini tamamlayarak fiilen faaliyetini sona erdiren organ hangisidir?",
+      "options": {
+        "A": "Genel Kurul",
+        "B": "Güvenlik Konseyi",
+        "C": "Ekonomik ve Sosyal Konsey",
+        "D": "Vesayet Konseyi"
+      },
+      "correctOption": "D",
+      "explanation": "Vesayet Konseyi, vesayet altındaki bölgelerin bağımsızlığa kavuşmasıyla 1994 yılında görevini tamamlamıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Genel Sekreterinin görev süresi kaç yıldır?",
+      "options": {
+        "A": "İki",
+        "B": "Üç",
+        "C": "Dört",
+        "D": "Beş"
+      },
+      "correctOption": "D",
+      "explanation": "Birleşmiş Milletler Genel Sekreteri, Genel Kurul tarafından beş yıllık bir dönem için atanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin millî imkânlarla geliştirdiği ana muharebe tankına verilen ad hangisidir?",
+      "options": {
+        "A": "Altay",
+        "B": "Kaplan",
+        "C": "Pars",
+        "D": "Tulpar"
+      },
+      "correctOption": "A",
+      "explanation": "Altay, Türkiye'nin millî imkânlarla geliştirdiği ana muharebe tankı projesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 1,
+      "text": "İstanbul Boğazı'nın altından geçerek karayolu ulaşımına hizmet eden tünel hangisidir?",
+      "options": {
+        "A": "Marmaray",
+        "B": "Avrasya Tüneli",
+        "C": "Bolu Dağı Tüneli",
+        "D": "Zigana Tüneli"
+      },
+      "correctOption": "B",
+      "explanation": "Avrasya Tüneli, İstanbul Boğazı'nın altından geçen ve karayolu ulaşımına hizmet eden bir tüneldir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin Karadeniz'deki Sakarya Gaz Sahası'nda ilk doğal gaz keşfini gerçekleştiren sondaj gemisi hangisidir?",
+      "options": {
+        "A": "Oruç Reis",
+        "B": "Barbaros Hayreddin Paşa",
+        "C": "Fatih",
+        "D": "Piri Reis"
+      },
+      "correctOption": "C",
+      "explanation": "Fatih sondaj gemisi, 2020 yılında Karadeniz'deki Sakarya Gaz Sahası'nda Türkiye'nin ilk büyük doğal gaz keşfini gerçekleştirmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Türkiye'nin yerli ve millî imkânlarla üretilen ilk haberleşme uydusu hangisidir?",
+      "options": {
+        "A": "Türksat 1B",
+        "B": "Türksat 6A",
+        "C": "GÖKTÜRK-2",
+        "D": "RASAT"
+      },
+      "correctOption": "B",
+      "explanation": "Türksat 6A, Türkiye'nin yerli ve millî imkânlarla üretilen ilk haberleşme uydusudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 1,
+      "text": "Ay yüzeyine ilk ayak basan insan kimdir?",
+      "options": {
+        "A": "Yuri Gagarin",
+        "B": "Buzz Aldrin",
+        "C": "Michael Collins",
+        "D": "Neil Armstrong"
+      },
+      "correctOption": "D",
+      "explanation": "Neil Armstrong, 1969 yılındaki Apollo 11 göreviyle Ay yüzeyine ilk ayak basan insan olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Uluslararası Uzay İstasyonu (ISS) hangi yörüngede bulunmaktadır?",
+      "options": {
+        "A": "Yer eş zamanlı yörünge",
+        "B": "Alçak Dünya yörüngesi",
+        "C": "Kutup yörüngesi",
+        "D": "Ay yörüngesi"
+      },
+      "correctOption": "B",
+      "explanation": "Uluslararası Uzay İstasyonu, Dünya yüzeyine görece yakın olan alçak Dünya yörüngesinde bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Sinema alanında verilen 'Altın Aslan' ödülü hangi film festivalinde dağıtılmaktadır?",
+      "options": {
+        "A": "Cannes Film Festivali",
+        "B": "Berlin Film Festivali",
+        "C": "Venedik Film Festivali",
+        "D": "Locarno Film Festivali"
+      },
+      "correctOption": "C",
+      "explanation": "Altın Aslan, İtalya'da düzenlenen Venedik Film Festivali'nin en büyük ödülüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 1,
+      "text": "Grammy Ödülleri hangi alanda verilen uluslararası ödüllerdir?",
+      "options": {
+        "A": "Müzik",
+        "B": "Sinema",
+        "C": "Edebiyat",
+        "D": "Mimarlık"
+      },
+      "correctOption": "A",
+      "explanation": "Grammy Ödülleri, müzik alanında üstün başarı gösteren sanatçılara verilen ödüllerdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 3,
+      "text": "Futbolda yılın en iyi oyuncusuna verilen Altın Top (Ballon d'Or) ödülü hangi yayın organı tarafından verilmektedir?",
+      "options": {
+        "A": "L'Équipe",
+        "B": "Kicker",
+        "C": "Marca",
+        "D": "France Football"
+      },
+      "correctOption": "D",
+      "explanation": "Altın Top (Ballon d'Or) ödülü, Fransız spor dergisi France Football tarafından verilmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türk kadınlarına belediye seçimlerinde seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+      "options": {
+        "A": "1926",
+        "B": "1930",
+        "C": "1933",
+        "D": "1934"
+      },
+      "correctOption": "B",
+      "explanation": "Türk kadınlarına belediye seçimlerinde seçme ve seçilme hakkı 1930 yılında tanınmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 3,
+      "text": "Türkiye'de inşa edilen ilk demiryolu hattı hangi iki şehir arasında yer almıştır?",
+      "options": {
+        "A": "İstanbul-İzmit",
+        "B": "İzmir-Aydın",
+        "C": "Ankara-Kayseri",
+        "D": "Adana-Mersin"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin ilk demiryolu hattı, İzmir ile Aydın arasında inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 21 Eylül'de kutlanan ve dünyada barışın önemine dikkat çeken uluslararası gün hangisidir?",
+      "options": {
+        "A": "Dünya Barış Günü",
+        "B": "Dünya İnsan Hakları Günü",
+        "C": "Uluslararası Demokrasi Günü",
+        "D": "Dünya Çevre Günü"
+      },
+      "correctOption": "A",
+      "explanation": "21 Eylül, Birleşmiş Milletler tarafından Dünya Barış Günü olarak belirlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 20 Kasım'da çocuk haklarına ve çocukların refahına dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya Kadınlar Günü",
+        "B": "Dünya Öğretmenler Günü",
+        "C": "Dünya Çocuk Günü",
+        "D": "Dünya Gıda Günü"
+      },
+      "correctOption": "C",
+      "explanation": "20 Kasım, Birleşmiş Milletler tarafından Dünya Çocuk Günü olarak kabul edilmiştir.",
+      "source": "özgün"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "NATO'nun kurucu antlaşmasında, üyelerden birine yapılan silahlı saldırının tüm üyelere yapılmış sayılmasını öngören madde hangisidir?",
+      "options": {
+        "A": "1. Madde",
+        "B": "3. Madde",
+        "C": "5. Madde",
+        "D": "10. Madde"
+      },
+      "correctOption": "C",
+      "explanation": "NATO Antlaşması'nın 5. maddesi, bir üyeye yönelik silahlı saldırının tüm üyelere yapılmış sayılacağını ve ortak savunmayı öngörür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Güneydoğu Asya Ülkeleri Birliği (ASEAN) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1967",
+        "C": "1975",
+        "D": "1991"
+      },
+      "correctOption": "B",
+      "explanation": "ASEAN, 1967 yılında Bangkok Bildirisi ile Endonezya, Malezya, Filipinler, Singapur ve Tayland tarafından kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Afrika Birliğinin merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Nairobi",
+        "B": "Kahire",
+        "C": "Addis Ababa",
+        "D": "Lagos"
+      },
+      "correctOption": "C",
+      "explanation": "Afrika Birliğinin merkezi Etiyopya'nın başkenti Addis Ababa'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Dünya Ekonomik Forumu hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1950",
+        "B": "1971",
+        "C": "1985",
+        "D": "1999"
+      },
+      "correctOption": "B",
+      "explanation": "Dünya Ekonomik Forumu, Klaus Schwab öncülüğünde 1971 yılında kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Ceza Mahkemesini kuran Roma Statüsü hangi yıl kabul edilmiştir?",
+      "options": {
+        "A": "1948",
+        "B": "1966",
+        "C": "1998",
+        "D": "2005"
+      },
+      "correctOption": "C",
+      "explanation": "Uluslararası Ceza Mahkemesini kuran Roma Statüsü 1998'de kabul edilmiş, 2002'de yürürlüğe girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 1,
+      "text": "Doğal yaşamın korunması ve nesli tükenmekte olan türlerin muhafazası için çalışan Dünya Doğayı Koruma Vakfının (WWF) simgesi hangisidir?",
+      "options": {
+        "A": "Kutup ayısı",
+        "B": "Kaplan",
+        "C": "Kartal",
+        "D": "Panda"
+      },
+      "correctOption": "D",
+      "explanation": "Dünya Doğayı Koruma Vakfının (WWF) simgesi, nesli tehdit altındaki dev pandadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Aşağıdaki ülkelerden hangisi G7 üyesidir?",
+      "options": {
+        "A": "İspanya",
+        "B": "Avustralya",
+        "C": "Hollanda",
+        "D": "Kanada"
+      },
+      "correctOption": "D",
+      "explanation": "G7 üyeleri ABD, Kanada, Birleşik Krallık, Fransa, Almanya, İtalya ve Japonya'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Avrupa'nın en eski siyasi işbirliği kuruluşlarından olan Avrupa Konseyi hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1949",
+        "C": "1957",
+        "D": "1989"
+      },
+      "correctOption": "B",
+      "explanation": "Avrupa Konseyi, 1949 yılında Londra Antlaşması ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de küçük ve orta ölçekli işletmelerin (KOBİ) desteklenmesi ve geliştirilmesiyle görevli kamu kurumu hangisidir?",
+      "options": {
+        "A": "TÜBİTAK",
+        "B": "TİKA",
+        "C": "SPK",
+        "D": "KOSGEB"
+      },
+      "correctOption": "D",
+      "explanation": "KOSGEB, küçük ve orta ölçekli işletmeleri geliştirme ve destekleme görevini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de istihdamın artırılması ve iş arayanlara iş bulma konusunda hizmet veren kurum hangisidir?",
+      "options": {
+        "A": "SGK",
+        "B": "İŞKUR",
+        "C": "KOSGEB",
+        "D": "TÜİK"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye İş Kurumu (İŞKUR), istihdam hizmetleri ve işe yerleştirme faaliyetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de doğal gaz ve petrolün boru hatlarıyla taşınmasına yönelik projeleri yürüten kamu iktisadi teşebbüsü hangisidir?",
+      "options": {
+        "A": "TPAO",
+        "B": "EPDK",
+        "C": "MTA",
+        "D": "BOTAŞ"
+      },
+      "correctOption": "D",
+      "explanation": "Boru Hatları ile Petrol Taşıma A.Ş. (BOTAŞ), petrol ve doğal gazın taşınmasından sorumludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de demiryolu taşımacılığına ilişkin altyapıyı işleten ve yöneten kuruluş hangisidir?",
+      "options": {
+        "A": "DHMİ",
+        "B": "TCDD",
+        "C": "KGM",
+        "D": "İller Bankası"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye Cumhuriyeti Devlet Demiryolları (TCDD), demiryolu ulaşım ve altyapı hizmetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de yükseköğrenim öğrencilerine barınma ile öğrenim ve katkı kredisi desteği sağlayan kurum hangisidir?",
+      "options": {
+        "A": "YÖK",
+        "B": "MEB",
+        "C": "Kredi ve Yurtlar Kurumu",
+        "D": "TÜBİTAK"
+      },
+      "correctOption": "C",
+      "explanation": "Kredi ve Yurtlar Kurumu (KYK), öğrencilere yurt ve kredi hizmeti sunar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de savunma sanayisi yatırımlarını ve projelerini planlayıp koordine eden kurum hangisidir?",
+      "options": {
+        "A": "Savunma Sanayii Başkanlığı",
+        "B": "ASELSAN",
+        "C": "TUSAŞ",
+        "D": "MİT"
+      },
+      "correctOption": "A",
+      "explanation": "Savunma Sanayii Başkanlığı (SSB), millî savunma sanayisi projelerini planlar ve yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Çocuklara Yardım Fonu (UNICEF) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1948",
+        "C": "1950",
+        "D": "1946"
+      },
+      "correctOption": "D",
+      "explanation": "UNICEF, 1946 yılında Birleşmiş Milletler Genel Kurulu kararıyla kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletlerin ekonomik ve sosyal konuları ele alan ana organı hangisidir?",
+      "options": {
+        "A": "Güvenlik Konseyi",
+        "B": "Genel Kurul",
+        "C": "Ekonomik ve Sosyal Konsey",
+        "D": "Vesayet Konseyi"
+      },
+      "correctOption": "C",
+      "explanation": "Ekonomik ve Sosyal Konsey (ECOSOC), BM'nin ekonomik ve sosyal kalkınma konularıyla ilgilenen ana organıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "UNICEF'in genel merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "Roma",
+        "C": "New York",
+        "D": "Paris"
+      },
+      "correctOption": "C",
+      "explanation": "UNICEF'in merkezi ABD'nin New York şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1948",
+        "C": "1954",
+        "D": "1960"
+      },
+      "correctOption": "A",
+      "explanation": "UNESCO, 1945 yılında Londra'da kabul edilen bir anlaşma ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (UNHCR) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1960",
+        "C": "1950",
+        "D": "1975"
+      },
+      "correctOption": "C",
+      "explanation": "UNHCR, 1950 yılında mültecilere yardım ve koruma amacıyla kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Osmangazi Köprüsü hangi körfez üzerinde yer alır?",
+      "options": {
+        "A": "Çandarlı Körfezi",
+        "B": "Gökova Körfezi",
+        "C": "Edremit Körfezi",
+        "D": "İzmit Körfezi"
+      },
+      "correctOption": "D",
+      "explanation": "Osmangazi Köprüsü, İzmit Körfezi üzerinde inşa edilmiş bir asma köprüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 1,
+      "text": "Yavuz Sultan Selim Köprüsü hangi su yolunu geçmektedir?",
+      "options": {
+        "A": "İzmit Körfezi",
+        "B": "İstanbul Boğazı",
+        "C": "Çanakkale Boğazı",
+        "D": "Sakarya Nehri"
+      },
+      "correctOption": "B",
+      "explanation": "Yavuz Sultan Selim Köprüsü, İstanbul Boğazı'nın kuzeyinde inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin özgün tasarımlı ilk millî muharip uçağı KAAN hangi kuruluş tarafından geliştirilmektedir?",
+      "options": {
+        "A": "ASELSAN",
+        "B": "TUSAŞ",
+        "C": "ROKETSAN",
+        "D": "HAVELSAN"
+      },
+      "correctOption": "B",
+      "explanation": "Millî Muharip Uçak KAAN, TUSAŞ (Türk Havacılık ve Uzay Sanayii) tarafından geliştirilmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "1961 yılında Türkiye'nin ilk yerli otomobili Devrim'i üreten kuruluş hangisidir?",
+      "options": {
+        "A": "TOFAŞ",
+        "B": "MKE",
+        "C": "TÜLOMSAŞ",
+        "D": "OTOKAR"
+      },
+      "correctOption": "C",
+      "explanation": "Devrim otomobili, Eskişehir'deki TÜLOMSAŞ tesislerinde (günümüzdeki TÜRASAŞ) üretilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin yerli imkânlarla inşa edilen ilk sismik araştırma gemisi hangisidir?",
+      "options": {
+        "A": "Oruç Reis",
+        "B": "Barbaros Hayreddin Paşa",
+        "C": "Piri Reis",
+        "D": "TCG Anadolu"
+      },
+      "correctOption": "A",
+      "explanation": "Oruç Reis, Türkiye'nin yerli olarak inşa edilen ilk sismik araştırma gemisidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 1,
+      "text": "Fiyatlar genel düzeyinin sürekli ve belirgin biçimde artması ve paranın satın alma gücünün düşmesi şeklindeki ekonomik olgu hangisidir?",
+      "options": {
+        "A": "Deflasyon",
+        "B": "Enflasyon",
+        "C": "Stagflasyon",
+        "D": "Devalüasyon"
+      },
+      "correctOption": "B",
+      "explanation": "Enflasyon, fiyatlar genel düzeyinin sürekli artışı ve paranın satın alma gücünün düşmesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Kalkınma Programı (UNDP) tarafından hazırlanan ve ülkelerin gelişmişlik düzeyini eğitim, sağlık ve gelir göstergeleriyle ölçen endeks hangisidir?",
+      "options": {
+        "A": "İnsani Gelişme Endeksi",
+        "B": "Tüketici Fiyat Endeksi",
+        "C": "Reel Efektif Döviz Kuru Endeksi",
+        "D": "Küresel Rekabet Endeksi"
+      },
+      "correctOption": "A",
+      "explanation": "İnsani Gelişme Endeksi, UNDP tarafından eğitim, sağlık ve gelir göstergeleriyle hesaplanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 3,
+      "text": "Bir ülke vatandaşlarının yurt içinde ve yurt dışında belirli bir dönemde ürettiği nihai mal ve hizmetlerin toplam değerini ifade eden kavram hangisidir?",
+      "options": {
+        "A": "Gayri Safi Yurt İçi Hasıla",
+        "B": "Cari Denge",
+        "C": "Bütçe Açığı",
+        "D": "Gayri Safi Millî Hasıla"
+      },
+      "correctOption": "D",
+      "explanation": "Gayri Safi Millî Hasıla, ülke vatandaşlarının yurt içi ve yurt dışında ürettiği nihai mal ve hizmetlerin toplam değeridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 2,
+      "text": "Bir ülkenin belirli bir dönemde ithalatının ihracatından fazla olması durumunu ifade eden kavram hangisidir?",
+      "options": {
+        "A": "Dış ticaret açığı",
+        "B": "Dış ticaret fazlası",
+        "C": "Cari işlemler dengesi",
+        "D": "Dış borç stoku"
+      },
+      "correctOption": "A",
+      "explanation": "İthalatın ihracatı aşması durumu dış ticaret açığı olarak adlandırılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Avrupa Parlamentosu üyeleri nasıl belirlenir?",
+      "options": {
+        "A": "Üye ülke hükümetlerince atanır",
+        "B": "Avrupa Komisyonu tarafından seçilir",
+        "C": "Üye ülke vatandaşlarınca doğrudan seçilir",
+        "D": "Avrupa Birliği Bakanlar Konseyi tarafından atanır"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Parlamentosu üyeleri, 1979'dan bu yana üye ülke vatandaşları tarafından doğrudan seçilmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa Birliğine aday ülkelerin üyelik için yerine getirmesi gereken siyasi ve ekonomik ölçütler hangi isimle anılır?",
+      "options": {
+        "A": "Maastricht Kriterleri",
+        "B": "Schengen Kriterleri",
+        "C": "Roma Kriterleri",
+        "D": "Kopenhag Kriterleri"
+      },
+      "correctOption": "D",
+      "explanation": "Aday ülkelerin demokrasi, hukukun üstünlüğü ve ekonomi alanındaki ölçütleri Kopenhag Kriterleri olarak bilinir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa bütünleşmesinin temelini atan ve her yıl 9 Mayıs Avrupa Günü olarak kutlanan Schuman Bildirisi hangi yıl açıklanmıştır?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1957",
+        "D": "1963"
+      },
+      "correctOption": "B",
+      "explanation": "Schuman Bildirisi 1950 yılında açıklanmış ve Avrupa bütünleşmesinin temelini atmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Avrupa Birliği Komisyonunun merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Strazburg",
+        "B": "Lüksemburg",
+        "C": "Frankfurt",
+        "D": "Brüksel"
+      },
+      "correctOption": "D",
+      "explanation": "Avrupa Birliği Komisyonunun merkezi Belçika'nın başkenti Brüksel'dedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "UNESCO tarafından dil çeşitliliğine ve çok dilliliğe dikkat çekmek amacıyla her yıl 21 Şubat'ta kutlanan gün hangisidir?",
+      "options": {
+        "A": "Uluslararası Anadil Günü",
+        "B": "Dünya Kitap Günü",
+        "C": "Uluslararası Okuryazarlık Günü",
+        "D": "Dünya Çeviri Günü"
+      },
+      "correctOption": "A",
+      "explanation": "21 Şubat, UNESCO tarafından Uluslararası Anadil Günü olarak kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 3,
+      "text": "Her yıl 3 Mayıs'ta basın özgürlüğünün önemine dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya Gazeteciler Günü",
+        "B": "Dünya İletişim Günü",
+        "C": "Dünya Medya Günü",
+        "D": "Dünya Basın Özgürlüğü Günü"
+      },
+      "correctOption": "D",
+      "explanation": "3 Mayıs, Dünya Basın Özgürlüğü Günü olarak kutlanmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 1 Aralık'ta HIV/AIDS ile mücadeleye dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya AIDS Günü",
+        "B": "Dünya Sağlık Günü",
+        "C": "Dünya Kanser Günü",
+        "D": "Dünya Aşı Günü"
+      },
+      "correctOption": "A",
+      "explanation": "1 Aralık, Dünya AIDS Günü olarak kutlanmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Uzaya çıkan ilk insan kimdir?",
+      "options": {
+        "A": "Neil Armstrong",
+        "B": "Yuri Gagarin",
+        "C": "Alan Shepard",
+        "D": "John Glenn"
+      },
+      "correctOption": "B",
+      "explanation": "Sovyet kozmonot Yuri Gagarin, 1961 yılında uzaya çıkan ilk insandır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Uzaya çıkan ilk kadın kimdir?",
+      "options": {
+        "A": "Valentina Tereshkova",
+        "B": "Sally Ride",
+        "C": "Svetlana Savitskaya",
+        "D": "Mae Jemison"
+      },
+      "correctOption": "A",
+      "explanation": "Sovyet kozmonot Valentina Tereshkova, 1963 yılında uzaya çıkan ilk kadındır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Türkiye Uzay Ajansı hangi bakanlığa bağlı olarak faaliyet gösterir?",
+      "options": {
+        "A": "Millî Eğitim Bakanlığı",
+        "B": "Millî Savunma Bakanlığı",
+        "C": "Sanayi ve Teknoloji Bakanlığı",
+        "D": "Ulaştırma ve Altyapı Bakanlığı"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye Uzay Ajansı, Sanayi ve Teknoloji Bakanlığına bağlı olarak kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin ilk kadın avukatı kimdir?",
+      "options": {
+        "A": "Süreyya Ağaoğlu",
+        "B": "Türkan Akyol",
+        "C": "Bahriye Üçok",
+        "D": "Nermin Neftçi"
+      },
+      "correctOption": "A",
+      "explanation": "Süreyya Ağaoğlu, Türkiye'nin ilk kadın avukatı olarak bilinir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye'de ilk televizyon yayını hangi kuruluş tarafından başlatılmıştır?",
+      "options": {
+        "A": "TRT",
+        "B": "Anadolu Ajansı",
+        "C": "TÜBİTAK",
+        "D": "RTÜK"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye'de ilk televizyon yayını 1968 yılında TRT tarafından başlatılmıştır.",
+      "source": "özgün"
+    }
+  ]
+}

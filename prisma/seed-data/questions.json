@@ -20039,6 +20039,21 @@
       "categorySlug": "cografya",
       "topic": "Bitki Örtüsü",
       "difficulty": 2,
+      "text": "Akdeniz iklim bölgesinde makilerin yangın ve kesim gibi etkilerle tahrip edilmesi sonucu ortaya çıkan, makiye göre daha kısa boylu ve seyrek çalılardan oluşan bitki örtüsüne ne ad verilir?",
+      "options": {
+        "A": "Psödomaki",
+        "B": "Tundra",
+        "C": "Savan",
+        "D": "Garig (frigana)"
+      },
+      "correctOption": "D",
+      "explanation": "Makinin tahrip edilmesiyle oluşan, daha bodur ve seyrek çalılardan oluşan ikincil bitki örtüsüne garig (frigana) denir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
       "text": "Akdeniz iklim bölgesinde makilerin yapraklarının sert, küçük ve genellikle parlak olmasının temel nedeni aşağıdakilerden hangisidir?",
       "options": {
         "A": "Yaz kuraklığında terleme yoluyla su kaybını azaltmak",
@@ -20137,7 +20152,7 @@
         "D": "Enlem farkının çok az olması"
       },
       "correctOption": "C",
-      "explanation": "Bitki örtüsü temel olarak iklimle, özellikle yağış ve nem koşullarıyla belirlenir; bu koşulların faklılaşması bölgesel bitki örtüsü çeşitliliği yaratır.",
+      "explanation": "Bitki örtüsü temel olarak iklimle, özellikle yağış ve nem koşullarıyla belirlenir; bu koşulların farklılaşması bölgesel bitki örtüsü çeşitliliği yaratır.",
       "source": "özgün"
     },
     {
@@ -20352,6 +20367,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 3,
+      "text": "Bir akarsuyun yukarı çığırında (kaynağa yakın kesiminde) V biçimli derin vadilerin oluşmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akarsuyun yanlara doğru aşındırma yapmasının artması",
+        "B": "Taşınan alüvyonların yatakta birikmesi",
+        "C": "Yatak eğiminin fazla olması ve derine doğru aşındırmanın baskın olması",
+        "D": "Akarsu debisinin aşağı çığırlara göre az olması"
+      },
+      "correctOption": "C",
+      "explanation": "Yukarı çığırda eğim ve akış hızı fazla olduğundan akarsu yatağını derine doğru aşındırır; böylece V biçimli derin vadiler oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Nüfus",
       "difficulty": 2,
       "text": "Bir bölgede nüfusun hızla artması, öncelikle aşağıdakilerden hangisini zorunlu kılar?",
@@ -20448,7 +20478,7 @@
       "options": {
         "A": "Kışın kar yağışının hiç görülmemesine",
         "B": "Yıllık yağışın iç kesimlerden az olmasına",
-        "C": "Yaz sıcaklığının iç kesimlerden düşük olmasına",
+        "C": "Yaz sıcaklığının iç kesimlerden yüksek olmasına",
         "D": "Kış sıcaklığının aynı enlemdeki iç kesimlere göre daha yüksek olmasına"
       },
       "correctOption": "D",
@@ -20506,7 +20536,7 @@
       "difficulty": 3,
       "text": "Bir sanayi kolunun emek yoğun özellik taşıması durumunda, bu tesislerin kuruluş yerinin seçiminde aşağıdakilerden hangisi belirleyici olur?",
       "options": {
-        "A": "Nüfusun yoğun ve iş gücünün bol-olduğu merkezlerde bulunması",
+        "A": "Nüfusun yoğun ve iş gücünün bol olduğu merkezlerde bulunması",
         "B": "Enerji üretim tesislerinin tesisin yanında bulunması",
         "C": "Ham madde kaynağının mutlaka deniz kıyısında olması",
         "D": "Tesisin kesinlikle kırsal alanda kurulması"
@@ -20564,7 +20594,7 @@
       "categorySlug": "cografya",
       "topic": "Toprak Tipleri",
       "difficulty": 3,
-      "text": "Bir toprak örneğinin renginin koyu ve kireç oranının düşük olması, tarımsal verimliliğinin yüksek olması hangi ortamda oluştuğunun göstergesidir?",
+      "text": "Bir toprak örneğinin renginin koyu, humus oranının yüksek ve tarımsal verimliliğinin yüksek olması, hangi ortamda oluştuğunun göstergesidir?",
       "options": {
         "A": "Sürekli buzullarla kaplı alanlarda",
         "B": "Tuzlu ve kurak kapalı havzalarda",
@@ -20572,7 +20602,7 @@
         "D": "Yeni oluşmuş volkanik arazilerde"
       },
       "correctOption": "C",
-      "explanation": "Dengeli yıkanma ve bol bitki artığı, toprağı humusça zenginleştirir; bu topraklar koyu renkli ve verimli olur.",
+      "explanation": "Bol bitki artığı toprağı humusça zenginleştirir; humus hem rengi koyulaştırır hem verimliliği artırır. Şiddetli yıkanmanın humusu taşımadığı, yıkanmanın ölçülü kaldığı alanlarda bu tür topraklar oluşur.",
       "source": "özgün"
     },
     {
@@ -20647,7 +20677,7 @@
         "D": "Bölgeler arası yatırım ve hizmet planlamasının farklılaşmasını"
       },
       "correctOption": "D",
-      "explanation": "Nüfusun dengesiz dağıldığı ülkelerde plansal yatırım, ulaşım ve kamu hizmetleri bölgelere göre farklı biçimde planlanır.",
+      "explanation": "Nüfusun dengesiz dağıldığı ülkelerde yatırım, ulaşım ve kamu hizmetleri bölgelere göre farklı biçimde planlanır.",
       "source": "özgün"
     },
     {
@@ -20703,7 +20733,7 @@
       "options": {
         "A": "Nüfus sayımlarının sık yapılmamasıyla",
         "B": "Kentin ekonomik ve idari işlevlerinin de belirleyici olmasıyla",
-        "C": "Kır ve kent arasında kesin bir nüfus sınırı bulunmamasıyla",
+        "C": "Yerleşmelerin yalnızca tarımla geçinen nüfusa göre sınıflandırılmasıyla",
         "D": "Kentlerin yalnızca kıyılarda kurulabilmesiyle"
       },
       "correctOption": "B",
@@ -20817,6 +20847,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 3,
+      "text": "Buzul aşındırmasıyla dağların yüksek kesimlerinde oyulan çukurluklarda (sirklerde) biriken suların oluşturduğu buzul (sirk) gölleri, Türkiye'de en yaygın olarak hangi dağlık alanda görülür?",
+      "options": {
+        "A": "Kaçkar Dağları çevresi (Doğu Karadeniz)",
+        "B": "Konya Ovası ve çevresi",
+        "C": "Ergene Havzası",
+        "D": "Çukurova ve çevresi"
+      },
+      "correctOption": "A",
+      "explanation": "Sirk gölleri, buzul aşındırmasının etkili olduğu yüksek dağlık alanlarda oluşur; Türkiye'de en yaygın olarak Doğu Karadeniz'deki Kaçkar Dağları çevresinde görülür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Bölgeler ve Bölümler",
       "difficulty": 1,
       "text": "Çatalca-Kocaeli, Yıldız, Ergene ve Güney Marmara bölümleri hangi bölgeye aittir?",
@@ -20873,6 +20918,21 @@
       },
       "correctOption": "A",
       "explanation": "Doğu Karadeniz'de bol yağış nedeniyle geniş yapraklı nemli ormanlar yaygındır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Doğu Karadeniz kıyılarında ormanların insan eliyle tahrip edilmesi sonucu ortaya çıkan, makiye benzeyen fakat daha nemli ortamda gelişen çalı topluluğuna ne ad verilir?",
+      "options": {
+        "A": "Garig",
+        "B": "Antropojen bozkır",
+        "C": "Psödomaki (yalancı maki)",
+        "D": "Alpin çayır"
+      },
+      "correctOption": "C",
+      "explanation": "Karadeniz kıyılarında tahrip edilen nemli ormanların yerini alan, maki görünümlü çalı topluluğuna psödomaki (yalancı maki) denir.",
       "source": "özgün"
     },
     {
@@ -21432,6 +21492,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "İlkbahar ve yaz başlarında İç Anadolu'da öğleden sonra sıkça görülen 'kırkikindi' yağışlarının oluşum biçimi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Cephesel (frontal) yağış",
+        "B": "Orografik (yamaç) yağış",
+        "C": "Konveksiyonel (yükselim) yağış",
+        "D": "Muson yağışı"
+      },
+      "correctOption": "C",
+      "explanation": "Isınarak yükselen havanın soğuyup neminin yoğuşmasıyla oluşan konveksiyonel (yükselim) yağışlar, İç Anadolu'da ilkbahar sonlarında kırkikindi yağışları olarak görülür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Bitki Örtüsü",
       "difficulty": 1,
       "text": "İlkbahar yağışlarıyla yeşerip yaz kuraklığında kuruyan, küçük otsu bitkilerden oluşan ve İç Anadolu'da yaygın olan doğal bitki örtüsü aşağıdakilerden hangisidir?",
@@ -21663,7 +21738,7 @@
       "options": {
         "A": "Akarsuların tamamen yapay kanallarla yönlendirilmesi",
         "B": "Havzadaki akarsuların çok uzun olması",
-        "C": "Havzanın denize göre yüksek olması ve etrafının dağlarla çevrili olması",
+        "C": "Çevresinin dağlarla çevrili olması ve havzanın denize gideğeninin bulunmaması",
         "D": "Havzada yeterli yağış bulunmamasından akarsuyun kuruması"
       },
       "correctOption": "C",
@@ -22223,6 +22298,21 @@
       },
       "correctOption": "A",
       "explanation": "Bakı etkisiyle güneşe dönük (güney) yamaçlar ışınları daha dik aldığı için daha çok ısınır; kuzey yamaçlar daha serin kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Türkiye'de bir gölün su seviyesinin genellikle ilkbaharda yükselip yaz sonuna doğru düşmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yaz aylarında gölün denizle olan bağlantısının kesilmesi",
+        "B": "Kışın göl yüzeyinin tamamen buzla kaplanması",
+        "C": "İlkbaharda tarımsal sulama amacıyla gölden aşırı su alınması",
+        "D": "İlkbaharda kar erimeleri ve yağışlarla beslenmenin artması, yazın ise buharlaşmanın artması"
+      },
+      "correctOption": "D",
+      "explanation": "İlkbaharda kar erimeleri ve yağışlarla gölün beslenmesi artar; yaz aylarında sıcaklık ve buna bağlı buharlaşma arttığı için göl seviyesi düşer.",
       "source": "özgün"
     },
     {
@@ -23393,6 +23483,21 @@
       },
       "correctOption": "A",
       "explanation": "Ham maddeye yakınlık, pazar, ulaşım ve sermaye birikimi nedeniyle sanayi en çok Marmara Bölgesi'nde gelişmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sanayi",
+      "difficulty": 3,
+      "text": "Türkiye'de sanayi faaliyetlerinin son yıllarda Marmara Bölgesi'nin yanı sıra Anadolu'nun iç kesimlerindeki kentlerde de hızla gelişmesinde aşağıdakilerden hangisi etkili olmuştur?",
+      "options": {
+        "A": "Marmara Bölgesi'nde ham madde kaynaklarının tamamen tükenmesi",
+        "B": "Büyük kentlerde arazi, iş gücü ve çevre maliyetlerinin artması ile bölgesel yatırım teşvikleri",
+        "C": "Marmara Bölgesi'nin deniz yolu bağlantısını tümüyle yitirmesi",
+        "D": "Anadolu'nun iç kesimlerinde nüfusun tamamen boşalması"
+      },
+      "correctOption": "B",
+      "explanation": "Büyük kentlerde sanayi için arazi, iş gücü ve çevre maliyetlerinin yükselmesi ile verilen yatırım teşvikleri, sanayinin Anadolu'nun iç kesimlerindeki kentlere yayılmasını hızlandırmıştır.",
       "source": "özgün"
     },
     {
@@ -24749,6 +24854,36 @@
       "categorySlug": "vatandaslik",
       "topic": "Anayasal Gelişmeler",
       "difficulty": 3,
+      "text": "1876 Kanûn-ı Esâsî'de 1909 yılında yapılan değişikliklerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Padişahın yetkileri genişletilmiş, Meclisin yetkileri azaltılmıştır",
+        "B": "Padişahın yetkileri sınırlandırılmış, Meclis-i Mebusan'ın yetkileri artırılmıştır",
+        "C": "Meclis-i Umumi kapatılmış ve tek meclisli sisteme geçilmiştir",
+        "D": "Yürütme yetkisi tümüyle Meclise devredilmiştir"
+      },
+      "correctOption": "B",
+      "explanation": "1909'da Kanûn-ı Esâsî'de yapılan değişikliklerle padişahın yetkileri sınırlandırılmış, Meclis-i Mebusan'ın yetkileri artırılmış ve hükümetin Meclise karşı sorumluluğu güçlendirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 3,
+      "text": "1876 Kanûn-ı Esâsî'ye göre Heyet-i Ayan üyeleri nasıl belirlenirdi?",
+      "options": {
+        "A": "Halk tarafından seçilirdi",
+        "B": "Heyet-i Mebusan tarafından seçilirdi",
+        "C": "Kura yöntemiyle belirlenirdi",
+        "D": "Padişah tarafından atanırdı"
+      },
+      "correctOption": "D",
+      "explanation": "Kanûn-ı Esâsî ile kurulan Meclis-i Umumi'nin Heyet-i Ayan kanadının üyeleri padişah tarafından atanırken, Heyet-i Mebusan üyeleri seçimle belirlenirdi.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 3,
       "text": "1876 Kanûn-ı Esâsî'ye göre yürütme yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": {
         "A": "Yürütme yetkisi tümüyle Meclis-i Umumi'ye aitti",
@@ -24809,6 +24944,21 @@
       "categorySlug": "vatandaslik",
       "topic": "Anayasal Gelişmeler",
       "difficulty": 2,
+      "text": "1924 Anayasası döneminde Türk kadınlarına milletvekili seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+      "options": {
+        "A": "1934",
+        "B": "1926",
+        "C": "1930",
+        "D": "1945"
+      },
+      "correctOption": "A",
+      "explanation": "Kadınlara milletvekili seçme ve seçilme hakkı 1934 yılında Anayasa değişikliğiyle tanınmıştır; 1930'da ise kadınlara belediye seçimlerine katılma hakkı verilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 2,
       "text": "1924 Anayasası ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": {
         "A": "Anayasa Mahkemesi'ni kurmuştur",
@@ -24833,6 +24983,21 @@
       },
       "correctOption": "C",
       "explanation": "1924 Anayasası'nda egemenliğin millete ait olduğu belirtilmiş, ancak yasama ve yürütme yetkileri TBMM'de toplanmış; Meclis hükûmeti sisteminin izleri korunmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 2,
+      "text": "1924 Anayasası'nın ilk şeklinde yer alan ve 1928 yılındaki Anayasa değişikliğiyle metinden çıkarılan hüküm aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Egemenliğin kayıtsız şartsız millete ait olduğu",
+        "B": "Türkiye Devletinin bir Cumhuriyet olduğu",
+        "C": "Yasama ve yürütme yetkilerinin TBMM'de toplandığı",
+        "D": "Türkiye Devletinin dininin İslam olduğu"
+      },
+      "correctOption": "D",
+      "explanation": "1924 Anayasası'nın ilk şeklinde yer alan \"Türkiye Devletinin dini, dini İslamdır\" hükmü 1928 yılındaki Anayasa değişikliğiyle metinden çıkarılmıştır.",
       "source": "özgün"
     },
     {
@@ -24883,6 +25048,66 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Yürütme",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre \"Devletin başı\" olan ve bu sıfatla Türkiye Cumhuriyetini ve Türk Milletinin birliğini temsil eden organ aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi",
+        "B": "Cumhurbaşkanı",
+        "C": "Anayasa Mahkemesi",
+        "D": "Danıştay"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 104. maddesine göre Cumhurbaşkanı Devletin başıdır; bu sıfatla Türkiye Cumhuriyetini ve Türk Milletinin birliğini temsil eder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre \"Herkes, dil, ırk, renk, cinsiyet, siyasî düşünce, felsefî inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir.\" hükmü aşağıdaki ilkelerden hangisiyle ilgilidir?",
+      "options": {
+        "A": "Hukuk devleti ilkesi",
+        "B": "Sosyal devlet ilkesi",
+        "C": "Kuvvetler ayrılığı ilkesi",
+        "D": "Kanun önünde eşitlik ilkesi"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 10. maddesi kanun önünde eşitlik ilkesini düzenler; herkes ayırım gözetilmeksizin kanun önünde eşittir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre \"sürekli hastalık, sakatlık ve kocama\" sebebiyle belirli kişilerin cezalarını hafifletmek veya kaldırmak aşağıdakilerden hangisinin görev ve yetkileri arasındadır?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi",
+        "B": "Cumhurbaşkanı",
+        "C": "Adalet Bakanı",
+        "D": "Anayasa Mahkemesi"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 104. maddesine göre sürekli hastalık, sakatlık ve kocama sebebiyle kişilerin cezalarını hafifletmek veya kaldırmak Cumhurbaşkanının görev ve yetkileri arasındadır; genel ve özel af ilanı ise TBMM'ye aittir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre \"Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür.\" hükmü aşağıdakilerden hangisiyle ilgilidir?",
+      "options": {
+        "A": "Türk vatandaşlığı",
+        "B": "Seçme ve seçilme hakkı",
+        "C": "Kamu hizmetlerine girme hakkı",
+        "D": "Vatan hizmeti"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 66. maddesine göre Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür; Türk babanın veya Türk ananın çocuğu Türktür ve vatandaşlık ancak kanunda belirtilen esaslara göre kazanılır veya kaybedilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
       "difficulty": 3,
       "text": "1982 Anayasası'na göre anayasa değişikliği teklifinin kabulü için TBMM'de aranan oy çokluğuyla ilgili aşağıdakilerden hangisi doğrudur?",
       "options": {
@@ -24908,6 +25133,36 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'ya göre Anayasa Mahkemesi on beş üyeden kurulur. Üyeler Cumhurbaşkanı ve Türkiye Büyük Millet Meclisi tarafından belirlenen usullere göre seçilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesinde doğrudan doğruya iptal davası açma hakkı, iptali istenen kanunun Resmî Gazete'de yayımlanmasından itibaren en fazla kaç gün sonra düşer?",
+      "options": {
+        "A": "Otuz gün",
+        "B": "Altmış gün",
+        "C": "Doksan gün",
+        "D": "Yüz yirmi gün"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 151. maddesine göre doğrudan doğruya iptal davası açma hakkı, iptali istenen kanunun Resmî Gazete'de yayımlanmasından başlayarak altmış gün sonra düşer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesine bireysel başvuru yapılabilmesi için ihlal edildiği ileri sürülen hakkın hangi nitelikte olması gerekir?",
+      "options": {
+        "A": "Yalnızca sosyal ve ekonomik haklardan biri olması",
+        "B": "Anayasa'da güvence altına alınmış ve Avrupa İnsan Hakları Sözleşmesi kapsamında bulunan bir hak olması",
+        "C": "Yalnızca siyasi haklardan biri olması",
+        "D": "Herhangi bir hukuki menfaatle ilgili olmasının yeterli olması"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesine göre herkes, Anayasa'da güvence altına alınmış temel hak ve özgürlüklerinden, Avrupa İnsan Hakları Sözleşmesi kapsamındaki birinin kamu gücü tarafından ihlal edildiği iddiasıyla bireysel başvuruda bulunabilir.",
       "source": "özgün"
     },
     {
@@ -24988,6 +25243,21 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Anayasa'nın uygulanmasını, Devlet organlarının düzenli ve uyumlu çalışmasını gözetmek aşağıdakilerden hangisinin görevidir?",
+      "options": {
+        "A": "TBMM Başkanı",
+        "B": "Anayasa Mahkemesi Başkanı",
+        "C": "Millî Güvenlik Kurulu",
+        "D": "Cumhurbaşkanı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. maddesine göre Cumhurbaşkanı Devletin başıdır ve bu sıfatla Anayasa'nın uygulanmasını, Devlet organlarının düzenli ve uyumlu çalışmasını gözetir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
       "difficulty": 3,
       "text": "1982 Anayasası'na göre aşağıdakilerden hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenemeyecek alanlar arasında yer alır?",
       "options": {
@@ -24998,6 +25268,36 @@
       },
       "correctOption": "A",
       "explanation": "Anayasa'ya göre temel haklar, kişi hakları ve ödevleriyle siyasi haklar ve ödevler Cumhurbaşkanlığı kararnamesiyle düzenlenemez. Ayrıca kanunda açıkça düzenlenen konularda da kararname çıkarılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre aşağıdakilerden hangisi Türkiye Büyük Millet Meclisinin görev ve yetkileri arasında yer alır?",
+      "options": {
+        "A": "Olağanüstü hâl ilan etmek",
+        "B": "Kanunları yayımlamak",
+        "C": "Cumhurbaşkanını doğrudan seçmek",
+        "D": "Para basılmasına ve savaş ilânına karar vermek"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 87. maddesine göre para basılmasına ve savaş ilânına karar vermek TBMM'nin görev ve yetkileri arasındadır; olağanüstü hâl ilanı ve kanunların yayımlanması ise Cumhurbaşkanına aittir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre bakanlıkların kurulması, kaldırılması, görevleri ve yetkileri, teşkilat yapısı ile merkez ve taşra teşkilatlarının kurulması nasıl düzenlenir?",
+      "options": {
+        "A": "Kanunla",
+        "B": "Yönetmelikle",
+        "C": "Cumhurbaşkanlığı kararnamesiyle",
+        "D": "TBMM kararıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 106. maddesinin son fıkrasına göre bakanlıkların kurulması, kaldırılması, görevleri ve yetkileri, teşkilat yapısı ile merkez ve taşra teşkilatlarının kurulması Cumhurbaşkanlığı kararnamesiyle düzenlenir.",
       "source": "özgün"
     },
     {
@@ -25013,6 +25313,21 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'nın 28. maddesine göre basın hürdür ve sansür edilemez; basımevi kurmak izne tabi tutulamaz. Bu hak basın hürriyeti başlığı altında düzenlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Başkomutanlık ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Başkomutanlık Genelkurmay Başkanı tarafından temsil edilir",
+        "B": "Başkomutanlık TBMM Başkanına aittir",
+        "C": "Başkomutanlık Türkiye Büyük Millet Meclisinin manevî varlığından ayrılamaz ve Cumhurbaşkanı tarafından temsil edilir",
+        "D": "Başkomutanlık Millî Güvenlik Kurulu tarafından kullanılır"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 117. maddesine göre Başkomutanlık, Türkiye Büyük Millet Meclisinin manevî varlığından ayrılamaz ve Cumhurbaşkanı tarafından temsil edilir.",
       "source": "özgün"
     },
     {
@@ -25043,6 +25358,36 @@
       },
       "correctOption": "D",
       "explanation": "Anayasa'ya göre Cumhurbaşkanının görev süresi beş yıl olup bir kişi en fazla iki kez seçilebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre bir milletvekilinin milletvekilliğinin düşmesine ilişkin karar hangi organ tarafından verilir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi Genel Kurulu",
+        "B": "Anayasa Mahkemesi",
+        "C": "Yüksek Seçim Kurulu",
+        "D": "TBMM Başkanlık Divanı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 84. maddesine göre milletvekilliğinin düşmesine TBMM Genel Kurulunca karar verilir; Başkanlık Divanı yalnızca tespit işlemini yaparak durumu Genel Kurulun bilgisine sunar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre bir milletvekilinin yasama dokunulmazlığının kaldırılmasına ilişkin kararı aşağıdakilerden hangisi verir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi Genel Kurulu",
+        "B": "Anayasa Mahkemesi",
+        "C": "Yargıtay Cumhuriyet Başsavcılığı",
+        "D": "TBMM Başkanlık Divanı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 83. maddesi çerçevesinde yasama dokunulmazlığının kaldırılmasına ilişkin karar Türkiye Büyük Millet Meclisi Genel Kurulu tarafından verilir; Başkanlık Divanı yalnızca işlemleri hazırlar ve durumu Genel Kurulun bilgisine sunar.",
       "source": "özgün"
     },
     {
@@ -25088,6 +25433,36 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'ya göre Cumhurbaşkanı, kırk yaşını doldurmuş, yükseköğrenim yapmış ve milletvekili seçilme yeterliliğine sahip Türk vatandaşları arasından seçilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanı seçiminde adaylardan biri geçerli oyların salt çoğunluğunu alamazsa ne olur?",
+      "options": {
+        "A": "En yaşlı aday Cumhurbaşkanı olur",
+        "B": "Seçim TBMM tarafından yapılır",
+        "C": "Seçim bir yıl ertelenir",
+        "D": "En çok oy alan iki aday arasında ikinci tura gidilir"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 101. maddesine göre Cumhurbaşkanı seçiminde geçerli oyların salt çoğunluğu sağlanamazsa, en çok oy alan iki aday arasında ikinci tur oylama yapılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında görevleriyle ilgili cezaî sorumluluk iddiaları nedeniyle meclis soruşturması açılması, Türkiye Büyük Millet Meclisi üye tamsayısının en az kaçta kaçının vereceği önergeyle istenebilir?",
+      "options": {
+        "A": "Beşte biri",
+        "B": "Salt çoğunluğu",
+        "C": "Üçte biri",
+        "D": "Üçte ikisi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 106. maddesine göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında görevleriyle ilgili suç işledikleri iddiasıyla meclis soruşturması açılması, TBMM üye tamsayısının beşte birinin vereceği önergeyle istenebilir.",
       "source": "özgün"
     },
     {
@@ -25167,9 +25542,129 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Danıştay ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İdari mahkemelerce verilen kararların son inceleme merciidir ve Cumhurbaşkanınca gönderilen konularda görüş bildirir",
+        "B": "Adli yargı alanında ilk derece mahkemelerinin kararlarını inceler",
+        "C": "Seçimlerin yönetimi ve denetimi ile ilgili kararları verir",
+        "D": "Kamu hesaplarını TBMM adına denetler"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 155. maddesine göre Danıştay, idari mahkemelerce verilen kararların son inceleme merciidir; ayrıca Cumhurbaşkanınca gönderilen konularda görüş bildirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Temel Hak ve Ödevler",
       "difficulty": 2,
-      "text": "1982 Anayasası'na göre çalışanların ve işverenlerin dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili hakları aşağıdaki haklardan hangisinin kapsamındadır?",
+      "text": "1982 Anayasası'na göre dernek kurma hürriyeti ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Herkes, önceden izin almaksızın dernek kurma hakkına sahiptir",
+        "B": "Dernek kurmak Cumhurbaşkanının iznine tabidir",
+        "C": "Dernek kurmak için en az yedi kişi şartı Anayasa'da düzenlenmiştir",
+        "D": "Dernekler ancak önceden izin almak kaydıyla kurulabilir"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 33. maddesine göre herkes, önceden izin almaksızın dernek kurma hakkına sahiptir; dernek kurma hürriyeti ancak millî güvenlik ve kamu düzeni gibi sebeplerle kanunla sınırlandırılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Devlet Denetleme Kurulu ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Cumhurbaşkanlığına bağlı olarak kurulur ve Cumhurbaşkanının isteği üzerine denetim yapar",
+        "B": "TBMM adına denetim yapar",
+        "C": "Adalet Bakanlığına bağlıdır",
+        "D": "Anayasa Mahkemesi adına denetim yapar"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 108. maddesine göre Devlet Denetleme Kurulu, Cumhurbaşkanlığına bağlı olarak kurulur; idarenin hukuka uygunluğunun, düzenli ve verimli yürütülmesinin sağlanması amacıyla Cumhurbaşkanının isteği üzerine denetim, araştırma ve inceleme yapar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Devlet ve kamu tüzel kişilerinin, kamu yararının gerektirdiği hâllerde, karşılıklarını peşin ödemek şartıyla özel mülkiyette bulunan taşınmaz malları kanunda gösterilen esas ve usullere göre satın alabilmesi aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Kamulaştırma",
+        "B": "Müsadere",
+        "C": "Devletleştirme",
+        "D": "İstimval"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 46. maddesine göre Devlet ve kamu tüzel kişileri, kamu yararının gerektirdiği hâllerde, karşılıklarını peşin ödemek şartıyla özel mülkiyette bulunan taşınmaz malları kamulaştırmaya yetkilidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre Devletin, ailenin huzur ve refahı ile özellikle ananın ve çocukların korunması ve aile planlamasının öğretimi ile uygulanmasını sağlamak için gerekli tedbirleri alması hangi hakla ilgilidir?",
+      "options": {
+        "A": "Ailenin korunması ve çocuk hakları",
+        "B": "Konut hakkı",
+        "C": "Sağlık hakkı",
+        "D": "Mülkiyet hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 41. maddesine göre aile, Türk toplumunun temelidir; Devlet, ailenin huzur ve refahı ile özellikle ananın ve çocukların korunması için gerekli tedbirleri alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Devletin, şehirlerin özelliklerini ve çevre şartlarını gözeten bir planlama çerçevesinde konut ihtiyacını karşılayacak tedbirleri alması aşağıdakilerden hangisiyle ilgilidir?",
+      "options": {
+        "A": "Çevre hakkı",
+        "B": "Sağlık hakkı",
+        "C": "Konut hakkı",
+        "D": "Sosyal güvenlik hakkı"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 57. maddesi konut hakkını düzenler; Devlet, şehirlerin özelliklerini ve çevre şartlarını gözeten bir planlama çerçevesinde konut ihtiyacını karşılayacak tedbirleri alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Devletin, tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlaması ve bu amaçla destekleyici ve teşvik edici tedbirleri alması hangi hak ve ödevle ilgilidir?",
+      "options": {
+        "A": "Çevre hakkı",
+        "B": "Tarih, kültür ve tabiat varlıklarının korunması",
+        "C": "Bilim ve sanat hürriyeti",
+        "D": "Eğitim ve öğrenim hakkı"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 63. maddesine göre Devlet, tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlar ve bu amaçla destekleyici ve teşvik edici tedbirleri alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre din ve ahlâk eğitim ve öğretimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Din ve ahlâk eğitimi yalnızca cemaatler tarafından yürütülür",
+        "B": "Din ve ahlâk eğitim ve öğretimi Devletin denetim ve gözetimi altında yapılır",
+        "C": "Din ve ahlâk eğitimi hiçbir denetime tabi değildir",
+        "D": "Din ve ahlâk eğitiminin verilip verilmeyeceğine mahkemeler karar verir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 24. maddesine göre din ve ahlâk eğitim ve öğretimi Devletin denetim ve gözetimi altında yapılır; ilköğretimde din kültürü ve ahlâk öğretimi zorunudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakları aşağıdaki haklardan hangisinin kapsamındadır?",
       "options": {
         "A": "Dinlenme hakkı",
         "B": "Toplu iş sözleşmesi hakkı",
@@ -25177,7 +25672,7 @@
         "D": "Sendika kurma hakkı"
       },
       "correctOption": "A",
-      "explanation": "Anayasa'nın 50. maddesi dinlenme hakkını düzenler; çalışanların dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakları bu kapsamdadır.",
+      "explanation": "Anayasa'nın 50. maddesine göre herkes dinlenme, boş zaman değerlendirme, ücretli hafta ve bayram tatili ile yıllık ücretli izin hakkına sahiptir.",
       "source": "özgün"
     },
     {
@@ -25208,6 +25703,21 @@
       },
       "correctOption": "C",
       "explanation": "Anayasa'ya göre egemenlik kayıtsız şartsız millete aittir ve millet bunu yetkili organlar eliyle kullanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre genel ve özel af ilanına karar vermek aşağıdakilerden hangisinin görev ve yetkileri arasında yer alır?",
+      "options": {
+        "A": "Cumhurbaşkanının",
+        "B": "Anayasa Mahkemesinin",
+        "C": "Türkiye Büyük Millet Meclisinin",
+        "D": "Yargıtayın"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 87. maddesine göre genel ve özel af ilanına karar vermek TBMM'nin görev ve yetkileri arasında sayılmıştır.",
       "source": "özgün"
     },
     {
@@ -25273,6 +25783,81 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre herkesin düşünce ve kanaatlerini söz, yazı, resim veya başka yollarla tek başına veya toplu olarak açıklama ve yayma hakkı aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Din ve vicdan özgürlüğü",
+        "B": "Bilim ve sanat hürriyeti",
+        "C": "Basın hürriyeti",
+        "D": "Düşünceyi açıklama ve yayma hürriyeti"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 26. maddesine göre herkes, düşünce ve kanaatlerini söz, yazı, resim veya başka yollarla tek başına veya toplu olarak açıklama ve yayma hakkına sahiptir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Mülkiyet hakkı",
+        "B": "Özel hayatın gizliliği",
+        "C": "Konut dokunulmazlığı",
+        "D": "Haberleşme hürriyeti"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 20. maddesine göre herkes, kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahiptir; kişisel veriler ancak kanunda öngörülen usul ve esaslara uygun olarak işlenebilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre herkesin mevcut olan her türlü haberleşme aracını kullanabilmesi ve haberleşmenin gizliliğinin esas olması hangi hakla ilgilidir?",
+      "options": {
+        "A": "Düşünce ve kanaat hürriyeti",
+        "B": "Basın hürriyeti",
+        "C": "Haberleşme hürriyeti",
+        "D": "Bilim ve sanat hürriyeti"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 22. maddesi haberleşme hürriyetini düzenler; herkes haberleşme hürriyetine sahiptir ve haberleşmenin gizliliği esastır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin sağlıklı ve dengeli bir çevrede yaşama hakkına sahip olması ve çevreyi geliştirmenin Devletin ve vatandaşların ödevi olması hangi hak ve ödevle ilgilidir?",
+      "options": {
+        "A": "Sağlık hakkı",
+        "B": "Mülkiyet hakkı",
+        "C": "Konut hakkı",
+        "D": "Çevre hakkı ve çevreyi geliştirme ödevi"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 56. maddesine göre herkes sağlıklı ve dengeli bir çevrede yaşama hakkına sahiptir; çevreyi geliştirmek, çevre sağlığını korumak ve çevre kirlenmesini önlemek Devletin ve vatandaşların ödevidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin yaşama, maddî ve manevî varlığını koruma ve geliştirme hakkına sahip olması ile tıbbî zorunluluklar ve kanunda yazılı hâller dışında vücut bütünlüğüne dokunulamaması hangi hakla güvence altına alınmıştır?",
+      "options": {
+        "A": "Mülkiyet hakkı",
+        "B": "Kişinin dokunulmazlığı, maddî ve manevî varlığı",
+        "C": "Özel hayatın gizliliği",
+        "D": "Konut dokunulmazlığı"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 17. maddesi kişinin dokunulmazlığını, maddî ve manevî varlığını düzenler; tıbbî zorunluluklar ve kanunda yazılı hâller dışında kişinin vücut bütünlüğüne dokunulamaz, rızası olmadan bilimsel ve tıbbî deneylere tabi tutulamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
       "difficulty": 2,
       "text": "1982 Anayasası'na göre herkesin yerleşme ve seyahat hürriyetine sahip olması ile vatandaşın yurt dışına çıkma ve yurda girme hakkı aşağıdakilerden hangisiyle ifade edilir?",
       "options": {
@@ -25298,6 +25883,36 @@
       },
       "correctOption": "D",
       "explanation": "Anayasa'nın 65. maddesi, Devletin sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, malî kaynaklarının yeterliliği ölçüsünde yerine getireceğini belirterek sosyal hakların sınırını çizer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre herkesin, dilediği alanda çalışma ve sözleşme hürriyetine sahip olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Çalışma ve sözleşme hürriyeti",
+        "B": "Yerleşme ve seyahat hürriyeti",
+        "C": "Sendika kurma hakkı",
+        "D": "Toplu iş sözleşmesi hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 48. maddesine göre herkes, dilediği alanda çalışma ve sözleşme hürriyetlerine sahiptir; özel teşebbüs kurmak serbesttir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre herkesin, kendisiyle veya kamuyla ilgili dilek ve şikâyetleri hakkında yetkili makamlara ve Türkiye Büyük Millet Meclisine yazılı olarak başvurma hakkı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Dilekçe hakkı",
+        "B": "Bilgi edinme hakkı",
+        "C": "Düzeltme ve cevap hakkı",
+        "D": "Kamu hizmetlerine girme hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 74. maddesi vatandaşlara ve karşılıklılık esası gözetilmek kaydıyla Türkiye'de ikamet eden yabancılara dilekçe hakkı tanır.",
       "source": "özgün"
     },
     {
@@ -25332,6 +25947,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre hiç kimsenin kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarılamaması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Yasama sorumsuzluğu",
+        "B": "Yargılamanın aleniyeti",
+        "C": "Kanunî hâkim güvencesi",
+        "D": "Kişi hürriyeti ve güvenliği"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 37. maddesi kanunî hâkim güvencesini düzenler; hiç kimse kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Yargı",
       "difficulty": 2,
       "text": "1982 Anayasası'na göre hiçbir kimsenin işlediği zaman kanunun suç saymadığı bir fiilden dolayı ve kanunda öngörülen cezadan başka bir ceza ile cezalandırılamaması hangi ceza hukuku ilkesiyle ilgilidir?",
@@ -25343,6 +25973,36 @@
       },
       "correctOption": "D",
       "explanation": "Anayasa'nın 38. maddesindeki suç ve cezaların kanuniliği ilkesi, kanunda suç olarak öngörülmeyen fiillere ve kanunda belirtilenden başka cezaya izin vermez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre hiçbir organ, makam, merci veya kişinin, yargı yetkisinin kullanılmasında mahkemelere ve hâkimlere emir ve talimat verememesi, genelge gönderememesi, tavsiye ve telkinde bulunamaması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Mahkemelerin bağımsızlığı",
+        "B": "Yargılamanın aleniyeti",
+        "C": "Kanunî hâkim güvencesi",
+        "D": "Tabiî hâkim ilkesi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 138. maddesine göre mahkemeler bağımsızdır; hiçbir organ, makam, merci veya kişi, yargı yetkisinin kullanılmasında mahkemelere ve hâkimlere emir ve talimat veremez, genelge gönderemez, tavsiye ve telkinde bulunamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre kamu hizmetlerine girme hakkıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Her Türk vatandaşı kamu hizmetlerine girme hakkına sahiptir ve hizmete alınmada görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez.",
+        "B": "Kamu hizmetlerine girme hakkı yalnızca belirli meslek gruplarına tanınmıştır.",
+        "C": "Hizmete alınmada siyasi düşünce ve cinsiyet gibi ölçütler esas alınır.",
+        "D": "Kamu hizmetlerine girme hakkı yalnızca merkezî idarede çalışanlara aittir."
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 70. maddesine göre her Türk, kamu hizmetlerine girme hakkına sahiptir; hizmete alınmada görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez.",
       "source": "özgün"
     },
     {
@@ -25379,6 +26039,36 @@
       "categorySlug": "vatandaslik",
       "topic": "Yargı",
       "difficulty": 2,
+      "text": "1982 Anayasası'na göre mahkeme kararlarının şekli ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Mahkeme kararları yalnızca sözlü olarak açıklanır, yazılı gerekçe düzenlenmez.",
+        "B": "Gerekçe, yalnızca Yargıtay ve Danıştay kararlarında bulunur.",
+        "C": "Bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır.",
+        "D": "Gerekçe yazılıp yazılmayacağı hâkimin takdirine bırakılmıştır."
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 141. maddesinin son fıkrasına göre bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır; gerekçesiz karar verilmesi Anayasa'ya aykırılık oluşturur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre mahkemelerin davalara bakma yükümlülüğü ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Mahkemeler, görev ve yetkileri dışında kalan davalara da bakmak zorundadır.",
+        "B": "Mahkemeler, talep üzerine görev alanlarındaki davaya bakmayı reddedebilir.",
+        "C": "Mahkemeler yalnızca Cumhurbaşkanının uygun gördüğü davalara bakar.",
+        "D": "Hiçbir mahkeme, görev ve yetkisi içindeki davaya bakmaktan kaçınamaz."
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 138. maddesinin son fıkrasına göre hiçbir mahkeme, görev ve yetkisi içindeki davaya bakmaktan kaçınamaz; bu kural adalete erişimin ve yargısal korumanın güvencesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
       "text": "1982 Anayasası'na göre mahkemelerin kuruluşu, görev ve yetkileri ile yargılama usulleri aşağıdakilerden hangisiyle düzenlenir?",
       "options": {
         "A": "Kanunla",
@@ -25388,6 +26078,21 @@
       },
       "correctOption": "A",
       "explanation": "Anayasa'nın 142. maddesine göre mahkemelerin kuruluşu, görev ve yetkileri, işleyişi ve yargılama usulleri kanunla düzenlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre merkezî yönetim bütçe kanunu teklifini hazırlayarak Türkiye Büyük Millet Meclisine sunan makam aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi Başkanlık Divanı",
+        "B": "Sayıştay",
+        "C": "TBMM Plan ve Bütçe Komisyonu",
+        "D": "Cumhurbaşkanı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 161. maddesine göre merkezî yönetim bütçe kanunu teklifi Cumhurbaşkanı tarafından hazırlanır ve malî yılbaşından en az yetmiş beş gün önce Türkiye Büyük Millet Meclisine sunulur.",
       "source": "özgün"
     },
     {
@@ -25433,6 +26138,21 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'nın 81. maddesine göre milletvekilleri, göreve başlarken Anayasa'da yer alan metne göre andiçerler; andiçme yeni üyelerin göreve başlamasının ön koşuludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre millî güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından Türkiye Büyük Millet Meclisine karşı sorumlu olan organ aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Adalet Bakanı",
+        "B": "Millî Savunma Bakanı",
+        "C": "Genelkurmay Başkanı",
+        "D": "Cumhurbaşkanı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 117. maddesine göre millî güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından, Türkiye Büyük Millet Meclisine karşı Cumhurbaşkanı sorumludur.",
       "source": "özgün"
     },
     {
@@ -25497,6 +26217,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkı aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Özel hayatın gizliliği",
+        "B": "Haberleşme hürriyeti",
+        "C": "Yerleşme ve seyahat hürriyeti",
+        "D": "Dilekçe hakkı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 20. maddesine göre herkes, özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir; bu hak özel hayatın gizliliğidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Yürütme",
       "difficulty": 2,
       "text": "1982 Anayasası'na göre savaş hâli ilanına ve Türk Silahlı Kuvvetlerinin kullanılmasına karar verme yetkisi kime aittir?",
@@ -25508,6 +26243,51 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'nın 92. maddesine göre savaş hâli ilanına ve silahlı kuvvet kullanılmasına karar verme yetkisi TBMM'ye aittir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Sayıştay, kamu kurum ve kuruluşlarının gelir, gider ve mallarını denetlerken kim adına hareket eder?",
+      "options": {
+        "A": "Cumhurbaşkanı adına",
+        "B": "Türkiye Büyük Millet Meclisi adına",
+        "C": "Adalet Bakanlığı adına",
+        "D": "Kendi adına"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 158. maddesine göre Sayıştay, genel ve katma bütçeli dairelerin bütün gelir ve giderleri ile mallarını Türkiye Büyük Millet Meclisi adına denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre seçimden önce veya sonra bir suç işlediği ileri sürülen bir milletvekilinin, Meclis kararı olmadıkça tutulamaması, sorguya çekilememesi ve tutuklanamaması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Yasama dokunulmazlığı",
+        "B": "Yasama sorumsuzluğu",
+        "C": "Kişi dokunulmazlığı",
+        "D": "Kuvvetler ayrılığı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 83. maddesine göre seçimden önce veya sonra bir suç işlediği ileri sürülen milletvekili, Meclis kararı olmadıkça tutulamaz, sorguya çekilemez, tutuklanamaz ve yargılanamaz; bu güvence yasama dokunulmazlığıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre seçimin başlamasından bitimine kadar, seçimin düzen içinde yönetimi ve dürüstlüğü ile ilgili bütün işlemleri yapma ve yaptırma yetkisi aşağıdakilerden hangisine aittir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi Genel Kuruluna",
+        "B": "Yüksek Seçim Kuruluna",
+        "C": "Anayasa Mahkemesine",
+        "D": "Cumhurbaşkanına"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 79. maddesine göre seçimlerin düzen içinde yönetimi ve dürüstlüğü ile ilgili bütün işlemleri yapma ve yaptırma, seçimlerle ilgili yolsuzluk, şikâyet ve itirazları inceleme ve kesin karara bağlama görevi Yüksek Seçim Kurulunundur.",
       "source": "özgün"
     },
     {
@@ -25574,21 +26354,6 @@
       "categorySlug": "vatandaslik",
       "topic": "Yasama",
       "difficulty": 3,
-      "text": "1982 Anayasası'na göre TBMM üyelerinin seçim çevreleri ile ilgili aşağıdakilerden hangisi doğrudur?",
-      "options": {
-        "A": "Nüfusu belirli bir sayısının altında kalan iller milletvekili çıkaramaz",
-        "B": "Milletvekilleri ülke genelinde tek bir seçim çevresinden seçilir",
-        "C": "Seçim çevreleri yalnızca bölge esasına göre belirlenir",
-        "D": "Her il en az bir milletvekili çıkarır"
-      },
-      "correctOption": "D",
-      "explanation": "Anayasa'nın 80. ve 76. maddeleri çerçevesinde her il, nüfusuna bakılmaksızın en az bir milletvekili çıkarır; nüfusu fazla olan iller daha çok milletvekili seçer.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "vatandaslik",
-      "topic": "Yasama",
-      "difficulty": 3,
       "text": "1982 Anayasası'na göre TBMM, Anayasa'da başka bir hüküm bulunmadıkça kararlarını hangi çoğunlukla alır?",
       "options": {
         "A": "Üye tamsayısının dörtte birinin bir fazlasıyla",
@@ -25648,6 +26413,36 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi bir yasama yılında en çok kaç ay tatil yapabilir?",
+      "options": {
+        "A": "Bir ay",
+        "B": "İki ay",
+        "C": "Üç ay",
+        "D": "Dört ay"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 93. maddesine göre TBMM bir yasama yılında en çok üç ay tatil yapabilir; ara verme veya tatil sırasında Cumhurbaşkanı tarafından toplantıya çağrılabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi Genel Kurulu toplantıları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Genel Kurul toplantıları kural olarak kapalıdır ve basın toplantıları izleyemez.",
+        "B": "Genel Kurul toplantılarının açık mı kapalı mı yapılacağına Cumhurbaşkanı karar verir.",
+        "C": "Genel Kurul toplantıları herkese açıktır; ancak Anayasa'da öngörülen hâllerde kapalı oturum yapılmasına karar verilebilir.",
+        "D": "Genel Kurul toplantıları yalnızca milletvekillerinin katılımına açıktır."
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 97. maddesine göre TBMM Genel Kurulu toplantıları herkese açıktır; ancak Anayasa'nın öngördüğü hâllerde kapalı oturum yapılmasına karar verilebilir ve kapalı oturumlardaki görüşmelerin yayımlanması Meclis kararına bağlıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
       "difficulty": 1,
       "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi genel seçimleri kaç yılda bir yapılır?",
       "options": {
@@ -25693,6 +26488,21 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi üyelerinin, seçildikleri bölgeyi veya kendilerini seçenleri değil bütün Milleti temsil etmesi aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Yasama dokunulmazlığı",
+        "B": "Yasama sorumsuzluğu",
+        "C": "Milletvekilliği ile bağdaşmayan işler",
+        "D": "Milletvekillerinin bütün Milleti temsil etmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 80. maddesine göre TBMM üyeleri, seçildikleri bölgeyi veya kendilerini seçenleri değil, bütün Milleti temsil ederler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
       "difficulty": 3,
       "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi, Anayasa'da başka bir hüküm bulunmadıkça kararlarını hangi oy çokluğuyla alır?",
       "options": {
@@ -25703,6 +26513,21 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'ya göre TBMM, Anayasa'da başka bir hüküm bulunmadıkça kararlarını üye tamsayısının salt çoğunluğuyla alır. Toplantı yeter sayısı ise üye tamsayısının üçte biridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisinin ara verme veya tatil sırasında toplantıya çağrılması ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yalnızca TBMM Başkanı tarafından toplantıya çağrılabilir.",
+        "B": "Cumhurbaşkanı tarafından toplantıya çağrılabilir.",
+        "C": "Anayasa Mahkemesi Başkanı tarafından toplantıya çağrılır.",
+        "D": "Ara verme veya tatil sırasında Meclis hiçbir şekilde toplanamaz."
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 93. maddesine göre Türkiye Büyük Millet Meclisi, ara verme veya tatil sırasında Cumhurbaşkanı tarafından toplantıya çağrılabilir; Meclis bu durumda kendiliğinden toplanmaz, çağrı üzerine toplanır.",
       "source": "özgün"
     },
     {
@@ -25763,6 +26588,21 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'nın 90. maddesine göre usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalar kanun hükümlerine üstün tutulur ve Anayasa Mahkemesine bunlar hakkında iptal davası açılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre vatan hizmeti ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Vatan hizmeti yalnızca erkeklere tanınmış bir ödevdir.",
+        "B": "Vatan hizmeti yalnızca Devlet memurlarını bağlar.",
+        "C": "Vatan hizmeti yalnızca yurt dışında yerine getirilebilir.",
+        "D": "Vatan hizmeti, her Türk'ün hakkı ve ödevidir; yerine getirilme şekli kanunla düzenlenir."
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 72. maddesine göre vatan hizmeti, her Türk'ün hakkı ve ödevidir; bu hizmetin Silahlı Kuvvetlerde veya kamu kesiminde ne şekilde yerine getirileceği veya getirilmiş sayılacağı kanunla düzenlenir.",
       "source": "özgün"
     },
     {
@@ -25859,6 +26699,231 @@
       "categorySlug": "vatandaslik",
       "topic": "Yürütme",
       "difficulty": 2,
+      "text": "1982 Anayasası'nda \"Yürütme yetkisi ve görevi, Cumhurbaşkanı tarafından, Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir.\" hükmü hangi maddede yer alır?",
+      "options": {
+        "A": "6. madde",
+        "B": "7. madde",
+        "C": "8. madde",
+        "D": "9. madde"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 8. maddesi, yürütme yetkisi ve görevinin Cumhurbaşkanı tarafından Anayasa'ya ve kanunlara uygun olarak kullanılacağını ve yerine getirileceğini belirtir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 104. maddesine göre milletlerarası andlaşmaları onaylamak ve yayımlamak aşağıdakilerden hangisinin görev ve yetkileri arasında yer alır?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisinin",
+        "B": "Danıştayın",
+        "C": "Anayasa Mahkemesinin",
+        "D": "Cumhurbaşkanının"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. maddesine göre milletlerarası andlaşmaları onaylamak ve yayımlamak Cumhurbaşkanının görev ve yetkileri arasında sayılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 116. maddesine göre Türkiye Büyük Millet Meclisi, üye tamsayısının hangi çoğunluğuyla seçimlerin yenilenmesine karar verebilir?",
+      "options": {
+        "A": "Salt çoğunluğuyla",
+        "B": "Beşte üçüyle",
+        "C": "Üçte ikisiyle",
+        "D": "Üçte biriyle"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 116. maddesine göre TBMM, üye tamsayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verebilir; bu kararın ardından Cumhurbaşkanlığı seçimi ile TBMM seçimleri birlikte yapılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 118. maddesine göre Millî Güvenlik Kurulunun üyeleri arasında aşağıdaki bakanlardan hangisi yer almaz?",
+      "options": {
+        "A": "Adalet Bakanı",
+        "B": "İçişleri Bakanı",
+        "C": "Millî Eğitim Bakanı",
+        "D": "Millî Savunma Bakanı"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 118. maddesine göre Millî Güvenlik Kurulu; Cumhurbaşkanı başkanlığında, Cumhurbaşkanı yardımcıları, Adalet, Millî Savunma, İçişleri ve Dışişleri bakanları, Genelkurmay Başkanı ve kuvvet komutanlarından oluşur; Millî Eğitim Bakanı Kurulun üyesi değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 119. maddesine göre aşağıdakilerden hangisi olağanüstü hâl ilanını gerektiren sebeplerden biri değildir?",
+      "options": {
+        "A": "Tabii afetler",
+        "B": "Tehlikeli salgın hastalıklar",
+        "C": "Milletvekili genel seçimlerinin yenilenmesi",
+        "D": "Ağır ekonomik bunalım"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 119. maddesine göre tabii afetler, tehlikeli salgın hastalıklar, ağır ekonomik bunalımlar ve şiddet olayları olağanüstü hâl ilanını gerektiren sebeplerdendir; seçimlerin yenilenmesi bu sebepler arasında yer almaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 119. maddesine göre olağanüstü hâl süresi, Türkiye Büyük Millet Meclisi tarafından her defasında en fazla kaç ay uzatılabilir?",
+      "options": {
+        "A": "İki ay",
+        "B": "Dört ay",
+        "C": "Altı ay",
+        "D": "On iki ay"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 119. maddesine göre olağanüstü hâl, süresi altı ayı geçmemek üzere Cumhurbaşkanınca ilan edilir; TBMM her defasında dört ayı geçmemek üzere bu süreyi uzatabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 12. maddesine göre temel hak ve hürriyetlerin niteliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Herkes, kişiliğine bağlı, dokunulmaz, devredilmez ve vazgeçilmez temel hak ve hürriyetlere sahiptir.",
+        "B": "Temel hak ve hürriyetler Devlet tarafından verilir ve gerektiğinde geri alınabilir.",
+        "C": "Temel hak ve hürriyetler yalnızca Türk vatandaşlarına tanınmıştır.",
+        "D": "Temel hak ve hürriyetler ancak kanunla devredilebilir."
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 12. maddesine göre herkes, kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir; temel hak ve hürriyetler, kişinin topluma, ailesine ve diğer kişilere karşı ödev ve sorumluluklarını da içerir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 123. maddesine göre idarenin bütünlüğü ve düzenlenmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İdare, her ilin ayrı tüzel kişiliği esasına göre düzenlenir",
+        "B": "İdarenin kuruluş ve görevleri yalnızca Cumhurbaşkanlığı kararnamesiyle düzenlenir",
+        "C": "İdare, kuruluş ve görevleriyle bir bütündür ve kanunla düzenlenir",
+        "D": "İdare, kuruluş ve görevleri bakımından yargı organlarına bağlıdır"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 123. maddesine göre idare, kuruluş ve görevleriyle bir bütündür ve kanunla düzenlenir; idarenin kuruluş ve görevleri, merkezî idare ile mahallî idareler arasındaki görev ve yetki bölüşümü gözetilerek belirlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 125. maddesine göre idarenin her türlü eylem ve işlemlerine karşı yargı yolunun açık olması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "İdari vesayet",
+        "B": "Yargı yolunun açık olması (yargısal denetim)",
+        "C": "Hiyerarşik denetim",
+        "D": "Takdir yetkisi"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 125. maddesine göre idarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır; idare, yargı kararlarının uygulanmasını geciktiremez.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Mahalli İdareler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 127. maddesine göre mahallî idareler ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Mahallî idarelerin karar organları merkezî idare tarafından atanır",
+        "B": "Mahallî idareler, karar organları kanunda gösterilen seçmenler tarafından seçilerek oluşturulan kamu tüzel kişileridir",
+        "C": "Mahallî idareler tüzel kişiliği olmayan kuruluşlardır",
+        "D": "Mahallî idarelerin kuruluş esasları yönetmelikle belirlenir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 127. maddesine göre mahallî idareler; il, belediye veya köy halkının mahallî müşterek ihtiyaçlarını karşılamak üzere kuruluş esasları kanunla belirtilen ve karar organları kanunda gösterilen seçmenler tarafından seçilerek oluşturulan kamu tüzel kişileridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 146. maddesine göre Anayasa Mahkemesi Başkanı ve başkanvekili nasıl belirlenir?",
+      "options": {
+        "A": "Cumhurbaşkanı tarafından atanır",
+        "B": "Türkiye Büyük Millet Meclisi tarafından seçilir",
+        "C": "Adalet Bakanı tarafından atanır",
+        "D": "Kendi üyeleri arasından gizli oyla ve üye tamsayısının salt çoğunluğuyla dört yıl için seçilir"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 146. maddesine göre Anayasa Mahkemesi, Başkanını ve başkanvekilini kendi üyeleri arasından gizli oyla ve üye tamsayısının salt çoğunluğuyla dört yıl için seçer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 148. maddesine göre Anayasa Mahkemesinin Yüce Divan sıfatıyla yargılayacağı kişiler arasında aşağıdakilerden hangisi yer alır?",
+      "options": {
+        "A": "Valiler",
+        "B": "Cumhurbaşkanı yardımcıları ve bakanlar",
+        "C": "Yalnızca kaymakamlar",
+        "D": "Belediye başkanları"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesine göre Anayasa Mahkemesi; Cumhurbaşkanını, TBMM Başkanını, Cumhurbaşkanı yardımcılarını, bakanları ve kanunda gösterilen diğer yüksek görevlileri görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 148. maddesine göre aşağıdakilerden hangisinin Anayasa'ya aykırılığı iddiasıyla Anayasa Mahkemesinde dava açılamaz?",
+      "options": {
+        "A": "Kanunların",
+        "B": "Olağan dönemde çıkarılan Cumhurbaşkanlığı kararnamelerinin",
+        "C": "Türkiye Büyük Millet Meclisi İçtüzüğünün",
+        "D": "Olağanüstü hâl, savaş hâli ve seferberlik hâllerinde çıkarılan Cumhurbaşkanlığı kararnamelerinin"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 148. maddesine göre olağanüstü hâl, savaş hâli ve seferberlik hâllerinde çıkarılan Cumhurbaşkanlığı kararnamelerinin şekil ve esas bakımından Anayasa'ya aykırılığı iddiasıyla Anayasa Mahkemesinde dava açılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 174. maddesine göre inkılâp kanunları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İnkılâp kanunları Anayasa değişikliğiyle her zaman kaldırılabilir.",
+        "B": "İnkılâp kanunları yalnızca tarihî belge niteliğinde olup hukuki değeri yoktur.",
+        "C": "Anayasa'da belirtilen inkılâp kanunlarının, Anayasa'nın halkoyu ile kabul edildiği tarihte yürürlükte bulunan hükümlerinin Anayasa'ya aykırı olduğu şeklinde anlaşılamaz ve yorumlanamaz.",
+        "D": "İnkılâp kanunları hakkında yalnızca Danıştay görüş bildirebilir."
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 174. maddesi, Tevhid-i Tedrisat Kanunu ve Şapka İktisası Hakkında Kanun gibi inkılâp kanunlarının, Anayasa'nın halkoyu ile kabul edildiği tarihte yürürlükte bulunan hükümlerinin Anayasa'ya aykırı olduğu şeklinde anlaşılamayacağını ve yorumlanamayacağını belirtir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre Anayasa Mahkemesi on beş üyeden oluşur. Bu üyelerin kaçı Türkiye Büyük Millet Meclisi tarafından seçilir?",
+      "options": {
+        "A": "Üç",
+        "B": "İki",
+        "C": "Beş",
+        "D": "Yedi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 146. maddesine göre Anayasa Mahkemesi on beş üyeden kurulur; üyelerin üçü Türkiye Büyük Millet Meclisi, on ikisi Cumhurbaşkanı tarafından seçilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
       "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre aşağıdakilerden hangisi doğrudur?",
       "options": {
         "A": "Cumhurbaşkanının Türkiye Büyük Millet Meclisi üyeliği sona erer; Cumhurbaşkanı kanun teklif edemez.",
@@ -25872,9 +26937,84 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre Cumhurbaşkanı yardımcıları ve bakanların sorumluluğu ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "TBMM'ye karşı sorumludurlar",
+        "B": "Yalnızca Danıştaya karşı sorumludurlar",
+        "C": "Hiçbir organa karşı sorumlu değildirler",
+        "D": "Cumhurbaşkanına karşı sorumludurlar"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 106. maddesine göre Cumhurbaşkanı yardımcıları ve bakanlar Cumhurbaşkanına karşı sorumludur; 2017 değişikliğiyle TBMM'ye karşı siyasi sorumluluk sona ermiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre Hâkimler ve Savcılar Kurulu (HSK) ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İki daire hâlinde çalışır",
+        "B": "Tek daire hâlinde çalışır",
+        "C": "Üç daire hâlinde çalışır",
+        "D": "Daire oluşturmaz, yalnızca Genel Kurul hâlinde toplanır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 159. maddesine göre Hâkimler ve Savcılar Kurulu iki daire hâlinde çalışır; adlî ve idarî yargıya ilişkin işler bu dairelerde görülür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre Hâkimler ve Savcılar Kurulunun başkanı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Adalet Bakanı",
+        "B": "Cumhurbaşkanı",
+        "C": "Danıştay Başkanı",
+        "D": "Yargıtay Birinci Başkanı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 159. maddesine göre Hâkimler ve Savcılar Kurulunun başkanı Adalet Bakanıdır; Kurul iki daire hâlinde çalışır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre kanun teklif etmeye kim yetkilidir?",
+      "options": {
+        "A": "Cumhurbaşkanı",
+        "B": "Türkiye Büyük Millet Meclisi üyeleri",
+        "C": "Cumhurbaşkanı yardımcıları",
+        "D": "Bakanlar Kurulu"
+      },
+      "correctOption": "B",
+      "explanation": "2017 değişikliğinden sonra Anayasa'nın 88. maddesine göre kanun teklif etmeye Türkiye Büyük Millet Meclisi üyeleri yetkilidir; Cumhurbaşkanının kanun teklif etme yetkisi bulunmaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrasında aşağıdakilerden hangisi Türkiye Büyük Millet Meclisinin bilgi edinme ve denetim yolları arasında yer almaz?",
+      "options": {
+        "A": "Soru",
+        "B": "Genel görüşme",
+        "C": "Gensoru",
+        "D": "Meclis araştırması"
+      },
+      "correctOption": "C",
+      "explanation": "2017 değişikliğiyle Anayasa'nın 99. maddesindeki gensoru yolu yürürlükten kaldırılmıştır; TBMM'nin bilgi edinme ve denetim yolları soru, genel görüşme, meclis araştırması ve meclis soruşturmasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Anayasa",
       "difficulty": 1,
-      "text": "1982 Anayasası'nın 3. maddesine göre aşağıdakilerden hangisi Devletin temel nitelikleri arasında yer alır?",
+      "text": "1982 Anayasası'nın 3. maddesine göre aşağıdakilerden hangisi doğrudur?",
       "options": {
         "A": "Resmî dilin Türkçe olması ve bayrağın ay yıldızlı al sancak olması",
         "B": "Başkentin İstanbul olması",
@@ -25882,7 +27022,52 @@
         "D": "Millî marşın her dönem değiştirilebilmesi"
       },
       "correctOption": "A",
-      "explanation": "Anayasa'nın 3. maddesine göre Devletin ülkesi ve milletiyle bölünmez bir bütündür; dili Türkçedir, bayrağı şekli kanunda belirtilen ay yıldızlı al sancaktır, millî marşı İstiklal Marşı'dır ve başkenti Ankara'dır.",
+      "explanation": "Anayasa'nın 3. maddesine göre Devlet, ülkesi ve milletiyle bölünmez bir bütündür; dili Türkçe, bayrağı şekli kanunda belirtilen ay yıldızlı al sancak, millî marşı İstiklal Marşı ve başkenti Ankara'dır. (Devletin temel nitelikleri ise 2. maddede sayılmıştır.)",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 5. maddesine göre Devletin temel amaç ve görevleri arasında aşağıdakilerden hangisi yer alır?",
+      "options": {
+        "A": "Kişinin temel hak ve hürriyetlerini sınırlayan siyasî, ekonomik ve sosyal engelleri kaldırmaya çalışmak",
+        "B": "Belirli bir dini resmî din olarak belirlemek",
+        "C": "Yargı yetkisini kullanmak",
+        "D": "Kanunları yayımlamak"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 5. maddesine göre Devletin temel amaç ve görevleri; kişinin temel hak ve hürriyetlerini sınırlayan siyasî, ekonomik ve sosyal engelleri kaldırmak ve insanın maddî ve manevî varlığının gelişmesi için gerekli şartları hazırlamaktır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 6. maddesine göre egemenliğin kullanılması ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Egemenlik yalnızca Cumhurbaşkanı tarafından kullanılır",
+        "B": "Egemenliğin kullanılması, Anayasa'nın koyduğu esaslara göre yetkili organlar eliyle olur",
+        "C": "Egemenlik TBMM tarafından sınırsız biçimde kullanılır",
+        "D": "Egemenliğin kullanılması hiçbir kurala bağlı değildir"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 6. maddesine göre egemenlik kayıtsız şartsız Milletindir; Millet, egemenliğini Anayasa'nın koyduğu esaslara göre yetkili organlar eliyle kullanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 1,
+      "text": "1982 Anayasası'nın 7. maddesine göre yasama yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Türk Milleti adına Türkiye Büyük Millet Meclisinindir ve bu yetki devredilemez",
+        "B": "Yalnızca Cumhurbaşkanına aittir ve devredilebilir",
+        "C": "Bağımsız mahkemelerce kullanılır",
+        "D": "Halk tarafından doğrudan referandumla kullanılır"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 7. maddesine göre yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisinindir ve bu yetki devredilemez.",
       "source": "özgün"
     },
     {
@@ -25917,6 +27102,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "2017 Anayasa değişikliğiyle aşağıdaki yüksek mahkemelerden hangisi yürürlükten kaldırılmıştır?",
+      "options": {
+        "A": "Yargıtay",
+        "B": "Danıştay",
+        "C": "Askerî Yargıtay",
+        "D": "Uyuşmazlık Mahkemesi"
+      },
+      "correctOption": "C",
+      "explanation": "2017 değişikliğiyle Anayasa'nın 156. maddesindeki Askerî Yargıtay ile 157. maddesindeki Askerî Yüksek İdare Mahkemesi yürürlükten kaldırılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "İdari Yargı",
       "difficulty": 3,
       "text": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre iptal davasında, idari işlemin uygulanması hâlinde telafisi güç veya imkânsız zararların doğması ve işlemin açıkça hukuka aykırı olması koşullarının birlikte gerçekleşmesi durumunda verilebilecek karar aşağıdakilerden hangisidir?",
@@ -25943,6 +27143,21 @@
       },
       "correctOption": "D",
       "explanation": "İdari Yargılama Usulü Kanunu'na göre dava açma süresi, özel kanunlarda ayrı süre gösterilmeyen hâllerde Danıştayda ve idare mahkemelerinde yazılı bildirimin yapıldığı tarihten itibaren altmış gündür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 2,
+      "text": "4721 sayılı Türk Medeni Kanunu'na göre gerçek kişilik hangi anda başlar?",
+      "options": {
+        "A": "Anne rahmine düşüldüğü anda",
+        "B": "Nüfusa kayıt anında",
+        "C": "Çocuğun sağ olarak tamamıyla doğduğu anda",
+        "D": "On sekiz yaşının doldurulmasıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Türk Medeni Kanunu'nun 28. maddesine göre kişilik, çocuğun sağ olarak tamamıyla doğduğu anda başlar ve ölümle sona erer.",
       "source": "özgün"
     },
     {
@@ -26093,6 +27308,21 @@
       },
       "correctOption": "C",
       "explanation": "Anayasa'nın üstünlüğü, kanunlar dahil hiçbir hukuki düzenlemenin Anayasa'ya aykırı olamaması anlamına gelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "Anayasa'ya göre Anayasa Mahkemesi üyelerinin görev süresi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Üyeler on yıl için seçilir",
+        "B": "Üyeler ömür boyu görev yapar",
+        "C": "Üyeler beş yıl için seçilir ve iki kez seçilebilir",
+        "D": "Üyeler on iki yıl için seçilir ve bir kişi iki defa seçilemez"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'ya göre Anayasa Mahkemesi üyeleri on iki yıl için seçilir; bir kişi iki defa Anayasa Mahkemesi üyesi olamaz.",
       "source": "özgün"
     },
     {
@@ -26427,6 +27657,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi 1982 Anayasası'nın 2. maddesinde sayılan Cumhuriyetin nitelikleri arasında yer almaz?",
+      "options": {
+        "A": "Demokratik devlet",
+        "B": "Laik devlet",
+        "C": "Teokratik devlet",
+        "D": "Sosyal hukuk devleti"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 2. maddesine göre Türkiye Cumhuriyeti demokratik, laik ve sosyal bir hukuk devletidir; teokratik devlet bu nitelikler arasında yer almaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Siyasi Haklar",
       "difficulty": 1,
       "text": "Aşağıdakilerden hangisi Anayasa'da düzenlenen siyasi haklar ve ödevler arasında yer alır?",
@@ -26712,21 +27957,6 @@
     },
     {
       "categorySlug": "vatandaslik",
-      "topic": "Temel Hak ve Ödevler",
-      "difficulty": 3,
-      "text": "Bir kişinin, kendisi hakkında verilmiş kesinleşmiş bir mahkeme kararı nedeniyle idareye başvurarak uğradığı zararın karşılanmasını istemesi aşağıdakilerden hangisiyle ilgilidir?",
-      "options": {
-        "A": "Mülkiyet hakkı",
-        "B": "Dilekçe hakkı",
-        "C": "Devletin sorumluluğu ve tazminat hakkı",
-        "D": "Milletlerarası andlaşmalara dayalı başvuru"
-      },
-      "correctOption": "C",
-      "explanation": "Anayasa'nın 40. maddesi, idarenin işlem ve eylemlerinden zarar görenlere karşı devletin sorumluluğunu ve zararın tazmin edilmesini güvence altına alır.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "vatandaslik",
       "topic": "Yasama",
       "difficulty": 3,
       "text": "Bir milletvekilinin Meclis çalışmaları sırasında işlediği iddia edilen bir suç nedeniyle hakkında soruşturma açılabilmesi için aşağıdakilerden hangisi gerekir?",
@@ -26892,6 +28122,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 3,
+      "text": "Devletin, resmî görevliler tarafından yapılan haksız işlemler sonucu doğan zararı tazmin etme yükümlülüğü aşağıdakilerden hangisiyle ilgilidir?",
+      "options": {
+        "A": "Mülkiyet hakkı",
+        "B": "Dilekçe hakkı",
+        "C": "Devletin sorumluluğu ve tazminat hakkı",
+        "D": "Milletlerarası andlaşmalara dayalı başvuru"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 40. maddesinin son fıkrasına göre kişinin resmî görevliler tarafından yapılan haksız işlemler sonucu uğradığı zarar, kanuna göre Devletçe tazmin edilir; Devletin sorumlu görevliye rücu hakkı saklıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "İnsan Hakları",
       "difficulty": 2,
       "text": "Din ve vicdan özgürlüğü hangi maddede düzenlenmiştir?",
@@ -26963,6 +28208,21 @@
       },
       "correctOption": "B",
       "explanation": "Anayasa'nın 56. maddesi sağlık hakkını ve herkesin sağlıklı, dengeli bir çevrede yaşama hakkını düzenler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Hukukun Temel Kavramları",
+      "difficulty": 1,
+      "text": "Hukuk düzeninin, hukuk kurallarına aykırı davranışlara karşı öngördüğü ve devlet gücüyle desteklenen sonuçlara ne ad verilir?",
+      "options": {
+        "A": "Hukuk boşluğu",
+        "B": "Yaptırım",
+        "C": "İçtihat",
+        "D": "Örf ve âdet"
+      },
+      "correctOption": "B",
+      "explanation": "Yaptırım, hukuk kurallarına aykırı davranışlara hukuk düzeninin bağladığı ve devlet gücüyle desteklenen sonuçtur; ceza, cebrî icra ve tazminat gibi türleri vardır.",
       "source": "özgün"
     },
     {
@@ -27117,6 +28377,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "İdare Hukuku",
+      "difficulty": 3,
+      "text": "İdarenin, yürüttüğü kamu hizmetinin iyi işlememesi, geç işlemesi veya kötü örgütlenmesi nedeniyle doğan zararlardan sorumlu tutulması aşağıdakilerden hangisiyle ifade edilir?",
+      "options": {
+        "A": "Hizmet kusuru",
+        "B": "Kusursuz sorumluluk",
+        "C": "Mücbir sebep",
+        "D": "Beklenmeyen hâl"
+      },
+      "correctOption": "A",
+      "explanation": "Hizmet kusuru, idarenin yürüttüğü kamu hizmetinin kuruluş ve işleyişindeki aksaklık nedeniyle verdiği zararlardan sorumlu tutulmasıdır; kusursuz sorumlulukta ise kusur aranmaksızın sorumluluk doğar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "Yargı",
       "difficulty": 2,
       "text": "İdari yargı alanında son inceleme mercii ve bazı idari davaların ilk derece mahkemesi olan yüksek mahkeme aşağıdakilerden hangisidir?",
@@ -27148,6 +28423,21 @@
     {
       "categorySlug": "vatandaslik",
       "topic": "Mahalli İdareler",
+      "difficulty": 1,
+      "text": "İl özel idaresinde yürütme organı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İl genel meclisi",
+        "B": "İl encümeni",
+        "C": "Vali",
+        "D": "Kaymakam"
+      },
+      "correctOption": "C",
+      "explanation": "5302 sayılı İl Özel İdaresi Kanunu'na göre il özel idaresinin organları il genel meclisi, il encümeni ve validir; il özel idaresinin yürütme organı validir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Mahalli İdareler",
       "difficulty": 2,
       "text": "İl özel idaresinin karar organı aşağıdakilerden hangisidir?",
       "options": {
@@ -27173,6 +28463,21 @@
       },
       "correctOption": "C",
       "explanation": "İnsan haklarının kaynağı doğal hukuktur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İnsan Hakları",
+      "difficulty": 2,
+      "text": "İnsan haklarının uluslararası düzeyde korunmasında önemli bir belge olan Avrupa İnsan Hakları Sözleşmesi hangi yıl imzaya açılmıştır?",
+      "options": {
+        "A": "1950",
+        "B": "1948",
+        "C": "1961",
+        "D": "1975"
+      },
+      "correctOption": "A",
+      "explanation": "Avrupa İnsan Hakları Sözleşmesi, Avrupa Konseyi çerçevesinde 1950 yılında imzaya açılmış ve 1953 yılında yürürlüğe girmiştir.",
       "source": "özgün"
     },
     {
@@ -27233,6 +28538,21 @@
       },
       "correctOption": "A",
       "explanation": "Anayasa'nın 10. maddesindeki eşitlik ilkesi, kadın-erkek eşitliğini ve devletin bunu sağlama yükümlülüğünü içerir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "İdare Hukuku",
+      "difficulty": 2,
+      "text": "Kamu hizmetinin, toplumun ihtiyaçları karşılanacak şekilde düzenli ve kesintisiz olarak yürütülmesini ifade eden ilke aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eşitlik ilkesi",
+        "B": "Tarafsızlık ilkesi",
+        "C": "Uyarlama (değişkenlik) ilkesi",
+        "D": "Süreklilik ilkesi"
+      },
+      "correctOption": "D",
+      "explanation": "Kamu hizmetinin süreklilik ilkesi, hizmetin düzenli ve kesintisiz biçimde sunulmasını gerektirir; bu ilke kamu hizmetinin temel ilkelerinden biridir.",
       "source": "özgün"
     },
     {
@@ -27462,6 +28782,21 @@
     },
     {
       "categorySlug": "vatandaslik",
+      "topic": "İdare Hukuku",
+      "difficulty": 2,
+      "text": "Merkezî idarenin, yerinden yönetim kuruluşları üzerinde kanunla tanınan yetkilere dayanarak yaptığı denetime ne ad verilir?",
+      "options": {
+        "A": "Hiyerarşik denetim",
+        "B": "Yargısal denetim",
+        "C": "İdari vesayet",
+        "D": "Siyasi denetim"
+      },
+      "correctOption": "C",
+      "explanation": "İdari vesayet, merkezî idarenin yerinden yönetim kuruluşları üzerinde kanunla tanınan yetkilere dayanarak yaptığı denetimdir; hiyerarşik denetim ise aynı tüzel kişilik içindeki ast-üst ilişkisine dayanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
       "topic": "İnsan Hakları",
       "difficulty": 2,
       "text": "Mülkiyet hakkı hangi maddede düzenlenmiştir?",
@@ -27488,6 +28823,21 @@
       },
       "correctOption": "A",
       "explanation": "Normlar hiyerarşisinin en üstünde Anayasa yer alır ve kanunlar dahil hiçbir düzenleme Anayasa'ya aykırı olamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nde 1808'de ayanlarla padişah arasında imzalanan ve padişahın yetkilerini ilk kez sınırlayan belge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tanzimat Fermanı",
+        "B": "Islahat Fermanı",
+        "C": "Sened-i İttifak",
+        "D": "Kanûn-ı Esâsî"
+      },
+      "correctOption": "C",
+      "explanation": "Sened-i İttifak, 1808'de ayanlar ile padişah arasında imzalanmış; padişahın yetkilerini ilk kez sınırlayan ve Türk anayasal gelişmelerinin başlangıcı sayılan belge olmuştur.",
       "source": "özgün"
     },
     {
@@ -27614,6 +28964,21 @@
       "categorySlug": "vatandaslik",
       "topic": "Yasama",
       "difficulty": 3,
+      "text": "TBMM üyelerinin seçim çevreleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Nüfusu belirli bir sayısının altında kalan iller milletvekili çıkaramaz",
+        "B": "Milletvekilleri ülke genelinde tek bir seçim çevresinden seçilir",
+        "C": "Seçim çevreleri yalnızca bölge esasına göre belirlenir",
+        "D": "Her il en az bir milletvekili çıkarır"
+      },
+      "correctOption": "D",
+      "explanation": "Her il, nüfusuna bakılmaksızın en az bir milletvekili çıkarır; nüfusu fazla olan iller daha çok milletvekili seçer. Bu kural 2839 sayılı Milletvekili Seçimi Kanunu'nda düzenlenir; Anayasa ise TBMM'nin genel oyla seçilmesini ve milletvekillerinin milleti temsil etmesini öngörür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
       "text": "TBMM, Cumhurbaşkanınca geri gönderilen bir kanunu üye tamsayısının salt çoğunluğuyla aynen kabul ederse ne olur?",
       "options": {
         "A": "Kanun yürürlükten kalkar",
@@ -27683,6 +29048,21 @@
       },
       "correctOption": "B",
       "explanation": "Bireyler arası ilişkileri eşitlik ilkesine göre düzenleyen bu dallar özel hukuk içinde yer alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasal Gelişmeler",
+      "difficulty": 2,
+      "text": "Türk anayasa tarihinde \"sosyal hukuk devleti\" niteliğinin ilk kez açıkça yer aldığı anayasa aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "1921 Anayasası",
+        "B": "1961 Anayasası",
+        "C": "1876 Kanûn-ı Esâsî",
+        "D": "1924 Anayasası"
+      },
+      "correctOption": "B",
+      "explanation": "1961 Anayasası, \"insan haklarına dayanan, millî, demokratik, lâik ve sosyal bir hukuk devleti\" ifadesiyle sosyal hukuk devleti niteliğini ilk kez açıkça benimsemiştir.",
       "source": "özgün"
     },
     {
@@ -28092,6 +29472,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "1915 Çanakkale Köprüsü hangi su yolunu geçmektedir?",
+      "options": {
+        "A": "İstanbul Boğazı",
+        "B": "İzmit Körfezi",
+        "C": "Sakarya Nehri",
+        "D": "Çanakkale Boğazı"
+      },
+      "correctOption": "D",
+      "explanation": "1915 Çanakkale Köprüsü, Çanakkale Boğazı üzerinde inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Türkiye'nin İlkleri",
       "difficulty": 2,
       "text": "1961 yılında tasarlanan ve Türkiye'nin ilk yerli otomobili olarak kabul edilen araç hangisidir?",
@@ -28103,6 +29498,21 @@
       },
       "correctOption": "A",
       "explanation": "Devrim, 1961 yılında Türkiye'de tasarlanıp üretilen ilk yerli otomobildir. Anadol ise daha sonra seri üretime geçen bir markadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "1961 yılında Türkiye'nin ilk yerli otomobili Devrim'i üreten kuruluş hangisidir?",
+      "options": {
+        "A": "TOFAŞ",
+        "B": "MKE",
+        "C": "TÜLOMSAŞ",
+        "D": "OTOKAR"
+      },
+      "correctOption": "C",
+      "explanation": "Devrim otomobili, Eskişehir'deki TÜLOMSAŞ tesislerinde (günümüzdeki TÜRASAŞ) üretilmiştir.",
       "source": "özgün"
     },
     {
@@ -28137,6 +29547,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Afrika Birliğinin merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Nairobi",
+        "B": "Kahire",
+        "C": "Addis Ababa",
+        "D": "Lagos"
+      },
+      "correctOption": "C",
+      "explanation": "Afrika Birliğinin merkezi Etiyopya'nın başkenti Addis Ababa'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "AGİT",
       "difficulty": 3,
       "text": "AGİT'in kuruluş sürecinin temelini oluşturan ve 1975 yılında imzalanan belge aşağıdakilerden hangisidir?",
@@ -28167,6 +29592,51 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Arap Devletleri Ligi'nin (Arap Birliği) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Riyad",
+        "B": "Amman",
+        "C": "Tunus",
+        "D": "Kahire"
+      },
+      "correctOption": "D",
+      "explanation": "Arap Birliğinin merkezi Mısır'ın başkenti Kahire'dedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Asya-Pasifik Ekonomik İşbirliği (APEC) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1961",
+        "B": "1967",
+        "C": "1975",
+        "D": "1989"
+      },
+      "correctOption": "D",
+      "explanation": "APEC, 1989 yılında kurulmuş olup sekretaryası Singapur'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Aşağıdaki ülkelerden hangisi Avrupa Birliğinin temelini oluşturan Avrupa Ekonomik Topluluğunun kurucu üyeleri arasında yer alır?",
+      "options": {
+        "A": "Türkiye",
+        "B": "İngiltere",
+        "C": "Fransa",
+        "D": "İspanya"
+      },
+      "correctOption": "C",
+      "explanation": "AET'in kurucu üyeleri arasında Fransa, Almanya, İtalya, Belçika, Hollanda ve Lüksemburg bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "OECD",
       "difficulty": 2,
       "text": "Aşağıdaki ülkelerden hangisi Ekonomik İşbirliği ve Kalkınma Örgütünün (OECD) kurucu üyeleri arasında yer alır?",
@@ -28193,6 +29663,21 @@
       },
       "correctOption": "A",
       "explanation": "Türkiye, dünyanın önde gelen ekonomilerini bir araya getiren G20'nin üyeleri arasında yer alır. İsviçre, İsveç ve Norveç G20 üyesi değildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Aşağıdaki ülkelerden hangisi G7 üyesidir?",
+      "options": {
+        "A": "İspanya",
+        "B": "Avustralya",
+        "C": "Hollanda",
+        "D": "Kanada"
+      },
+      "correctOption": "D",
+      "explanation": "G7 üyeleri ABD, Kanada, Birleşik Krallık, Fransa, Almanya, İtalya ve Japonya'dır.",
       "source": "özgün"
     },
     {
@@ -28288,6 +29773,21 @@
     {
       "categorySlug": "guncel",
       "topic": "Birleşmiş Milletler",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi Birleşmiş Milletlerin resmî dilleri arasında yer alır?",
+      "options": {
+        "A": "Almanca",
+        "B": "Arapça",
+        "C": "İtalyanca",
+        "D": "Türkçe"
+      },
+      "correctOption": "B",
+      "explanation": "BM'nin resmî dilleri Arapça, Çince, İngilizce, Fransızca, Rusça ve İspanyolcadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
       "difficulty": 2,
       "text": "Aşağıdakilerden hangisi Birleşmiş Milletlerin uzmanlık kuruluşları arasında yer alır?",
       "options": {
@@ -28318,6 +29818,36 @@
     {
       "categorySlug": "guncel",
       "topic": "Avrupa Birliği",
+      "difficulty": 1,
+      "text": "Avrupa Birliği bayrağında kaç yıldız bulunur?",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "25",
+        "D": "27"
+      },
+      "correctOption": "A",
+      "explanation": "Avrupa Birliği bayrağında, üye sayısından bağımsız olarak 12 yıldız bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa Birliği hukukunun uygulanmasını denetleyen Avrupa Birliği Adalet Divanı hangi şehirde bulunur?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Lahey",
+        "C": "Lüksemburg",
+        "D": "Strazburg"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Birliği Adalet Divanı Lüksemburg'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
       "difficulty": 2,
       "text": "Avrupa Birliği ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
       "options": {
@@ -28328,6 +29858,21 @@
       },
       "correctOption": "C",
       "explanation": "Avrupa Birliği, üye ülkeler arasında ekonomik ve siyasi bütünleşmeyi amaçlayan bir birliktir. Askerî bir ittifak olan NATO'dan ve BM'den ayrı bir yapıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Avrupa Birliği Komisyonunun merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Strazburg",
+        "B": "Lüksemburg",
+        "C": "Frankfurt",
+        "D": "Brüksel"
+      },
+      "correctOption": "D",
+      "explanation": "Avrupa Birliği Komisyonunun merkezi Belçika'nın başkenti Brüksel'dedir.",
       "source": "özgün"
     },
     {
@@ -28349,6 +29894,21 @@
       "categorySlug": "guncel",
       "topic": "Avrupa Birliği",
       "difficulty": 3,
+      "text": "Avrupa Birliğine aday ülkelerin üyelik için yerine getirmesi gereken siyasi ve ekonomik ölçütler hangi isimle anılır?",
+      "options": {
+        "A": "Maastricht Kriterleri",
+        "B": "Schengen Kriterleri",
+        "C": "Roma Kriterleri",
+        "D": "Kopenhag Kriterleri"
+      },
+      "correctOption": "D",
+      "explanation": "Aday ülkelerin demokrasi, hukukun üstünlüğü ve ekonomi alanındaki ölçütleri Kopenhag Kriterleri olarak bilinir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
       "text": "Avrupa Birliğinin kurucu antlaşmalarından biri olan Maastricht Antlaşması hangi yıl imzalanmıştır?",
       "options": {
         "A": "1986",
@@ -28358,6 +29918,36 @@
       },
       "correctOption": "C",
       "explanation": "Maastricht Antlaşması 1992'de imzalanmış ve Avrupa Birliği adının kurumsal olarak kullanılmasının temelini oluşturmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa Birliğinin kurumsal yapısında reform öngören Lizbon Antlaşması hangi yıl imzalanmıştır?",
+      "options": {
+        "A": "1997",
+        "B": "2001",
+        "C": "2007",
+        "D": "2017"
+      },
+      "correctOption": "C",
+      "explanation": "Lizbon Antlaşması 2007 yılında imzalanmış, 2009'da yürürlüğe girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Avrupa Birliğinin ortak para birimi Euro, banknot ve madeni para olarak hangi yıl tedavüle girmiştir?",
+      "options": {
+        "A": "1999",
+        "B": "2000",
+        "C": "2001",
+        "D": "2002"
+      },
+      "correctOption": "D",
+      "explanation": "Euro, 1 Ocak 2002 tarihinde banknot ve madeni para olarak fiziki biçimde tedavüle girmiştir.",
       "source": "özgün"
     },
     {
@@ -28379,6 +29969,21 @@
       "categorySlug": "guncel",
       "topic": "Avrupa Birliği",
       "difficulty": 2,
+      "text": "Avrupa Birliğinin para politikasını yürüten Avrupa Merkez Bankasının merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Strazburg",
+        "C": "Lüksemburg",
+        "D": "Frankfurt"
+      },
+      "correctOption": "D",
+      "explanation": "Avrupa Merkez Bankası Almanya'nın Frankfurt şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
       "text": "Avrupa Birliğinin temelini oluşturan ve Avrupa Ekonomik Topluluğunu kuran Roma Antlaşması hangi yıl imzalanmıştır?",
       "options": {
         "A": "1951",
@@ -28388,6 +29993,21 @@
       },
       "correctOption": "C",
       "explanation": "Roma Antlaşması 1957 yılında imzalanmış ve Avrupa Ekonomik Topluluğunu kurmuştur. Bu topluluk zamanla Avrupa Birliğine dönüşmüştür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Avrupa Birliğinin yatırım ve kalkınma finansmanı sağlayan bankası olan Avrupa Yatırım Bankasının merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Frankfurt",
+        "C": "Lüksemburg",
+        "D": "Strazburg"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Yatırım Bankasının merkezi Lüksemburg'da bulunmaktadır.",
       "source": "özgün"
     },
     {
@@ -28403,6 +30023,21 @@
       },
       "correctOption": "D",
       "explanation": "Avrupa Birliğinin yürütme organı Avrupa Komisyonudur. Komisyon, birlik mevzuatını hazırlar ve uygulanmasını gözetir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa bütünleşmesinin temelini atan ve her yıl 9 Mayıs Avrupa Günü olarak kutlanan Schuman Bildirisi hangi yıl açıklanmıştır?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1957",
+        "D": "1963"
+      },
+      "correctOption": "B",
+      "explanation": "Schuman Bildirisi 1950 yılında açıklanmış ve Avrupa bütünleşmesinin temelini atmıştır.",
       "source": "özgün"
     },
     {
@@ -28467,6 +30102,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Avrupa Konseyinin karar alma sürecinde belirleyici olan ve üye ülkelerin dışişleri bakanları ile daimi temsilcilerinden oluşan organ hangisidir?",
+      "options": {
+        "A": "Avrupa Parlamentosu",
+        "B": "Bakanlar Komitesi",
+        "C": "Avrupa Komisyonu",
+        "D": "Avrupa Zirvesi"
+      },
+      "correctOption": "B",
+      "explanation": "Avrupa Konseyinin temel karar organı Bakanlar Komitesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Avrupa Konseyi",
       "difficulty": 2,
       "text": "Avrupa Konseyinin merkezi hangi şehirdedir?",
@@ -28498,6 +30148,21 @@
     {
       "categorySlug": "guncel",
       "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Avrupa Parlamentosu üyeleri nasıl belirlenir?",
+      "options": {
+        "A": "Üye ülke hükümetlerince atanır",
+        "B": "Avrupa Komisyonu tarafından seçilir",
+        "C": "Üye ülke vatandaşlarınca doğrudan seçilir",
+        "D": "Avrupa Birliği Bakanlar Konseyi tarafından atanır"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Parlamentosu üyeleri, 1979'dan bu yana üye ülke vatandaşları tarafından doğrudan seçilmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
       "difficulty": 3,
       "text": "Avrupa Parlamentosunun resmî genel kurul toplantıları hangi şehirde yapılır?",
       "options": {
@@ -28508,6 +30173,141 @@
       },
       "correctOption": "B",
       "explanation": "Avrupa Parlamentosunun resmî genel kurul toplantıları Fransa'nın Strazburg şehrinde yapılır. Kurumun Brüksel ve Lüksemburg'da da çalışma birimleri vardır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Avrupa Uzay Ajansının (ESA) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Viyana",
+        "C": "Paris",
+        "D": "Zürih"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Uzay Ajansının merkezi Fransa'nın başkenti Paris'tedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa'da kişilerin serbest dolaşımını sağlayan ve sınır kontrollerinin kaldırılmasını öngören Schengen Antlaşması hangi yıl imzalanmıştır?",
+      "options": {
+        "A": "1985",
+        "B": "1992",
+        "C": "1995",
+        "D": "1999"
+      },
+      "correctOption": "A",
+      "explanation": "Schengen Antlaşması 1985 yılında Lüksemburg'un Schengen kasabasında imzalanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Avrupa'nın en eski siyasi işbirliği kuruluşlarından olan Avrupa Konseyi hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1949",
+        "C": "1957",
+        "D": "1989"
+      },
+      "correctOption": "B",
+      "explanation": "Avrupa Konseyi, 1949 yılında Londra Antlaşması ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 1,
+      "text": "Ay yüzeyine ilk ayak basan insan kimdir?",
+      "options": {
+        "A": "Yuri Gagarin",
+        "B": "Buzz Aldrin",
+        "C": "Michael Collins",
+        "D": "Neil Armstrong"
+      },
+      "correctOption": "D",
+      "explanation": "Neil Armstrong, 1969 yılındaki Apollo 11 göreviyle Ay yüzeyine ilk ayak basan insan olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Bilgisayar bilimi alanında üstün katkı sağlayanlara verilen ve bu alanın en prestijli ödülü sayılan ödül hangisidir?",
+      "options": {
+        "A": "Nobel Fizik Ödülü",
+        "B": "Turing Ödülü",
+        "C": "Fields Madalyası",
+        "D": "Pulitzer Ödülü"
+      },
+      "correctOption": "B",
+      "explanation": "Turing Ödülü, bilgisayar bilimi alanında verilen en prestijli uluslararası ödüldür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 3,
+      "text": "Bir ülke vatandaşlarının yurt içinde ve yurt dışında belirli bir dönemde ürettiği nihai mal ve hizmetlerin toplam değerini ifade eden kavram hangisidir?",
+      "options": {
+        "A": "Gayri Safi Yurt İçi Hasıla",
+        "B": "Cari Denge",
+        "C": "Bütçe Açığı",
+        "D": "Gayri Safi Millî Hasıla"
+      },
+      "correctOption": "D",
+      "explanation": "Gayri Safi Millî Hasıla, ülke vatandaşlarının yurt içi ve yurt dışında ürettiği nihai mal ve hizmetlerin toplam değeridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 2,
+      "text": "Bir ülkenin belirli bir dönemde ithalatının ihracatından fazla olması durumunu ifade eden kavram hangisidir?",
+      "options": {
+        "A": "Dış ticaret açığı",
+        "B": "Dış ticaret fazlası",
+        "C": "Cari işlemler dengesi",
+        "D": "Dış borç stoku"
+      },
+      "correctOption": "A",
+      "explanation": "İthalatın ihracatı aşması durumu dış ticaret açığı olarak adlandırılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 1,
+      "text": "Bir ülkenin belirli bir dönemde sınırları içinde ürettiği nihai mal ve hizmetlerin toplam değerini ifade eden kavram hangisidir?",
+      "options": {
+        "A": "Gayri Safi Yurt İçi Hasıla",
+        "B": "Enflasyon",
+        "C": "Cari açık",
+        "D": "Dış borç"
+      },
+      "correctOption": "A",
+      "explanation": "Gayri Safi Yurt İçi Hasıla, ülke sınırları içinde üretilen nihai mal ve hizmetlerin toplam değeridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Çevre Programının (UNEP) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "New York",
+        "C": "Nairobi",
+        "D": "Roma"
+      },
+      "correctOption": "C",
+      "explanation": "UNEP'in merkezi Kenya'nın başkenti Nairobi'de bulunmaktadır.",
       "source": "özgün"
     },
     {
@@ -28527,6 +30327,36 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Çocuklara Yardım Fonu (UNICEF) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1948",
+        "C": "1950",
+        "D": "1946"
+      },
+      "correctOption": "D",
+      "explanation": "UNICEF, 1946 yılında Birleşmiş Milletler Genel Kurulu kararıyla kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1948",
+        "C": "1954",
+        "D": "1960"
+      },
+      "correctOption": "A",
+      "explanation": "UNESCO, 1945 yılında Londra'da kabul edilen bir anlaşma ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "UNESCO",
       "difficulty": 1,
       "text": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütünün (UNESCO) merkezi hangi şehirdedir?",
@@ -28538,6 +30368,66 @@
       },
       "correctOption": "D",
       "explanation": "UNESCO'nun merkezi Fransa'nın başkenti Paris'tir. Örgüt eğitim, bilim ve kültür alanlarında uluslararası işbirliğini amaçlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 1,
+      "text": "Birleşmiş Milletler Genel Kurulunda her üye ülkenin kaç oyu bulunur?",
+      "options": {
+        "A": "Bir",
+        "B": "İki",
+        "C": "Üç",
+        "D": "Beş"
+      },
+      "correctOption": "A",
+      "explanation": "BM Genel Kurulunda her üye ülke bir oya sahiptir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Genel Kurulunun olağan yıllık toplantıları hangi ayda başlar?",
+      "options": {
+        "A": "Mart",
+        "B": "Haziran",
+        "C": "Aralık",
+        "D": "Eylül"
+      },
+      "correctOption": "D",
+      "explanation": "BM Genel Kurulunun olağan yıllık toplantı dönemi her yıl Eylül ayında başlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletler Genel Sekreteri, Güvenlik Konseyinin tavsiyesi üzerine hangi organ tarafından atanır?",
+      "options": {
+        "A": "Güvenlik Konseyi",
+        "B": "Genel Kurul",
+        "C": "Ekonomik ve Sosyal Konsey",
+        "D": "Uluslararası Adalet Divanı"
+      },
+      "correctOption": "B",
+      "explanation": "BM Genel Sekreteri, Güvenlik Konseyinin tavsiyesi üzerine Genel Kurul tarafından atanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Genel Sekreterinin görev süresi kaç yıldır?",
+      "options": {
+        "A": "İki",
+        "B": "Üç",
+        "C": "Dört",
+        "D": "Beş"
+      },
+      "correctOption": "D",
+      "explanation": "Birleşmiş Milletler Genel Sekreteri, Genel Kurul tarafından beş yıllık bir dönem için atanır.",
       "source": "özgün"
     },
     {
@@ -28558,6 +30448,21 @@
     {
       "categorySlug": "guncel",
       "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletler Güvenlik Konseyi kararları, daimi üyelerin vetosu olmadığı sürece en az kaç üyenin olumlu oyuyla alınır?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "15",
+        "D": "9"
+      },
+      "correctOption": "D",
+      "explanation": "Güvenlik Konseyi 15 üyeden oluşur ve kararlar en az 9 üyenin olumlu oyuyla alınır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
       "difficulty": 1,
       "text": "Birleşmiş Milletler Güvenlik Konseyinde veto hakkına sahip daimi üye sayısı kaçtır?",
       "options": {
@@ -28568,6 +30473,21 @@
       },
       "correctOption": "A",
       "explanation": "Güvenlik Konseyinin ABD, Rusya, Çin, Fransa ve İngiltere olmak üzere beş daimi üyesi vardır ve bu üyeler veto hakkına sahiptir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Güvenlik Konseyinin daimi olmayan (geçici) üye sayısı kaçtır?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correctOption": "B",
+      "explanation": "Güvenlik Konseyi 5 daimi ve 10 geçici üye olmak üzere toplam 15 üyeden oluşur.",
       "source": "özgün"
     },
     {
@@ -28587,6 +30507,81 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler kaç üye ülkeden oluşmaktadır?",
+      "options": {
+        "A": "150",
+        "B": "175",
+        "C": "193",
+        "D": "210"
+      },
+      "correctOption": "C",
+      "explanation": "Birleşmiş Milletler, günümüzde 193 üye ülkeden oluşan evrensel bir örgüttür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Kalkınma Programı (UNDP) tarafından hazırlanan ve ülkelerin gelişmişlik düzeyini eğitim, sağlık ve gelir göstergeleriyle ölçen endeks hangisidir?",
+      "options": {
+        "A": "İnsani Gelişme Endeksi",
+        "B": "Tüketici Fiyat Endeksi",
+        "C": "Reel Efektif Döviz Kuru Endeksi",
+        "D": "Küresel Rekabet Endeksi"
+      },
+      "correctOption": "A",
+      "explanation": "İnsani Gelişme Endeksi, UNDP tarafından eğitim, sağlık ve gelir göstergeleriyle hesaplanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (UNHCR) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1960",
+        "C": "1950",
+        "D": "1975"
+      },
+      "correctOption": "C",
+      "explanation": "UNHCR, 1950 yılında mültecilere yardım ve koruma amacıyla kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 1,
+      "text": "Birleşmiş Milletler Mülteciler Yüksek Komiserliğinin (UNHCR) temel görevi hangisidir?",
+      "options": {
+        "A": "Mültecileri korumak ve kalıcı çözümler sağlamak",
+        "B": "Çocuk haklarını korumak",
+        "C": "Acil gıda yardımı ulaştırmak",
+        "D": "Küresel sağlık hizmetleri sunmak"
+      },
+      "correctOption": "A",
+      "explanation": "UNHCR, mültecileri korumak ve onlara kalıcı çözümler sağlamak amacıyla çalışır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler üyesi ülkelerin 2015 yılında kabul ettiği Sürdürülebilir Kalkınma Amaçları toplam kaç hedeften oluşur?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "15",
+        "D": "17"
+      },
+      "correctOption": "D",
+      "explanation": "2030 Sürdürülebilir Kalkınma Amaçları toplam 17 hedeften oluşmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Uluslararası Kuruluşlar",
       "difficulty": 1,
       "text": "Birleşmiş Milletlerin (BM) merkezi hangi şehirdedir?",
@@ -28599,6 +30594,51 @@
       "correctOption": "A",
       "explanation": "Birleşmiş Milletlerin genel merkezi, ABD'nin New York şehrinde bulunmaktadır.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletlerin 1945 yılında San Francisco'da imzalanan kurucu belgesi hangisidir?",
+      "options": {
+        "A": "İnsan Hakları Evrensel Beyannamesi",
+        "B": "Birleşmiş Milletler Antlaşması (Şartı)",
+        "C": "Cenevre Sözleşmesi",
+        "D": "Paris İklim Anlaşması"
+      },
+      "correctOption": "B",
+      "explanation": "BM, 1945 yılında imzalanan Birleşmiş Milletler Antlaşması (Şartı) ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletlerin ana organlarından olup 1994 yılında görevini tamamlayarak fiilen faaliyetini sona erdiren organ hangisidir?",
+      "options": {
+        "A": "Genel Kurul",
+        "B": "Güvenlik Konseyi",
+        "C": "Ekonomik ve Sosyal Konsey",
+        "D": "Vesayet Konseyi"
+      },
+      "correctOption": "D",
+      "explanation": "Vesayet Konseyi, vesayet altındaki bölgelerin bağımsızlığa kavuşmasıyla 1994 yılında görevini tamamlamıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletlerin ekonomik ve sosyal konuları ele alan ana organı hangisidir?",
+      "options": {
+        "A": "Güvenlik Konseyi",
+        "B": "Genel Kurul",
+        "C": "Ekonomik ve Sosyal Konsey",
+        "D": "Vesayet Konseyi"
+      },
+      "correctOption": "C",
+      "explanation": "Ekonomik ve Sosyal Konsey (ECOSOC), BM'nin ekonomik ve sosyal kalkınma konularıyla ilgilenen ana organıdır.",
+      "source": "özgün"
     },
     {
       "categorySlug": "guncel",
@@ -28632,6 +30672,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletlerin yargı organı olan Uluslararası Adalet Divanı kaç yargıçtan oluşur?",
+      "options": {
+        "A": "9",
+        "B": "12",
+        "C": "15",
+        "D": "20"
+      },
+      "correctOption": "C",
+      "explanation": "Uluslararası Adalet Divanı, Genel Kurul ve Güvenlik Konseyi tarafından seçilen 15 yargıçtan oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "UNICEF",
       "difficulty": 1,
       "text": "Çocukların haklarının korunması ve refahının artırılması amacıyla çalışan Birleşmiş Milletler kuruluşu hangisidir?",
@@ -28647,6 +30702,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Denizcilikte güvenlik ve çevre koruma standartlarını belirleyen Uluslararası Denizcilik Örgütünün (IMO) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Hamburg",
+        "B": "Rotterdam",
+        "C": "Londra",
+        "D": "Cenevre"
+      },
+      "correctOption": "C",
+      "explanation": "Uluslararası Denizcilik Örgütünün merkezi İngiltere'nin başkenti Londra'dadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Çevre Kuruluşları",
       "difficulty": 2,
       "text": "Doğal yaşamı ve biyolojik çeşitliliği korumak amacıyla çalışan uluslararası kuruluş hangisidir?",
@@ -28658,6 +30728,66 @@
       },
       "correctOption": "D",
       "explanation": "WWF (Doğal Hayatı Koruma Vakfı), doğal yaşamın ve biyolojik çeşitliliğin korunması amacıyla çalışan uluslararası bir çevre kuruluşudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 1,
+      "text": "Doğal yaşamın korunması ve nesli tükenmekte olan türlerin muhafazası için çalışan Dünya Doğayı Koruma Vakfının (WWF) simgesi hangisidir?",
+      "options": {
+        "A": "Kutup ayısı",
+        "B": "Kaplan",
+        "C": "Kartal",
+        "D": "Panda"
+      },
+      "correctOption": "D",
+      "explanation": "Dünya Doğayı Koruma Vakfının (WWF) simgesi, nesli tehdit altındaki dev pandadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Dünya Bankası Grubu içinde yer alan ve gelişmekte olan ülkelere uzun vadeli kalkınma kredisi sağlayan temel kuruluş hangisidir?",
+      "options": {
+        "A": "Uluslararası Para Fonu",
+        "B": "Uluslararası İmar ve Kalkınma Bankası",
+        "C": "Dünya Ticaret Örgütü",
+        "D": "Avrupa Yatırım Bankası"
+      },
+      "correctOption": "B",
+      "explanation": "Dünya Bankası Grubunun temel kredi kuruluşu Uluslararası İmar ve Kalkınma Bankasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Dünya Ekonomik Forumu hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1950",
+        "B": "1971",
+        "C": "1985",
+        "D": "1999"
+      },
+      "correctOption": "B",
+      "explanation": "Dünya Ekonomik Forumu, Klaus Schwab öncülüğünde 1971 yılında kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 1,
+      "text": "Dünya Ekonomik Forumu'nun her yıl düzenlediği ve dünya liderlerini bir araya getiren toplantı hangi ülkede yapılır?",
+      "options": {
+        "A": "İsviçre",
+        "B": "Fransa",
+        "C": "Almanya",
+        "D": "Avusturya"
+      },
+      "correctOption": "A",
+      "explanation": "Dünya Ekonomik Forumu'nun yıllık toplantısı İsviçre'nin Davos kasabasında yapılır.",
       "source": "özgün"
     },
     {
@@ -28752,6 +30882,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Dünyanın ilk yapay uydusu olan Sputnik 1 hangi yıl uzaya fırlatılmıştır?",
+      "options": {
+        "A": "1949",
+        "B": "1957",
+        "C": "1961",
+        "D": "1969"
+      },
+      "correctOption": "B",
+      "explanation": "Sputnik 1, Sovyetler Birliği tarafından 1957 yılında uzaya fırlatılan ilk yapay uydudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "OECD",
       "difficulty": 3,
       "text": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD) hangi yıl kurulmuştur?",
@@ -28797,6 +30942,36 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Ekonomi ve Kalkınma",
+      "difficulty": 1,
+      "text": "Fiyatlar genel düzeyinin sürekli ve belirgin biçimde artması ve paranın satın alma gücünün düşmesi şeklindeki ekonomik olgu hangisidir?",
+      "options": {
+        "A": "Deflasyon",
+        "B": "Enflasyon",
+        "C": "Stagflasyon",
+        "D": "Devalüasyon"
+      },
+      "correctOption": "B",
+      "explanation": "Enflasyon, fiyatlar genel düzeyinin sürekli artışı ve paranın satın alma gücünün düşmesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 3,
+      "text": "Futbolda yılın en iyi oyuncusuna verilen Altın Top (Ballon d'Or) ödülü hangi yayın organı tarafından verilmektedir?",
+      "options": {
+        "A": "L'Équipe",
+        "B": "Kicker",
+        "C": "Marca",
+        "D": "France Football"
+      },
+      "correctOption": "D",
+      "explanation": "Altın Top (Ballon d'Or) ödülü, Fransız spor dergisi France Football tarafından verilmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "G20",
       "difficulty": 2,
       "text": "G20 hangi ülkeleri bir araya getiren uluslararası bir platformdur?",
@@ -28808,6 +30983,36 @@
       },
       "correctOption": "C",
       "explanation": "G20, dünyanın önde gelen gelişmiş ve gelişmekte olan ekonomilerini bir araya getirerek küresel ekonomik sorunları görüşen bir platformdur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "G20 hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1995",
+        "B": "2003",
+        "C": "1999",
+        "D": "2008"
+      },
+      "correctOption": "C",
+      "explanation": "G20, 1999 yılında küresel finansal istikrarı güçlendirmek amacıyla kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Gazetecilik, edebiyat ve müzik alanlarında verilen Pulitzer Ödülü hangi ülkeye özgüdür?",
+      "options": {
+        "A": "İngiltere",
+        "B": "Fransa",
+        "C": "Kanada",
+        "D": "ABD"
+      },
+      "correctOption": "D",
+      "explanation": "Pulitzer Ödülü, ABD'de gazetecilik ve sanat alanlarında verilen ulusal bir ödüldür.",
       "source": "özgün"
     },
     {
@@ -28857,6 +31062,111 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 1,
+      "text": "Grammy Ödülleri hangi alanda verilen uluslararası ödüllerdir?",
+      "options": {
+        "A": "Müzik",
+        "B": "Sinema",
+        "C": "Edebiyat",
+        "D": "Mimarlık"
+      },
+      "correctOption": "A",
+      "explanation": "Grammy Ödülleri, müzik alanında üstün başarı gösteren sanatçılara verilen ödüllerdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Güney Amerika ülkelerinin oluşturduğu ortak pazar MERCOSUR'un merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Buenos Aires",
+        "B": "Montevideo",
+        "C": "Brasília",
+        "D": "Santiago"
+      },
+      "correctOption": "B",
+      "explanation": "MERCOSUR'un merkezi, Uruguay'ın başkenti Montevideo'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Güneydoğu Asya Ülkeleri Birliği (ASEAN) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1967",
+        "C": "1975",
+        "D": "1991"
+      },
+      "correctOption": "B",
+      "explanation": "ASEAN, 1967 yılında Bangkok Bildirisi ile Endonezya, Malezya, Filipinler, Singapur ve Tayland tarafından kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Güneydoğu Asya Ülkeleri Birliğinin (ASEAN) sekretaryası hangi şehirde bulunur?",
+      "options": {
+        "A": "Bangkok",
+        "B": "Cakarta",
+        "C": "Manila",
+        "D": "Singapur"
+      },
+      "correctOption": "B",
+      "explanation": "ASEAN'ın sekretaryası Endonezya'nın başkenti Cakarta'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Haberleşme uydularının çoğunlukla yerleştirildiği, ekvator düzleminde bulunan ve Dünya'ya göre sabit görünen yörünge hangisidir?",
+      "options": {
+        "A": "Yer eş zamanlı (jeosenkron) yörünge",
+        "B": "Kutup yörüngesi",
+        "C": "Eliptik yörünge",
+        "D": "Atmosfer yörüngesi"
+      },
+      "correctOption": "A",
+      "explanation": "Jeosenkron yörünge ekvator düzlemindedir ve uydu Dünya'ya göre sabit görünür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 1 Aralık'ta HIV/AIDS ile mücadeleye dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya AIDS Günü",
+        "B": "Dünya Sağlık Günü",
+        "C": "Dünya Kanser Günü",
+        "D": "Dünya Aşı Günü"
+      },
+      "correctOption": "A",
+      "explanation": "1 Aralık, Dünya AIDS Günü olarak kutlanmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 1,
+      "text": "Her yıl 1 Mayıs'ta kutlanan ve işçilerin birlik ve dayanışmasını simgeleyen gün hangisidir?",
+      "options": {
+        "A": "Emek ve Dayanışma Günü",
+        "B": "Dünya Kadınlar Günü",
+        "C": "Dünya Çevre Günü",
+        "D": "İnsan Hakları Günü"
+      },
+      "correctOption": "A",
+      "explanation": "1 Mayıs, işçilerin birlik ve dayanışmasını simgeleyen Emek ve Dayanışma Günü olarak kutlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Uluslararası Günler",
       "difficulty": 2,
       "text": "Her yıl 10 Aralık'ta kutlanan ve temel hak ve özgürlüklere dikkat çeken gün hangisidir?",
@@ -28874,6 +31184,66 @@
       "categorySlug": "guncel",
       "topic": "Uluslararası Günler",
       "difficulty": 3,
+      "text": "Her yıl 16 Ekim'de açlıkla mücadeleye ve gıda güvenliğine dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya Gıda Günü",
+        "B": "Dünya Tarım Günü",
+        "C": "Dünya Çiftçiler Günü",
+        "D": "Dünya Su Günü"
+      },
+      "correctOption": "A",
+      "explanation": "16 Ekim, Birleşmiş Milletler Gıda ve Tarım Örgütünün kuruluş yıl dönümü olan Dünya Gıda Günü'dür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 20 Kasım'da çocuk haklarına ve çocukların refahına dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya Kadınlar Günü",
+        "B": "Dünya Öğretmenler Günü",
+        "C": "Dünya Çocuk Günü",
+        "D": "Dünya Gıda Günü"
+      },
+      "correctOption": "C",
+      "explanation": "20 Kasım, Birleşmiş Milletler tarafından Dünya Çocuk Günü olarak kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 21 Eylül'de kutlanan ve dünyada barışın önemine dikkat çeken uluslararası gün hangisidir?",
+      "options": {
+        "A": "Dünya Barış Günü",
+        "B": "Dünya İnsan Hakları Günü",
+        "C": "Uluslararası Demokrasi Günü",
+        "D": "Dünya Çevre Günü"
+      },
+      "correctOption": "A",
+      "explanation": "21 Eylül, Birleşmiş Milletler tarafından Dünya Barış Günü olarak belirlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 22 Nisan'da çevre bilincini artırmak amacıyla kutlanan uluslararası gün hangisidir?",
+      "options": {
+        "A": "Dünya Çevre Günü",
+        "B": "Dünya Günü",
+        "C": "Dünya Sağlık Günü",
+        "D": "Dünya Gıda Günü"
+      },
+      "correctOption": "B",
+      "explanation": "22 Nisan, çevre bilincini artırmak amacıyla Dünya Günü olarak kutlanmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 3,
       "text": "Her yıl 24 Ekim'de kutlanan gün aşağıdakilerden hangisidir?",
       "options": {
         "A": "NATO Günü",
@@ -28883,6 +31253,51 @@
       },
       "correctOption": "D",
       "explanation": "Birleşmiş Milletlerin 24 Ekim 1945'te kurulması nedeniyle her yıl 24 Ekim, Birleşmiş Milletler Günü olarak kutlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 3 Aralık'ta engelli bireylerin hak ve sorunlarına dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya İnsan Hakları Günü",
+        "B": "Dünya Çocuk Günü",
+        "C": "Dünya Engelliler Günü",
+        "D": "Dünya Kadınlar Günü"
+      },
+      "correctOption": "C",
+      "explanation": "3 Aralık, Birleşmiş Milletler tarafından Dünya Engelliler Günü olarak belirlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 3,
+      "text": "Her yıl 3 Mayıs'ta basın özgürlüğünün önemine dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya Gazeteciler Günü",
+        "B": "Dünya İletişim Günü",
+        "C": "Dünya Medya Günü",
+        "D": "Dünya Basın Özgürlüğü Günü"
+      },
+      "correctOption": "D",
+      "explanation": "3 Mayıs, Dünya Basın Özgürlüğü Günü olarak kutlanmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 5 Ekim'de kutlanan ve öğretmenlik mesleğinin önemine dikkat çeken uluslararası gün hangisidir?",
+      "options": {
+        "A": "Dünya Çocuk Günü",
+        "B": "Dünya Eğitim Günü",
+        "C": "Dünya Okuma Yazma Günü",
+        "D": "Dünya Öğretmenler Günü"
+      },
+      "correctOption": "D",
+      "explanation": "Dünya Öğretmenler Günü, UNESCO tarafından her yıl 5 Ekim'de kutlanır.",
       "source": "özgün"
     },
     {
@@ -28913,6 +31328,21 @@
       },
       "correctOption": "A",
       "explanation": "İlk modern olimpiyat oyunları 1896 yılında Yunanistan'ın başkenti Atina'da düzenlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "İngiliz Milletler Topluluğunun (Commonwealth) sekretaryasının bulunduğu şehir hangisidir?",
+      "options": {
+        "A": "Londra",
+        "B": "Ottawa",
+        "C": "Canberra",
+        "D": "Yeni Delhi"
+      },
+      "correctOption": "A",
+      "explanation": "İngiliz Milletler Topluluğunun sekretaryası Birleşik Krallık'ın başkenti Londra'da bulunmaktadır.",
       "source": "özgün"
     },
     {
@@ -28958,6 +31388,36 @@
       },
       "correctOption": "B",
       "explanation": "İslam İşbirliği Teşkilatının merkezi, Suudi Arabistan'da bulunan Cidde şehridir. Teşkilat, İslam ülkeleri arasında dayanışma ve işbirliğini geliştirmeyi amaçlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 1,
+      "text": "İstanbul Boğazı'nı raylı sistemle geçen ve Asya ile Avrupa yakasını birbirine bağlayan proje hangisidir?",
+      "options": {
+        "A": "Marmaray",
+        "B": "Avrasya Tüneli",
+        "C": "Yavuz Sultan Selim Köprüsü",
+        "D": "Osmangazi Köprüsü"
+      },
+      "correctOption": "A",
+      "explanation": "Marmaray, İstanbul Boğazı'nın altından geçen raylı sistem projesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 1,
+      "text": "İstanbul Boğazı'nın altından geçerek karayolu ulaşımına hizmet eden tünel hangisidir?",
+      "options": {
+        "A": "Marmaray",
+        "B": "Avrasya Tüneli",
+        "C": "Bolu Dağı Tüneli",
+        "D": "Zigana Tüneli"
+      },
+      "correctOption": "B",
+      "explanation": "Avrasya Tüneli, İstanbul Boğazı'nın altından geçen ve karayolu ulaşımına hizmet eden bir tüneldir.",
       "source": "özgün"
     },
     {
@@ -29052,6 +31512,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Kuzey Atlantik Antlaşması Örgütü (NATO) kurulduğunda kaç kurucu üyeye sahipti?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "15",
+        "D": "16"
+      },
+      "correctOption": "B",
+      "explanation": "NATO, 1949'da ABD, Kanada ve 10 Avrupa ülkesi olmak üzere toplam 12 kurucu üye ile kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "NATO",
       "difficulty": 3,
       "text": "Kuzey Atlantik Antlaşması Örgütünde (NATO) kararlar hangi ilke temelinde alınır?",
@@ -29097,6 +31572,51 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Matematik alanında üstün başarı gösteren bilim insanlarına verilen ve matematiğin en prestijli ödüllerinden sayılan uluslararası ödül hangisidir?",
+      "options": {
+        "A": "Turing Ödülü",
+        "B": "Fields Madalyası",
+        "C": "Pulitzer Ödülü",
+        "D": "Nobel Kimya Ödülü"
+      },
+      "correctOption": "B",
+      "explanation": "Fields Madalyası, matematik alanında verilen en prestijli ödüllerden biridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Merkezi Roma'da bulunan ve acil durumlarda gıda yardımı sağlayan Birleşmiş Milletler kuruluşu hangisidir?",
+      "options": {
+        "A": "UNICEF",
+        "B": "Dünya Gıda Programı",
+        "C": "UNESCO",
+        "D": "Birleşmiş Milletler Kalkınma Programı"
+      },
+      "correctOption": "B",
+      "explanation": "Dünya Gıda Programının (WFP) merkezi Roma'da olup açlıkla mücadele ve gıda yardımı yapar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "MİLGEM projesi kapsamında inşa edilen ilk yerli korvet hangisidir?",
+      "options": {
+        "A": "TCG Heybeliada",
+        "B": "TCG Anadolu",
+        "C": "TCG Büyükada",
+        "D": "TCG Barbaros"
+      },
+      "correctOption": "A",
+      "explanation": "MİLGEM projesinin ilk gemisi TCG Heybeliada'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Olimpiyatlar",
       "difficulty": 1,
       "text": "Modern olimpiyat oyunlarının fikir öncüsü ve kurucusu kimdir?",
@@ -29138,6 +31658,21 @@
       },
       "correctOption": "A",
       "explanation": "NATO'nun temel ilkesi kolektif savunmadır; ittifaka üye ülkelerden birine yapılan saldırı tümüne yapılmış sayılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "NATO'nun kurucu antlaşmasında, üyelerden birine yapılan silahlı saldırının tüm üyelere yapılmış sayılmasını öngören madde hangisidir?",
+      "options": {
+        "A": "1. Madde",
+        "B": "3. Madde",
+        "C": "5. Madde",
+        "D": "10. Madde"
+      },
+      "correctOption": "C",
+      "explanation": "NATO Antlaşması'nın 5. maddesi, bir üyeye yönelik silahlı saldırının tüm üyelere yapılmış sayılacağını ve ortak savunmayı öngörür.",
       "source": "özgün"
     },
     {
@@ -29292,6 +31827,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Osmangazi Köprüsü hangi körfez üzerinde yer alır?",
+      "options": {
+        "A": "Çandarlı Körfezi",
+        "B": "Gökova Körfezi",
+        "C": "Edremit Körfezi",
+        "D": "İzmit Körfezi"
+      },
+      "correctOption": "D",
+      "explanation": "Osmangazi Köprüsü, İzmit Körfezi üzerinde inşa edilmiş bir asma köprüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Uluslararası Sözleşmeler",
       "difficulty": 3,
       "text": "Ozon tabakasını incelten maddelerin kullanımını sınırlandıran Montreal Protokolü hangi yıl imzalanmıştır?",
@@ -29303,6 +31853,21 @@
       },
       "correctOption": "C",
       "explanation": "Montreal Protokolü, ozon tabakasını incelten maddelerin üretim ve kullanımının azaltılması amacıyla 1987 yılında imzalanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Petrol İhraç Eden Ülkeler Örgütü (OPEC) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1945",
+        "B": "1960",
+        "C": "1973",
+        "D": "1995"
+      },
+      "correctOption": "B",
+      "explanation": "OPEC, 1960 yılında Bağdat'ta yapılan konferansta kurulmuştur.",
       "source": "özgün"
     },
     {
@@ -29348,6 +31913,81 @@
       },
       "correctOption": "A",
       "explanation": "Cenevre Sözleşmeleri, savaş zamanında insani kuralları belirlemek üzere günümüzdeki biçimiyle 1949 yılında kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Savaş suçları ve soykırım gibi ağır suçları yargılayan Uluslararası Ceza Mahkemesinin merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Lahey",
+        "B": "Cenevre",
+        "C": "Viyana",
+        "D": "Brüksel"
+      },
+      "correctOption": "A",
+      "explanation": "Uluslararası Ceza Mahkemesi Hollanda'nın Lahey şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Sinema alanında verilen 'Altın Aslan' ödülü hangi film festivalinde dağıtılmaktadır?",
+      "options": {
+        "A": "Cannes Film Festivali",
+        "B": "Berlin Film Festivali",
+        "C": "Venedik Film Festivali",
+        "D": "Locarno Film Festivali"
+      },
+      "correctOption": "C",
+      "explanation": "Altın Aslan, İtalya'da düzenlenen Venedik Film Festivali'nin en büyük ödülüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Sinema alanında verilen 'Altın Ayı' ödülü hangi film festivalinde dağıtılmaktadır?",
+      "options": {
+        "A": "Cannes Film Festivali",
+        "B": "Venedik Film Festivali",
+        "C": "Berlin Film Festivali",
+        "D": "Sundance Film Festivali"
+      },
+      "correctOption": "C",
+      "explanation": "Altın Ayı, Almanya'da düzenlenen Berlin Film Festivali'nin en büyük ödülüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Sinema alanında verilen 'Altın Palmiye' ödülü hangi film festivalinde dağıtılmaktadır?",
+      "options": {
+        "A": "Berlin Film Festivali",
+        "B": "Venedik Film Festivali",
+        "C": "Sundance Film Festivali",
+        "D": "Cannes Film Festivali"
+      },
+      "correctOption": "D",
+      "explanation": "Altın Palmiye, Fransa'da düzenlenen Cannes Film Festivali'nin en büyük ödülüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 1,
+      "text": "Sinema alanında verilen ve halk arasında 'Oscar' olarak bilinen ödülün resmî adı hangisidir?",
+      "options": {
+        "A": "Altın Küre Ödülleri",
+        "B": "Akademi Ödülleri",
+        "C": "BAFTA Ödülleri",
+        "D": "Altın Ayı Ödülü"
+      },
+      "correctOption": "B",
+      "explanation": "Oscar olarak bilinen ödülün resmî adı Akademi Ödülleri'dir.",
       "source": "özgün"
     },
     {
@@ -29412,6 +32052,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türk Deniz Kuvvetlerinin en büyük gemisi olan ve amfibi harekât kabiliyeti bulunan gemi hangisidir?",
+      "options": {
+        "A": "TCG Heybeliada",
+        "B": "TCG Barbaros",
+        "C": "TCG Anadolu",
+        "D": "TCG Büyükada"
+      },
+      "correctOption": "C",
+      "explanation": "TCG Anadolu, Türk Deniz Kuvvetlerinin en büyük gemisi olup amfibi harekât ve insansız hava aracı üs görevi yapabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Türk Dünyası",
       "difficulty": 3,
       "text": "Türk Dili Konuşan Ülkeler İşbirliği Konseyi (Türk Konseyi), 2009 yılında hangi şehirde imzalanan anlaşmayla kurulmuştur?",
@@ -29423,6 +32078,21 @@
       },
       "correctOption": "A",
       "explanation": "Türk Konseyi, 3 Ekim 2009'da Nahçıvan'da imzalanan anlaşmayla kurulmuştur. Teşkilat, 2021'de İstanbul'da yapılan zirvede Türk Devletleri Teşkilatı adını almıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türk kadınlarına belediye seçimlerinde seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+      "options": {
+        "A": "1926",
+        "B": "1930",
+        "C": "1933",
+        "D": "1934"
+      },
+      "correctOption": "B",
+      "explanation": "Türk kadınlarına belediye seçimlerinde seçme ve seçilme hakkı 1930 yılında tanınmıştır.",
       "source": "özgün"
     },
     {
@@ -29472,6 +32142,51 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye Büyük Millet Meclisi döneminde kabul edilen ilk anayasa hangisidir?",
+      "options": {
+        "A": "Kânûn-i Esâsî",
+        "B": "1924 Anayasası",
+        "C": "Teşkilât-ı Esasiye Kanunu (1921)",
+        "D": "1961 Anayasası"
+      },
+      "correctOption": "C",
+      "explanation": "1921 Teşkilât-ı Esasiye Kanunu, TBMM döneminin ilk anayasasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyetinde ilk nüfus sayımı hangi yıl yapılmıştır?",
+      "options": {
+        "A": "1923",
+        "B": "1924",
+        "C": "1926",
+        "D": "1927"
+      },
+      "correctOption": "D",
+      "explanation": "Türkiye'de ilk nüfus sayımı 1927 yılında yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyetinin ilk kadın başbakanı kimdir?",
+      "options": {
+        "A": "Merve Kavakçı",
+        "B": "Nermin Neftçi",
+        "C": "Bahriye Üçok",
+        "D": "Tansu Çiller"
+      },
+      "correctOption": "D",
+      "explanation": "Tansu Çiller, 1993 yılında başbakan olarak Türkiye'nin ilk kadın başbakanı olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Türkiye ve Uluslararası Kuruluşlar",
       "difficulty": 1,
       "text": "Türkiye ile Avrupa Ekonomik Topluluğu arasında 1963 yılında imzalanan ortaklık anlaşması hangisidir?",
@@ -29483,6 +32198,21 @@
       },
       "correctOption": "B",
       "explanation": "Türkiye ile Avrupa Ekonomik Topluluğu arasındaki ortaklık ilişkisinin temeli, 1963 yılında imzalanan Ankara Anlaşması'yla atılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Türkiye Uzay Ajansı hangi bakanlığa bağlı olarak faaliyet gösterir?",
+      "options": {
+        "A": "Millî Eğitim Bakanlığı",
+        "B": "Millî Savunma Bakanlığı",
+        "C": "Sanayi ve Teknoloji Bakanlığı",
+        "D": "Ulaştırma ve Altyapı Bakanlığı"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye Uzay Ajansı, Sanayi ve Teknoloji Bakanlığına bağlı olarak kurulmuştur.",
       "source": "özgün"
     },
     {
@@ -29518,6 +32248,36 @@
     {
       "categorySlug": "guncel",
       "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de bankacılık ve finansal kuruluşların düzenlenmesi ve denetlenmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Sermaye Piyasası Kurulu",
+        "B": "Türkiye İstatistik Kurumu",
+        "C": "Bankacılık Düzenleme ve Denetleme Kurumu",
+        "D": "Sayıştay"
+      },
+      "correctOption": "C",
+      "explanation": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) bankacılık sistemini denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de baraj, sulama ve taşkın koruma gibi su kaynaklarının geliştirilmesine yönelik çalışmaları yürüten kurum hangisidir?",
+      "options": {
+        "A": "Maden Tetkik ve Arama Genel Müdürlüğü",
+        "B": "Devlet Su İşleri Genel Müdürlüğü",
+        "C": "Tarım ve Orman Bakanlığı",
+        "D": "İller Bankası"
+      },
+      "correctOption": "B",
+      "explanation": "Devlet Su İşleri Genel Müdürlüğü (DSİ), su kaynaklarının geliştirilmesi, baraj ve sulama projelerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
       "difficulty": 1,
       "text": "Türkiye'de bilimsel ve teknolojik araştırmaları desteklemek üzere kurulan kurum hangisidir?",
       "options": {
@@ -29528,6 +32288,51 @@
       },
       "correctOption": "D",
       "explanation": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK), bilimsel ve teknolojik araştırmaları desteklemek ve yürütmekle görevlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de demiryolu taşımacılığına ilişkin altyapıyı işleten ve yöneten kuruluş hangisidir?",
+      "options": {
+        "A": "DHMİ",
+        "B": "TCDD",
+        "C": "KGM",
+        "D": "İller Bankası"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye Cumhuriyeti Devlet Demiryolları (TCDD), demiryolu ulaşım ve altyapı hizmetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de din hizmetlerini yürütmek ve ibadet yerlerine ilişkin işleri düzenlemekle görevli kurum hangisidir?",
+      "options": {
+        "A": "Diyanet İşleri Başkanlığı",
+        "B": "Vakıflar Genel Müdürlüğü",
+        "C": "Yunus Emre Enstitüsü",
+        "D": "Kültür ve Turizm Bakanlığı"
+      },
+      "correctOption": "A",
+      "explanation": "Diyanet İşleri Başkanlığı, din hizmetlerini yürütmek ve ibadet yerlerine ilişkin işleri düzenlemekle görevlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de doğal gaz ve petrolün boru hatlarıyla taşınmasına yönelik projeleri yürüten kamu iktisadi teşebbüsü hangisidir?",
+      "options": {
+        "A": "TPAO",
+        "B": "EPDK",
+        "C": "MTA",
+        "D": "BOTAŞ"
+      },
+      "correctOption": "D",
+      "explanation": "Boru Hatları ile Petrol Taşıma A.Ş. (BOTAŞ), petrol ve doğal gazın taşınmasından sorumludur.",
       "source": "özgün"
     },
     {
@@ -29558,6 +32363,21 @@
       },
       "correctOption": "A",
       "explanation": "2023'te Türkiye elektrik üretiminde kömür (iç kömür + ithal kömür) yaklaşık %35 ile birinci; doğalgaz ~%23, hidro ~%20, rüzgar ~%11 payla yer almaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de elektrik, doğal gaz ve petrol piyasalarının düzenlenmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Enerji Piyasası Düzenleme Kurumu",
+        "B": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "C": "Türkiye Petrolleri Anonim Ortaklığı",
+        "D": "Boru Hatları ile Petrol Taşıma A.Ş."
+      },
+      "correctOption": "A",
+      "explanation": "Enerji Piyasası Düzenleme Kurumu (EPDK) enerji piyasalarını düzenler ve denetler.",
       "source": "özgün"
     },
     {
@@ -29608,6 +32428,36 @@
     {
       "categorySlug": "guncel",
       "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de hava durumu tahminleri ve meteorolojik gözlemleri yürüten kurum hangisidir?",
+      "options": {
+        "A": "Meteoroloji Genel Müdürlüğü",
+        "B": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "C": "Afet ve Acil Durum Yönetimi Başkanlığı",
+        "D": "Devlet Su İşleri Genel Müdürlüğü"
+      },
+      "correctOption": "A",
+      "explanation": "Meteoroloji Genel Müdürlüğü, hava tahminleri ve meteorolojik gözlem hizmetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de idarenin işleyişiyle ilgili şikâyetleri inceleyen ve kamu denetçiliği (ombudsmanlık) görevini yürüten kurum hangisidir?",
+      "options": {
+        "A": "Sayıştay",
+        "B": "Danıştay",
+        "C": "Kamu Denetçiliği Kurumu",
+        "D": "Yargıtay"
+      },
+      "correctOption": "C",
+      "explanation": "Kamu Denetçiliği Kurumu, idarenin işleyişiyle ilgili şikâyetleri inceleyen ombudsmanlık kurumudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
       "difficulty": 2,
       "text": "Türkiye'de idari yargının en üst mahkemesi hangisidir?",
       "options": {
@@ -29618,6 +32468,96 @@
       },
       "correctOption": "D",
       "explanation": "Danıştay, idari yargının en üst mahkemesidir. İdari işlem ve eylemlere karşı açılan davalara son derece olarak bakar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye'de ilk çok partili genel seçim hangi yıl yapılmıştır?",
+      "options": {
+        "A": "1946",
+        "B": "1950",
+        "C": "1923",
+        "D": "1961"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye'de ilk çok partili genel seçim 1946 yılında yapılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye'de ilk televizyon yayını hangi kuruluş tarafından başlatılmıştır?",
+      "options": {
+        "A": "TRT",
+        "B": "Anadolu Ajansı",
+        "C": "TÜBİTAK",
+        "D": "RTÜK"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye'de ilk televizyon yayını 1968 yılında TRT tarafından başlatılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 3,
+      "text": "Türkiye'de inşa edilen ilk demiryolu hattı hangi iki şehir arasında yer almıştır?",
+      "options": {
+        "A": "İstanbul-İzmit",
+        "B": "İzmir-Aydın",
+        "C": "Ankara-Kayseri",
+        "D": "Adana-Mersin"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin ilk demiryolu hattı, İzmir ile Aydın arasında inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de istihdamın artırılması ve iş arayanlara iş bulma konusunda hizmet veren kurum hangisidir?",
+      "options": {
+        "A": "SGK",
+        "B": "İŞKUR",
+        "C": "KOSGEB",
+        "D": "TÜİK"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye İş Kurumu (İŞKUR), istihdam hizmetleri ve işe yerleştirme faaliyetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 3,
+      "text": "Türkiye'de kadınlar ilk kez hangi yıl yapılan genel seçimlerde milletvekili olarak Türkiye Büyük Millet Meclisine girmiştir?",
+      "options": {
+        "A": "1923",
+        "B": "1930",
+        "C": "1934",
+        "D": "1935"
+      },
+      "correctOption": "D",
+      "explanation": "Kadınlara seçme ve seçilme hakkı 1934'te tanınmış, ilk kadın milletvekilleri 1935 seçimleriyle Meclise girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de kamu ihalelerinin düzenlenmesi ve denetlenmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Sayıştay",
+        "B": "Kamu İhale Kurumu",
+        "C": "Rekabet Kurumu",
+        "D": "Hazine ve Maliye Bakanlığı"
+      },
+      "correctOption": "B",
+      "explanation": "Kamu İhale Kurumu, 4734 sayılı Kanun çerçevesinde kamu ihalelerini düzenler ve denetler.",
       "source": "özgün"
     },
     {
@@ -29639,6 +32579,66 @@
       "categorySlug": "guncel",
       "topic": "Türkiye'nin Projeleri",
       "difficulty": 2,
+      "text": "Türkiye'de keşif ve gözetleme amacıyla geliştirilen ANKA insansız hava aracı hangi kuruluş tarafından üretilmiştir?",
+      "options": {
+        "A": "ASELSAN",
+        "B": "ROKETSAN",
+        "C": "TUSAŞ",
+        "D": "HAVELSAN"
+      },
+      "correctOption": "C",
+      "explanation": "ANKA insansız hava aracı TUSAŞ (Türk Havacılık ve Uzay Sanayii) tarafından geliştirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de kişisel verilerin işlenmesine ilişkin düzenlemeleri yürüten ve denetleyen kurum hangisidir?",
+      "options": {
+        "A": "Radyo ve Televizyon Üst Kurulu",
+        "B": "Kişisel Verileri Koruma Kurumu",
+        "C": "Millî İstihbarat Teşkilatı",
+        "D": "Türkiye İstatistik Kurumu"
+      },
+      "correctOption": "B",
+      "explanation": "Kişisel Verileri Koruma Kurumu (KVKK), kişisel verilerin korunmasını denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de küçük ve orta ölçekli işletmelerin (KOBİ) desteklenmesi ve geliştirilmesiyle görevli kamu kurumu hangisidir?",
+      "options": {
+        "A": "TÜBİTAK",
+        "B": "TİKA",
+        "C": "SPK",
+        "D": "KOSGEB"
+      },
+      "correctOption": "D",
+      "explanation": "KOSGEB, küçük ve orta ölçekli işletmeleri geliştirme ve destekleme görevini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de maden ve jeolojik kaynakların araştırılması amacıyla faaliyet gösteren kamu kurumu hangisidir?",
+      "options": {
+        "A": "TÜBİTAK",
+        "B": "Maden Tetkik ve Arama Genel Müdürlüğü",
+        "C": "Türk Standardları Enstitüsü",
+        "D": "Devlet Su İşleri Genel Müdürlüğü"
+      },
+      "correctOption": "B",
+      "explanation": "Maden Tetkik ve Arama Genel Müdürlüğü (MTA) maden ve jeolojik araştırmalar yapar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
       "text": "Türkiye'de millî imkânlarla savaş gemisi tasarlayıp üretmeyi amaçlayan projeye verilen ad aşağıdakilerden hangisidir?",
       "options": {
         "A": "KAAN",
@@ -29654,6 +32654,21 @@
       "categorySlug": "guncel",
       "topic": "Türkiye'nin Kurumları",
       "difficulty": 2,
+      "text": "Türkiye'de ormanların korunması, geliştirilmesi ve işletilmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "B": "Devlet Su İşleri Genel Müdürlüğü",
+        "C": "Maden Tetkik ve Arama Genel Müdürlüğü",
+        "D": "Orman Genel Müdürlüğü"
+      },
+      "correctOption": "D",
+      "explanation": "Orman Genel Müdürlüğü (OGM), ormanların korunması, geliştirilmesi ve işletilmesinden sorumludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
       "text": "Türkiye'de para politikasını belirlemekle görevli kurum hangisidir?",
       "options": {
         "A": "Türkiye Cumhuriyet Merkez Bankası",
@@ -29663,6 +32678,51 @@
       },
       "correctOption": "A",
       "explanation": "Türkiye Cumhuriyet Merkez Bankası, ülkenin para politikasını belirlemek ve uygulamakla görevlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de patent, marka ve endüstriyel tasarım gibi sınai mülkiyet haklarının korunmasından sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Türk Standardları Enstitüsü",
+        "B": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu",
+        "C": "Türk Patent ve Marka Kurumu",
+        "D": "Rekabet Kurumu"
+      },
+      "correctOption": "C",
+      "explanation": "Türk Patent ve Marka Kurumu, patent, marka ve endüstriyel tasarım haklarının tescil ve korunmasından sorumludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de piyasalarda rekabetin korunması ve tekelleşmenin önlenmesiyle görevli kurum hangisidir?",
+      "options": {
+        "A": "Rekabet Kurumu",
+        "B": "Sermaye Piyasası Kurulu",
+        "C": "Bankacılık Düzenleme ve Denetleme Kurumu",
+        "D": "Türkiye İstatistik Kurumu"
+      },
+      "correctOption": "A",
+      "explanation": "Rekabet Kurumu, 4054 sayılı Kanunla piyasalarda rekabeti korumakla görevlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de posta ve telgraf hizmetlerini yürüten kuruluş hangisidir?",
+      "options": {
+        "A": "Türkiye Radyo Televizyon Kurumu",
+        "B": "Türkiye İstatistik Kurumu",
+        "C": "Posta ve Telgraf Teşkilatı",
+        "D": "Türk Standartları Enstitüsü"
+      },
+      "correctOption": "C",
+      "explanation": "Posta ve Telgraf Teşkilatı (PTT), ülke genelinde posta ve telgraf hizmetlerini yürütür.",
       "source": "özgün"
     },
     {
@@ -29712,6 +32772,66 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de savunma sanayisi yatırımlarını ve projelerini planlayıp koordine eden kurum hangisidir?",
+      "options": {
+        "A": "Savunma Sanayii Başkanlığı",
+        "B": "ASELSAN",
+        "C": "TUSAŞ",
+        "D": "MİT"
+      },
+      "correctOption": "A",
+      "explanation": "Savunma Sanayii Başkanlığı (SSB), millî savunma sanayisi projelerini planlar ve yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de sermaye piyasalarını düzenlemek ve denetlemekle görevli kurum hangisidir?",
+      "options": {
+        "A": "Türkiye Cumhuriyet Merkez Bankası",
+        "B": "Sermaye Piyasası Kurulu",
+        "C": "Rekabet Kurumu",
+        "D": "Hazine ve Maliye Bakanlığı"
+      },
+      "correctOption": "B",
+      "explanation": "Sermaye Piyasası Kurulu (SPK) sermaye piyasalarını düzenler ve denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de sivil havacılık faaliyetlerini düzenlemek ve denetlemekle görevli kurum hangisidir?",
+      "options": {
+        "A": "Sivil Havacılık Genel Müdürlüğü",
+        "B": "Devlet Hava Meydanları İşletmesi",
+        "C": "Türkiye Petrolleri Anonim Ortaklığı",
+        "D": "Karayolları Genel Müdürlüğü"
+      },
+      "correctOption": "A",
+      "explanation": "Sivil Havacılık Genel Müdürlüğü (SHGM), sivil havacılık faaliyetlerini düzenler ve denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de sosyal sigorta hizmetlerini yürüten ve sosyal güvenliği sağlayan kurum hangisidir?",
+      "options": {
+        "A": "Sosyal Güvenlik Kurumu",
+        "B": "Türkiye İş Kurumu",
+        "C": "Türkiye İstatistik Kurumu",
+        "D": "Kamu İhale Kurumu"
+      },
+      "correctOption": "A",
+      "explanation": "Sosyal Güvenlik Kurumu (SGK), Türkiye'de sosyal sigorta ve sosyal güvenlik hizmetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Uydu ve Uzay",
       "difficulty": 3,
       "text": "Türkiye'de tasarlanıp üretilen ilk yerli yer gözlem uydusu aşağıdakilerden hangisidir?",
@@ -29738,6 +32858,21 @@
       },
       "correctOption": "B",
       "explanation": "Türkiye Uzay Ajansı, 2018 yılında kurulmuştur. Ajans, uzay ve havacılık alanındaki ulusal politikaların belirlenmesi ve yürütülmesinden sorumludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de yükseköğrenim öğrencilerine barınma ile öğrenim ve katkı kredisi desteği sağlayan kurum hangisidir?",
+      "options": {
+        "A": "YÖK",
+        "B": "MEB",
+        "C": "Kredi ve Yurtlar Kurumu",
+        "D": "TÜBİTAK"
+      },
+      "correctOption": "C",
+      "explanation": "Kredi ve Yurtlar Kurumu (KYK), öğrencilere yurt ve kredi hizmeti sunar.",
       "source": "özgün"
     },
     {
@@ -30089,6 +33224,21 @@
       "categorySlug": "guncel",
       "topic": "Türkiye'nin Projeleri",
       "difficulty": 2,
+      "text": "Türkiye'nin geliştirdiği Bayraktar TB2 insansız hava aracı hangi firma tarafından üretilmektedir?",
+      "options": {
+        "A": "TUSAŞ",
+        "B": "ASELSAN",
+        "C": "ROKETSAN",
+        "D": "Baykar"
+      },
+      "correctOption": "D",
+      "explanation": "Bayraktar TB2 insansız hava aracı Baykar tarafından geliştirilip üretilmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
       "text": "Türkiye'nin geliştirdiği ilk millî muharip (savaş) uçağa verilen ad aşağıdakilerden hangisidir?",
       "options": {
         "A": "HÜRJET",
@@ -30098,6 +33248,21 @@
       },
       "correctOption": "D",
       "explanation": "Millî Muharip Uçak projesinin ürünü olan KAAN, Türkiye'nin ilk millî muharip uçağıdır. HÜRKUŞ ve HÜRJET eğitim ve hafif taarruz uçakları, ATAK ise taarruz helikopteridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Türkiye'nin GÖKTÜRK-1 uydusu hangi amaçla kullanılmaktadır?",
+      "options": {
+        "A": "Haberleşme",
+        "B": "Meteorolojik gözlem",
+        "C": "Denizcilik seyri",
+        "D": "Keşif ve gözetleme"
+      },
+      "correctOption": "D",
+      "explanation": "GÖKTÜRK-1, Türk Silahlı Kuvvetlerinin keşif ve gözetleme ihtiyaçlarına yönelik bir uydudur.",
       "source": "özgün"
     },
     {
@@ -30132,6 +33297,81 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Türkiye'nin ilk haberleşme uydusu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "GÖKTÜRK-1",
+        "B": "RASAT",
+        "C": "Türksat 1B",
+        "D": "BİLSAT"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye'nin ilk haberleşme uydusu 1994 yılında fırlatılan Türksat 1B'dir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin ilk kadın avukatı kimdir?",
+      "options": {
+        "A": "Süreyya Ağaoğlu",
+        "B": "Türkan Akyol",
+        "C": "Bahriye Üçok",
+        "D": "Nermin Neftçi"
+      },
+      "correctOption": "A",
+      "explanation": "Süreyya Ağaoğlu, Türkiye'nin ilk kadın avukatı olarak bilinir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin ilk yerli otomobili Devrim hangi ilde üretilmiştir?",
+      "options": {
+        "A": "İstanbul",
+        "B": "Ankara",
+        "C": "Kocaeli",
+        "D": "Eskişehir"
+      },
+      "correctOption": "D",
+      "explanation": "Devrim otomobili 1961 yılında Eskişehir'deki TÜLOMSAŞ tesislerinde üretilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin ilk yerli tasarımı olan GÖKBEY hangi tür hava aracıdır?",
+      "options": {
+        "A": "İnsansız hava aracı",
+        "B": "Helikopter",
+        "C": "Savaş uçağı",
+        "D": "Eğitim uçağı"
+      },
+      "correctOption": "B",
+      "explanation": "GÖKBEY, TUSAŞ tarafından geliştirilen Türkiye'nin ilk yerli tasarım helikopteridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Türkiye'nin ilk yerli yer gözlem uydusu RASAT hangi kurum tarafından geliştirilmiştir?",
+      "options": {
+        "A": "TUSAŞ",
+        "B": "ASELSAN",
+        "C": "Türkiye Uzay Ajansı",
+        "D": "TÜBİTAK UZAY"
+      },
+      "correctOption": "D",
+      "explanation": "RASAT, TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü tarafından geliştirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Türkiye'nin Kurumları",
       "difficulty": 2,
       "text": "Türkiye'nin kamu yayıncısı olan ve yurt dışına yönelik yayınlar da yapan kuruluş hangisidir?",
@@ -30143,6 +33383,21 @@
       },
       "correctOption": "C",
       "explanation": "Türkiye Radyo Televizyon Kurumu (TRT), ülkenin kamu yayıncısıdır ve yurt dışına yönelik yayınlar da gerçekleştirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin Karadeniz'deki Sakarya Gaz Sahası'nda ilk doğal gaz keşfini gerçekleştiren sondaj gemisi hangisidir?",
+      "options": {
+        "A": "Oruç Reis",
+        "B": "Barbaros Hayreddin Paşa",
+        "C": "Fatih",
+        "D": "Piri Reis"
+      },
+      "correctOption": "C",
+      "explanation": "Fatih sondaj gemisi, 2020 yılında Karadeniz'deki Sakarya Gaz Sahası'nda Türkiye'nin ilk büyük doğal gaz keşfini gerçekleştirmiştir.",
       "source": "özgün"
     },
     {
@@ -30162,6 +33417,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin millî imkânlarla geliştirdiği ana muharebe tankına verilen ad hangisidir?",
+      "options": {
+        "A": "Altay",
+        "B": "Kaplan",
+        "C": "Pars",
+        "D": "Tulpar"
+      },
+      "correctOption": "A",
+      "explanation": "Altay, Türkiye'nin millî imkânlarla geliştirdiği ana muharebe tankı projesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Türkiye'nin Kurumları",
       "difficulty": 1,
       "text": "Türkiye'nin millî istihbarat kurumunun adı nedir?",
@@ -30173,6 +33443,21 @@
       },
       "correctOption": "B",
       "explanation": "Türkiye'nin millî istihbarat kurumu Millî İstihbarat Teşkilatıdır (MİT).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin özgün tasarımlı ilk millî muharip uçağı KAAN hangi kuruluş tarafından geliştirilmektedir?",
+      "options": {
+        "A": "ASELSAN",
+        "B": "TUSAŞ",
+        "C": "ROKETSAN",
+        "D": "HAVELSAN"
+      },
+      "correctOption": "B",
+      "explanation": "Millî Muharip Uçak KAAN, TUSAŞ (Türk Havacılık ve Uzay Sanayii) tarafından geliştirilmektedir.",
       "source": "özgün"
     },
     {
@@ -30222,6 +33507,36 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 3,
+      "text": "Türkiye'nin yerli imkânlarla inşa edilen ilk sismik araştırma gemisi hangisidir?",
+      "options": {
+        "A": "Oruç Reis",
+        "B": "Barbaros Hayreddin Paşa",
+        "C": "Piri Reis",
+        "D": "TCG Anadolu"
+      },
+      "correctOption": "A",
+      "explanation": "Oruç Reis, Türkiye'nin yerli olarak inşa edilen ilk sismik araştırma gemisidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin yerli ve millî elektrikli otomobili TOGG'un üretim tesisi hangi ilde bulunmaktadır?",
+      "options": {
+        "A": "Ankara",
+        "B": "İzmir",
+        "C": "Kocaeli",
+        "D": "Bursa"
+      },
+      "correctOption": "D",
+      "explanation": "TOGG fabrikası Bursa'nın Gemlik ilçesinde yer almaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Türkiye'nin İlkleri",
       "difficulty": 1,
       "text": "Türkiye'nin yerli ve millî elektrikli otomobilinin markası nedir?",
@@ -30233,6 +33548,21 @@
       },
       "correctOption": "C",
       "explanation": "Türkiye'nin yerli ve millî elektrikli otomobil girişimi TOGG adıyla bilinir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Türkiye'nin yerli ve millî imkânlarla üretilen ilk haberleşme uydusu hangisidir?",
+      "options": {
+        "A": "Türksat 1B",
+        "B": "Türksat 6A",
+        "C": "GÖKTÜRK-2",
+        "D": "RASAT"
+      },
+      "correctOption": "B",
+      "explanation": "Türksat 6A, Türkiye'nin yerli ve millî imkânlarla üretilen ilk haberleşme uydusudur.",
       "source": "özgün"
     },
     {
@@ -30314,6 +33644,51 @@
       "categorySlug": "guncel",
       "topic": "Uluslararası Kuruluşlar",
       "difficulty": 2,
+      "text": "Uluslararası Atom Enerjisi Ajansının (IAEA) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "Viyana",
+        "C": "Paris",
+        "D": "Roma"
+      },
+      "correctOption": "B",
+      "explanation": "Uluslararası Atom Enerjisi Ajansının merkezi Avusturya'nın başkenti Viyana'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Ceza Mahkemesini kuran Roma Statüsü hangi yıl kabul edilmiştir?",
+      "options": {
+        "A": "1948",
+        "B": "1966",
+        "C": "1998",
+        "D": "2005"
+      },
+      "correctOption": "C",
+      "explanation": "Uluslararası Ceza Mahkemesini kuran Roma Statüsü 1998'de kabul edilmiş, 2002'de yürürlüğe girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Çalışma Örgütü (ILO) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1919",
+        "B": "1929",
+        "C": "1945",
+        "D": "1948"
+      },
+      "correctOption": "A",
+      "explanation": "ILO, 1919 yılında Versay Antlaşması kapsamında kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
       "text": "Uluslararası Çalışma Örgütünün (ILO) merkezi hangi şehirdedir?",
       "options": {
         "A": "Brüksel",
@@ -30353,6 +33728,21 @@
       },
       "correctOption": "A",
       "explanation": "Uluslararası Kızılhaç Komitesinin merkezi İsviçre'nin Cenevre şehrindedir. Kuruluş savaş mağdurlarına insani yardım amacıyla çalışır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Uluslararası Olimpiyat Komitesi (IOC) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1894",
+        "B": "1904",
+        "C": "1912",
+        "D": "1920"
+      },
+      "correctOption": "A",
+      "explanation": "IOC, Pierre de Coubertin'in öncülüğünde 1894 yılında Paris'te kurulmuştur.",
       "source": "özgün"
     },
     {
@@ -30402,6 +33792,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Para Fonunun (IMF) en yüksek karar organı hangisidir?",
+      "options": {
+        "A": "Guvernörler Kurulu",
+        "B": "Güvenlik Konseyi",
+        "C": "Genel Direktörler Konseyi",
+        "D": "Yürütme Komitesi"
+      },
+      "correctOption": "A",
+      "explanation": "IMF'de her üye ülke bir guvernörle temsil edilir ve en yüksek karar organı Guvernörler Kuruludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Uluslararası Para Fonu",
       "difficulty": 2,
       "text": "Uluslararası Para Fonunun (IMF) öncelikli amacı aşağıdakilerden hangisidir?",
@@ -30413,6 +33818,36 @@
       },
       "correctOption": "C",
       "explanation": "IMF, ödemeler dengesi güçlüğü yaşayan ülkelere kısa vadeli finansal destek sağlar. Uzun vadeli kalkınma kredileri ise daha çok Dünya Bankasının alanıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Uluslararası polis teşkilatı olarak bilinen INTERPOL'ün merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Paris",
+        "B": "Brüksel",
+        "C": "Lyon",
+        "D": "Roma"
+      },
+      "correctOption": "C",
+      "explanation": "INTERPOL'ün genel merkezi Fransa'nın Lyon şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Telekomünikasyon Birliğinin (ITU) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "Bern",
+        "C": "Viyana",
+        "D": "Zürih"
+      },
+      "correctOption": "A",
+      "explanation": "Uluslararası Telekomünikasyon Birliğinin merkezi İsviçre'nin Cenevre şehrindedir.",
       "source": "özgün"
     },
     {
@@ -30432,6 +33867,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Uluslararası Uzay İstasyonu (ISS) hangi yörüngede bulunmaktadır?",
+      "options": {
+        "A": "Yer eş zamanlı yörünge",
+        "B": "Alçak Dünya yörüngesi",
+        "C": "Kutup yörüngesi",
+        "D": "Ay yörüngesi"
+      },
+      "correctOption": "B",
+      "explanation": "Uluslararası Uzay İstasyonu, Dünya yüzeyine görece yakın olan alçak Dünya yörüngesinde bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "UNESCO",
       "difficulty": 2,
       "text": "UNESCO Dünya Mirası Listesi'nde yer alan ve İstanbul'un tarihî yarımadasını kapsayan alan hangisidir?",
@@ -30443,6 +33893,36 @@
       },
       "correctOption": "C",
       "explanation": "İstanbul'un Tarihî Alanları, tarihî yarımadayı kapsayan ve UNESCO Dünya Mirası Listesi'nde yer alan bir alandır. Kapadokya, Efes ve Pamukkale ise listede ayrı alanlar olarak bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "UNESCO tarafından dil çeşitliliğine ve çok dilliliğe dikkat çekmek amacıyla her yıl 21 Şubat'ta kutlanan gün hangisidir?",
+      "options": {
+        "A": "Uluslararası Anadil Günü",
+        "B": "Dünya Kitap Günü",
+        "C": "Uluslararası Okuryazarlık Günü",
+        "D": "Dünya Çeviri Günü"
+      },
+      "correctOption": "A",
+      "explanation": "21 Şubat, UNESCO tarafından Uluslararası Anadil Günü olarak kabul edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "UNESCO tarafından her yıl 8 Eylül'de kutlanan ve okuma yazma becerisinin önemine dikkat çeken gün hangisidir?",
+      "options": {
+        "A": "Dünya Öğretmenler Günü",
+        "B": "Dünya Kitap Günü",
+        "C": "Dünya Okuma Yazma Günü",
+        "D": "Dünya Çocuk Günü"
+      },
+      "correctOption": "C",
+      "explanation": "Dünya Okuma Yazma Günü her yıl 8 Eylül'de kutlanmaktadır.",
       "source": "özgün"
     },
     {
@@ -30492,6 +33972,21 @@
     },
     {
       "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "UNICEF'in genel merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "Roma",
+        "C": "New York",
+        "D": "Paris"
+      },
+      "correctOption": "C",
+      "explanation": "UNICEF'in merkezi ABD'nin New York şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
       "topic": "Uluslararası Kuruluşlar",
       "difficulty": 2,
       "text": "UNICEF'in temel faaliyet alanı aşağıdakilerden hangisidir?",
@@ -30504,6 +33999,66 @@
       "correctOption": "A",
       "explanation": "UNICEF, çocukların haklarının korunması, sağlık, eğitim ve refahı için çalışan uluslararası bir kuruluştur.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Uzaya çıkan ilk insan kimdir?",
+      "options": {
+        "A": "Neil Armstrong",
+        "B": "Yuri Gagarin",
+        "C": "Alan Shepard",
+        "D": "John Glenn"
+      },
+      "correctOption": "B",
+      "explanation": "Sovyet kozmonot Yuri Gagarin, 1961 yılında uzaya çıkan ilk insandır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Uzaya çıkan ilk kadın kimdir?",
+      "options": {
+        "A": "Valentina Tereshkova",
+        "B": "Sally Ride",
+        "C": "Svetlana Savitskaya",
+        "D": "Mae Jemison"
+      },
+      "correctOption": "A",
+      "explanation": "Sovyet kozmonot Valentina Tereshkova, 1963 yılında uzaya çıkan ilk kadındır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 1,
+      "text": "Yavuz Sultan Selim Köprüsü hangi su yolunu geçmektedir?",
+      "options": {
+        "A": "İzmit Körfezi",
+        "B": "İstanbul Boğazı",
+        "C": "Çanakkale Boğazı",
+        "D": "Sakarya Nehri"
+      },
+      "correctOption": "B",
+      "explanation": "Yavuz Sultan Selim Köprüsü, İstanbul Boğazı'nın kuzeyinde inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Yer gözlem uydularının Dünya'yı kutup bölgeleri üzerinden geçerek görüntülediği yörünge türü hangisidir?",
+      "options": {
+        "A": "Yer eş zamanlı yörünge",
+        "B": "Kutup yörüngesi",
+        "C": "Eliptik yörünge",
+        "D": "Ay yörüngesi"
+      },
+      "correctOption": "B",
+      "explanation": "Kutup yörüngeli uydular Dünya'yı kutuplar üzerinden geçerek düşük irtifadan görüntüler.",
+      "source": "özgün"
     },
     {
       "categorySlug": "guncel",

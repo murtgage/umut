@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi Genel Kurulu toplantıları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Genel Kurul toplantıları kural olarak kapalıdır ve basın toplantıları izleyemez.",
+        "B": "Genel Kurul toplantılarının açık mı kapalı mı yapılacağına Cumhurbaşkanı karar verir.",
+        "C": "Genel Kurul toplantıları herkese açıktır; ancak Anayasa'da öngörülen hâllerde kapalı oturum yapılmasına karar verilebilir.",
+        "D": "Genel Kurul toplantıları yalnızca milletvekillerinin katılımına açıktır."
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 97. maddesine göre TBMM Genel Kurulu toplantıları herkese açıktır; ancak Anayasa'nın öngördüğü hâllerde kapalı oturum yapılmasına karar verilebilir ve kapalı oturumlardaki görüşmelerin yayımlanması Meclis kararına bağlıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisinin ara verme veya tatil sırasında toplantıya çağrılması ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yalnızca TBMM Başkanı tarafından toplantıya çağrılabilir.",
+        "B": "Cumhurbaşkanı tarafından toplantıya çağrılabilir.",
+        "C": "Anayasa Mahkemesi Başkanı tarafından toplantıya çağrılır.",
+        "D": "Ara verme veya tatil sırasında Meclis hiçbir şekilde toplanamaz."
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 93. maddesine göre Türkiye Büyük Millet Meclisi, ara verme veya tatil sırasında Cumhurbaşkanı tarafından toplantıya çağrılabilir; Meclis bu durumda kendiliğinden toplanmaz, çağrı üzerine toplanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre merkezî yönetim bütçe kanunu teklifini hazırlayarak Türkiye Büyük Millet Meclisine sunan makam aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi Başkanlık Divanı",
+        "B": "Sayıştay",
+        "C": "TBMM Plan ve Bütçe Komisyonu",
+        "D": "Cumhurbaşkanı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 161. maddesine göre merkezî yönetim bütçe kanunu teklifi Cumhurbaşkanı tarafından hazırlanır ve malî yılbaşından en az yetmiş beş gün önce Türkiye Büyük Millet Meclisine sunulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yasama",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre bir milletvekilinin yasama dokunulmazlığının kaldırılmasına ilişkin kararı aşağıdakilerden hangisi verir?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi Genel Kurulu",
+        "B": "Anayasa Mahkemesi",
+        "C": "Yargıtay Cumhuriyet Başsavcılığı",
+        "D": "TBMM Başkanlık Divanı"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 83. maddesi çerçevesinde yasama dokunulmazlığının kaldırılmasına ilişkin karar Türkiye Büyük Millet Meclisi Genel Kurulu tarafından verilir; Başkanlık Divanı yalnızca işlemleri hazırlar ve durumu Genel Kurulun bilgisine sunar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre mahkeme kararlarının şekli ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Mahkeme kararları yalnızca sözlü olarak açıklanır, yazılı gerekçe düzenlenmez.",
+        "B": "Gerekçe, yalnızca Yargıtay ve Danıştay kararlarında bulunur.",
+        "C": "Bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır.",
+        "D": "Gerekçe yazılıp yazılmayacağı hâkimin takdirine bırakılmıştır."
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 141. maddesinin son fıkrasına göre bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır; gerekçesiz karar verilmesi Anayasa'ya aykırılık oluşturur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre Anayasa Mahkemesine bireysel başvuru yapılabilmesi için ihlal edildiği ileri sürülen hakkın hangi nitelikte olması gerekir?",
+      "options": {
+        "A": "Yalnızca sosyal ve ekonomik haklardan biri olması",
+        "B": "Anayasa'da güvence altına alınmış ve Avrupa İnsan Hakları Sözleşmesi kapsamında bulunan bir hak olması",
+        "C": "Yalnızca siyasi haklardan biri olması",
+        "D": "Herhangi bir hukuki menfaatle ilgili olmasının yeterli olması"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 148. maddesine göre herkes, Anayasa'da güvence altına alınmış temel hak ve özgürlüklerinden, Avrupa İnsan Hakları Sözleşmesi kapsamındaki birinin kamu gücü tarafından ihlal edildiği iddiasıyla bireysel başvuruda bulunabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 2017 değişiklikleri sonrası hükümlerine göre Anayasa Mahkemesi on beş üyeden oluşur. Bu üyelerin kaçı Türkiye Büyük Millet Meclisi tarafından seçilir?",
+      "options": {
+        "A": "Üç",
+        "B": "İki",
+        "C": "Beş",
+        "D": "Yedi"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 146. maddesine göre Anayasa Mahkemesi on beş üyeden kurulur; üyelerin üçü Türkiye Büyük Millet Meclisi, on ikisi Cumhurbaşkanı tarafından seçilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yargı",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre mahkemelerin davalara bakma yükümlülüğü ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Mahkemeler, görev ve yetkileri dışında kalan davalara da bakmak zorundadır.",
+        "B": "Mahkemeler, talep üzerine görev alanlarındaki davaya bakmayı reddedebilir.",
+        "C": "Mahkemeler yalnızca Cumhurbaşkanının uygun gördüğü davalara bakar.",
+        "D": "Hiçbir mahkeme, görev ve yetkisi içindeki davaya bakmaktan kaçınamaz."
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 138. maddesinin son fıkrasına göre hiçbir mahkeme, görev ve yetkisi içindeki davaya bakmaktan kaçınamaz; bu kural adalete erişimin ve yargısal korumanın güvencesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre \"sürekli hastalık, sakatlık ve kocama\" sebebiyle belirli kişilerin cezalarını hafifletmek veya kaldırmak aşağıdakilerden hangisinin görev ve yetkileri arasındadır?",
+      "options": {
+        "A": "Türkiye Büyük Millet Meclisi",
+        "B": "Cumhurbaşkanı",
+        "C": "Adalet Bakanı",
+        "D": "Anayasa Mahkemesi"
+      },
+      "correctOption": "B",
+      "explanation": "Anayasa'nın 104. maddesine göre sürekli hastalık, sakatlık ve kocama sebebiyle kişilerin cezalarını hafifletmek veya kaldırmak Cumhurbaşkanının görev ve yetkileri arasındadır; genel ve özel af ilanı ise TBMM'ye aittir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 3,
+      "text": "1982 Anayasası'na göre bakanlıkların kurulması, kaldırılması, görevleri ve yetkileri, teşkilat yapısı ile merkez ve taşra teşkilatlarının kurulması nasıl düzenlenir?",
+      "options": {
+        "A": "Kanunla",
+        "B": "Yönetmelikle",
+        "C": "Cumhurbaşkanlığı kararnamesiyle",
+        "D": "TBMM kararıyla"
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 106. maddesinin son fıkrasına göre bakanlıkların kurulması, kaldırılması, görevleri ve yetkileri, teşkilat yapısı ile merkez ve taşra teşkilatlarının kurulması Cumhurbaşkanlığı kararnamesiyle düzenlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Yürütme",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre Anayasa'nın uygulanmasını, Devlet organlarının düzenli ve uyumlu çalışmasını gözetmek aşağıdakilerden hangisinin görevidir?",
+      "options": {
+        "A": "TBMM Başkanı",
+        "B": "Anayasa Mahkemesi Başkanı",
+        "C": "Millî Güvenlik Kurulu",
+        "D": "Cumhurbaşkanı"
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 104. maddesine göre Cumhurbaşkanı Devletin başıdır ve bu sıfatla Anayasa'nın uygulanmasını, Devlet organlarının düzenli ve uyumlu çalışmasını gözetir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 1,
+      "text": "1982 Anayasası'na göre \"Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür.\" hükmü aşağıdakilerden hangisiyle ilgilidir?",
+      "options": {
+        "A": "Türk vatandaşlığı",
+        "B": "Seçme ve seçilme hakkı",
+        "C": "Kamu hizmetlerine girme hakkı",
+        "D": "Vatan hizmeti"
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 66. maddesine göre Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür; Türk babanın veya Türk ananın çocuğu Türktür ve vatandaşlık ancak kanunda belirtilen esaslara göre kazanılır veya kaybedilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Temel Hak ve Ödevler",
+      "difficulty": 2,
+      "text": "1982 Anayasası'na göre vatan hizmeti ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Vatan hizmeti yalnızca erkeklere tanınmış bir ödevdir.",
+        "B": "Vatan hizmeti yalnızca Devlet memurlarını bağlar.",
+        "C": "Vatan hizmeti yalnızca yurt dışında yerine getirilebilir.",
+        "D": "Vatan hizmeti, her Türk'ün hakkı ve ödevidir; yerine getirilme şekli kanunla düzenlenir."
+      },
+      "correctOption": "D",
+      "explanation": "Anayasa'nın 72. maddesine göre vatan hizmeti, her Türk'ün hakkı ve ödevidir; bu hizmetin Silahlı Kuvvetlerde veya kamu kesiminde ne şekilde yerine getirileceği veya getirilmiş sayılacağı kanunla düzenlenir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 2,
+      "text": "1982 Anayasası'nın 12. maddesine göre temel hak ve hürriyetlerin niteliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Herkes, kişiliğine bağlı, dokunulmaz, devredilmez ve vazgeçilmez temel hak ve hürriyetlere sahiptir.",
+        "B": "Temel hak ve hürriyetler Devlet tarafından verilir ve gerektiğinde geri alınabilir.",
+        "C": "Temel hak ve hürriyetler yalnızca Türk vatandaşlarına tanınmıştır.",
+        "D": "Temel hak ve hürriyetler ancak kanunla devredilebilir."
+      },
+      "correctOption": "A",
+      "explanation": "Anayasa'nın 12. maddesine göre herkes, kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir; temel hak ve hürriyetler, kişinin topluma, ailesine ve diğer kişilere karşı ödev ve sorumluluklarını da içerir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "vatandaslik",
+      "topic": "Anayasa",
+      "difficulty": 3,
+      "text": "1982 Anayasası'nın 174. maddesine göre inkılâp kanunları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İnkılâp kanunları Anayasa değişikliğiyle her zaman kaldırılabilir.",
+        "B": "İnkılâp kanunları yalnızca tarihî belge niteliğinde olup hukuki değeri yoktur.",
+        "C": "Anayasa'da belirtilen inkılâp kanunlarının, Anayasa'nın halkoyu ile kabul edildiği tarihte yürürlükte bulunan hükümlerinin Anayasa'ya aykırı olduğu şeklinde anlaşılamaz ve yorumlanamaz.",
+        "D": "İnkılâp kanunları hakkında yalnızca Danıştay görüş bildirebilir."
+      },
+      "correctOption": "C",
+      "explanation": "Anayasa'nın 174. maddesi, Tevhid-i Tedrisat Kanunu ve Şapka İktisası Hakkında Kanun gibi inkılâp kanunlarının, Anayasa'nın halkoyu ile kabul edildiği tarihte yürürlükte bulunan hükümlerinin Anayasa'ya aykırı olduğu şeklinde anlaşılamayacağını ve yorumlanamayacağını belirtir.",
+      "source": "özgün"
+    }
+  ]
+}

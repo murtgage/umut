@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Uluslararası Atom Enerjisi Ajansının (IAEA) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "Viyana",
+        "C": "Paris",
+        "D": "Roma"
+      },
+      "correctOption": "B",
+      "explanation": "Uluslararası Atom Enerjisi Ajansının merkezi Avusturya'nın başkenti Viyana'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Uluslararası polis teşkilatı olarak bilinen INTERPOL'ün merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Paris",
+        "B": "Brüksel",
+        "C": "Lyon",
+        "D": "Roma"
+      },
+      "correctOption": "C",
+      "explanation": "INTERPOL'ün genel merkezi Fransa'nın Lyon şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Savaş suçları ve soykırım gibi ağır suçları yargılayan Uluslararası Ceza Mahkemesinin merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Lahey",
+        "B": "Cenevre",
+        "C": "Viyana",
+        "D": "Brüksel"
+      },
+      "correctOption": "A",
+      "explanation": "Uluslararası Ceza Mahkemesi Hollanda'nın Lahey şehrinde bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Güneydoğu Asya Ülkeleri Birliğinin (ASEAN) sekretaryası hangi şehirde bulunur?",
+      "options": {
+        "A": "Bangkok",
+        "B": "Cakarta",
+        "C": "Manila",
+        "D": "Singapur"
+      },
+      "correctOption": "B",
+      "explanation": "ASEAN'ın sekretaryası Endonezya'nın başkenti Cakarta'da bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Arap Devletleri Ligi'nin (Arap Birliği) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Riyad",
+        "B": "Amman",
+        "C": "Tunus",
+        "D": "Kahire"
+      },
+      "correctOption": "D",
+      "explanation": "Arap Birliğinin merkezi Mısır'ın başkenti Kahire'dedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Telekomünikasyon Birliğinin (ITU) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Cenevre",
+        "B": "Bern",
+        "C": "Viyana",
+        "D": "Zürih"
+      },
+      "correctOption": "A",
+      "explanation": "Uluslararası Telekomünikasyon Birliğinin merkezi İsviçre'nin Cenevre şehrindedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 3,
+      "text": "Uluslararası Çalışma Örgütü (ILO) hangi yıl kurulmuştur?",
+      "options": {
+        "A": "1919",
+        "B": "1929",
+        "C": "1945",
+        "D": "1948"
+      },
+      "correctOption": "A",
+      "explanation": "ILO, 1919 yılında Versay Antlaşması kapsamında kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Kuruluşlar",
+      "difficulty": 2,
+      "text": "Denizcilikte güvenlik ve çevre koruma standartlarını belirleyen Uluslararası Denizcilik Örgütünün (IMO) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Hamburg",
+        "B": "Rotterdam",
+        "C": "Londra",
+        "D": "Cenevre"
+      },
+      "correctOption": "C",
+      "explanation": "Uluslararası Denizcilik Örgütünün merkezi İngiltere'nin başkenti Londra'dadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de sosyal sigorta hizmetlerini yürüten ve sosyal güvenliği sağlayan kurum hangisidir?",
+      "options": {
+        "A": "Sosyal Güvenlik Kurumu",
+        "B": "Türkiye İş Kurumu",
+        "C": "Türkiye İstatistik Kurumu",
+        "D": "Kamu İhale Kurumu"
+      },
+      "correctOption": "A",
+      "explanation": "Sosyal Güvenlik Kurumu (SGK), Türkiye'de sosyal sigorta ve sosyal güvenlik hizmetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de kamu ihalelerinin düzenlenmesi ve denetlenmesinden sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Sayıştay",
+        "B": "Kamu İhale Kurumu",
+        "C": "Rekabet Kurumu",
+        "D": "Hazine ve Maliye Bakanlığı"
+      },
+      "correctOption": "B",
+      "explanation": "Kamu İhale Kurumu, 4734 sayılı Kanun çerçevesinde kamu ihalelerini düzenler ve denetler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 1,
+      "text": "Türkiye'de hava durumu tahminleri ve meteorolojik gözlemleri yürüten kurum hangisidir?",
+      "options": {
+        "A": "Meteoroloji Genel Müdürlüğü",
+        "B": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "C": "Afet ve Acil Durum Yönetimi Başkanlığı",
+        "D": "Devlet Su İşleri Genel Müdürlüğü"
+      },
+      "correctOption": "A",
+      "explanation": "Meteoroloji Genel Müdürlüğü, hava tahminleri ve meteorolojik gözlem hizmetlerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de patent, marka ve endüstriyel tasarım gibi sınai mülkiyet haklarının korunmasından sorumlu kurum hangisidir?",
+      "options": {
+        "A": "Türk Standardları Enstitüsü",
+        "B": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu",
+        "C": "Türk Patent ve Marka Kurumu",
+        "D": "Rekabet Kurumu"
+      },
+      "correctOption": "C",
+      "explanation": "Türk Patent ve Marka Kurumu, patent, marka ve endüstriyel tasarım haklarının tescil ve korunmasından sorumludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 2,
+      "text": "Türkiye'de baraj, sulama ve taşkın koruma gibi su kaynaklarının geliştirilmesine yönelik çalışmaları yürüten kurum hangisidir?",
+      "options": {
+        "A": "Maden Tetkik ve Arama Genel Müdürlüğü",
+        "B": "Devlet Su İşleri Genel Müdürlüğü",
+        "C": "Tarım ve Orman Bakanlığı",
+        "D": "İller Bankası"
+      },
+      "correctOption": "B",
+      "explanation": "Devlet Su İşleri Genel Müdürlüğü (DSİ), su kaynaklarının geliştirilmesi, baraj ve sulama projelerini yürütür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Kurumları",
+      "difficulty": 3,
+      "text": "Türkiye'de idarenin işleyişiyle ilgili şikâyetleri inceleyen ve kamu denetçiliği (ombudsmanlık) görevini yürüten kurum hangisidir?",
+      "options": {
+        "A": "Sayıştay",
+        "B": "Danıştay",
+        "C": "Kamu Denetçiliği Kurumu",
+        "D": "Yargıtay"
+      },
+      "correctOption": "C",
+      "explanation": "Kamu Denetçiliği Kurumu, idarenin işleyişiyle ilgili şikâyetleri inceleyen ombudsmanlık kurumudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletler Genel Sekreteri, Güvenlik Konseyinin tavsiyesi üzerine hangi organ tarafından atanır?",
+      "options": {
+        "A": "Güvenlik Konseyi",
+        "B": "Genel Kurul",
+        "C": "Ekonomik ve Sosyal Konsey",
+        "D": "Uluslararası Adalet Divanı"
+      },
+      "correctOption": "B",
+      "explanation": "BM Genel Sekreteri, Güvenlik Konseyinin tavsiyesi üzerine Genel Kurul tarafından atanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 3,
+      "text": "Birleşmiş Milletler Güvenlik Konseyi kararları, daimi üyelerin vetosu olmadığı sürece en az kaç üyenin olumlu oyuyla alınır?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "15",
+        "D": "9"
+      },
+      "correctOption": "D",
+      "explanation": "Güvenlik Konseyi 15 üyeden oluşur ve kararlar en az 9 üyenin olumlu oyuyla alınır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletlerin yargı organı olan Uluslararası Adalet Divanı kaç yargıçtan oluşur?",
+      "options": {
+        "A": "9",
+        "B": "12",
+        "C": "15",
+        "D": "20"
+      },
+      "correctOption": "C",
+      "explanation": "Uluslararası Adalet Divanı, Genel Kurul ve Güvenlik Konseyi tarafından seçilen 15 yargıçtan oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 1,
+      "text": "Birleşmiş Milletler Mülteciler Yüksek Komiserliğinin (UNHCR) temel görevi hangisidir?",
+      "options": {
+        "A": "Mültecileri korumak ve kalıcı çözümler sağlamak",
+        "B": "Çocuk haklarını korumak",
+        "C": "Acil gıda yardımı ulaştırmak",
+        "D": "Küresel sağlık hizmetleri sunmak"
+      },
+      "correctOption": "A",
+      "explanation": "UNHCR, mültecileri korumak ve onlara kalıcı çözümler sağlamak amacıyla çalışır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Birleşmiş Milletler",
+      "difficulty": 2,
+      "text": "Birleşmiş Milletler Genel Kurulunun olağan yıllık toplantıları hangi ayda başlar?",
+      "options": {
+        "A": "Mart",
+        "B": "Haziran",
+        "C": "Aralık",
+        "D": "Eylül"
+      },
+      "correctOption": "D",
+      "explanation": "BM Genel Kurulunun olağan yıllık toplantı dönemi her yıl Eylül ayında başlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin geliştirdiği Bayraktar TB2 insansız hava aracı hangi firma tarafından üretilmektedir?",
+      "options": {
+        "A": "TUSAŞ",
+        "B": "ASELSAN",
+        "C": "ROKETSAN",
+        "D": "Baykar"
+      },
+      "correctOption": "D",
+      "explanation": "Bayraktar TB2 insansız hava aracı Baykar tarafından geliştirilip üretilmektedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin ilk yerli tasarımı olan GÖKBEY hangi tür hava aracıdır?",
+      "options": {
+        "A": "İnsansız hava aracı",
+        "B": "Helikopter",
+        "C": "Savaş uçağı",
+        "D": "Eğitim uçağı"
+      },
+      "correctOption": "B",
+      "explanation": "GÖKBEY, TUSAŞ tarafından geliştirilen Türkiye'nin ilk yerli tasarım helikopteridir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 1,
+      "text": "İstanbul Boğazı'nı raylı sistemle geçen ve Asya ile Avrupa yakasını birbirine bağlayan proje hangisidir?",
+      "options": {
+        "A": "Marmaray",
+        "B": "Avrasya Tüneli",
+        "C": "Yavuz Sultan Selim Köprüsü",
+        "D": "Osmangazi Köprüsü"
+      },
+      "correctOption": "A",
+      "explanation": "Marmaray, İstanbul Boğazı'nın altından geçen raylı sistem projesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "1915 Çanakkale Köprüsü hangi su yolunu geçmektedir?",
+      "options": {
+        "A": "İstanbul Boğazı",
+        "B": "İzmit Körfezi",
+        "C": "Sakarya Nehri",
+        "D": "Çanakkale Boğazı"
+      },
+      "correctOption": "D",
+      "explanation": "1915 Çanakkale Köprüsü, Çanakkale Boğazı üzerinde inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin Projeleri",
+      "difficulty": 2,
+      "text": "Türk Deniz Kuvvetlerinin en büyük gemisi olan ve amfibi harekât kabiliyeti bulunan gemi hangisidir?",
+      "options": {
+        "A": "TCG Heybeliada",
+        "B": "TCG Barbaros",
+        "C": "TCG Anadolu",
+        "D": "TCG Büyükada"
+      },
+      "correctOption": "C",
+      "explanation": "TCG Anadolu, Türk Deniz Kuvvetlerinin en büyük gemisi olup amfibi harekât ve insansız hava aracı üs görevi yapabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Yer gözlem uydularının Dünya'yı kutup bölgeleri üzerinden geçerek görüntülediği yörünge türü hangisidir?",
+      "options": {
+        "A": "Yer eş zamanlı yörünge",
+        "B": "Kutup yörüngesi",
+        "C": "Eliptik yörünge",
+        "D": "Ay yörüngesi"
+      },
+      "correctOption": "B",
+      "explanation": "Kutup yörüngeli uydular Dünya'yı kutuplar üzerinden geçerek düşük irtifadan görüntüler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Avrupa Uzay Ajansının (ESA) merkezi hangi şehirdedir?",
+      "options": {
+        "A": "Brüksel",
+        "B": "Viyana",
+        "C": "Paris",
+        "D": "Zürih"
+      },
+      "correctOption": "C",
+      "explanation": "Avrupa Uzay Ajansının merkezi Fransa'nın başkenti Paris'tedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 2,
+      "text": "Dünyanın ilk yapay uydusu olan Sputnik 1 hangi yıl uzaya fırlatılmıştır?",
+      "options": {
+        "A": "1949",
+        "B": "1957",
+        "C": "1961",
+        "D": "1969"
+      },
+      "correctOption": "B",
+      "explanation": "Sputnik 1, Sovyetler Birliği tarafından 1957 yılında uzaya fırlatılan ilk yapay uydudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uydu ve Uzay",
+      "difficulty": 3,
+      "text": "Türkiye'nin GÖKTÜRK-1 uydusu hangi amaçla kullanılmaktadır?",
+      "options": {
+        "A": "Haberleşme",
+        "B": "Meteorolojik gözlem",
+        "C": "Denizcilik seyri",
+        "D": "Keşif ve gözetleme"
+      },
+      "correctOption": "D",
+      "explanation": "GÖKTÜRK-1, Türk Silahlı Kuvvetlerinin keşif ve gözetleme ihtiyaçlarına yönelik bir uydudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa'da kişilerin serbest dolaşımını sağlayan ve sınır kontrollerinin kaldırılmasını öngören Schengen Antlaşması hangi yıl imzalanmıştır?",
+      "options": {
+        "A": "1985",
+        "B": "1992",
+        "C": "1995",
+        "D": "1999"
+      },
+      "correctOption": "A",
+      "explanation": "Schengen Antlaşması 1985 yılında Lüksemburg'un Schengen kasabasında imzalanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 3,
+      "text": "Avrupa Birliğinin kurumsal yapısında reform öngören Lizbon Antlaşması hangi yıl imzalanmıştır?",
+      "options": {
+        "A": "1997",
+        "B": "2001",
+        "C": "2007",
+        "D": "2017"
+      },
+      "correctOption": "C",
+      "explanation": "Lizbon Antlaşması 2007 yılında imzalanmış, 2009'da yürürlüğe girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 1,
+      "text": "Avrupa Birliği bayrağında kaç yıldız bulunur?",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "25",
+        "D": "27"
+      },
+      "correctOption": "A",
+      "explanation": "Avrupa Birliği bayrağında, üye sayısından bağımsız olarak 12 yıldız bulunur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Avrupa Birliği",
+      "difficulty": 2,
+      "text": "Avrupa Birliğinin ortak para birimi Euro, banknot ve madeni para olarak hangi yıl tedavüle girmiştir?",
+      "options": {
+        "A": "1999",
+        "B": "2000",
+        "C": "2001",
+        "D": "2002"
+      },
+      "correctOption": "D",
+      "explanation": "Euro, 1 Ocak 2002 tarihinde banknot ve madeni para olarak fiziki biçimde tedavüle girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 22 Nisan'da çevre bilincini artırmak amacıyla kutlanan uluslararası gün hangisidir?",
+      "options": {
+        "A": "Dünya Çevre Günü",
+        "B": "Dünya Günü",
+        "C": "Dünya Sağlık Günü",
+        "D": "Dünya Gıda Günü"
+      },
+      "correctOption": "B",
+      "explanation": "22 Nisan, çevre bilincini artırmak amacıyla Dünya Günü olarak kutlanmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 2,
+      "text": "Her yıl 3 Aralık'ta engelli bireylerin hak ve sorunlarına dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya İnsan Hakları Günü",
+        "B": "Dünya Çocuk Günü",
+        "C": "Dünya Engelliler Günü",
+        "D": "Dünya Kadınlar Günü"
+      },
+      "correctOption": "C",
+      "explanation": "3 Aralık, Birleşmiş Milletler tarafından Dünya Engelliler Günü olarak belirlenmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Günler",
+      "difficulty": 3,
+      "text": "Her yıl 16 Ekim'de açlıkla mücadeleye ve gıda güvenliğine dikkat çekmek amacıyla kutlanan gün hangisidir?",
+      "options": {
+        "A": "Dünya Gıda Günü",
+        "B": "Dünya Tarım Günü",
+        "C": "Dünya Çiftçiler Günü",
+        "D": "Dünya Su Günü"
+      },
+      "correctOption": "A",
+      "explanation": "16 Ekim, Birleşmiş Milletler Gıda ve Tarım Örgütünün kuruluş yıl dönümü olan Dünya Gıda Günü'dür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Bilgisayar bilimi alanında üstün katkı sağlayanlara verilen ve bu alanın en prestijli ödülü sayılan ödül hangisidir?",
+      "options": {
+        "A": "Nobel Fizik Ödülü",
+        "B": "Turing Ödülü",
+        "C": "Fields Madalyası",
+        "D": "Pulitzer Ödülü"
+      },
+      "correctOption": "B",
+      "explanation": "Turing Ödülü, bilgisayar bilimi alanında verilen en prestijli uluslararası ödüldür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Sinema alanında verilen 'Altın Ayı' ödülü hangi film festivalinde dağıtılmaktadır?",
+      "options": {
+        "A": "Cannes Film Festivali",
+        "B": "Venedik Film Festivali",
+        "C": "Berlin Film Festivali",
+        "D": "Sundance Film Festivali"
+      },
+      "correctOption": "C",
+      "explanation": "Altın Ayı, Almanya'da düzenlenen Berlin Film Festivali'nin en büyük ödülüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Uluslararası Ödüller",
+      "difficulty": 2,
+      "text": "Gazetecilik, edebiyat ve müzik alanlarında verilen Pulitzer Ödülü hangi ülkeye özgüdür?",
+      "options": {
+        "A": "İngiltere",
+        "B": "Fransa",
+        "C": "Kanada",
+        "D": "ABD"
+      },
+      "correctOption": "D",
+      "explanation": "Pulitzer Ödülü, ABD'de gazetecilik ve sanat alanlarında verilen ulusal bir ödüldür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 3,
+      "text": "Türkiye'de kadınlar ilk kez hangi yıl yapılan genel seçimlerde milletvekili olarak Türkiye Büyük Millet Meclisine girmiştir?",
+      "options": {
+        "A": "1923",
+        "B": "1930",
+        "C": "1934",
+        "D": "1935"
+      },
+      "correctOption": "D",
+      "explanation": "Kadınlara seçme ve seçilme hakkı 1934'te tanınmış, ilk kadın milletvekilleri 1935 seçimleriyle Meclise girmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "guncel",
+      "topic": "Türkiye'nin İlkleri",
+      "difficulty": 2,
+      "text": "Türkiye Cumhuriyetinin ilk kadın başbakanı kimdir?",
+      "options": {
+        "A": "Merve Kavakçı",
+        "B": "Nermin Neftçi",
+        "C": "Bahriye Üçok",
+        "D": "Tansu Çiller"
+      },
+      "correctOption": "D",
+      "explanation": "Tansu Çiller, 1993 yılında başbakan olarak Türkiye'nin ilk kadın başbakanı olmuştur.",
+      "source": "özgün"
+    }
+  ]
+}

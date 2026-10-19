@@ -142,45 +142,60 @@ async function main() {
   }
 
   // --- Sorular ---
+  // Bulut PostgreSQL (Neon) üzerinde soru başına tek tek `findUnique` + `upsert`
+  // yapmak yerine mevcut kimlikleri bir kez okuyup upsert'leri `$transaction`
+  // partileri hâlinde gönderiyoruz: ağ turu sayısı ~2 × soru yerine ~soru/100.
   let created = 0;
   let updated = 0;
 
-  for (const question of data.questions) {
-    const categoryId = categoryIdBySlug.get(question.categorySlug);
-    if (!categoryId) {
-      throw new Error(`Kategori bulunamadı: ${question.categorySlug}`);
-    }
+  // Neon uzak bir veritabanı (us-east-1); tek transaction'da çok fazla upsert
+// göndermek Prisma'nın varsayılan 5 sn'lik transaction limitini aşıyor.
+const BATCH_SIZE = 40;
 
-    const id = questionId(question.categorySlug, question.text);
+  const existingRows = await prisma.question.findMany({ select: { id: true } });
+  const existingIds = new Set(existingRows.map((row) => row.id));
 
-    const values = {
-      categoryId,
-      text: question.text.trim(),
-      optionA: question.options.A.trim(),
-      optionB: question.options.B.trim(),
-      optionC: question.options.C.trim(),
-      optionD: question.options.D.trim(),
-      correctOption: question.correctOption,
-      explanation: question.explanation?.trim() ?? null,
-      difficulty: question.difficulty,
-      topic: question.topic?.trim() ?? null,
-      source: question.source?.trim() ?? null,
-      isActive: true,
-    };
+  for (let i = 0; i < data.questions.length; i += BATCH_SIZE) {
+    const chunk = data.questions.slice(i, i + BATCH_SIZE);
 
-    const existing = await prisma.question.findUnique({ where: { id }, select: { id: true } });
+    const batch = chunk.map((question) => {
+      const categoryId = categoryIdBySlug.get(question.categorySlug);
+      if (!categoryId) {
+        throw new Error(`Kategori bulunamadı: ${question.categorySlug}`);
+      }
 
-    await prisma.question.upsert({
-      where: { id },
-      create: { id, ...values },
-      update: values,
+      const id = questionId(question.categorySlug, question.text);
+
+      if (existingIds.has(id)) {
+        updated += 1;
+      } else {
+        created += 1;
+        existingIds.add(id);
+      }
+
+      const values = {
+        categoryId,
+        text: question.text.trim(),
+        optionA: question.options.A.trim(),
+        optionB: question.options.B.trim(),
+        optionC: question.options.C.trim(),
+        optionD: question.options.D.trim(),
+        correctOption: question.correctOption,
+        explanation: question.explanation?.trim() ?? null,
+        difficulty: question.difficulty,
+        topic: question.topic?.trim() ?? null,
+        source: question.source?.trim() ?? null,
+        isActive: true,
+      };
+
+      return prisma.question.upsert({
+        where: { id },
+        create: { id, ...values },
+        update: values,
+      });
     });
 
-    if (existing) {
-      updated += 1;
-    } else {
-      created += 1;
-    }
+    await prisma.$transaction(batch, { timeout: 60_000, maxWait: 15_000 });
   }
 
   // --- Budama: JSON tek doğruluk kaynağıdır ---
