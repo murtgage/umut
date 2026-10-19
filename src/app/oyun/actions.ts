@@ -44,12 +44,18 @@ const startSchema = z.object({
   categoryId: z.string().min(1).nullish(),
   /** EXAM modunda seçilen sınav bölümü (ör. "genel-yetenek"). */
   examType: z.string().min(1).max(60).nullish(),
+  /** Tur uzunluğu (5-30 arası; varsayılan sunucudaki QUESTIONS_PER_RUN). */
+  questionCount: z.number().int().min(5).max(30).nullish(),
+  /** 0 = karışık, 1 = kolay, 2 = orta, 3 = zor. */
+  difficulty: z.number().int().min(0).max(3).nullish(),
 });
 
 export async function startRunAction(input: {
   mode: string;
   categoryId?: string | null;
   examType?: string | null;
+  questionCount?: number | null;
+  difficulty?: number | null;
 }): Promise<ActionResult<{ runId: string }>> {
   try {
     const { session } = await requirePlayableSessionOrThrow();
@@ -57,6 +63,8 @@ export async function startRunAction(input: {
       mode: input.mode,
       categoryId: input.categoryId ?? null,
       examType: input.examType ?? null,
+      questionCount: input.questionCount ?? null,
+      difficulty: input.difficulty ?? null,
     });
 
     const { runId } = await startRun({
@@ -64,6 +72,8 @@ export async function startRunAction(input: {
       mode: parsed.mode,
       categoryId: parsed.categoryId ?? null,
       examType: parsed.examType ?? null,
+      questionCount: parsed.questionCount ?? undefined,
+      difficulty: parsed.difficulty ?? 0,
     });
 
     revalidatePath("/oyna");
@@ -133,16 +143,36 @@ export async function startRunFormAction(formData: FormData): Promise<void> {
       ? examTypeValue
       : null;
 
+  // Soru sayısı ve zorluk, form alanlarından (metin olarak) okunur.
+  const questionCountValue = formData.get("questionCount");
+  const questionCount =
+    typeof questionCountValue === "string" && questionCountValue.length > 0
+      ? Number(questionCountValue)
+      : null;
+  const difficultyValue = formData.get("difficulty");
+  const difficulty =
+    typeof difficultyValue === "string" && difficultyValue.length > 0
+      ? Number(difficultyValue)
+      : null;
+
   let runId: string;
 
   try {
     const { session } = await requirePlayableSessionOrThrow();
-    const parsed = startSchema.parse({ mode, categoryId: category, examType });
+    const parsed = startSchema.parse({
+      mode,
+      categoryId: category,
+      examType,
+      questionCount,
+      difficulty,
+    });
     const result = await startRun({
       userId: session.user.id,
       mode: parsed.mode,
       categoryId: parsed.categoryId ?? null,
       examType: parsed.examType ?? null,
+      questionCount: parsed.questionCount ?? undefined,
+      difficulty: parsed.difficulty ?? 0,
     });
     runId = result.runId;
   } catch (error) {

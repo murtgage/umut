@@ -23,6 +23,23 @@ export const OPTION_KEYS: OptionKey[] = ["A", "B", "C", "D"];
 /** Üye olmadan oynayan bir misafirin tamamlayabileceği tur sayısı. */
 export const GUEST_RUN_LIMIT = 5;
 
+/** Tur başlatırken seçilebilen soru sayıları. */
+export const QUESTION_COUNT_CHOICES = [10, 15, 20] as const;
+
+export interface DifficultyChoice {
+  /** 0 = karışık (filtre uygulanmaz), 1-3 = yalnızca o seviye. */
+  value: 0 | 1 | 2 | 3;
+  label: string;
+}
+
+/** Tur başlatırken seçilebilen zorluk seviyeleri. */
+export const DIFFICULTY_CHOICES: DifficultyChoice[] = [
+  { value: 0, label: "Karışık" },
+  { value: 1, label: "Kolay" },
+  { value: 2, label: "Orta" },
+  { value: 3, label: "Zor" },
+];
+
 /** Oyuncunun görebileceği soru biçimi — doğru cevap ASLA yer almaz. */
 export interface RunQuestion {
   position: number;

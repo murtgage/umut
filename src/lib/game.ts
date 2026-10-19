@@ -82,6 +82,8 @@ export interface StartRunInput {
   /** EXAM modunda seçilen sınav bölümü (ör. "genel-yetenek"). */
   examType?: string | null;
   questionCount?: number;
+  /** 0 = karışık (varsayılan), 1 = kolay, 2 = orta, 3 = zor. */
+  difficulty?: number | null;
 }
 
 export interface StartRunResult {
@@ -94,8 +96,11 @@ export async function startRun({
   categoryId,
   examType,
   questionCount = QUESTIONS_PER_RUN,
+  difficulty = 0,
 }: StartRunInput): Promise<StartRunResult> {
   const count = Math.max(1, Math.min(questionCount, 50));
+  // 0 = karışık (filtre yok); 1-3 = yalnızca o zorluk seviyesindeki sorular.
+  const difficultyFilter = Math.min(Math.max(Math.trunc(difficulty ?? 0), 0), 3);
 
   if (mode === "DUEL") {
     throw new GameError(
@@ -238,6 +243,7 @@ export async function startRun({
       isActive: true,
       ...(effectiveCategoryId ? { categoryId: effectiveCategoryId } : {}),
       ...(examCategoryIds ? { categoryId: { in: examCategoryIds } } : {}),
+      ...(difficultyFilter > 0 ? { difficulty: difficultyFilter } : {}),
     },
     select: { id: true },
   });

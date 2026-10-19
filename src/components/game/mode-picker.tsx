@@ -10,7 +10,12 @@ import { Button, buttonVariants } from "@/components/ui/button";
 import { EXAM_TYPES, examTypeBySlug } from "@/lib/exam-types";
 import { formatNumber } from "@/lib/format";
 import type { RunMode } from "@/lib/game-types";
-import { GUEST_RUN_LIMIT, MODE_INFO } from "@/lib/game-types";
+import {
+  DIFFICULTY_CHOICES,
+  GUEST_RUN_LIMIT,
+  MODE_INFO,
+  QUESTION_COUNT_CHOICES,
+} from "@/lib/game-types";
 import { cn } from "@/lib/utils";
 
 export interface CategoryOption {
@@ -45,6 +50,8 @@ export function ModePicker({
   const [busyKey, setBusyKey] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(initialError ?? null);
   const [examSlug, setExamSlug] = useState<string | null>(null);
+  const [questionCount, setQuestionCount] = useState<number>(QUESTIONS_PER_RUN);
+  const [difficulty, setDifficulty] = useState<number>(0);
 
   const guestBlocked = isGuest && guestRunsLeft !== null && guestRunsLeft <= 0;
 
@@ -95,6 +102,8 @@ export function ModePicker({
         mode,
         categoryId: options.categoryId ?? null,
         examType: options.examType ?? null,
+        questionCount,
+        difficulty,
       });
 
       if (!result.ok) {
@@ -217,8 +226,8 @@ export function ModePicker({
                 </p>
                 <p className="text-xs text-ink-muted">
                   {exam.categorySlugs.length === 0
-                    ? "Tüm derslerden rastgele 10 soru"
-                    : "Seçtiğin bölümün derslerinden rastgele 10 soru"}
+                    ? `Tüm derslerden rastgele ${questionCount} soru`
+                    : `Seçtiğin bölümün derslerinden rastgele ${questionCount} soru`}
                 </p>
               </div>
 
@@ -229,8 +238,57 @@ export function ModePicker({
                   launch("EXAM", { examType: exam.slug, key: "EXAM" })
                 }
               >
-                {examBusy ? "Hazırlanıyor…" : "Karma 10 soru ile başla"}
+                {examBusy ? "Hazırlanıyor…" : `Karma ${questionCount} soru ile başla`}
               </Button>
+            </div>
+
+            {/* Tur uzunluğu ve zorluk — tek satırda, gürültüsüz */}
+            <div className="flex flex-col gap-3 border-t border-line pt-4">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-xs font-medium tracking-wide text-ink-faint uppercase">
+                  Soru
+                </span>
+                {QUESTION_COUNT_CHOICES.map((option) => (
+                  <button
+                    key={option}
+                    type="button"
+                    aria-pressed={questionCount === option}
+                    disabled={pending || guestBlocked}
+                    onClick={() => setQuestionCount(option)}
+                    className={cn(
+                      "tnum rounded-lg border px-3 py-1 text-sm font-medium transition disabled:opacity-50",
+                      questionCount === option
+                        ? "border-brand/50 bg-brand/10 text-brand-soft"
+                        : "border-line bg-canvas/40 text-ink-muted hover:bg-elevated/60 hover:text-ink",
+                    )}
+                  >
+                    {option}
+                  </button>
+                ))}
+              </div>
+
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-xs font-medium tracking-wide text-ink-faint uppercase">
+                  Zorluk
+                </span>
+                {DIFFICULTY_CHOICES.map((option) => (
+                  <button
+                    key={option.value}
+                    type="button"
+                    aria-pressed={difficulty === option.value}
+                    disabled={pending || guestBlocked}
+                    onClick={() => setDifficulty(option.value)}
+                    className={cn(
+                      "rounded-lg border px-3 py-1 text-sm font-medium transition disabled:opacity-50",
+                      difficulty === option.value
+                        ? "border-brand/50 bg-brand/10 text-brand-soft"
+                        : "border-line bg-canvas/40 text-ink-muted hover:bg-elevated/60 hover:text-ink",
+                    )}
+                  >
+                    {option.label}
+                  </button>
+                ))}
+              </div>
             </div>
 
             {examCategories.length > 0 ? (
