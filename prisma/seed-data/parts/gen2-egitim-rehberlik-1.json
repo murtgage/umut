@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberliğin Tanımı ve Temel Özellikleri",
+      "difficulty": 1,
+      "text": "Bireyin kendini tanıması, çevresine uyum sağlaması ve kendini gerçekleştirmesi için sunulan sistemli yardım hizmetlerine ne ad verilir?",
+      "options": {
+        "A": "Öğretim",
+        "B": "Yönetim",
+        "C": "Denetim",
+        "D": "Rehberlik"
+      },
+      "correctOption": "D",
+      "explanation": "Rehberlik, bireyin kendini tanıyıp çevresine uyum sağlamasına yönelik sistemli yardımdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 2,
+      "text": "Rehberlikte bireyin sorununu kendi başına çözebilecek düzeye gelmesinin hedeflenmesi hangi ilkeyle ilgilidir?",
+      "options": {
+        "A": "Süreklilik",
+        "B": "Bireyin kendi kararını vermesine yardım",
+        "C": "Gizlilik",
+        "D": "Gönüllülük"
+      },
+      "correctOption": "B",
+      "explanation": "Rehberlik bireye hazır karar dayatmaz; karar verme becerisini kazandırmayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 2,
+      "text": "Rehberlik hizmetlerinin okulun bir parçası olarak tüm öğrencilere yönelik ve eğitim süreci içinde sunulması hangi ilkedir?",
+      "options": {
+        "A": "Süreklilik",
+        "B": "Gönüllülük",
+        "C": "Eğitimle bütünlük",
+        "D": "Gizlilik"
+      },
+      "correctOption": "C",
+      "explanation": "Rehberlik, eğitim sürecinin ayrılmaz bir parçasıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 1,
+      "text": "Öğrenci hakkında edinilen bilgilerin izinsiz paylaşılmaması hangi ilkenin gereğidir?",
+      "options": {
+        "A": "Gönüllülük",
+        "B": "Gizlilik (mahremiyet)",
+        "C": "Süreklilik",
+        "D": "Bireysel farklılıklara saygı"
+      },
+      "correctOption": "B",
+      "explanation": "Gizlilik, danışana ait bilgilerin korunmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 1,
+      "text": "Öğrencinin kendisi hakkındaki bilgileri paylaşma ve yardım alma konusunda özgür olması hangi ilkedir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "Gönüllülük",
+        "C": "Süreklilik",
+        "D": "Bütünlük"
+      },
+      "correctOption": "B",
+      "explanation": "Rehberlik gönüllülük esasına dayanır; birey katılmaya zorlanmaz."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 2,
+      "text": "Rehberlik hizmetlerinin yaşam boyu ve kesintisiz sürdürülmesi hangi ilkeyle açıklanır?",
+      "options": {
+        "A": "Gönüllülük",
+        "B": "Süreklilik",
+        "C": "Gizlilik",
+        "D": "Objektiflik"
+      },
+      "correctOption": "B",
+      "explanation": "Süreklilik ilkesine göre rehberlik belli bir döneme sığmaz, yaşam boyu sürer."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 1,
+      "text": "Rehberlikte bireyin değerli ve saygın bir varlık olarak kabul edilmesi hangi ilkenin gereğidir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "İnsana saygı",
+        "C": "Gönüllülük",
+        "D": "Ekonomiklik"
+      },
+      "correctOption": "B",
+      "explanation": "Rehberlik, insana saygı temelinde bireyi merkeze alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 1,
+      "text": "Öğrencinin eğitsel, mesleki ve kişisel-sosyal gelişiminin bir bütün olarak ele alınması hangi ilkedir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "Bütünlük",
+        "C": "Gönüllülük",
+        "D": "Zorunluluk"
+      },
+      "correctOption": "B",
+      "explanation": "Rehberlik, bireyi tüm yönleriyle bir bütün olarak ele alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Türleri",
+      "difficulty": 2,
+      "text": "Öğrencilerin ders seçimi, öğrenme yöntemleri ve üst öğrenime yönlendirilmesiyle ilgili rehberlik türü hangisidir?",
+      "options": {
+        "A": "Kişisel rehberlik",
+        "B": "Mesleki rehberlik",
+        "C": "Eğitsel rehberlik",
+        "D": "Grupla psikolojik danışma"
+      },
+      "correctOption": "C",
+      "explanation": "Eğitsel rehberlik, okulla ilgili karar ve uyum süreçlerini kapsar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Türleri",
+      "difficulty": 1,
+      "text": "Bireyin yetenek ve ilgilerine uygun bir mesleğe yönlendirilmesi hangi rehberlik türüyle ilgilidir?",
+      "options": {
+        "A": "Eğitsel rehberlik",
+        "B": "Kişisel-sosyal rehberlik",
+        "C": "Mesleki rehberlik",
+        "D": "Oryantasyon"
+      },
+      "correctOption": "C",
+      "explanation": "Mesleki rehberlik, meslek seçimi ve kariyer gelişimini kapsar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Türleri",
+      "difficulty": 2,
+      "text": "Öğrencinin arkadaşlık ilişkileri, öz güveni ve duygusal sorunlarıyla ilgili yardım alması hangi rehberlik alanına girer?",
+      "options": {
+        "A": "Eğitsel rehberlik",
+        "B": "Mesleki rehberlik",
+        "C": "Kişisel-sosyal rehberlik",
+        "D": "Akademik rehberlik"
+      },
+      "correctOption": "C",
+      "explanation": "Kişisel-sosyal rehberlik, bireyin duygusal ve sosyal uyumunu kapsar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberliğin Amaçları",
+      "difficulty": 2,
+      "text": "Rehberlik hizmetlerinin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrenciyi disipline etmek",
+        "B": "Öğrenciyi sınavlara hazırlamak",
+        "C": "Öğretmeni denetlemek",
+        "D": "Öğrencinin kendini gerçekleştirmesine yardımcı olmak"
+      },
+      "correctOption": "D",
+      "explanation": "Rehberliğin nihai amacı bireyin kendini gerçekleştirmesidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberliğin Amaçları",
+      "difficulty": 2,
+      "text": "Öğrencinin kendini tanıması için kendisine ilişkin bilgilerin ona iletilmesi hangi rehberlik amacına hizmet eder?",
+      "options": {
+        "A": "Müfredatı öğrenmesi",
+        "B": "Disiplin sağlaması",
+        "C": "Notlarını artırması",
+        "D": "Kendini tanıması"
+      },
+      "correctOption": "D",
+      "explanation": "Rehberlik, bireyin kendini tanımasını sağlayacak bilgiler sunar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlikte Etik",
+      "difficulty": 2,
+      "text": "Rehberlikte danışmanın kendi değerlerini danışana dayatmaması hangi etik ilkenin gereğidir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "Yetkinlik",
+        "C": "Danışanın özerkliğine saygı",
+        "D": "Ücretlendirme"
+      },
+      "correctOption": "C",
+      "explanation": "Danışman, danışanın kendi kararlarını verme hakkına saygı gösterir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlikte Etik",
+      "difficulty": 1,
+      "text": "Rehberlikte danışmanın yalnızca yeterli olduğu konularda hizmet sunması hangi etik ilkedir?",
+      "options": {
+        "A": "Gizlilik",
+        "B": "Gönüllülük",
+        "C": "Süreklilik",
+        "D": "Yetkinlik (yeterlik)"
+      },
+      "correctOption": "D",
+      "explanation": "Danışman, eğitim aldığı ve yeterli olduğu alanda hizmet vermelidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlikte Etik",
+      "difficulty": 3,
+      "text": "Danışanın kendine ya da başkalarına zarar verme riski olduğunda gizliliğin sınırlandırılması neyi gösterir?",
+      "options": {
+        "A": "Gizliliğin sınırsız olduğunu",
+        "B": "Gizliliğin yasal ve etik sınırlarının olduğunu",
+        "C": "Rehberliğin zorunlu olduğunu",
+        "D": "Danışmanın sorumluluk almadığını"
+      },
+      "correctOption": "B",
+      "explanation": "Yaşamsal tehlike durumunda gizlilik sınırlanabilir; bu, etik ve yasal bir gerekliliktir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 1,
+      "text": "Yeni gelen bir öğrencinin okula ve çevreye uyumunu kolaylaştırmak için yürütülen hizmet hangisidir?",
+      "options": {
+        "A": "Bilgi toplama",
+        "B": "Oryantasyon",
+        "C": "Konsültasyon",
+        "D": "İzleme"
+      },
+      "correctOption": "B",
+      "explanation": "Oryantasyon (alıştırma) hizmetleri okula ve çevreye uyumu kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 1,
+      "text": "Rehberlik hizmetlerinin planlanmasında öğrenciye ilişkin verilerin toplanıp dosyalanması hangi hizmettir?",
+      "options": {
+        "A": "Yöneltme",
+        "B": "İzleme",
+        "C": "Çevre-veli ilişkileri",
+        "D": "Bilgi toplama"
+      },
+      "correctOption": "D",
+      "explanation": "Bilgi toplama, öğrenciyi tanımaya yönelik verilerin toplandığı hizmettir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 3,
+      "text": "Öğrencinin ilgi ve yeteneklerine uygun bir eğitim programına ya da işe yönlendirilmesi hangi rehberlik hizmetidir?",
+      "options": {
+        "A": "Oryantasyon",
+        "B": "Bilgilendirme",
+        "C": "Yöneltme ve yerleştirme",
+        "D": "İzleme"
+      },
+      "correctOption": "C",
+      "explanation": "Yöneltme-yerleştirme, öğrenciyi uygun alana yönlendirmeyi kapsar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 1,
+      "text": "Öğrencinin rehberlik süreci sonrasındaki gelişiminin takip edilmesi hangi hizmettir?",
+      "options": {
+        "A": "Bilgi toplama",
+        "B": "Oryantasyon",
+        "C": "İzleme",
+        "D": "Konsültasyon"
+      },
+      "correctOption": "C",
+      "explanation": "İzleme, verilen kararların ve müdahalelerin sonuçlarının takibidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 1,
+      "text": "Rehberlikte anne-babaya ve öğretmenlere öğrenciyle ilgili bilgi ve öneri sunulması hangi hizmettir?",
+      "options": {
+        "A": "Oryantasyon",
+        "B": "İzleme",
+        "C": "Konsültasyon",
+        "D": "Psikolojik danışma"
+      },
+      "correctOption": "C",
+      "explanation": "Konsültasyon, okul personeli ve aileyle iş birliğini kapsayan danışma hizmetidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 3,
+      "text": "Okulun çevresindeki kaynakların öğrenci yararına harekete geçirilmesi ve okul-aile iş birliğinin sağlanması hangi rehberlik hizmetidir?",
+      "options": {
+        "A": "Bilgi toplama",
+        "B": "Çevre ve veli ilişkileri",
+        "C": "Oryantasyon",
+        "D": "İzleme"
+      },
+      "correctOption": "B",
+      "explanation": "Çevre ve veli ilişkileri, okul dışı kaynakların ve ailenin sürece katılmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 1,
+      "text": "Rehberliğin öğretimden farklı olarak öğrenciyi merkeze alan temel işlevi hangisidir?",
+      "options": {
+        "A": "Denetleme",
+        "B": "Öğretme",
+        "C": "Yardım etme",
+        "D": "Ölçme"
+      },
+      "correctOption": "C",
+      "explanation": "Rehberliğin özü, bireye yardım etmektir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberliğin Amaçları",
+      "difficulty": 3,
+      "text": "Bireyin kendini gerçekleştirmesi için önce temel ihtiyaçlarının karşılanması gerektiğini savunan ve rehberliğe temel oluşturan yaklaşım hangisidir?",
+      "options": {
+        "A": "Davranışçı yaklaşım",
+        "B": "Psikanaliz",
+        "C": "Gestalt yaklaşımı",
+        "D": "Maslow'un ihtiyaçlar hiyerarşisi"
+      },
+      "correctOption": "D",
+      "explanation": "Maslow'a göre üst düzey gelişim için alt düzey ihtiyaçların karşılanması gerekir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Modelleri",
+      "difficulty": 2,
+      "text": "Okul rehberlik programının tüm öğrencilere yönelik, gelişimsel ve önleyici olduğunu esas alan model hangisidir?",
+      "options": {
+        "A": "Kriz rehberliği",
+        "B": "Kapsamlı gelişimsel rehberlik modeli",
+        "C": "Klinik yaklaşım",
+        "D": "Tesadüfi rehberlik"
+      },
+      "correctOption": "B",
+      "explanation": "Kapsamlı gelişimsel model, tüm öğrencilere önleyici ve gelişimsel hizmet sunar."
+    }
+  ]
+}

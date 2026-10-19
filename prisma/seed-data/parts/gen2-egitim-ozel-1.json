@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Yetersizliği bulunan bir bireyin toplumsal yaşama katılımını kısıtlayan, çevresel ve tutumsal koşullardan kaynaklanan durum hangi kavramla ifade edilir?",
+      "options": { "A": "Engel", "B": "Zedelenme", "C": "Hastalık", "D": "Tanı" },
+      "correctOption": "A",
+      "explanation": "Engel, yetersizliği olan bireyin katılımını sınırlayan çevresel ve tutumsal koşulları ifade eder."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Bir bireyin eğitim gereksinimlerini karşılamak için akranlarından farklı destek ve düzenlemelere gereksinim duyması hangi kavramla ifade edilir?",
+      "options": { "A": "Zorunlu eğitim", "B": "Özel gereksinim", "C": "Yaygın eğitim", "D": "Kaynaştırma" },
+      "correctOption": "B",
+      "explanation": "Özel gereksinim, bireyin eğitiminde akranlarından farklı düzenleme ve desteğe gereksinim duymasıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Çevresel koşullar nedeniyle gelişim geriliği gösterme olasılığı yüksek olan ancak henüz tanı almamış bebek ve çocukları tanımlayan kavram hangisidir?",
+      "options": { "A": "Üstün yetenek", "B": "Normal gelişim", "C": "Risk grubu", "D": "Kaynaştırma" },
+      "correctOption": "C",
+      "explanation": "Risk grubu, olumsuz çevresel koşullar nedeniyle gelişim geriliği gösterme olasılığı yüksek çocukları ifade eder."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 3,
+      "text": "Bireyin yetersizliği nedeniyle toplum içinde beklenen rolleri yerine getirememesi hangi kavramla açıklanır?",
+      "options": { "A": "Tarama", "B": "Yerleştirme", "C": "Değerlendirme", "D": "Özür" },
+      "correctOption": "D",
+      "explanation": "Özür (handikap), yetersizliğin bireyin toplumsal rollerini yerine getirmesini güçleştirmesidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Bir bireyin özel eğitime gereksinim duyup duymadığı belirlenirken dikkate alınması gereken temel ölçüt hangisidir?",
+      "options": { "A": "Akranlarından anlamlı düzeyde farklılaşması ve özel düzenlenmiş eğitim gereksinimi", "B": "Okula geç başlamış olması", "C": "Kalabalık bir ailede yaşaması", "D": "Kırsal bir bölgede doğması" },
+      "correctOption": "A",
+      "explanation": "Ölçüt, bireyin akranlarından anlamlı farklılaşması ve özel düzenlenmiş eğitime gereksinim duymasıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Özel gereksinimli bireylerin ortak özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Her zaman ağır bir sağlık sorunu yaşamaları", "B": "Yalnızca ayrı okullarda eğitim görmeleri", "C": "Akranlarına sunulan eğitimden farklı düzenlemelere gereksinim duymaları", "D": "Hiçbir zaman akademik beceri öğrenememeleri" },
+      "correctOption": "C",
+      "explanation": "Ortak özellik, bu bireylerin akranlarına göre farklı ve bireyselleştirilmiş eğitim düzenlemelerine gereksinim duymasıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Temel Kavramlar",
+      "difficulty": 3,
+      "text": "Özel gereksinimli bireylere yönelik etiketleyici ifadelerin kullanılmamasının temel nedeni hangisidir?",
+      "options": { "A": "Süreyi kısaltmak", "B": "Bireyin damgalanmasını önleyip toplumsal kabulü artırmak", "C": "Maliyeti düşürmek", "D": "Rapor sayısını azaltmak" },
+      "correctOption": "B",
+      "explanation": "Etiketleyici dil bireyi damgalar ve toplumsal kabulünü zorlaştırır; bu nedenle kaçınılmalıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 3,
+      "text": "Özel gereksinimli bireyin günlük yaşam koşullarının akranlarının yaşam koşullarına benzetilmesini öngören ilke hangisidir?",
+      "options": { "A": "Ayrıştırma", "B": "Bakım", "C": "Katılık", "D": "Normalizasyon" },
+      "correctOption": "D",
+      "explanation": "Normalizasyon, özel gereksinimli bireyin yaşam koşullarının mümkün olduğunca normale yakınlaştırılmasını öngörür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitim hizmetlerinin bireyin yetersizliğine göre değil, eğitsel gereksinimlerine göre planlanması hangi anlayışı yansıtır?",
+      "options": { "A": "Tanı etiketini temel alma", "B": "Tek tip program uygulama", "C": "Bireyin gereksinimlerini temel alma", "D": "Öğretmen merkezli planlama" },
+      "correctOption": "C",
+      "explanation": "Özel eğitimde belirleyici olan tanı etiketi değil, bireyin güncel eğitsel gereksinimleridir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitimde kararların yalnızca öğretmen tarafından değil, ilgili tüm uzman ve kişilerle birlikte alınması hangi çalışma biçimini yansıtır?",
+      "options": { "A": "Bireysel karar verme", "B": "İşbirliğine dayalı ekip çalışması", "C": "Rekabet", "D": "Sıralı denetim" },
+      "correctOption": "B",
+      "explanation": "Özel eğitim, farklı uzman ve paydaşların katıldığı işbirliğine dayalı bir ekip çalışması gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 1,
+      "text": "Özel gereksinimli öğrencinin kendi bakımını yapabilmesi ve günlük yaşamda bağımsız davranabilmesi hangi amaç doğrultusundadır?",
+      "options": { "A": "Bağımsız yaşam becerileri kazandırma", "B": "Yalnızca sınav başarısını artırma", "C": "Okuldan erken ayrılmayı sağlama", "D": "Öğrenciyi sınıftan uzaklaştırma" },
+      "correctOption": "A",
+      "explanation": "Özel eğitim, bireye günlük yaşamda bağımsız hareket edebilme becerileri kazandırmayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Öğrencinin eğitim gereksinimlerinin düzenli aralıklarla yeniden değerlendirilip planın güncellenmesi hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Katılık", "B": "Değişmezlik", "C": "Süreklilik", "D": "Tek seferlik değerlendirme" },
+      "correctOption": "C",
+      "explanation": "Süreklilik ilkesi, hizmetlerin izlenmesini ve gereksinim değiştikçe güncellenmesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitimin öğrenciyi toplumsal yaşama ve ileride iş yaşamına hazırlamayı amaçlaması hangi kapsamda değerlendirilir?",
+      "options": { "A": "Yalnızca akademik başarı", "B": "Yalnızca sağlık hizmeti", "C": "Yalnızca aile eğitimi", "D": "Topluma uyum ve üretken yaşam hazırlığı" },
+      "correctOption": "D",
+      "explanation": "Özel eğitim yalnızca akademik becerilerle sınırlı kalmaz; topluma uyum ve üretken yaşamı da hedefler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Özel Eğitimin İlkeleri",
+      "difficulty": 2,
+      "text": "Özel eğitim hizmetlerinin bireyin yaşına ve gelişim düzeyine uygun biçimde planlanması hangi ilkeyle ifade edilir?",
+      "options": { "A": "Ayrıştırma", "B": "Bireysel farklılıklara uygunluk", "C": "Rekabet", "D": "Türdeş gruplama" },
+      "correctOption": "B",
+      "explanation": "Hizmetler, bireyin yaş ve gelişim özellikleri dikkate alınarak bireysel farklılıklara uygun planlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 1,
+      "text": "Özel eğitim sürecinde risk grubundaki çocukların kısa sürede ve geniş grupla incelendiği ilk basamak hangisidir?",
+      "options": { "A": "Tarama", "B": "Yerleştirme", "C": "BEP hazırlama", "D": "İzleme" },
+      "correctOption": "A",
+      "explanation": "Tarama, risk grubundaki çocukların geniş gruplar hâlinde ve kısa sürede incelendiği ilk basamaktır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Tanılama sonucunda öğrenci için en uygun eğitim ortamının belirlenip karara bağlanması hangi süreçtir?",
+      "options": { "A": "Tarama", "B": "İzleme", "C": "Yerleştirme", "D": "Tanı" },
+      "correctOption": "C",
+      "explanation": "Yerleştirme, öğrencinin gereksinimlerine en uygun eğitim ortamına yönlendirilmesidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Bir öğrencinin yetenek düzeyinin ölçülmesinde geçerliği ve güvenirliği kanıtlanmış standart araçların kullanılmasının amacı hangisidir?",
+      "options": { "A": "Süreyi uzatmak", "B": "Güvenilir ve geçerli karar vermek", "C": "Maliyeti artırmak", "D": "Öğrenciyi elemek" },
+      "correctOption": "B",
+      "explanation": "Standart araçlar, değerlendirmenin geçerliğini ve güvenirliğini artırarak sağlıklı karar verilmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Eğitsel değerlendirme sonucunda öğrencinin gereksinimini ve uygun eğitim ortamını gösteren belge hangisidir?",
+      "options": { "A": "Karne", "B": "Devam çizelgesi", "C": "Sınav kâğıdı", "D": "Eğitsel değerlendirme raporu" },
+      "correctOption": "D",
+      "explanation": "Eğitsel değerlendirme raporu, öğrencinin gereksinimini ve yerleştirileceği uygun ortamı belirtir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Tanılama ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Tanılama sürecinde öğrencinin farklı bağlamlarda ve farklı zamanlarda gözlenmesinin temel amacı hangisidir?",
+      "options": { "A": "Değerlendirmenin kapsayıcı ve tutarlı olmasını sağlamak", "B": "Öğrenciyi yormak", "C": "Süreyi uzatmak", "D": "Aileyi süreçten uzaklaştırmak" },
+      "correctOption": "A",
+      "explanation": "Farklı bağlam ve zamanlarda gözlem, değerlendirmenin daha kapsayıcı ve tutarlı olmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Hizmet Ortamları",
+      "difficulty": 1,
+      "text": "Özel gereksinimli öğrencinin, gereksinim duyduğu destek hizmetler sağlanarak genel eğitim sınıfında akranlarıyla eğitim görmesi hangi uygulamadır?",
+      "options": { "A": "Evde eğitim", "B": "Hastane sınıfı", "C": "Kaynaştırma", "D": "Özel eğitim okulu" },
+      "correctOption": "C",
+      "explanation": "Kaynaştırma, öğrencinin destek hizmetlerle birlikte genel eğitim sınıfında akranlarıyla eğitim almasıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Hizmet Ortamları",
+      "difficulty": 1,
+      "text": "Genel eğitim okulu bünyesinde bulunan, yalnızca özel gereksinimli öğrencilerden oluşan ve özel eğitim öğretmeninin görev yaptığı sınıf hangisidir?",
+      "options": { "A": "Destek eğitim odası", "B": "Özel eğitim sınıfı", "C": "Hastane sınıfı", "D": "Anasınıfı" },
+      "correctOption": "B",
+      "explanation": "Özel eğitim sınıfı, genel eğitim okulu içinde yalnızca özel gereksinimli öğrencilere ayrılmış sınıftır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Hizmet Ortamları",
+      "difficulty": 1,
+      "text": "Sağlık kuruluşunda uzun süreli tedavi gören öğrencilere hastane bünyesinde açılan eğitim ortamı hangisidir?",
+      "options": { "A": "Destek eğitim odası", "B": "Evde eğitim", "C": "Özel eğitim okulu", "D": "Hastane sınıfı" },
+      "correctOption": "D",
+      "explanation": "Hastane sınıfı, tedavi süresince hastanede bulunan öğrencilere eğitim hizmeti sunar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Hizmet Ortamları",
+      "difficulty": 1,
+      "text": "Sağlık sorunu nedeniyle okula devam edemeyen öğrenciye kendi evinde sunulan eğitim hizmeti hangisidir?",
+      "options": { "A": "Evde eğitim", "B": "Kaynaştırma", "C": "Hastane sınıfı", "D": "Özel eğitim sınıfı" },
+      "correctOption": "A",
+      "explanation": "Evde eğitim, okula devam edemeyecek durumdaki öğrenciye evinde verilen eğitim hizmetidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Hizmet Ortamları",
+      "difficulty": 3,
+      "text": "Öğrencinin genel eğitim sınıfında yarı zamanlı bulunup geri kalan zamanını özel eğitim sınıfında desteklenerek geçirmesi hangi uygulamadır?",
+      "options": { "A": "Evde eğitim", "B": "Tam zamanlı kaynaştırma", "C": "Yarı zamanlı kaynaştırma", "D": "Hastane eğitimi" },
+      "correctOption": "C",
+      "explanation": "Yarı zamanlı kaynaştırmada öğrenci, günün bir bölümünü genel eğitim sınıfında, kalanını özel eğitim ortamında geçirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Hizmet Ortamları",
+      "difficulty": 1,
+      "text": "Görme ya da işitme gibi belirli bir yetersizlik grubuna yönelik, yatılı da olabilen ayrı eğitim kurumları hangisidir?",
+      "options": { "A": "Destek eğitim odası", "B": "Özel eğitim okulu", "C": "Hastane sınıfı", "D": "Genel eğitim sınıfı" },
+      "correctOption": "B",
+      "explanation": "Özel eğitim okulları, belirli yetersizlik gruplarına yönelik ayrı ve gerektiğinde yatılı eğitim kurumlarıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 2,
+      "text": "Hafif düzeyde zihinsel yetersizliği olan öğrencinin eğitsel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Hiçbir akademik beceri öğrenememesi", "B": "Yalnızca ayrı okulda eğitim alabilmesi", "C": "Sürekli yatılı bakıma gereksinim duyması", "D": "Akademik becerileri yavaş öğrenip destekle genel eğitimden yararlanabilmesi" },
+      "correctOption": "D",
+      "explanation": "Hafif düzeydeki öğrenciler, uygun desteklerle genel eğitim programından önemli ölçüde yararlanabilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 3,
+      "text": "Zihinsel yetersizliği olan öğrencinin öğrendiği beceriyi farklı ortamlarda da kullanabilmesi için öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Beceriyi yalnızca bir kez öğretmesi", "B": "Yalnızca sözel anlatımla yetinmesi", "C": "Beceri öğretimini farklı ortam ve durumlarda genelleme çalışmalarıyla desteklemesi", "D": "Öğrenciden beklentiyi düşürmesi" },
+      "correctOption": "C",
+      "explanation": "Genelleme çalışmaları, öğrenilen becerinin farklı ortam ve koşullara aktarılmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 1,
+      "text": "Zihinsel yetersizliği olan öğrencilerde öz bakım becerilerinin öğretiminin temel gerekçesi hangisidir?",
+      "options": { "A": "Sınav puanını yükseltmesi", "B": "Bağımsız yaşamı kolaylaştırması", "C": "Ders süresini kısaltması", "D": "Öğretmen yükünü artırması" },
+      "correctOption": "B",
+      "explanation": "Öz bakım becerileri, öğrencinin günlük yaşamda bağımsız olmasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 2,
+      "text": "Zihinsel yetersizliği olan öğrencinin dikkat süresinin kısa olması dikkate alınarak öğretimde hangisi yapılmalıdır?",
+      "options": { "A": "Etkinliklerin çok uzun tutulması", "B": "Yalnızca uzun konferans verilmesi", "C": "Tüm gün aynı etkinliğin sürdürülmesi", "D": "Etkinliklerin kısa tutulup sık mola verilmesi" },
+      "correctOption": "D",
+      "explanation": "Kısa etkinlikler ve sık aralar, kısa dikkat süresine sahip öğrencinin katılımını artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Zihinsel Yetersizlik",
+      "difficulty": 3,
+      "text": "Zihinsel yetersizliği olan bir çocuğun tanılanmasında uyumsal davranışların da değerlendirilmesinin nedeni hangisidir?",
+      "options": { "A": "Zihinsel işlevlerin yanında günlük yaşam becerilerindeki sınırlılığın belirlenmesi", "B": "Yalnızca boy ve kilonun ölçülmesi", "C": "Ailenin gelirinin saptanması", "D": "Okulun fiziki durumunun incelenmesi" },
+      "correctOption": "A",
+      "explanation": "Tanı için zihinsel işlevlerdeki sınırlılığın yanı sıra uyumsal davranışlardaki sınırlılık da değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 3,
+      "text": "İşitme kaybının iletim, sensorinöral ve karma türlere ayrılması hangi ölçüte dayanır?",
+      "options": { "A": "Öğrencinin yaşına", "B": "Kaybın oluştuğu yer ve niteliğine", "C": "Ailenin eğitim düzeyine", "D": "Okulun türüne" },
+      "correctOption": "B",
+      "explanation": "Bu sınıflama, işitme kaybının kulakta hangi bölümde ve nasıl oluştuğuna göre yapılır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 2,
+      "text": "İşitme yetersizliği olan öğrencinin sınıfta öğretmeni rahatça görebileceği biçimde ön sıralara oturtulmasının temel nedeni hangisidir?",
+      "options": { "A": "Dudak ve yüz okuma gibi görsel ipuçlarından yararlanmasını sağlamak", "B": "Sınıfın boş kalmasını önlemek", "C": "Arkadaşlarıyla konuşmasını engellemek", "D": "Tahtayı silmesini kolaylaştırmak" },
+      "correctOption": "A",
+      "explanation": "Ön sırada oturma, öğrencinin dudak ve yüz okuma gibi görsel ipuçlarından yararlanmasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 1,
+      "text": "İşitme yetersizliği olan öğrencinin işaret dili kullanması hangi amaca hizmet eder?",
+      "options": { "A": "Ders süresini uzatmaya", "B": "Sözel dil yerine görsel bir iletişim sistemiyle anlaşmasını sağlamaya", "C": "Yazı yazmayı öğrenmesini engellemeye", "D": "Matematik becerisini azaltmaya" },
+      "correctOption": "B",
+      "explanation": "İşaret dili, işitme yetersizliği olan bireyin görsel bir sistemle iletişim kurmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 3,
+      "text": "İşitme yetersizliği olan öğrencinin değerlendirilmesinde yalnızca sözel testlerin kullanılmasının sakıncası hangisidir?",
+      "options": { "A": "Testin çok kısa sürmesi", "B": "Öğretmenin yorulması", "C": "Kâğıt tüketiminin artması", "D": "Sonucun öğrencinin dil becerisinden etkilenerek geçerliğinin düşmesi" },
+      "correctOption": "D",
+      "explanation": "Sözel testler, dil becerisindeki yetersizlik nedeniyle öğrencinin gerçek düzeyini yansıtmayabilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "İşitme Yetersizliği",
+      "difficulty": 2,
+      "text": "Doğuştan ileri derecede işitme kaybı olan bir çocukta erken müdahalenin önemi hangisidir?",
+      "options": { "A": "Okula başlamayı geciktirmesi", "B": "İşitme kaybını tamamen ortadan kaldırması", "C": "Dilin en hızlı geliştiği dönemde desteklenerek gecikmenin azaltılması", "D": "Aile katılımını gereksiz kılması" },
+      "correctOption": "C",
+      "explanation": "Erken müdahale, dil gelişiminin en hızlı olduğu dönemde destek sağlayarak gecikmeyi azaltır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 2,
+      "text": "Az gören bir öğrencinin ders materyallerinden yararlanabilmesi için en uygun düzenleme hangisidir?",
+      "options": { "A": "Materyalleri küçültüp soluklaştırmak", "B": "Büyük puntolu ve yüksek karşıtlıklı materyaller kullanmak", "C": "Yalnızca sözel anlatımla yetinmek", "D": "Materyali hiç kullanmamak" },
+      "correctOption": "B",
+      "explanation": "Büyük punto ve yüksek karşıtlık, az gören öğrencinin materyali algılamasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 2,
+      "text": "Görme yetersizliği olan öğrencinin eğitiminde dokunsal materyallerin kullanılması hangi amaca hizmet eder?",
+      "options": { "A": "Görsel bilgiyi dokunma yoluyla somutlaştırmaya", "B": "Ders süresini uzatmaya", "C": "Öğrenciyi pasif kılmaya", "D": "Maliyeti düşürmeye" },
+      "correctOption": "A",
+      "explanation": "Dokunsal materyaller, göremeyen öğrencinin bilgiyi dokunarak somut biçimde edinmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 2,
+      "text": "Görme yetersizliği olan öğrencinin sınıfta eşyaların yerini güvenle bulabilmesi için öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Eşyaların yerini her gün değiştirmesi", "B": "Sınıfı sürekli kalabalık tutması", "C": "Sınıf düzenini sabit tutup değişiklikleri önceden bildirmesi", "D": "Yolları eşyalarla kapatması" },
+      "correctOption": "C",
+      "explanation": "Sabit sınıf düzeni ve önceden yapılan bilgilendirme, öğrencinin bağımsız ve güvenli hareket etmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 3,
+      "text": "Görme yetersizliği olan öğrencinin grafik ve şemalarla çalışabilmesi için kullanılabilecek destek hangisidir?",
+      "options": { "A": "Yalnızca renkli poster vermek", "B": "Grafikleri küçültmek", "C": "Şemayı yalnızca sözlü okumak", "D": "Kabartma ya da dokunsal biçimde hazırlanmış grafikler sunmak" },
+      "correctOption": "D",
+      "explanation": "Kabartma ve dokunsal grafikler, görsel içeriğin dokunma yoluyla anlaşılmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Görme Yetersizliği",
+      "difficulty": 1,
+      "text": "Az gören bir öğrencinin ders çalışırken doğal ya da ayarlanabilir ışıktan yararlanmasının sağladığı yarar hangisidir?",
+      "options": { "A": "İşitme duyusunu keskinleştirmesi", "B": "Göz yorgunluğunu azaltıp görme düzeyini artırması", "C": "Ders süresini kısaltması", "D": "Öğrenciyi uykulu yapması" },
+      "correctOption": "B",
+      "explanation": "Uygun ışık, az gören öğrencide göz yorgunluğunu azaltır ve görsel algıyı güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ortopedik Yetersizlik ve Süreğen Hastalık",
+      "difficulty": 1,
+      "text": "Ortopedik yetersizliği olan öğrencinin dersliklere erişimini kolaylaştırmak için yapılması gereken hangisidir?",
+      "options": { "A": "Mimari engellerin kaldırılıp uygun araç-gereç sağlanması", "B": "Öğrencinin derslere alınmaması", "C": "Sınıfların üst katlara taşınması", "D": "Koridorların daraltılması" },
+      "correctOption": "A",
+      "explanation": "Mimari düzenlemeler ve uygun araç-gereç, ortopedik yetersizliği olan öğrencinin okula erişimini kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ortopedik Yetersizlik ve Süreğen Hastalık",
+      "difficulty": 1,
+      "text": "Süreğen hastalığı olan öğrencinin sağlık durumu göz önüne alınarak beden eğitimi dersinde yapılması gereken hangisidir?",
+      "options": { "A": "Öğrencinin dersten tamamen çıkarılması", "B": "Tüm etkinliklere zorlanması", "C": "Etkinliklerin öğrencinin sağlık durumuna göre uyarlanması", "D": "Dersin iptal edilmesi" },
+      "correctOption": "C",
+      "explanation": "Etkinlikler, öğrencinin sağlık durumuna uygun biçimde uyarlanarak derse katılımı sağlanır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ortopedik Yetersizlik ve Süreğen Hastalık",
+      "difficulty": 2,
+      "text": "Ortopedik yetersizliği olan öğrencinin hareket ve öz bakım gereksinimlerinde yardımcı araçların kullanılması hangi amaca hizmet eder?",
+      "options": { "A": "Öğretmen yükünü artırmaya", "B": "Ders sayısını azaltmaya", "C": "Okul maliyetini düşürmeye", "D": "Öğrencinin bağımsızlığını artırmaya" },
+      "correctOption": "D",
+      "explanation": "Yardımcı araçlar, öğrencinin günlük yaşamda daha bağımsız hareket etmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Ortopedik Yetersizlik ve Süreğen Hastalık",
+      "difficulty": 2,
+      "text": "Diyabet gibi süreğen hastalığı olan bir öğrenci için öğretmenin okul içinde alması gereken temel önlem hangisidir?",
+      "options": { "A": "Öğrenciyi etkinliklerden dışlaması", "B": "Acil durumlara ilişkin bilgilenip okul yönetimi ve aileyle işbirliği kurması", "C": "Hastalığı sınıfta alay konusu yapması", "D": "Öğrencinin ilaç kullanımını yasaklaması" },
+      "correctOption": "B",
+      "explanation": "Öğretmen, olası acil durumlar için bilgilenmeli ve okul yönetimi ve aileyle işbirliği kurmalıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 1,
+      "text": "Konuşma seslerinin yerine başka sesler konması, atlanması ya da eklenmesi biçiminde görülen bozukluk hangisidir?",
+      "options": { "A": "Ses bozukluğu", "B": "Kekemelik", "C": "Artikülasyon bozukluğu", "D": "Dizartri" },
+      "correctOption": "C",
+      "explanation": "Artikülasyon bozukluğu, konuşma seslerinin doğru üretilememesiyle kendini gösterir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 1,
+      "text": "Kekemelik yaşayan bir öğrenciye öğretmenin yaklaşımı nasıl olmalıdır?",
+      "options": { "A": "Konuşmasını sabırla dinleyip sözcükleri tamamlamaya çalışmadan beklemesi", "B": "Sözünü sürekli kesmesi", "C": "Konuşmasını yasaklaması", "D": "Sınıf önünde sürekli düzeltmesi" },
+      "correctOption": "A",
+      "explanation": "Sabırla dinlemek ve sözü tamamlamaya çalışmamak, kekemelik yaşayan öğrencinin kaygısını azaltır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 3,
+      "text": "Dil bozuklukları ile konuşma bozuklukları arasındaki temel fark hangisidir?",
+      "options": { "A": "Dil bozukluğunun yalnızca yetişkinlerde görülmesi", "B": "Konuşma bozukluğunun kalıcı olması", "C": "Dil bozukluğunun tedavi edilememesi", "D": "Dil bozukluğunun anlam ve kural sistemini, konuşma bozukluğunun sesletimi ilgilendirmesi" },
+      "correctOption": "D",
+      "explanation": "Dil bozuklukları dilin anlam ve kural sistemini, konuşma bozuklukları ise seslerin üretimini ilgilendirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 2,
+      "text": "Sesini sürekli kısık ve boğuk çıkaran bir öğrenci için öncelikle hangi yönlendirme yapılmalıdır?",
+      "options": { "A": "Matematik kursuna gönderme", "B": "Kulak burun boğaz uzmanı ve dil konuşma terapistine yönlendirme", "C": "Beden eğitimi dersine yönlendirme", "D": "Evde eğitime geçirme" },
+      "correctOption": "B",
+      "explanation": "Ses bozukluğunun nedeninin belirlenmesi için tıbbi değerlendirme ve dil konuşma terapisi gerekir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 2,
+      "text": "Dil ve konuşma bozukluğu olan öğrencinin sınıfta konuşmaya cesaretlendirilmesi için öğretmenin yapması uygun olan hangisidir?",
+      "options": { "A": "Tüm sınıf önünde zorla konuşturması", "B": "Yanlışlarını sık sık vurgulaması", "C": "Küçük grup etkinlikleriyle güvenli konuşma ortamı sunması", "D": "Soru sormaması" },
+      "correctOption": "C",
+      "explanation": "Küçük gruplarda sağlanan güvenli ortam, öğrencinin konuşma denemelerini destekler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Dil ve Konuşma Bozuklukları",
+      "difficulty": 2,
+      "text": "Dil ve konuşma bozukluklarının erken tanılanmasının önemi hangisidir?",
+      "options": { "A": "İleride ortaya çıkabilecek okuma yazma güçlüklerini önlemesi", "B": "Okul kaydını geciktirmesi", "C": "Aile katılımını engellemesi", "D": "Sınav sayısını artırması" },
+      "correctOption": "A",
+      "explanation": "Erken tanı ve müdahale, dil temelli okuma yazma güçlüklerinin önlenmesine katkı sağlar."
+    }
+  ]
+}

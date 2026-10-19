@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 3,
+      "text": "1606 Zitvatorok Antlaşması ile Avusturya arşidükünün Osmanlı padişahına eşit sayılmasının Osmanlı Devleti açısından sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Osmanlı'nın Akdeniz'de üstünlük sağlaması", "B": "Avusturya'nın Osmanlı'ya bağlanması", "C": "Macaristan'ın tamamen kaybedilmesi", "D": "Osmanlı'nın Avrupa karşısındaki üstünlüğünün sona ermesi" },
+      "correctOption": "D",
+      "explanation": "Zitvatorok Antlaşması ile Avusturya arşidükü Osmanlı padişahına denk sayılmış, böylece Osmanlı'nın Avrupa karşısındaki üstünlüğü sona ermiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nde XVII. yüzyıldan itibaren yabancı devletlere verilen ve ülke ekonomisini olumsuz etkileyen ticari ayrıcalıklara ne ad verilir?",
+      "options": { "A": "Tımar", "B": "İltizam", "C": "Kapitülasyonlar", "D": "Malikhane" },
+      "correctOption": "C",
+      "explanation": "Yabancı devletlere verilen ticari ayrıcalıklara kapitülasyon denir; bu ayrıcalıklar zamanla Osmanlı ekonomisini olumsuz etkilemiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 2,
+      "text": "Coğrafi Keşifler sonucunda yeni ticaret yollarının bulunmasının Osmanlı Devleti üzerindeki etkisi aşağıdakilerden hangisidir?",
+      "options": { "A": "Osmanlı ticaret filosunun güçlenmesi", "B": "Osmanlı gümrük gelirlerinin artması", "C": "İpek ve Baharat yollarının yeniden canlanması", "D": "Akdeniz limanlarının ve gümrük gelirlerinin öneminin azalması" },
+      "correctOption": "D",
+      "explanation": "Yeni ticaret yollarının bulunmasıyla Akdeniz limanları ve Osmanlı'nın gümrük gelirleri önemini yitirmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 3,
+      "text": "1739 Belgrad Antlaşması ile Osmanlı Devleti'nin geri aldığı yer aşağıdakilerden hangisidir?",
+      "options": { "A": "Kırım", "B": "Azak", "C": "Belgrad", "D": "Temeşvar" },
+      "correctOption": "C",
+      "explanation": "1739 Belgrad Antlaşması ile Osmanlı Devleti Belgrad'ı geri almıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 3,
+      "text": "1774 Küçük Kaynarca Antlaşması ile Rusya'nın Osmanlı Devleti'ndeki Ortodoksların koruyuculuğunu üstlenmesinin sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Boğazların Rusya'ya bırakılması", "B": "Osmanlı'nın Rusya'ya üstünlük sağlaması", "C": "Rusya'nın Osmanlı iç işlerine karışmasına zemin hazırlaması", "D": "Kapitülasyonların kaldırılması" },
+      "correctOption": "C",
+      "explanation": "Küçük Kaynarca Antlaşması ile Rusya, Osmanlı'daki Ortodoksların koruyuculuğunu üstlenmiş ve böylece Osmanlı iç işlerine karışma imkânı elde etmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 3,
+      "text": "1792 Yaş Antlaşması ile Kırım'ın Rusya'ya ait olduğunu kabul eden Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "options": { "A": "I. Abdülhamid", "B": "III. Selim", "C": "II. Mahmud", "D": "IV. Mustafa" },
+      "correctOption": "B",
+      "explanation": "1792 Yaş Antlaşması, III. Selim döneminde imzalanmış ve Kırım'ın Rusya'ya ait olduğu kabul edilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 3,
+      "text": "II. Mahmud'un 1826 yılında Yeniçeri Ocağı'nı kaldırmasının ardından kurduğu yeni ordu aşağıdakilerden hangisidir?",
+      "options": { "A": "Asakir-i Mansure-i Muhammediye", "B": "Nizam-ı Cedid", "C": "Sekban-ı Cedid", "D": "Eşkinci Ocağı" },
+      "correctOption": "A",
+      "explanation": "II. Mahmud, 1826'da Yeniçeri Ocağı'nı kaldırmış ve yerine Asakir-i Mansure-i Muhammediye adlı yeni orduyu kurmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Duraklama ve Gerileme",
+      "difficulty": 2,
+      "text": "1730 Patrona Halil İsyanı sonucunda tahttan indirilen ve Lale Devri'nin sona ermesine yol açan padişah aşağıdakilerden hangisidir?",
+      "options": { "A": "I. Mahmud", "B": "III. Ahmed", "C": "II. Mustafa", "D": "IV. Mehmed" },
+      "correctOption": "B",
+      "explanation": "1730 Patrona Halil İsyanı ile III. Ahmed tahttan indirilmiş ve Lale Devri sona ermiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 1,
+      "text": "1839 Tanzimat Fermanı'nın hazırlanmasında ve ilan edilmesinde önemli rol oynayan devlet adamı aşağıdakilerden hangisidir?",
+      "options": { "A": "Mustafa Reşid Paşa", "B": "Âli Paşa", "C": "Fuad Paşa", "D": "Mithat Paşa" },
+      "correctOption": "A",
+      "explanation": "Tanzimat Fermanı, Mustafa Reşid Paşa'nın öncülüğünde hazırlanmış ve ilan edilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 1,
+      "text": "I. Meşrutiyet'in ilan edilmesinde ve Kanûn-ı Esâsî'nin hazırlanmasında önemli rol oynayan devlet adamı aşağıdakilerden hangisidir?",
+      "options": { "A": "Mustafa Reşid Paşa", "B": "Âli Paşa", "C": "Mithat Paşa", "D": "Mahmut Nedim Paşa" },
+      "correctOption": "C",
+      "explanation": "I. Meşrutiyet'in ilanında ve Kanûn-ı Esâsî'nin hazırlanmasında Mithat Paşa önemli rol oynamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 1,
+      "text": "1908'de II. Meşrutiyet'in ilan edilmesinde etkili olan örgüt aşağıdakilerden hangisidir?",
+      "options": { "A": "Fedakâran-ı Millet Cemiyeti", "B": "Hürriyet ve İtilaf Fırkası", "C": "Ahrar Fırkası", "D": "İttihat ve Terakki Cemiyeti" },
+      "correctOption": "D",
+      "explanation": "II. Meşrutiyet, İttihat ve Terakki Cemiyeti'nin öncülüğündeki hareket sonucunda 1908'de ilan edilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nin I. Dünya Savaşı'na Almanya'nın yanında katılmasında etkili olan gelişme aşağıdakilerden hangisidir?",
+      "options": { "A": "Boğazların Rusya'ya bırakılması", "B": "İngiltere'nin Osmanlı'ya saldırması", "C": "Goeben ve Breslau adlı Alman gemilerinin Osmanlı'ya sığınıp satın alınması", "D": "Bulgaristan'ın Osmanlı'ya savaş açması" },
+      "correctOption": "C",
+      "explanation": "Alman gemileri Goeben ve Breslau'nun Osmanlı'ya sığınıp satın alınması, Osmanlı'nın I. Dünya Savaşı'na Almanya yanında girmesinde etkili olmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "I. Dünya Savaşı'nda Çanakkale Cephesi'nde kazanılan zaferin önemli sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Kafkasya'nın tamamen ele geçirilmesi", "B": "Osmanlı'nın savaştan çekilmesi", "C": "İstanbul'un işgal edilmesi", "D": "İtilaf Devletleri'nin Boğazları geçememesi ve Rusya'ya yardım ulaştıramaması" },
+      "correctOption": "D",
+      "explanation": "Çanakkale'de kazanılan zaferle İtilaf Devletleri Boğazları geçememiş ve Rusya'ya yardım ulaştıramamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "Mondros Ateşkes Antlaşması'nın ardından Anadolu'da işgallerin başlamasının doğrudan sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Milli mücadele için direniş cemiyetlerinin kurulması", "B": "Osmanlı Devleti'nin toprak kazanması", "C": "İtilaf Devletleri'nin Anadolu'dan çekilmesi", "D": "Saltanatın kaldırılması" },
+      "correctOption": "A",
+      "explanation": "Mondros sonrası işgaller, Anadolu'da milli mücadeleyi yürütecek direniş cemiyetlerinin kurulmasına yol açmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "Sevr Antlaşması'nın TBMM tarafından tanınmamasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": { "A": "Sadece Boğazları ilgilendirmesi", "B": "Temel olarak ekonomik hükümler içermesi", "C": "Osmanlı Mebusan Meclisi'nde reddedilmesi", "D": "Türk milletinin bağımsızlığıyla bağdaşmayan hükümler içermesi" },
+      "correctOption": "D",
+      "explanation": "Sevr Antlaşması, Türk milletinin bağımsızlığıyla bağdaşmayan ağır hükümler içerdiği için TBMM tarafından tanınmamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Dağılma Dönemi ve Islahatlar",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nde XIX. yüzyılda yabancı devletlerin müdahalesini önlemek amacıyla ilan edilen ve gayrimüslimlere geniş haklar tanıyan ferman aşağıdakilerden hangisidir?",
+      "options": { "A": "Islahat Fermanı", "B": "Tanzimat Fermanı", "C": "Sened-i İttifak", "D": "Adalet Fermanı" },
+      "correctOption": "A",
+      "explanation": "1856 Islahat Fermanı, yabancı devletlerin müdahalesini önlemek amacıyla ilan edilmiş ve gayrimüslimlere geniş haklar tanımıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Kurtuluş Savaşı'nın hazırlık döneminde toplanan Sivas Kongresi'nin en önemli özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Ulusal direniş cemiyetlerinin Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti adı altında birleştirilmesi", "B": "Saltanatın kaldırılması", "C": "TBMM'nin açılması", "D": "Lozan Antlaşması'nın imzalanması" },
+      "correctOption": "A",
+      "explanation": "Sivas Kongresi'nde ulusal direniş cemiyetleri, Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti adı altında birleştirilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "TBMM ile Sovyet Rusya arasında 1921 yılında imzalanan ve Sovyet Rusya'nın TBMM'yi tanıdığı antlaşma aşağıdakilerden hangisidir?",
+      "options": { "A": "Mudanya Ateşkesi", "B": "Gümrü Antlaşması", "C": "Ankara Antlaşması", "D": "Moskova Antlaşması" },
+      "correctOption": "D",
+      "explanation": "1921 Moskova Antlaşması ile Sovyet Rusya, TBMM Hükümeti'ni tanımıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Kurtuluş Savaşı'nda 'Tekalif-i Milliye Emirleri' hangi savaştan önce yayımlanmıştır?",
+      "options": { "A": "II. İnönü Savaşı", "B": "I. İnönü Savaşı", "C": "Sakarya Savaşı", "D": "Büyük Taarruz" },
+      "correctOption": "C",
+      "explanation": "Tekalif-i Milliye Emirleri, ordunun ihtiyaçlarını karşılamak amacıyla 1921'de Sakarya Savaşı öncesinde yayımlanmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Kurtuluş Savaşı'nı sona erdiren ve TBMM ile İtilaf Devletleri arasında imzalanan 11 Ekim 1922 tarihli ateşkes antlaşması aşağıdakilerden hangisidir?",
+      "options": { "A": "Sevr Antlaşması", "B": "Mondros Ateşkesi", "C": "Mudanya Ateşkesi", "D": "Ankara Antlaşması" },
+      "correctOption": "C",
+      "explanation": "11 Ekim 1922 Mudanya Ateşkesi ile Kurtuluş Savaşı'nın silahlı aşaması sona ermiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Lozan Barış Antlaşması görüşmelerinde Türk heyetinin başkanlığını yapan devlet adamı aşağıdakilerden hangisidir?",
+      "options": { "A": "İsmet İnönü", "B": "Fevzi Çakmak", "C": "Kâzım Karabekir", "D": "Rauf Orbay" },
+      "correctOption": "A",
+      "explanation": "Lozan Barış Antlaşması görüşmelerinde Türk heyetinin başkanlığını İsmet İnönü yapmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Lozan Barış Antlaşması'nda çözüme kavuşturulamayan ve sonraya bırakılan sorun aşağıdakilerden hangisidir?",
+      "options": { "A": "Boğazlar", "B": "Kapitülasyonlar", "C": "Musul sorunu", "D": "Azınlıklar" },
+      "correctOption": "C",
+      "explanation": "Lozan'da çözüme kavuşturulamayan Musul sorunu, sonraki görüşmelere bırakılmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "TBMM'nin açılmasından sonra Anadolu'da çıkan ayaklanmaları bastırmak amacıyla 29 Nisan 1920'de çıkarılan kanun aşağıdakilerden hangisidir?",
+      "options": { "A": "Hıyanet-i Vataniye Kanunu", "B": "Takrir-i Sükûn Kanunu", "C": "Teşkilat-ı Esasiye Kanunu", "D": "Tekalif-i Milliye Emirleri" },
+      "correctOption": "A",
+      "explanation": "29 Nisan 1920'de çıkarılan Hıyanet-i Vataniye Kanunu, ayaklanmaların bastırılmasında etkili olmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Mudanya Ateşkes görüşmelerine katılmayan devlet aşağıdakilerden hangisidir?",
+      "options": { "A": "İtalya", "B": "İngiltere", "C": "Fransa", "D": "Yunanistan" },
+      "correctOption": "D",
+      "explanation": "Mudanya Ateşkes görüşmelerine Yunanistan katılmamış; görüşmeler İngiltere, Fransa ve İtalya ile yapılmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "TBMM'nin açılışından sonra kabul edilen ve 'Egemenlik kayıtsız şartsız milletindir.' ilkesini içeren ilk anayasa aşağıdakilerden hangisidir?",
+      "options": { "A": "Teşkilat-ı Esasiye Kanunu", "B": "Kanûn-ı Esâsî", "C": "1924 Anayasası", "D": "1961 Anayasası" },
+      "correctOption": "A",
+      "explanation": "1921 Teşkilat-ı Esasiye Kanunu, 'Egemenlik kayıtsız şartsız milletindir.' ilkesini içeren ilk anayasadır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 1,
+      "text": "Misak-ı Milli adı verilen belge hangi meclis tarafından kabul edilmiştir?",
+      "options": { "A": "Meclis-i Âyan", "B": "TBMM", "C": "Meclis-i Umumi", "D": "Osmanlı Mebusan Meclisi" },
+      "correctOption": "D",
+      "explanation": "Misak-ı Milli, 28 Ocak 1920'de Osmanlı Mebusan Meclisi tarafından kabul edilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 3,
+      "text": "Sakarya Savaşı'nın kazanılmasının uluslararası alandaki en önemli sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "TBMM'nin uluslararası alanda saygınlığının artması ve bazı devletlerle antlaşmalar yapılması", "B": "Saltanatın kaldırılması", "C": "Cumhuriyet'in ilan edilmesi", "D": "Mudanya Ateşkesi'nin imzalanması" },
+      "correctOption": "A",
+      "explanation": "Sakarya Savaşı'nın kazanılması TBMM'nin uluslararası saygınlığını artırmış ve bazı devletlerle antlaşmalar yapılmasını sağlamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Kurtuluş Savaşı",
+      "difficulty": 2,
+      "text": "Kurtuluş Savaşı'nın hazırlık döneminde toplanan Erzurum Kongresi'nin temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Bölgesel olarak toplanmasına rağmen ulusal kararlar alması", "B": "Temel olarak ekonomik kararlar alması", "C": "İtilaf Devletleri'nin de katılması", "D": "Saltanatı koşulsuz desteklemesi" },
+      "correctOption": "A",
+      "explanation": "Erzurum Kongresi bölgesel olarak toplanmış olmasına rağmen ulusal nitelikte kararlar almıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 1,
+      "text": "Öğretim birliğini sağlayan Tevhid-i Tedrisat Kanunu hangi yıl kabul edilmiştir?",
+      "options": { "A": "1923", "B": "1934", "C": "1928", "D": "1924" },
+      "correctOption": "D",
+      "explanation": "Tevhid-i Tedrisat Kanunu 1924 yılında kabul edilerek öğretim birliği sağlanmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 2,
+      "text": "1925 yılında tekke, zaviye ve türbelerin kapatılması hangi Atatürk ilkesinin doğrudan uygulamasıdır?",
+      "options": { "A": "Halkçılık", "B": "Milliyetçilik", "C": "Devletçilik", "D": "Laiklik" },
+      "correctOption": "D",
+      "explanation": "Tekke, zaviye ve türbelerin kapatılması, din ile toplumsal yaşamın ayrıştırılmasını amaçlayan laiklik ilkesinin uygulamasıdır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 2,
+      "text": "1926'da kabul edilen Türk Medeni Kanunu ile Türk kadınına tanınan haklar arasında aşağıdakilerden hangisi yer alır?",
+      "options": { "A": "Miras, boşanma ve velayet gibi medeni haklar", "B": "Seçme ve seçilme hakkı", "C": "Milletvekili olma hakkı", "D": "Askerlik yapma zorunluluğu" },
+      "correctOption": "A",
+      "explanation": "Türk Medeni Kanunu ile kadınlara miras, boşanma, velayet ve tanıklık gibi alanlarda medeni haklar tanınmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 1,
+      "text": "Mustafa Kemal'e 'Atatürk' soyadı hangi yıl verilmiştir?",
+      "options": { "A": "1934", "B": "1930", "C": "1928", "D": "1938" },
+      "correctOption": "A",
+      "explanation": "Soyadı Kanunu'nun çıkarıldığı 1934 yılında Mustafa Kemal'e 'Atatürk' soyadı verilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 2,
+      "text": "Aşar vergisinin kaldırılmasının temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Dış ticareti sınırlandırmak", "B": "Sanayiyi korumak", "C": "Köylünün vergi yükünü hafifleterek tarımsal üretimi artırmak", "D": "Orduyu güçlendirmek" },
+      "correctOption": "C",
+      "explanation": "1925'te aşar vergisinin kaldırılmasıyla köylünün vergi yükü hafifletilmek ve tarımsal üretim artırılmak istenmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 2,
+      "text": "Şapka Kanunu ve kıyafet düzenlemeleri gibi yenilikler hangi alanda yapılan inkılaplar arasında yer alır?",
+      "options": { "A": "Eğitim alanı", "B": "Ekonomik alan", "C": "Hukuk alanı", "D": "Toplumsal alan" },
+      "correctOption": "D",
+      "explanation": "Şapka Kanunu ve kıyafet düzenlemeleri, toplumsal yaşamı çağdaşlaştırmayı amaçlayan toplumsal alan inkılaplarıdır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 3,
+      "text": "Atatürk ilkelerinden Halkçılık ilkesinin temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Toplumda ayrıcalıkları kaldırıp eşitliği sağlamak", "B": "Sınıf farklılıklarını derinleştirmek", "C": "Tek bir partinin egemenliğini kurmak", "D": "Dini kuralları toplumsal yaşamın temeli yapmak" },
+      "correctOption": "A",
+      "explanation": "Halkçılık ilkesi, toplumda ayrıcalıkların kaldırılmasını ve bireyler arasında eşitliğin sağlanmasını amaçlar."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "difficulty": 2,
+      "text": "Atatürk ilkelerinin 1937'de anayasaya eklenmesi neyi göstermektedir?",
+      "options": { "A": "Anayasanın geçersiz sayıldığını", "B": "İlkelerin devletin temel niteliği hâline geldiğini", "C": "Çok partili hayata geçildiğini", "D": "Saltanatın kaldırıldığını" },
+      "correctOption": "B",
+      "explanation": "Atatürk ilkelerinin 1937'de anayasaya girmesi, bu ilkelerin devletin temel nitelikleri hâline geldiğini gösterir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 2,
+      "text": "Türkiye'de 1930'da kurulan ve kadınların da üye olabildiği siyasi parti aşağıdakilerden hangisidir?",
+      "options": { "A": "Terakkiperver Cumhuriyet Fırkası", "B": "Demokrat Parti", "C": "Serbest Cumhuriyet Fırkası", "D": "Millet Partisi" },
+      "correctOption": "C",
+      "explanation": "1930'da Fethi Okyar tarafından kurulan Serbest Cumhuriyet Fırkası, kadınların üye olabildiği bir siyasi parti olmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 2,
+      "text": "Cumhuriyet Dönemi'nde 1924 yılında kurulan ilk muhalefet partisi aşağıdakilerden hangisidir?",
+      "options": { "A": "Serbest Cumhuriyet Fırkası", "B": "Terakkiperver Cumhuriyet Fırkası", "C": "Demokrat Parti", "D": "Millet Partisi" },
+      "correctOption": "B",
+      "explanation": "1924'te Kâzım Karabekir ve arkadaşları tarafından kurulan Terakkiperver Cumhuriyet Fırkası, Cumhuriyet Dönemi'nin ilk muhalefet partisidir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 1,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne üye olduğu yıl aşağıdakilerden hangisidir?",
+      "options": { "A": "1928", "B": "1930", "C": "1932", "D": "1936" },
+      "correctOption": "C",
+      "explanation": "Türkiye, 1932 yılında Milletler Cemiyeti'ne üye olmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 2,
+      "text": "1934'te Türkiye, Yunanistan, Romanya ve Yugoslavya arasında imzalanan ve Balkanlar'da barışı amaçlayan pakt aşağıdakilerden hangisidir?",
+      "options": { "A": "Balkan Antantı", "B": "Sadabat Paktı", "C": "Montrö Sözleşmesi", "D": "Ankara Antlaşması" },
+      "correctOption": "A",
+      "explanation": "1934 Balkan Antantı, Türkiye, Yunanistan, Romanya ve Yugoslavya arasında Balkanlar'da barışı korumak amacıyla imzalanmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 2,
+      "text": "1937'de Türkiye, İran, Irak ve Afganistan arasında imzalanan ve Orta Doğu'da barışı amaçlayan pakt aşağıdakilerden hangisidir?",
+      "options": { "A": "Ankara Antlaşması", "B": "Balkan Antantı", "C": "Montrö Sözleşmesi", "D": "Sadabat Paktı" },
+      "correctOption": "D",
+      "explanation": "1937 Sadabat Paktı, Türkiye, İran, Irak ve Afganistan arasında Orta Doğu'da barışı korumak amacıyla imzalanmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 2,
+      "text": "Türkiye'nin II. Dünya Savaşı'na katılmayıp savaş dışı kalmasında etkili olan temel politika aşağıdakilerden hangisidir?",
+      "options": { "A": "Savaşan taraflar arasında denge gözeterek tarafsız kalmak", "B": "Almanya'nın yanında savaşa girmek", "C": "İngiltere ile ittifak yapıp savaşa katılmak", "D": "Sovyet Rusya'ya katılmak" },
+      "correctOption": "A",
+      "explanation": "Türkiye, II. Dünya Savaşı sırasında savaşan taraflar arasında denge gözeterek tarafsız kalmayı tercih etmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 2,
+      "text": "II. Dünya Savaşı sonrasında Türkiye'nin Batı blokunda yer almasında etkili olan ve 1947'de ABD tarafından açıklanan yardım programı aşağıdakilerden hangisidir?",
+      "options": { "A": "NATO", "B": "Marshall Planı", "C": "Truman Doktrini", "D": "Bağlantısızlar Hareketi" },
+      "correctOption": "C",
+      "explanation": "1947'de açıklanan Truman Doktrini, Türkiye'nin Batı blokunda yer almasında etkili olmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Cumhuriyet Dönemi Siyasi Hayat ve Dış Politika",
+      "difficulty": 3,
+      "text": "1961 Anayasası'nın getirdiği en önemli yenilik aşağıdakilerden hangisidir?",
+      "options": { "A": "Tek partili hayata geçilmesi", "B": "Saltanatın kaldırılması", "C": "Temel hak ve özgürlüklerin genişletilmesi ve Anayasa Mahkemesi'nin kurulması", "D": "Halifeliğin kaldırılması" },
+      "correctOption": "C",
+      "explanation": "1961 Anayasası temel hak ve özgürlükleri genişletmiş ve Anayasa Mahkemesi'ni kurmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çağdaş Türk ve Dünya Tarihi",
+      "difficulty": 2,
+      "text": "I. Dünya Savaşı'nın sonunda imzalanan ve Almanya'yı ağır koşullara zorlayan antlaşma aşağıdakilerden hangisidir?",
+      "options": { "A": "Versay Antlaşması", "B": "Sevr Antlaşması", "C": "Trianon Antlaşması", "D": "Brest-Litovsk Antlaşması" },
+      "correctOption": "A",
+      "explanation": "I. Dünya Savaşı sonunda Almanya ile imzalanan Versay Antlaşması, Almanya'yı ağır koşullara zorlamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çağdaş Türk ve Dünya Tarihi",
+      "difficulty": 1,
+      "text": "II. Dünya Savaşı'nın ardından 1945'te kurulan ve dünya barışını korumayı amaçlayan uluslararası örgüt aşağıdakilerden hangisidir?",
+      "options": { "A": "Birleşmiş Milletler", "B": "Milletler Cemiyeti", "C": "NATO", "D": "Varşova Paktı" },
+      "correctOption": "A",
+      "explanation": "1945'te kurulan Birleşmiş Milletler, dünya barışını ve güvenliğini korumayı amaçlayan uluslararası bir örgüttür."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çağdaş Türk ve Dünya Tarihi",
+      "difficulty": 1,
+      "text": "Soğuk Savaş Dönemi'nde Doğu Bloku ülkelerinin 1955'te kurduğu askerî örgüt aşağıdakilerden hangisidir?",
+      "options": { "A": "Bağlantısızlar Hareketi", "B": "NATO", "C": "Varşova Paktı", "D": "Avrupa Birliği" },
+      "correctOption": "C",
+      "explanation": "1955'te Doğu Bloku ülkeleri tarafından kurulan askerî örgüt Varşova Paktı'dır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çağdaş Türk ve Dünya Tarihi",
+      "difficulty": 1,
+      "text": "1991'de Sovyetler Birliği'nin dağılmasının ardından Azerbaycan'ın bağımsızlığını tanıyan ilk devlet aşağıdakilerden hangisidir?",
+      "options": { "A": "Çin", "B": "ABD", "C": "Türkiye", "D": "Rusya" },
+      "correctOption": "C",
+      "explanation": "Azerbaycan'ın bağımsızlığını tanıyan ilk devlet Türkiye olmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çağdaş Türk ve Dünya Tarihi",
+      "difficulty": 3,
+      "text": "1974'te Türkiye'nin Kıbrıs'ta askerî harekât düzenlemesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": { "A": "Ege Denizi'nde petrol aramak", "B": "Kıbrıs Türklerinin can ve mal güvenliğini sağlamak", "C": "Avrupa Birliği'ne üye olmak", "D": "Sovyet Rusya'ya karşı ittifak kurmak" },
+      "correctOption": "B",
+      "explanation": "1974 Kıbrıs Barış Harekâtı, Kıbrıs Türklerinin can ve mal güvenliğini sağlamak amacıyla düzenlenmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Çağdaş Türk ve Dünya Tarihi",
+      "difficulty": 1,
+      "text": "1980'li yıllardan itibaren dünya genelinde ekonomik ve siyasi alanda yaşanan, serbest piyasa ekonomisinin öne çıktığı sürece ne ad verilir?",
+      "options": { "A": "Sömürgecilik", "B": "Sanayi Devrimi", "C": "Emperyalizm", "D": "Küreselleşme" },
+      "correctOption": "D",
+      "explanation": "1980'li yıllardan itibaren hız kazanan, ekonomik ve siyasi alanlarda ülkeler arası bütünleşmeyi ifade eden sürece küreselleşme denir."
+    }
+  ]
+}

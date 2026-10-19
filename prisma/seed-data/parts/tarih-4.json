@@ -287,35 +287,6 @@
     },
     {
       "categorySlug": "tarih",
-      "topic": "Çok Partili Hayat",
-      "difficulty": 3,
-      "text": "1980 darbesi hangi yılda yapılmıştır?",
-      "options": {
-        "A": "1960",
-        "B": "1971",
-        "C": "1980",
-        "D": "1997"
-      },
-      "correctOption": "C",
-      "explanation": "12 Eylül 1980 darbesi 1980'de yapılmıştır.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "tarih",
-      "topic": "Cumhuriyet",
-      "difficulty": 2,
-      "text": "Türkiye Cumhuriyeti hangi yılda kurulmuştur?",
-      "options": {
-        "A": "1919",
-        "B": "1920",
-        "C": "1923",
-        "D": "1924"
-      },
-      "correctOption": "C",
-      "explanation": "Türkiye Cumhuriyeti 1923te kurulmuştur."
-    },
-    {
-      "categorySlug": "tarih",
       "topic": "Dış Politika",
       "difficulty": 2,
       "text": "Montreux Boğazlar Sözleşmesi hangi yılda imzalanmıştır?",

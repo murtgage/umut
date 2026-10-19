@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Tyler Modeli",
+      "difficulty": 2,
+      "text": "Tyler'a göre program geliştirmede eğitim amaçlarının belirlenmesinde yararlanılacak temel kaynaklar aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrenci, toplum ve konu alanı",
+        "B": "Ders kitabı, sınavlar ve öğretmenler",
+        "C": "Okul yöneticileri, aileler ve basın",
+        "D": "Bakanlık, üniversiteler ve sivil toplum"
+      },
+      "correctOption": "A",
+      "explanation": "Tyler, amaçların öğrenci, toplum ve konu alanından sağlanan verilerle belirlenip felsefe ve psikoloji süzgecinden geçirilmesini önerir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Tyler Modeli",
+      "difficulty": 1,
+      "text": "Tyler modelinin program geliştirme yaklaşımları arasındaki yeri için aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Döngüsel ve durum analiziyle başlayan bir modeldir.",
+        "B": "Basamakları sırayla ve doğrusal biçimde izleyen rasyonel planlama modelidir.",
+        "C": "Okul temelli geliştirmeyi esas alan modeldir.",
+        "D": "Değerlendirmeyi program geliştirmenin dışında tutan modeldir."
+      },
+      "correctOption": "B",
+      "explanation": "Tyler modeli; amaçlar, yaşantılar, örgütleme ve değerlendirme basamaklarının sırayla izlendiği doğrusal bir rasyonel planlama modelidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Taba Modeli",
+      "difficulty": 1,
+      "text": "Taba modelinin, program geliştirme sürecini içerikten yola çıkarak ele alması ve hedeflerin belirlenmesini daha sonraki basamaklara bırakması hangi özelliğiyle ilgilidir?",
+      "options": {
+        "A": "Yalnızca merkezî uzmanlarca uygulanması",
+        "B": "Değerlendirmeyi tümüyle reddetmesi",
+        "C": "Tümevarımcı bir yaklaşım izlemesi",
+        "D": "Yalnızca yükseköğretimi hedeflemesi"
+      },
+      "correctOption": "C",
+      "explanation": "Taba modeli tümevarımcıdır; önce içerik ve yaşantılar belirlenir, hedefler bu süreçten çıkarılır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Wheeler Modeli",
+      "difficulty": 3,
+      "text": "Program geliştirme basamaklarının bir kez tamamlanıp bitmediğini, sürecin sonunda yeniden başa dönerek kendini yenilediğini savunan model hangisidir?",
+      "options": {
+        "A": "Tyler modeli",
+        "B": "Sistem yaklaşımı",
+        "C": "Uzman modeli",
+        "D": "Wheeler modeli"
+      },
+      "correctOption": "D",
+      "explanation": "Wheeler modeli döngüseldir; program geliştirme süreci değerlendirmeden sonra yeniden biçimlenerek sürer."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Kerr Modeli",
+      "difficulty": 2,
+      "text": "Kerr modelinde program geliştirmenin ögeleri olarak hedefler, bilgi, okul öğrenme yaşantıları ve değerlendirme yer alır. Bu ögeler arasındaki ilişki için aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Ögeler birbirini karşılıklı olarak etkiler ve bütünleşik biçimde işler.",
+        "B": "Her öge diğerlerinden tümüyle bağımsızdır.",
+        "C": "Yalnızca değerlendirme diğer ögeleri belirler.",
+        "D": "Bilgi ögesi tek başına yeterlidir."
+      },
+      "correctOption": "A",
+      "explanation": "Kerr, program ögelerinin karşılıklı etkileşimini vurgular; ögeler bir bütün olarak ele alınır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Nicholls Modeli",
+      "difficulty": 3,
+      "text": "Program geliştirmeyi, bir önceki aşamanın denetlenerek bir sonrakine geçildiği sarmal ve döngüsel bir süreç olarak ele alan İngiliz program geliştirme modeli hangisidir?",
+      "options": {
+        "A": "Tyler modeli",
+        "B": "Nicholls modeli",
+        "C": "Provus modeli",
+        "D": "Taba modeli"
+      },
+      "correctOption": "B",
+      "explanation": "Nicholls modeli, program geliştirmeyi sarmal ve döngüsel bir süreç olarak görmesiyle tanınır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Skillbeck Modeli",
+      "difficulty": 3,
+      "text": "Program geliştirme çalışmalarını okulun ve çevrenin durum analizinden başlatarak okul temelli biçimde ele alan model hangisidir?",
+      "options": {
+        "A": "Tyler modeli",
+        "B": "Kerr modeli",
+        "C": "Skillbeck modeli",
+        "D": "Wheeler modeli"
+      },
+      "correctOption": "C",
+      "explanation": "Skillbeck'in dinamik modeli durum analiziyle başlar ve okul temelli, esnek bir geliştirme süreci öngörür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Merkezî Program Geliştirme Yaklaşımı",
+      "difficulty": 3,
+      "text": "Bir programın ülke genelinde geçerli olacak biçimde yalnızca merkezî bir uzman kurul tarafından hazırlanıp okullara gönderilmesi hangi yaklaşımla açıklanır?",
+      "options": {
+        "A": "Okul temelli yaklaşım",
+        "B": "Yerinden yönetim yaklaşımı",
+        "C": "Öğretmen merkezli yaklaşım",
+        "D": "Merkezî (uzman) yaklaşım"
+      },
+      "correctOption": "D",
+      "explanation": "Programın merkezden, uzmanlarca hazırlanıp okullara ulaştırıldığı anlayış merkezî program geliştirme yaklaşımıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Geliştirme Süreci",
+      "difficulty": 1,
+      "text": "Program geliştirme sürecinin ilk aşamasında yapılması gereken çalışma aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İhtiyaçların belirlenmesi ve analizi",
+        "B": "Programın yaygınlaştırılması",
+        "C": "Değerlendirme raporunun yazılması",
+        "D": "Uygulamanın sonuçlarının ilan edilmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Her program geliştirme çalışması, bireyin ve toplumun gereksinimlerinin belirlendiği ihtiyaç analiziyle başlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Geliştirme Süreci",
+      "difficulty": 2,
+      "text": "Hazırlanan bir program taslağının, ülke geneline yayılmadan önce sınırlı sayıda okulda uygulanarak aksaklıklarının belirlenmesi hangi aşamayla açıklanır?",
+      "options": {
+        "A": "İhtiyaç analizi",
+        "B": "Pilot (deneme) uygulaması",
+        "C": "Yaygınlaştırma",
+        "D": "Hedeflerin belirlenmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Taslağın sınırlı koşullarda denenmesi pilot uygulama olup programın yaygınlaştırılmadan önce sınanmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Geliştirme Süreci",
+      "difficulty": 2,
+      "text": "İhtiyaç analizi yapılıp hedefler ve içerik belirlendikten sonra sırada yapılacak iş aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Programın tümüyle terk edilmesi",
+        "B": "Uygulama sonuçlarının yayımlanması",
+        "C": "Uygulanacak program tasarısının hazırlanması",
+        "D": "Öğrenci kayıtlarının silinmesi"
+      },
+      "correctOption": "C",
+      "explanation": "İhtiyaç analizinin ardından programın ögelerini bir araya getiren bir tasarı (taslak program) hazırlanır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Geliştirme Süreci",
+      "difficulty": 2,
+      "text": "Deneme uygulamasında başarılı bulunan bir programın ülke genelindeki tüm okullarda uygulanmak üzere resmen kabul edilmesi hangi aşamadır?",
+      "options": {
+        "A": "İhtiyaç analizi",
+        "B": "Tasarı hazırlama",
+        "C": "Değerlendirme",
+        "D": "Yaygınlaştırma"
+      },
+      "correctOption": "D",
+      "explanation": "Programın geçerli kılınarak tüm ilgili okullarda uygulanması yaygınlaştırma aşamasıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Modüler İçerik Düzenleme",
+      "difficulty": 1,
+      "text": "İçeriğin kendi başına tamamlanmış, bağımsız ve kısa süreli öğretim birimlerine ayrılmasını öngören yaklaşım hangisidir?",
+      "options": {
+        "A": "Modüler yaklaşım",
+        "B": "Doğrusal yaklaşım",
+        "C": "Sarmal yaklaşım",
+        "D": "Piramitsel yaklaşım"
+      },
+      "correctOption": "A",
+      "explanation": "Modüler düzenlemede içerik, birbirinden bağımsız öğrenilebilen ve gerektiğinde sırası değiştirilebilen birimlere ayrılır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Piramitsel İçerik Düzenleme",
+      "difficulty": 2,
+      "text": "İçerikte önce temel ve genel bilgilerin verildiği, sonraki aşamalarda giderek artan ayrıntı ve özelleşmeye yer verildiği düzenleme hangisidir?",
+      "options": {
+        "A": "Sorgulama merkezli düzenleme",
+        "B": "Piramitsel düzenleme",
+        "C": "Modüler düzenleme",
+        "D": "Sarmal düzenleme"
+      },
+      "correctOption": "B",
+      "explanation": "Piramitsel düzenlemede içerik genelden özele, temelden ayrıntıya doğru bir piramit biçiminde yapılanır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Disiplinler Arası İçerik",
+      "difficulty": 2,
+      "text": "Bir konunun, birden çok dersin bilgi ve yöntemlerinin bir arada kullanılmasıyla ele alınmasını öngören içerik düzenleme anlayışı hangisidir?",
+      "options": {
+        "A": "Doğrusal düzenleme",
+        "B": "Modüler düzenleme",
+        "C": "Disiplinler arası düzenleme",
+        "D": "Piramitsel düzenleme"
+      },
+      "correctOption": "C",
+      "explanation": "Disiplinler arası düzenlemede tek bir konu, farklı disiplinlerin katkıları birleştirilerek bütüncül biçimde işlenir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Tümdengelimli İçerik Düzenleme",
+      "difficulty": 3,
+      "text": "İçeriğin genel ilke, kural ve kavramlardan başlanarak ayrıntılara doğru düzenlenmesi hangi yaklaşımla açıklanır?",
+      "options": {
+        "A": "Tümevarımlı düzenleme",
+        "B": "Sorgulama merkezli düzenleme",
+        "C": "Modüler düzenleme",
+        "D": "Tümdengelimli düzenleme"
+      },
+      "correctOption": "D",
+      "explanation": "Genelden özele ilerleyen bu düzenleme biçimi tümdengelimlidir ve genel ilkelerin önce öğretilmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "İçerik Seçim Ölçütleri",
+      "difficulty": 1,
+      "text": "İçerik seçilirken aşağıdaki ölçütlerden hangisi göz önünde bulundurulmalıdır?",
+      "options": {
+        "A": "İçeriğin bilimsel doğruluğu ve öğrenci düzeyine uygunluğu",
+        "B": "Öğretmenin en çok sevdiği konular olması",
+        "C": "Sınavlarda çıkma olasılığının yüksekliği",
+        "D": "Ders kitabında en sonda yer alması"
+      },
+      "correctOption": "A",
+      "explanation": "İçerik seçiminde bilimsel doğruluk, öğrenci düzeyine uygunluk, toplumsal fayda ve öğrenci ilgisi gibi ölçütler esas alınır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Tema Merkezli İçerik",
+      "difficulty": 2,
+      "text": "İçeriğin, birden çok dersin katkılarıyla işlenen ortak bir tema etrafında düzenlenmesini öngören yaklaşım hangisidir?",
+      "options": {
+        "A": "Doğrusal düzenleme",
+        "B": "Tema merkezli düzenleme",
+        "C": "Piramitsel düzenleme",
+        "D": "Modüler düzenleme"
+      },
+      "correctOption": "B",
+      "explanation": "Tema merkezli düzenlemede farklı dersler, ortak bir tema çerçevesinde ilişkilendirilerek öğretilir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Merkezî Yaklaşımın Sınırlılığı",
+      "difficulty": 3,
+      "text": "Programın yalnızca merkezî uzmanlarca hazırlanmasının en önemli sakıncası aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Programın bilimsel dayanaktan yoksun kalması",
+        "B": "Programın hiçbir zaman yazılı hâle getirilememesi",
+        "C": "Okulların ve öğretmenlerin yerel gereksinimlerinin yeterince dikkate alınmaması",
+        "D": "Değerlendirme ölçütlerinin hiç belirlenmemesi"
+      },
+      "correctOption": "C",
+      "explanation": "Merkezî hazırlanan programlar, okulun ve çevrenin özgün koşullarını yeterince yansıtmayabilir; bu nedenle okul temelli yaklaşımlar önerilmektedir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Doğrusal ve Döngüsel Modeller",
+      "difficulty": 3,
+      "text": "Bir program geliştirme modelinin döngüsel sayılmasını sağlayan temel özellik aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca hedef belirleme basamağına yer vermesi",
+        "B": "Değerlendirmeyi hiç içermemesi",
+        "C": "Süreçte tek bir uzmanın görev alması",
+        "D": "Değerlendirme sonuçlarının yeniden hedef ve içerik belirleme aşamasına dönüt sağlaması"
+      },
+      "correctOption": "D",
+      "explanation": "Döngüsel modellerde değerlendirmeden elde edilen sonuçlar sürecin başına geri beslenerek programın sürekli yenilenmesini sağlar."
+    }
+  ]
+}

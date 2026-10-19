@@ -93,21 +93,6 @@
     {
       "categorySlug": "matematik",
       "topic": "Kesirler",
-      "difficulty": 2,
-      "text": "7/8 − 3/8 işleminin sonucu kaçtır?",
-      "options": {
-        "A": "1/2",
-        "B": "3/8",
-        "C": "4/8",
-        "D": "1"
-      },
-      "correctOption": "C",
-      "explanation": "7/8−3/8=4/8=1/2 olarak bulunur.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "matematik",
-      "topic": "Kesirler",
       "difficulty": 3,
       "text": "(2/3) × (3/4) işleminin sonucu kaçtır?",
       "options": {
@@ -343,21 +328,6 @@
       },
       "correctOption": "B",
       "explanation": "En sık tekrar eden 2'dir.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "matematik",
-      "topic": "Geometri Temel",
-      "difficulty": 1,
-      "text": "Bir üçgenin iç açıları toplamı kaç derecedir?",
-      "options": {
-        "A": "90",
-        "B": "180",
-        "C": "270",
-        "D": "360"
-      },
-      "correctOption": "B",
-      "explanation": "Üçgenin iç açıları toplamı 180°'dir.",
       "source": "özgün"
     },
     {

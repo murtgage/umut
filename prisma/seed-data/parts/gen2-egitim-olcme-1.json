@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Bir niteliğin gözlenip gözlem sonuçlarının bir ölçme aracıyla sayı ya da sembollere dönüştürülmesi sürecine ne denir?",
+      "options": {
+        "A": "Değerlendirme",
+        "B": "Ölçme",
+        "C": "Ölçüt",
+        "D": "Yargı"
+      },
+      "correctOption": "B",
+      "explanation": "Ölçme, bir niteliğin gözlenerek gözlem sonuçlarının belirli bir kurala göre sayı ya da sembollerle ifade edilmesidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Ölçme sonucunda elde edilen sayı ya da sembole ne ad verilir?",
+      "options": {
+        "A": "Ölçüt",
+        "B": "Değerlendirme",
+        "C": "Ölçüm",
+        "D": "Ölçek"
+      },
+      "correctOption": "C",
+      "explanation": "Ölçüm, ölçme işlemi sonucunda elde edilen sayı ya da semboldür."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Ölçme sonuçlarının bir ölçütle karşılaştırılıp bir yargıya varılması süreci aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Değerlendirme",
+        "B": "Ölçüm",
+        "C": "Ölçek",
+        "D": "Gözlem"
+      },
+      "correctOption": "A",
+      "explanation": "Değerlendirme, ölçümlerin bir ölçütle karşılaştırılarak yargıya dönüştürülmesi sürecidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Bir öğrencinin matematik başarısının '60 puan' olarak ifade edilmesinde yer alan 60 sayısı hangi kavrama karşılık gelir?",
+      "options": {
+        "A": "Ölçüt",
+        "B": "Ölçüm",
+        "C": "Değişken",
+        "D": "Ölçek"
+      },
+      "correctOption": "B",
+      "explanation": "60, ölçme işlemi sonucunda elde edilen değer olduğu için ölçümdür."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Bir öğrencinin dersten geçmesine karar vermek için kullanılan '50 puan' sınırı hangi kavramı ifade eder?",
+      "options": {
+        "A": "Ölçüm",
+        "B": "Ölçüt",
+        "C": "Değişken",
+        "D": "Hata"
+      },
+      "correctOption": "B",
+      "explanation": "Karşılaştırmada esas alınan 50 puan, değerlendirmeye temel olan ölçüttür."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçmede Hata",
+      "difficulty": 2,
+      "text": "Gerçek değer ile gözlenen (ölçülen) değer arasındaki farkı ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ölçek",
+        "B": "Ölçüt",
+        "C": "Hata",
+        "D": "Değişken"
+      },
+      "correctOption": "C",
+      "explanation": "Hata, gözlenen değer ile gerçek değer arasındaki farktır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 1,
+      "text": "Öğrencilerin cinsiyet, okul türü ya da göz rengi gibi özelliklerinin yalnızca gruplara ayrılmasıyla oluşturulan ölçek türü hangisidir?",
+      "options": {
+        "A": "Sınıflama ölçeği",
+        "B": "Sıralama ölçeği",
+        "C": "Eşit aralıklı ölçek",
+        "D": "Oranlı ölçek"
+      },
+      "correctOption": "A",
+      "explanation": "Sınıflama ölçeğinde bireyler nitelik bakımından gruplara ayrılır; büyüklük ilişkisi yoktur."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 1,
+      "text": "Öğrencilerin ders başarısına göre 'en iyiden en kötüye' dizilmesi hangi ölçek türüyle yapılır?",
+      "options": {
+        "A": "Sınıflama ölçeği",
+        "B": "Eşit aralıklı ölçek",
+        "C": "Sıralama ölçeği",
+        "D": "Oranlı ölçek"
+      },
+      "correctOption": "C",
+      "explanation": "Sıralama ölçeğinde büyüklük ilişkisi belirlenir ancak aralıkların eşitliği bilinmez."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 2,
+      "text": "Sıfırın 'yokluk' anlamına geldiği ve dört işlemin anlamlı biçimde yapılabildiği ölçek türü hangisidir?",
+      "options": {
+        "A": "Sınıflama ölçeği",
+        "B": "Oranlı ölçek",
+        "C": "Eşit aralıklı ölçek",
+        "D": "Sıralama ölçeği"
+      },
+      "correctOption": "B",
+      "explanation": "Oranlı ölçekte mutlak sıfır bulunur; bu nedenle oran işlemleri anlamlıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 2,
+      "text": "Sıcaklığın Santigrat derece ile ifade edilmesi hangi ölçek türüne örnektir?",
+      "options": {
+        "A": "Sınıflama ölçeği",
+        "B": "Eşit aralıklı ölçek",
+        "C": "Oranlı ölçek",
+        "D": "Sıralama ölçeği"
+      },
+      "correctOption": "B",
+      "explanation": "Santigrat ölçeğinde aralıklar eşit ancak sıfır mutlak yokluk anlamına gelmediği için eşit aralıklıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçek Türleri",
+      "difficulty": 3,
+      "text": "Bir öğrencinin zekâ puanı 130 iken başka bir öğrencinin 65 olması 'birincisi ikincisinin iki katıdır' biçiminde yorumlanamıyorsa bu ölçek hangi özellikten yoksundur?",
+      "options": {
+        "A": "Sınıflama",
+        "B": "Sıralama",
+        "C": "Eşit aralık",
+        "D": "Mutlak sıfır (oran)"
+      },
+      "correctOption": "D",
+      "explanation": "Oran biçiminde yorum yapılabilmesi için mutlak sıfırın bulunması gerekir; zekâ puanı eşit aralıklı ölçektedir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçmede Hata",
+      "difficulty": 2,
+      "text": "Her ölçmede aynı yönde ve aynı miktarda ortaya çıkan, bu nedenle grubun başarı sıralamasını değiştirmeyen hata türü hangisidir?",
+      "options": {
+        "A": "Sabit hata",
+        "B": "Tesadüfi hata",
+        "C": "Sistematik hata",
+        "D": "Örnekleme hatası"
+      },
+      "correctOption": "A",
+      "explanation": "Sabit hata her ölçmede aynı yönde ve miktarda oluştuğu için bireyler arası sıralamayı bozmaz."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçmede Hata",
+      "difficulty": 3,
+      "text": "Uygulanan testin kız öğrencilere sistematik olarak daha zor, erkeklere daha kolay gelmesine yol açan hata türü hangisidir?",
+      "options": {
+        "A": "Sistematik hata",
+        "B": "Sabit hata",
+        "C": "Tesadüfi hata",
+        "D": "Ölçme dışı hata"
+      },
+      "correctOption": "A",
+      "explanation": "Sistematik hata belirli bir gruba aynı yönde etki eder; bireyler arası etkisi değişebilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçmede Hata",
+      "difficulty": 2,
+      "text": "Dikkatsizlik, yorgunluk ve ortam gürültüsü gibi kontrol edilemeyen nedenlerle ortaya çıkan ve ölçmenin güvenirliğini düşüren hata türü hangisidir?",
+      "options": {
+        "A": "Tesadüfi hata",
+        "B": "Sabit hata",
+        "C": "Sistematik hata",
+        "D": "Yapı hatası"
+      },
+      "correctOption": "A",
+      "explanation": "Tesadüfi hata kaynağı belirsiz, öngörülemeyen hatalardır ve ölçmenin güvenirliğini düşürür."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 1,
+      "text": "Bir ölçme aracının, ölçmeyi amaçladığı özelliği tam ve doğru biçimde ölçebilme derecesine ne denir?",
+      "options": {
+        "A": "Güvenirlik",
+        "B": "Kullanışlılık",
+        "C": "Objektiflik",
+        "D": "Geçerlik"
+      },
+      "correctOption": "D",
+      "explanation": "Geçerlik, aracın ölçmek istediği özelliği doğru biçimde ölçme derecesidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 2,
+      "text": "Hazırlanan bir başarı testindeki soruların, öğretim programındaki konuları ve kazanımları dengeli biçimde temsil etmesi hangi geçerlik türüyle ilişkilidir?",
+      "options": {
+        "A": "Görünüş geçerliği",
+        "B": "Kapsam geçerliği",
+        "C": "Yapı geçerliği",
+        "D": "Ölçüt bağıntılı geçerlik"
+      },
+      "correctOption": "B",
+      "explanation": "Kapsam geçerliği, testin konu ve kazanım bütününü temsil etme derecesidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 3,
+      "text": "Bir ölçme aracının, geçerliği kabul edilmiş başka bir ölçme aracının sonuçlarıyla yüksek ilişki göstermesi hangi geçerlik kanıtıdır?",
+      "options": {
+        "A": "Kapsam geçerliği",
+        "B": "Yapı geçerliği",
+        "C": "Ölçüt bağıntılı geçerlik",
+        "D": "Görünüş geçerliği"
+      },
+      "correctOption": "C",
+      "explanation": "Ölçüt bağıntılı geçerlik, aracın geçerliği bilinen bir ölçütle korelasyonuna dayanır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 2,
+      "text": "Bir tutum ölçeğinden elde edilen puanların, kuramda öngörülen tek boyutlu yapıyla uyum göstermesi hangi geçerlik türüdür?",
+      "options": {
+        "A": "Kapsam geçerliği",
+        "B": "Görünüş geçerliği",
+        "C": "Yapı geçerliği",
+        "D": "Ölçüt bağıntılı geçerlik"
+      },
+      "correctOption": "C",
+      "explanation": "Yapı geçerliği, aracın ölçtüğü değişkenin kuramsal yapıyla uyumunu gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 1,
+      "text": "Bir ölçme aracının, ilgili kişilerce ölçmek istediği özelliği ölçüyormuş gibi görünmesi hangi geçerlik türüdür?",
+      "options": {
+        "A": "Görünüş geçerliği",
+        "B": "Kapsam geçerliği",
+        "C": "Yapı geçerliği",
+        "D": "Ölçüt bağıntılı geçerlik"
+      },
+      "correctOption": "A",
+      "explanation": "Görünüş geçerliği, teknik bir geçerlik kanıtı değil, aracın amaca uygun görünmesidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 3,
+      "text": "Bir öğretmenin hazırladığı testin kapsam geçerliğini artırmak için aşağıdakilerden hangisini yapması en uygundur?",
+      "options": {
+        "A": "Test süresini kısaltması",
+        "B": "Tüm soruları en zor konulardan seçmesi",
+        "C": "Belirtke tablosu kullanarak soruları kazanımlara göre hazırlaması",
+        "D": "Yalnızca çoktan seçmeli soru kullanması"
+      },
+      "correctOption": "C",
+      "explanation": "Belirtke tablosuyla kazanım-konu dağılımına uygun soru yazmak kapsam geçerliğini artırır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi bir ölçme aracının güvenirliğini artıran bir düzenleme değildir?",
+      "options": {
+        "A": "Soru sayısını artırmak",
+        "B": "Ölçmeyi aynı koşullarda yapmak",
+        "C": "Yönergeyi açık ve net vermek",
+        "D": "Testi çok kısa tutup süreyi azaltmak"
+      },
+      "correctOption": "D",
+      "explanation": "Çok kısa testlerde güvenirlik düşer; diğer düzenlemeler güvenirliği artırıcı yöndedir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 3,
+      "text": "Bir testin maddelerinin kendi aralarındaki iç tutarlılığını gösteren ve tek uygulamayla hesaplanan güvenirlik katsayısı hangisidir?",
+      "options": {
+        "A": "KR-20 veya Cronbach alfa",
+        "B": "Test-tekrar test",
+        "C": "Eşdeğer form",
+        "D": "Gözlemciler arası tutarlılık"
+      },
+      "correctOption": "A",
+      "explanation": "KR-20 ve Cronbach alfa, tek uygulamada madde iç tutarlılığını veren katsayılardır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 2,
+      "text": "Bir testin zaman içindeki kararlılığını belirlemek için aynı gruba belirli aralıklarla iki kez uygulanıp sonuçların korelasyonuna bakılması hangi güvenirlik yöntemidir?",
+      "options": {
+        "A": "Eşdeğer form",
+        "B": "Test-tekrar test",
+        "C": "İç tutarlılık",
+        "D": "Test yarılama"
+      },
+      "correctOption": "B",
+      "explanation": "Test-tekrar test yöntemi, aynı testin farklı zamanlardaki kararlılığını gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 3,
+      "text": "Bir testin iki eşdeğer formunun aynı gruba uygulanıp sonuçlar arasındaki korelasyonun hesaplanmasıyla elde edilen güvenirlik hangisidir?",
+      "options": {
+        "A": "Test-tekrar test",
+        "B": "Eşdeğer (paralel) form güvenirliği",
+        "C": "İç tutarlılık",
+        "D": "Puanlayıcılar arası güvenirlik"
+      },
+      "correctOption": "B",
+      "explanation": "Eşdeğer form güvenirliği, iki paralel formun denkliğine dayanır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Kullanışlılık",
+      "difficulty": 2,
+      "text": "Bir ölçme aracının kolay hazırlanması, kolay uygulanması, kolay puanlanması ve ekonomik olması hangi nitelikle açıklanır?",
+      "options": {
+        "A": "Geçerlik",
+        "B": "Güvenirlik",
+        "C": "Objektiflik",
+        "D": "Kullanışlılık"
+      },
+      "correctOption": "D",
+      "explanation": "Kullanışlılık; hazırlama, uygulama ve puanlama kolaylığı ile ekonomikliği ifade eder."
+    }
+  ]
+}

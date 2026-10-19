@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Piaget Şema",
+      "difficulty": 1,
+      "text": "Piaget'ye göre bireyin çevresindeki nesne ve olayları anlamak için kullandığı, zihninde var olan bilişsel yapı ve kalıplara ne ad verilir?",
+      "options": {
+        "A": "Şema",
+        "B": "İçgörü",
+        "C": "Pekiştireç",
+        "D": "Güdü"
+      },
+      "correctOption": "A",
+      "explanation": "Bireyin bilgiyi düzenlemek için kullandığı zihinsel yapılar şema olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Piaget Özümleme",
+      "difficulty": 1,
+      "text": "Bir çocuğun ilk kez gördüğü bir köpeği, daha önce oluşturduğu dört ayaklı hayvan şeması içine yerleştirmesi Piaget'nin hangi kavramıyla açıklanır?",
+      "options": {
+        "A": "Uyumsama",
+        "B": "Özümleme",
+        "C": "Dengeleme",
+        "D": "Korunum"
+      },
+      "correctOption": "B",
+      "explanation": "Yeni bir uyarıcının var olan şemaya yerleştirilmesi özümleme; şemanın değiştirilmesi ise uyumsamadır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Piaget Uyumsama",
+      "difficulty": 2,
+      "text": "Bir çocuğun kuşların uçtuğunu görünce uçan her canlının kuş olduğu şemasını, kelebeği gördükten sonra yeniden düzenlemesi hangi kavramla açıklanır?",
+      "options": {
+        "A": "Özümleme",
+        "B": "Bastırma",
+        "C": "Uyumsama",
+        "D": "Olgunlaşma"
+      },
+      "correctOption": "C",
+      "explanation": "Yeni yaşantılar karşısında var olan şemanın değiştirilerek yeniden düzenlenmesi uyumsama (düzenleme) olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Piaget Dengeleme",
+      "difficulty": 3,
+      "text": "Piaget'ye göre özümleme ve uyumsama arasında kurulan ve bireyin bilişsel gelişimini ilerleten süreç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ket vurma",
+        "B": "Aşırı öğrenme",
+        "C": "Koşullanma",
+        "D": "Dengeleme"
+      },
+      "correctOption": "D",
+      "explanation": "Özümleme ile uyumsama arasındaki denge arayışı dengeleme sürecidir ve bilişsel gelişimin itici gücüdür."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Piaget Dönemleri",
+      "difficulty": 1,
+      "text": "Bir çocuk, saklambaç oynarken yalnızca kendi gözünü kapatarak arkadaşının da kendisini göremeyeceğini düşünmektedir. Bu durum Piaget'in hangi kavramıyla açıklanır?",
+      "options": {
+        "A": "Benmerkezcilik",
+        "B": "Korunum",
+        "C": "Tersine çevirebilirlik",
+        "D": "Nesne sürekliliği"
+      },
+      "correctOption": "A",
+      "explanation": "Çocuğun yalnızca kendi bakış açısından düşünmesi ve başkalarının görüşünü alamaması benmerkezciliktir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Piaget Dönemleri",
+      "difficulty": 2,
+      "text": "Aynı miktar suyun ince uzun bir bardağa boşaltıldığında arttığını söyleyen bir çocuk, su geniş bardağa geri döküldüğünde miktarın değişmediğini kabul etmeye başlamıştır. Çocuğun bu kazanımı hangi dönemde gerçekleşir?",
+      "options": {
+        "A": "Duyusal motor dönem",
+        "B": "Somut işlemler dönemi",
+        "C": "İşlem öncesi dönem",
+        "D": "Soyut işlemler dönemi"
+      },
+      "correctOption": "B",
+      "explanation": "Korunum kazanımı somut işlemler döneminde elde edilir; işlem öncesi dönemde çocuk bu ilkeyi kavrayamaz."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Piaget Dönemleri",
+      "difficulty": 3,
+      "text": "Bir gencin hiç görmediği varsayımsal durumlar üzerinde mantık yürüterek olasılıklı düşünmesi, Piaget'nin hangi dönem özelliğidir?",
+      "options": {
+        "A": "İşlem öncesi dönem",
+        "B": "Somut işlemler dönemi",
+        "C": "Soyut işlemler dönemi",
+        "D": "Duyusal motor dönem"
+      },
+      "correctOption": "C",
+      "explanation": "Soyut işlemler döneminde birey hipotetik düşünebilir, varsayımlar kurabilir ve soyut kavramlarla işlem yapabilir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Vygotsky Yakınsak Gelişim Alanı",
+      "difficulty": 2,
+      "text": "Vygotsky'ye göre çocuğun tek başına çözebileceği problemler ile yetişkinin ya da akranının desteğiyle çözebileceği problemler arasındaki alana ne ad verilir?",
+      "options": {
+        "A": "Özümleme alanı",
+        "B": "Dengeleme alanı",
+        "C": "Algı alanı",
+        "D": "Yakınsak gelişim alanı"
+      },
+      "correctOption": "D",
+      "explanation": "Çocuğun yardımla ulaşabileceği ancak tek başına ulaşamayacağı gelişim düzeyleri arasındaki alan yakınsak gelişim alanıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Vygotsky Destekleme",
+      "difficulty": 1,
+      "text": "Bir öğretmenin öğrencisine görevi başarabilecek düzeye gelene kadar ipucu, örnek ve yönlendirme sunması, ardından desteği aşamalı olarak azaltması Vygotsky'nin hangi kavramıyla açıklanır?",
+      "options": {
+        "A": "Destekleme",
+        "B": "Aşırı öğrenme",
+        "C": "Kademeli yaklaşma",
+        "D": "Buluş yoluyla öğrenme"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrenciye geçici olarak sunulan yönlendirme ve yardım destekleme (yer iskelesi) olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Vygotsky İçsel Konuşma",
+      "difficulty": 2,
+      "text": "Sesli düşünürken giderek konuşmayı içine alan ve düşünmenin düzenlenmesinde işlev gören süreç Vygotsky'ye göre hangi kavramla açıklanır?",
+      "options": {
+        "A": "Benmerkezci konuşma",
+        "B": "İçsel konuşma",
+        "C": "Taklit",
+        "D": "Sembolik oyun"
+      },
+      "correctOption": "B",
+      "explanation": "Vygotsky'ye göre çocuğun kendi kendine konuşması zamanla içsel konuşmaya dönüşerek düşünmenin düzenlenmesine hizmet eder."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bruner Temsil Düzeyleri",
+      "difficulty": 3,
+      "text": "Bruner'a göre bireyin bilgiyi eyleme dayalı, imgeye dayalı ve sembole dayalı olarak zihinsel temsil etme düzeyleri sırasıyla aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sembolik, imgesel, eylemsel",
+        "B": "İmgesel, sembolik, eylemsel",
+        "C": "Eylemsel, imgesel, sembolik",
+        "D": "İmgesel, eylemsel, sembolik"
+      },
+      "correctOption": "C",
+      "explanation": "Bruner'ın temsil düzeyleri eylemsel, imgesel ve sembolik olmak üzere bu sırayla gelişir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bruner Sarmal Program",
+      "difficulty": 2,
+      "text": "Bruner'a göre aynı konunun öğrencinin gelişim düzeyine uygun biçimde farklı sınıflarda, genişletilerek ve derinleştirilerek tekrar ele alınması hangi yaklaşımla açıklanır?",
+      "options": {
+        "A": "Doğrusal programlama",
+        "B": "Modüler öğretim",
+        "C": "Piramitsel yaklaşım",
+        "D": "Sarmal program"
+      },
+      "correctOption": "D",
+      "explanation": "Konuların her sınıf düzeyinde daha kapsamlı ve derin biçimde yinelenmesi sarmal program anlayışıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Ausubel Ön Organize Ediciler",
+      "difficulty": 2,
+      "text": "Ausubel, yeni bir konunun öğretimine geçmeden önce konuyla ilgili genel ve kapsayıcı nitelikte hazırlayıcı bilgiler sunulmasını önermiştir. Bu bilgilere ne ad verilir?",
+      "options": {
+        "A": "Ön organize edici",
+        "B": "Ayırt edici uyarıcı",
+        "C": "Dönüt",
+        "D": "Zihinsel harita"
+      },
+      "correctOption": "A",
+      "explanation": "Ön organize ediciler, yeni bilgi ile mevcut bilişsel yapı arasında köprü kurarak anlamlı öğrenmeyi destekler."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Ausubel Anlamlı ve Ezber Öğrenme",
+      "difficulty": 2,
+      "text": "Ausubel'e göre anlamlı öğrenmenin ezber öğrenmeden temel farkı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Daha çok tekrar gerektirmesi",
+        "B": "Yeni bilginin mevcut bilişsel yapıyla ilişkilendirilmesi",
+        "C": "Yalnızca sözel materyallerle gerçekleşmesi",
+        "D": "Pekiştirece bağlı olması"
+      },
+      "correctOption": "B",
+      "explanation": "Anlamlı öğrenmede yeni bilgi, bireyin var olan bilgi yapılarıyla ilişkilendirilir; ezber öğrenmede ise bu ilişki kurulmaz."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Ausubel Sunuş Yoluyla Öğretim",
+      "difficulty": 2,
+      "text": "Ausubel'in, konunun genel ilkelerden ayrıntılara doğru bir hiyerarşi içinde öğretmen tarafından sunulmasını öngören öğretim yaklaşımı hangisidir?",
+      "options": {
+        "A": "Buluş yoluyla öğretim",
+        "B": "Proje temelli öğretim",
+        "C": "Sunuş yoluyla öğretim",
+        "D": "Sorgulama temelli öğretim"
+      },
+      "correctOption": "C",
+      "explanation": "Tümdengelimli bir anlayışla genelden özele ilerleyen ve öğretmenin sunumunu temel alan yaklaşım sunuş yoluyla öğretimdir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gagné Öğretim Olayları",
+      "difficulty": 1,
+      "text": "Gagné'nin dokuz öğretim olayı sıralamasının ilk basamağı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ön koşul bilgileri hatırlatma",
+        "B": "Hedeflerden haberdar etme",
+        "C": "Performansı ortaya koyma",
+        "D": "Dikkati çekme"
+      },
+      "correctOption": "D",
+      "explanation": "Öğrenmeye başlamadan önce öğrencinin ilgisini konuya yöneltmek için dikkati çekme basamağı uygulanır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gagné Öğrenme Ürünleri",
+      "difficulty": 2,
+      "text": "Öğrencinin ayırt etme, kavram, kural ve problem çözme basamaklarından oluşan bir hiyerarşi içinde kazandığı öğrenme ürünü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Zihinsel beceriler",
+        "B": "Sözel bilgiler",
+        "C": "Tutumlar",
+        "D": "Psikomotor beceriler"
+      },
+      "correctOption": "A",
+      "explanation": "Ayırt etme, kavram, kural ve problem çözmeden oluşan hiyerarşi zihinsel beceriler kapsamındadır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gagné Öğrenme Hiyerarşisi",
+      "difficulty": 2,
+      "text": "Gagné'ye göre üst düzey bir öğrenmenin gerçekleşebilmesi için aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Öğrencinin üst düzey öğrenmeyi ezberlemesi",
+        "B": "Öğrenmeyi oluşturan ön koşul öğrenmelerin kazanılmış olması",
+        "C": "Öğretimin yalnızca sunuş yoluyla yapılması",
+        "D": "Pekiştirecin sürekli verilmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Gagné'nin öğrenme hiyerarşisinde her üst düzey öğrenme, kendisini oluşturan alt düzey ön koşul öğrenmelere dayanır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bandura Gözlem Yoluyla Öğrenmenin Aşamaları",
+      "difficulty": 3,
+      "text": "Bandura'ya göre gözlem yoluyla öğrenmenin gerçekleşmesi için sırasıyla dikkat etme, hatırlama, uygulama ve aşağıdakilerden hangisinin gerçekleşmesi gerekir?",
+      "options": {
+        "A": "Sönme",
+        "B": "Uyarıcı ayırt etme",
+        "C": "Güdülenme",
+        "D": "Ket vurma"
+      },
+      "correctOption": "C",
+      "explanation": "Model alınan davranışın gösterilebilmesi için bireyin o davranışı sergilemeye güdülenmiş olması gerekir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bandura Model Alma Türleri",
+      "difficulty": 2,
+      "text": "Bir öğrencinin fen bilgisi dersinde izlediği belgeseldeki bilim insanının davranışını örnek alması, Bandura'nın hangi model türüyle açıklanır?",
+      "options": {
+        "A": "Canlı model",
+        "B": "Sözel model",
+        "C": "Dolaylı model",
+        "D": "Sembolik model"
+      },
+      "correctOption": "D",
+      "explanation": "Kitap, televizyon ya da dijital ortamlarda gösterilen modeller sembolik model olarak adlandırılır."
+    }
+  ]
+}

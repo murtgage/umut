@@ -1,0 +1,6 @@
+{"questions": [
+ {"categorySlug":"geometri","topic":"Dikdortgenler Alani","difficulty":2,"text":"Bir dikdortgenin kenarlari 8 cm ve 15 cm ise alani kac cm2'dir?","options":{"A":"100","B":"110","C":"120","D":"130"},"correctOption":"C","explanation":"Dikdortgen alani = kisa kenar x uzun kenar = 8 x 15 = 120 cm2.","source":"ozgun"},
+ {"categorySlug":"geometri","topic":"Eskenar Ucgen Alani","difficulty":2,"text":"Bir eskenar ucgenin bir kenari 10 cm ise alani kac cm2'dir? (kok3 = 1.73 aliniz)","options":{"A":"43.25","B":"43.30","C":"43.35","D":"43.40"},"correctOption":"A","explanation":"Eskenar ucgen alani = (a2 x kok3) / 4 = (100 x 1.73) / 4 = 173 / 4 = 43.25.","source":"ozgun"},
+ {"categorySlug":"geometri","topic":"Paralelkenar Alani","difficulty":2,"text":"Bir paralelkenarin alani 96 cm2, tabani 12 cm ise yuksekligi kac cm'dir?","options":{"A":"6","B":"7","C":"8","D":"9"},"correctOption":"C","explanation":"Paralelkenar alani = taban x yukseklik -> yukseklik = alan / taban = 96 / 12 = 8 cm.","source":"ozgun"},
+ {"categorySlug":"geometri","topic":"Ucgen Alani","difficulty":2,"text":"Tabani 12 cm, yuksekligi 8 cm olan bir ucgenin alani kac cm2'dir?","options":{"A":"40","B":"48","C":"56","D":"64"},"correctOption":"B","explanation":"Ucgen alani = (taban x yukseklik) / 2 = (12 x 8) / 2 = 96 / 2 = 48 cm2.","source":"ozgun"}
+]}

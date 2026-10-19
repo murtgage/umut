@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Zümre Öğretmenler Kurulu",
+      "difficulty": 1,
+      "text": "Aynı dersi okutan öğretmenlerin bir araya gelerek programın uygulanması, sınavlar ve etkinlikler konusunda ortak kararlar aldığı kurul aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Zümre öğretmenler kurulu",
+        "B": "Okul aile birliği",
+        "C": "Öğrenci meclisi",
+        "D": "İl millî eğitim müdürlüğü"
+      },
+      "correctOption": "A",
+      "explanation": "Zümre öğretmenler kurulu, aynı dersi okutan öğretmenlerin programın uygulanması ve değerlendirilmesi konusunda ortak kararlar aldığı kuruldur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Ünite Planı",
+      "difficulty": 1,
+      "text": "Konuların anlamlı bir bütün oluşturacak biçimde gruplandırılarak belirli bir zaman dilimi için ayrıntılı olarak planlanmasına ne ad verilir?",
+      "options": {
+        "A": "Ders programı",
+        "B": "Ünite planı",
+        "C": "Eğitim programı",
+        "D": "Öğretim programı"
+      },
+      "correctOption": "B",
+      "explanation": "Ünite planı, ilişkili konuların bir bütün hâlinde belirli bir süre için ayrıntılı biçimde düzenlenmesidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Günlük Plan",
+      "difficulty": 2,
+      "text": "Bir öğretmenin dersin işlenişini aşamalar hâlinde gün gün gösteren, ünite planından daha ayrıntılı olan plana ne ad verilir?",
+      "options": {
+        "A": "Yıllık plan",
+        "B": "Ünite planı",
+        "C": "Günlük plan",
+        "D": "Eğitim programı"
+      },
+      "correctOption": "C",
+      "explanation": "Günlük plan, ünite planındaki konuların ders saatine bölünerek en ayrıntılı biçimde düzenlendiği plandır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "İnformal Program",
+      "difficulty": 2,
+      "text": "Öğrencilerin okul dışında aile, arkadaş çevresi ve kitle iletişim araçlarıyla etkileşimi sonucu edindikleri planlanmamış öğrenmeler hangi program kapsamında değerlendirilir?",
+      "options": {
+        "A": "Resmî program",
+        "B": "Örtük program",
+        "C": "Ekstra program",
+        "D": "İnformal program"
+      },
+      "correctOption": "D",
+      "explanation": "Okul dışı çevreden, planlanmadan ve yaşamın doğal akışı içinde kazanılan öğrenmeler informal program kapsamındadır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Geliştirme",
+      "difficulty": 2,
+      "text": "Eğitim programının hedeflerinin belirlenmesinden değerlendirilmesine kadar geçen süreçte yapılan tüm düzenleme ve iyileştirme çalışmalarına ne ad verilir?",
+      "options": {
+        "A": "Program geliştirme",
+        "B": "Program uygulama",
+        "C": "Ölçme ve değerlendirme",
+        "D": "Program desantralizasyonu"
+      },
+      "correctOption": "A",
+      "explanation": "Program geliştirme, programın tasarlanması, uygulanması, değerlendirilmesi ve geliştirilmesine ilişkin sistematik çalışmaların bütünüdür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Tasarımı",
+      "difficulty": 2,
+      "text": "Program geliştirme sürecinde programın ögelerinin hangi anlayışa göre ve nasıl düzenleneceğini ortaya koyan taslak anlayışa ne ad verilir?",
+      "options": {
+        "A": "Program değerlendirme",
+        "B": "Program tasarımı",
+        "C": "Program uygulaması",
+        "D": "İhtiyaç analizi"
+      },
+      "correctOption": "B",
+      "explanation": "Program tasarımı, program ögelerinin düzenlenmesinde izlenecek genel çerçeveyi ve anlayışı ifade eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Ögeleri Arasındaki İlişki",
+      "difficulty": 2,
+      "text": "Bir programda içerik, öğretim etkinlikleri ve ölçme durumları hazırlanırken belirleyici olan öge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sınama durumları",
+        "B": "Ders kitabı",
+        "C": "Hedefler",
+        "D": "Öğretim yöntemleri"
+      },
+      "correctOption": "C",
+      "explanation": "Programın ögeleri arasında hedefler belirleyici konumdadır; içerik, eğitim durumları ve sınama durumları hedeflere göre düzenlenir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedef ve Davranış",
+      "difficulty": 3,
+      "text": "Program geliştirmede hedef ile davranış arasındaki ilişkiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Hedefler öğrencinin yapacağı en küçük gözlenebilir eylemlerdir.",
+        "B": "Davranış, hedeften daha genel ve kapsamlı bir ifadedir.",
+        "C": "Hedefler yalnızca duyuşsal alanla ilgiliyken davranışlar bilişseldir.",
+        "D": "Hedefler genel ve kapsamlı, davranışlar ise gözlenebilir ve özel ifadelerdir."
+      },
+      "correctOption": "D",
+      "explanation": "Hedefler daha genel ve uzun vadeli istendik nitelikleri belirtirken davranışlar hedefe ulaşmayı gösteren gözlenebilir ve özel ifadelerdir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "İçerik Ögesi",
+      "difficulty": 2,
+      "text": "Programın hedeflerine ulaşmak üzere seçilen ve belli bir düzen içinde örgütlenen bilgi, beceri, tutum ve değerlerin oluşturduğu öge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İçerik",
+        "B": "Sınama durumları",
+        "C": "Eğitim durumları",
+        "D": "Hedef"
+      },
+      "correctOption": "A",
+      "explanation": "İçerik, hedeflere uygun biçimde seçilip örgütlenen bilgi, beceri ve değerleri kapsayan program ögesidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sınama Durumları",
+      "difficulty": 1,
+      "text": "Program geliştirmede öğrencilerin hedeflere ulaşma derecesinin ve öğrenme eksiklerinin belirlendiği öge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Hedef",
+        "B": "Sınama durumları",
+        "C": "İçerik",
+        "D": "Eğitim durumları"
+      },
+      "correctOption": "B",
+      "explanation": "Sınama durumları, öğrencilerin hedeflere ulaşıp ulaşmadığının ölçülüp değerlendirildiği program ögesidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Programın Ögeleri",
+      "difficulty": 2,
+      "text": "Programın temel ögeleri olarak bilinen hedef, içerik, eğitim durumları ve sınama durumları arasındaki ilişki için aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Ögeler birbirinden bağımsız olarak hazırlanır.",
+        "B": "Yalnızca içerik ve sınama durumları ilişkilidir.",
+        "C": "Ögeler karşılıklı etkileşim içinde ve bir bütün oluşturacak biçimde düzenlenir.",
+        "D": "Sınama durumları diğer ögelerden tümüyle bağımsızdır."
+      },
+      "correctOption": "C",
+      "explanation": "Program ögeleri birbirini tamamlayan bir bütün oluşturur; aralarında tutarlılık ve karşılıklı etkileşim bulunması gerekir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Kaynaşıklık",
+      "difficulty": 3,
+      "text": "Programda bir konunun diğer ders ve sınıf düzeylerindeki konularla kopuk olmaması, gereksiz tekrarlara yer verilmemesi hangi ilkeyle ilgilidir?",
+      "options": {
+        "A": "Esneklik",
+        "B": "Denge",
+        "C": "Süreklilik",
+        "D": "Kaynaşıklık"
+      },
+      "correctOption": "D",
+      "explanation": "Kaynaşıklık, konu ve dersler arasındaki ilişkinin kopmamasını, yatay ve dikey bütünlüğün sağlanmasını ifade eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Kapsam Ölçütü",
+      "difficulty": 2,
+      "text": "Program geliştirmede öğrencilere kazandırılacak hedeflerin ve bunlara ilişkin içeriğin genişliğini ifade eden ölçüt aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kapsam",
+        "B": "Sıralama",
+        "C": "Süreklilik",
+        "D": "Denge"
+      },
+      "correctOption": "A",
+      "explanation": "Kapsam, programın hedef ve içerik bakımından ne denli geniş bir alanı kavradığını belirtir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Süreklilik Ölçütü",
+      "difficulty": 2,
+      "text": "Bir davranışın ya da hedefin programın farklı aşamalarında yinelenerek pekiştirilmesini ifade eden ölçüt hangisidir?",
+      "options": {
+        "A": "Denge",
+        "B": "Süreklilik",
+        "C": "Kapsam",
+        "D": "Kaynaşıklık"
+      },
+      "correctOption": "B",
+      "explanation": "Süreklilik, aynı hedef ve davranışların program boyunca yinelenerek bireyde kalıcı hâle gelmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sıralama Ölçütü",
+      "difficulty": 2,
+      "text": "Programda bir konu ve yaşantının diğerinden önce mi sonra mı geleceğinin, öğrencinin gelişim düzeyi ve konunun ön koşulları gözetilerek belirlenmesi hangi ölçütle ilgilidir?",
+      "options": {
+        "A": "Kapsam",
+        "B": "Denge",
+        "C": "Sıralama",
+        "D": "Süreklilik"
+      },
+      "correctOption": "C",
+      "explanation": "Sıralama, bilgi ve yaşantıların hangi düzende verileceğini belirler; ön koşul ilişkileri ve öğrenci özellikleri dikkate alınır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Denge Ölçütü",
+      "difficulty": 3,
+      "text": "Programda bilişsel, duyuşsal ve devinimsel alanlara ilişkin hedeflere uygun ağırlık verilmesi hangi ölçütle açıklanır?",
+      "options": {
+        "A": "Sıralama",
+        "B": "Esneklik",
+        "C": "Kapsam",
+        "D": "Denge"
+      },
+      "correctOption": "D",
+      "explanation": "Denge, programın farklı alanlardaki hedeflerine ve öğrenci gereksinimlerine dengeli biçimde yer vermesi anlamına gelir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Esneklik",
+      "difficulty": 1,
+      "text": "Bir programın bölgesel koşullara, öğrenci özelliklerine ve öğretmenin özerkliğine göre gerekli uyarlamaların yapılmasına olanak tanıması hangi özellikle açıklanır?",
+      "options": {
+        "A": "Esneklik",
+        "B": "Katılık",
+        "C": "Süreklilik",
+        "D": "Kapsamlılık"
+      },
+      "correctOption": "A",
+      "explanation": "Programın koşullara göre uyarlanabilmesine izin veren özellik esnektir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Eğitim Programı ve Öğretim Programı",
+      "difficulty": 2,
+      "text": "Eğitim programı ile öğretim programı arasındaki ilişkiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Eğitim programı okul içi ve dışı tüm öğrenme yaşantılarını, öğretim programı ise bir dersi kapsar.",
+        "B": "Öğretim programı eğitim programından daha geniş kapsamlıdır.",
+        "C": "İkisi arasında kapsam bakımından hiçbir fark yoktur.",
+        "D": "Eğitim programı yalnızca ders dışı etkinlikleri kapsar."
+      },
+      "correctOption": "A",
+      "explanation": "Eğitim programı en kapsamlı plandır ve okul içi dışı tüm yaşantıları kapsarken öğretim programı bir dersle sınırlıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Yıllık Plan",
+      "difficulty": 2,
+      "text": "Bir dersin bir öğretim yılı boyunca hangi aylarda, hangi konuların ne kadar süreyle işleneceğini gösteren plana ne ad verilir?",
+      "options": {
+        "A": "Ünite planı",
+        "B": "Günlük plan",
+        "C": "Yıllık plan",
+        "D": "Ders kitabı"
+      },
+      "correctOption": "C",
+      "explanation": "Yıllık plan, öğretim programına dayalı olarak bir dersin yıl boyunca işleniş sırasını gösterir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Ders Kitabı ve Program İlişkisi",
+      "difficulty": 3,
+      "text": "Ders kitabının öğretim programı karşısındaki konumuyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ders kitabı öğretim programının kendisidir.",
+        "B": "Ders kitabı, programda belirtilen içeriğe kaynaklık eden araçlardan biridir.",
+        "C": "Ders kitabı programa aykırı olsa da tek belirleyicidir.",
+        "D": "Ders kitabı programın yerini alarak hedefleri belirler."
+      },
+      "correctOption": "B",
+      "explanation": "Ders kitabı program değil, program doğrultusunda hazırlanan ve içeriğe kaynaklık eden bir araçtır."
+    }
+  ]
+}

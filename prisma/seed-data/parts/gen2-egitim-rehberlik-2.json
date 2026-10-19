@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Bireyin kendini tanımasına yardımcı olmak amacıyla uygulanan zekâ, yetenek ve kişilik gibi araçlar hangi grup tekniklerdir?",
+      "options": {
+        "A": "Test dışı teknikler",
+        "B": "Gözlem teknikleri",
+        "C": "Test teknikleri",
+        "D": "Doküman analizi"
+      },
+      "correctOption": "C",
+      "explanation": "Testler, bireyi tanımada kullanılan standart ölçme araçlarıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Danışmanın önceden belirlenmiş bir amaç doğrultusunda bireyi izleyip davranışlarını kaydetmesi hangi tekniktir?",
+      "options": {
+        "A": "Sosyometri",
+        "B": "Görüşme",
+        "C": "Anket",
+        "D": "Gözlem"
+      },
+      "correctOption": "D",
+      "explanation": "Gözlem, davranışın doğal ortamda sistematik biçimde izlenmesidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 1,
+      "text": "Bireyi tanımak amacıyla yüz yüze ve sözlü olarak yapılan, karşılıklı konuşmaya dayanan teknik hangisidir?",
+      "options": {
+        "A": "Anket",
+        "B": "Gözlem",
+        "C": "Otobiyografi",
+        "D": "Görüşme"
+      },
+      "correctOption": "D",
+      "explanation": "Görüşme, yüz yüze sözlü iletişime dayanan tanıma tekniğidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Aynı soruların çok sayıda kişiye yazılı olarak yöneltildiği ve genellikle kapalı uçlu maddelerden oluşan teknik hangisidir?",
+      "options": {
+        "A": "Görüşme",
+        "B": "Gözlem",
+        "C": "Anket",
+        "D": "Vaka incelemesi"
+      },
+      "correctOption": "C",
+      "explanation": "Anket, çok sayıda kişiye yazılı soru yöneltilen veri toplama tekniğidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 1,
+      "text": "Bireyin geçmiş yaşantılarını ve yaşam öyküsünü kendi kaleminden anlattığı teknik hangisidir?",
+      "options": {
+        "A": "Sosyometri",
+        "B": "Anket",
+        "C": "Otobiyografi",
+        "D": "Kim bu?"
+      },
+      "correctOption": "C",
+      "explanation": "Otobiyografi, bireyin kendi yaşam öyküsünü yazmasıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 3,
+      "text": "Sınıf içindeki arkadaşlık ilişkilerini, klikleri ve yalnız kalan öğrencileri belirlemek için kullanılan teknik hangisidir?",
+      "options": {
+        "A": "Anket",
+        "B": "Sosyometri",
+        "C": "Otobiyografi",
+        "D": "Derecelendirme ölçeği"
+      },
+      "correctOption": "B",
+      "explanation": "Sosyometri, grup içi sosyal ilişkileri ve tercihleri ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 3,
+      "text": "Öğrencilere bir arkadaşlarının özelliklerini tanımlayan ipuçları verilerek kimin kastedildiğinin bulunmasının istendiği teknik hangisidir?",
+      "options": {
+        "A": "Arzu listesi",
+        "B": "Problem tarama listesi",
+        "C": "Vaka incelemesi",
+        "D": "Kim bu?"
+      },
+      "correctOption": "D",
+      "explanation": "Kim bu? tekniğinde öğrenciler tanımlanan arkadaşlarını tahmin eder."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Öğrencilerin sahip oldukları sorunları işaretlemelerini sağlayarak yaygın sorun alanlarını belirleyen teknik hangisidir?",
+      "options": {
+        "A": "Arzu listesi",
+        "B": "Problem tarama listesi",
+        "C": "Sosyometri",
+        "D": "Otobiyografi"
+      },
+      "correctOption": "B",
+      "explanation": "Problem tarama listesi, öğrencilerin sorun alanlarını belirlemeye yarar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Öğrencilere ne olmak ve neye sahip olmak istedikleri sorularak ilgi ve özlemlerinin belirlendiği teknik hangisidir?",
+      "options": {
+        "A": "Problem tarama listesi",
+        "B": "Sosyometri",
+        "C": "Arzu listesi",
+        "D": "Anket"
+      },
+      "correctOption": "C",
+      "explanation": "Arzu listesi, bireyin istek ve özlemlerini ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 1,
+      "text": "Öğrencinin ailesini ve yaşadığı çevreyi yerinde gözlemleyerek bilgi edinilen teknik hangisidir?",
+      "options": {
+        "A": "Vaka incelemesi",
+        "B": "Sosyometri",
+        "C": "Görüşme",
+        "D": "Ev ziyareti"
+      },
+      "correctOption": "D",
+      "explanation": "Ev ziyareti, öğrencinin aile ortamını doğal koşullarda tanımaya yarar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 3,
+      "text": "Bir öğrenciyle ilgili tüm bilgilerin (okul, aile, sağlık, sosyal) toplanıp derinlemesine incelenmesine dayanan teknik hangisidir?",
+      "options": {
+        "A": "Anket",
+        "B": "Arzu listesi",
+        "C": "Vaka incelemesi",
+        "D": "Gözlem"
+      },
+      "correctOption": "C",
+      "explanation": "Vaka incelemesi, bireyi çok yönlü ve derinlemesine ele alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Bir davranışın belirli bir özelliğinin 'hiç', 'bazen', 'sık sık' gibi derecelerle değerlendirildiği ölçme aracı hangisidir?",
+      "options": {
+        "A": "Problem tarama listesi",
+        "B": "Kontrol listesi",
+        "C": "Derecelendirme ölçeği",
+        "D": "Sosyometri"
+      },
+      "correctOption": "C",
+      "explanation": "Derecelendirme ölçekleri, davranışı belirli derecelerle değerlendirir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Modelleri",
+      "difficulty": 2,
+      "text": "Rehberlik programının tüm öğrencilere yönelik, gelişimsel ve önleyici olduğunu savunan model hangisidir?",
+      "options": {
+        "A": "Klinik model",
+        "B": "Krize müdahale modeli",
+        "C": "Geleneksel model",
+        "D": "Kapsamlı gelişimsel rehberlik modeli"
+      },
+      "correctOption": "D",
+      "explanation": "Kapsamlı gelişimsel model, tüm öğrencilere önleyici ve gelişimsel hizmet sunar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Modelleri",
+      "difficulty": 2,
+      "text": "Kapsamlı gelişimsel rehberlik modelinde hizmetlerin temel aldığı üç gelişim alanı hangileridir?",
+      "options": {
+        "A": "Fiziksel, zihinsel, duygusal",
+        "B": "Okul, aile, çevre",
+        "C": "Bireysel, grupla, sınıf",
+        "D": "Eğitsel, mesleki, kişisel-sosyal"
+      },
+      "correctOption": "D",
+      "explanation": "Model; eğitsel, mesleki ve kişisel-sosyal gelişim alanlarını esas alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 2,
+      "text": "Rehberlik programında sınıf rehberlik etkinlikleri yoluyla tüm öğrencilere ulaşmak hangi hizmet kapsamına girer?",
+      "options": {
+        "A": "Konsültasyon",
+        "B": "Bireysel öğrenci hizmetleri",
+        "C": "Krize müdahale",
+        "D": "Sınıf rehberliği (program kapsamında rehberlik)"
+      },
+      "correctOption": "D",
+      "explanation": "Sınıf rehberliği, tüm öğrencilere program aracılığıyla ulaşır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 2,
+      "text": "Rehberlikte öğrencinin kendini rahatça ifade edebildiği güvenli bir ilişkinin kurulması hangi temel koşuldur?",
+      "options": {
+        "A": "Tam not verme",
+        "B": "Zorlama",
+        "C": "Empati ve güven ilişkisi",
+        "D": "Yargılama"
+      },
+      "correctOption": "C",
+      "explanation": "Etkili rehberlik için güvene ve empatiye dayalı bir ilişki esastır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Bireyi tanıma tekniklerinden hangisi çok yönlü ve derinlemesine bilgi toplamaya en fazla dayanır?",
+      "options": {
+        "A": "Kısa bir anket",
+        "B": "Vaka incelemesi",
+        "C": "Derecelendirme ölçeği",
+        "D": "Kim bu?"
+      },
+      "correctOption": "B",
+      "explanation": "Vaka incelemesi kapsamlı ve derinlemesine bilgi toplar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrenciler hakkındaki görüşlerini belirli bir sistem içinde kaydetmesini sağlayan araç hangisidir?",
+      "options": {
+        "A": "Arzu listesi",
+        "B": "Sosyometri",
+        "C": "Otobiyografi",
+        "D": "Derecelendirme ölçeği"
+      },
+      "correctOption": "D",
+      "explanation": "Derecelendirme ölçeği, gözleme dayalı yargıların sistematik kaydını sağlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 2,
+      "text": "Sosyometri sonuçlarına göre hiçbir arkadaşı tarafından seçilmeyen öğrenciler nasıl adlandırılır?",
+      "options": {
+        "A": "Reddedilen lider",
+        "B": "Yıldız (popüler) öğrenci",
+        "C": "İzole (yalnız) öğrenci",
+        "D": "Kaygılı öğrenci"
+      },
+      "correctOption": "C",
+      "explanation": "Hiç seçim almayan öğrenciler izole (yalnız) öğrencilerdir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Bireyi Tanıma Teknikleri",
+      "difficulty": 1,
+      "text": "Sosyometride en çok seçilen ve arkadaşları tarafından tercih edilen öğrenciler nasıl adlandırılır?",
+      "options": {
+        "A": "Utangaç öğrenci",
+        "B": "İzole öğrenci",
+        "C": "Reddedilen öğrenci",
+        "D": "Yıldız öğrenci"
+      },
+      "correctOption": "D",
+      "explanation": "En çok seçilen öğrenciler yıldız (popüler) öğrencilerdir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 2,
+      "text": "Rehberlikte bilginin öğrenciye aktarılması yerine öğrencinin doğru karar verme becerisini kazanmasının hedeflenmesi hangi anlayışı yansıtır?",
+      "options": {
+        "A": "Yönlendirici ve otoriter anlayış",
+        "B": "Öğrenci merkezli ve gelişimsel anlayış",
+        "C": "Ceza ağırlıklı anlayış",
+        "D": "Öğretmen merkezli anlayış"
+      },
+      "correctOption": "B",
+      "explanation": "Çağdaş rehberlik, öğrenciyi karar verme sürecinin merkezine alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik İlkeleri",
+      "difficulty": 3,
+      "text": "Bir öğrencinin okula uyum sorunlarını, akran ilişkilerini ve ders başarısını bir arada inceleyen rehberlik yaklaşımı hangisidir?",
+      "options": {
+        "A": "Yalnızca not odaklı yaklaşım",
+        "B": "Cezalandırıcı yaklaşım",
+        "C": "Sadece mesleki yöneltme",
+        "D": "Bireyi bir bütün olarak ele alma"
+      },
+      "correctOption": "D",
+      "explanation": "Rehberlik, bireyi tüm yönleriyle bütünsel olarak ele alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlikte Etik",
+      "difficulty": 2,
+      "text": "Rehberlikte tanıma sürecinde elde edilen bilgilerin öğrencinin yararına sunulması hangi ilkeye uygun olur?",
+      "options": {
+        "A": "Ceza",
+        "B": "Zorlama",
+        "C": "Reklam",
+        "D": "Gizlilik ve öğrenci yararı"
+      },
+      "correctOption": "D",
+      "explanation": "Bilgiler öğrencinin yararı gözetilerek ve gizlilik korunarak kullanılır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 3,
+      "text": "Öğretmen ve ailenin öğrenci hakkında birbirlerine düzenli geri bildirimde bulunmasını sağlayan rehberlik hizmeti hangisidir?",
+      "options": {
+        "A": "Oryantasyon",
+        "B": "Tanı testi",
+        "C": "Sosyometri",
+        "D": "Çevre ve veli ilişkileri"
+      },
+      "correctOption": "D",
+      "explanation": "Çevre-veli ilişkileri, okul-aile iletişimini ve iş birliğini sağlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Rehberlik Hizmetleri",
+      "difficulty": 2,
+      "text": "Öğrencinin yeni girdiği okulun kurallarını, öğretmenlerini ve olanaklarını öğrenmesine yardımcı olan hizmet hangisidir?",
+      "options": {
+        "A": "Psikolojik danışma",
+        "B": "Vaka incelemesi",
+        "C": "Oryantasyon",
+        "D": "Anket"
+      },
+      "correctOption": "C",
+      "explanation": "Oryantasyon, yeni ortama uyumu kolaylaştıran tanıtım hizmetidir."
+    }
+  ]
+}

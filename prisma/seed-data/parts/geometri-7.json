@@ -302,36 +302,6 @@
     },
     {
       "categorySlug": "geometri",
-      "topic": "Dörtgenler",
-      "difficulty": 1,
-      "text": "Bir karenin bir kenarı 9 cm ise çevresi kaç cm dir?",
-      "options": {
-        "A": "27",
-        "B": "36",
-        "C": "45",
-        "D": "81"
-      },
-      "correctOption": "B",
-      "explanation": "Karenin çevresi=4*kenar=4*9=36 cm dir.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "geometri",
-      "topic": "Çember",
-      "difficulty": 2,
-      "text": "Bir çemberde yarıçap 10 cm ise çap kaç cm dir?",
-      "options": {
-        "A": "5",
-        "B": "10",
-        "C": "20",
-        "D": "40"
-      },
-      "correctOption": "C",
-      "explanation": "Çap=2*r=2*10=20 cm dir.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "geometri",
       "topic": "Benzerlik",
       "difficulty": 2,
       "text": "Kenar uzunlukları 9 ve 12 olan bir dik üçgen ile benzer bir üçgenin hipotenüsü 15 ise büyük dik kenarı kaçtır?",
@@ -344,35 +314,6 @@
       "correctOption": "C",
       "explanation": "Benzerlik oranı 15/15=1 olduğundan kenarlar aynıdır: 12 cm.",
       "source": "özgün"
-    },
-    {
-      "categorySlug": "geometri",
-      "topic": "Alan ve Çevre",
-      "difficulty": 3,
-      "text": "Tabanı 12 cm, yüksekliği 7 cm olan bir üçgenin alanı kaç cm^2 dir?",
-      "options": {
-        "A": "36",
-        "B": "42",
-        "C": "48",
-        "D": "84"
-      },
-      "correctOption": "B",
-      "explanation": "Alan=(12*7)/2=42 cm^2 dir.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "geometri",
-      "topic": "Katı Cisimler",
-      "difficulty": 3,
-      "text": "Yarıçapı 6 cm, yüksekliği 4 cm olan bir silindirin hacmi kaç cm^3 tür? (pi=3)",
-      "options": {
-        "A": "216",
-        "B": "288",
-        "C": "360",
-        "D": "432"
-      },
-      "correctOption": "D",
-      "explanation": "Hacim=pi*r^2*h=3*6^2*4=3*36*4=432 cm^3 tür."
     }
   ]
 }

@@ -198,21 +198,6 @@
       "categorySlug": "tarih",
       "topic": "Osmanlı Savaşları",
       "difficulty": 2,
-      "text": "Osmanlı'nın ilk deniz zaferi hangi savaşta kazanılmıştır?",
-      "options": {
-        "A": "Preveze",
-        "B": "İnebahtı",
-        "C": "Çanakkale",
-        "D": "Navarin"
-      },
-      "correctOption": "A",
-      "explanation": "İlk deniz zaferi Preveze'de (1538) kazanılmıştır.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "tarih",
-      "topic": "Osmanlı Savaşları",
-      "difficulty": 2,
       "text": "Osmanlı'nın ilk büyük deniz yenilgisi hangi savaşta yaşanmıştır?",
       "options": {
         "A": "Preveze",
@@ -222,36 +207,6 @@
       },
       "correctOption": "B",
       "explanation": "İlk büyük deniz yenilgisi İnebahtı'da (1571) yaşanmıştır.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "tarih",
-      "topic": "Osmanlı Savaşları",
-      "difficulty": 2,
-      "text": "Osmanlı'nın en uzun süren savaşlarından biri hangisidir?",
-      "options": {
-        "A": "Trablusgarp Savaşı",
-        "B": "Balkan Savaşları",
-        "C": "I. Dünya Savaşı",
-        "D": "Kurtuluş Savaşı"
-      },
-      "correctOption": "C",
-      "explanation": "I. Dünya Savaşı Osmanlı'nın en uzun süren savaşlarından biridir (1914-1918).",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "tarih",
-      "topic": "Osmanlı Antlaşmaları",
-      "difficulty": 2,
-      "text": "Osmanlı'nın ilk antlaşması hangisidir?",
-      "options": {
-        "A": "Karlofça",
-        "B": "Küçük Kaynarca",
-        "C": "Zitvatorok",
-        "D": "Pasarofça"
-      },
-      "correctOption": "C",
-      "explanation": "İlk antlaşma Zitvatorok'tur (1606).",
       "source": "özgün"
     },
     {

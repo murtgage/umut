@@ -1,0 +1,3 @@
+{"questions": [
+ {"categorySlug":"matematik","topic":"Olasılık","difficulty":2,"text":"Standart 52'lik bir deste karttan rastgele bir kart çekildiğinde, çekilen kartın 'Kız (Q)' olma olasılığı nedir?","options":{"A":"1/52","B":"1/13","C":"1/4","D":"1/2"},"correctOption":"B","explanation":"Destede 4 kız (Q) vardır (her suit'ten 1'er). Olasılık = 4/52 = 1/13.","source":"özgün"}
+]}

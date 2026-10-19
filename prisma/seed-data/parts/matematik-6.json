@@ -332,21 +332,6 @@
     },
     {
       "categorySlug": "matematik",
-      "topic": "Olasılık",
-      "difficulty": 2,
-      "text": "Bir deste 52 karttan rastgele bir kart çekildiğinde kız (kız) gelme olasılığı kaçtır?",
-      "options": {
-        "A": "1/52",
-        "B": "4/52",
-        "C": "13/52",
-        "D": "1/4"
-      },
-      "correctOption": "C",
-      "explanation": "13 kız → 13/52=1/4.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "matematik",
       "topic": "İstatistik",
       "difficulty": 2,
       "text": "2, 4, 6, 8, 10 sayılarının medyanı kaçtır?",

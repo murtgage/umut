@@ -77,36 +77,6 @@
     },
     {
       "categorySlug": "matematik",
-      "topic": "Geometri",
-      "difficulty": 2,
-      "text": "Bir yamuğun alt tabanı 8, üst tabanı 4, yüksekliği 3 ise alanı kaçtır?",
-      "options": {
-        "A": "12",
-        "B": "18",
-        "C": "24",
-        "D": "36"
-      },
-      "correctOption": "B",
-      "explanation": "Alan = (8+4)/2 × 3 = 18.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "matematik",
-      "topic": "Geometri",
-      "difficulty": 3,
-      "text": "Bir kürenin yarıçapı 3 cm ise hacmi kaç cm³'tür? (π=3)",
-      "options": {
-        "A": "27",
-        "B": "36",
-        "C": "72",
-        "D": "108"
-      },
-      "correctOption": "D",
-      "explanation": "Hacim = (4/3)πr³ = (4/3)×3×27 = 108 cm³.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "matematik",
       "topic": "Mantık",
       "difficulty": 2,
       "text": "'Değil (not)' işleminin sonucu hangi durumda doğrudur?",

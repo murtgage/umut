@@ -1,0 +1,3 @@
+{"questions": [
+ {"categorySlug":"matematik","topic":"Kesirler","difficulty":2,"text":"Aşağıdaki işlemlerin sonucu 1 olan hangisidir?","options":{"A":"2/3 + 1/6","B":"5/5","C":"7/8 + 2/8","D":"4/7 + 2/7"},"correctOption":"B","explanation":"A: 2/3+1/6=5/6, B: 5/5=1, C: 7/8+2/8=9/8, D: 4/7+2/7=6/7. Sadece B sonucu 1 eder.","source":"özgün"}
+]}

@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Eğitim Durumlarının Ögeleri",
+      "difficulty": 1,
+      "text": "Program geliştirmede eğitim durumları ögesi düzenlenirken aşağıdakilerden hangisine yer verilir?",
+      "options": {
+        "A": "Kullanılacak strateji, yöntem, teknik ve araç gereçlere",
+        "B": "Yalnızca hedef ifadelerine",
+        "C": "Yalnızca sınav sorularına",
+        "D": "Yalnızca ders kitabının künyesine"
+      },
+      "correctOption": "A",
+      "explanation": "Eğitim durumları; öğrenciye yaşatılacak etkinlikleri, kullanılacak öğretim stratejisi, yöntem, teknik ve araç gereçleri kapsar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğretim İlkeleri",
+      "difficulty": 2,
+      "text": "Öğretim etkinliklerinin öğrencilerin yaş, gelişim düzeyi, ilgi ve gereksinimleri gözetilerek düzenlenmesi hangi öğretim ilkesiyle açıklanır?",
+      "options": {
+        "A": "Ekonomiklik",
+        "B": "Öğrenciye görelik",
+        "C": "Hayatilik",
+        "D": "Bütünlük"
+      },
+      "correctOption": "B",
+      "explanation": "Öğrenciye görelik ilkesi, öğretimin öğrencinin gelişim özellikleri ve bireysel farklılıklarına uygun düzenlenmesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğretim İlkeleri",
+      "difficulty": 1,
+      "text": "Konuların öğrencinin okul dışındaki yaşamıyla ilişkilendirilmesi ve günlük yaşamda işe yarar biçimde sunulması hangi öğretim ilkesidir?",
+      "options": {
+        "A": "Bilinenden bilinmeyene",
+        "B": "Somuttan soyuta",
+        "C": "Hayatilik (yaşama yakınlık)",
+        "D": "Aktif katılım"
+      },
+      "correctOption": "C",
+      "explanation": "Hayatilik ilkesi, öğretimin yaşamla ilişkilendirilmesini ve öğrencinin yaşamına katkı sağlamasını esas alır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğretim İlkeleri",
+      "difficulty": 2,
+      "text": "Öğretimde önce nesnenin kendisinin, modelinin ya da resminin gösterilmesi, daha sonra kavramın tanımının verilmesi hangi ilkeyle ilgilidir?",
+      "options": {
+        "A": "Bilinenden bilinmeyene",
+        "B": "Bütünlük",
+        "C": "Ekonomiklik",
+        "D": "Somuttan soyuta"
+      },
+      "correctOption": "D",
+      "explanation": "Öğretimin somut yaşantılardan başlayıp soyut kavramlara doğru ilerlemesi somuttan soyuta ilkesidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğretim İlkeleri",
+      "difficulty": 3,
+      "text": "Bir öğretmenin yeni konuya başlarken öğrencilerin günlük yaşamda zaten bildiği örneklerden yararlanıp konuyu aşamalı olarak bilinmeyen yönlerine taşıması hangi ilkeye uygundur?",
+      "options": {
+        "A": "Bilinenden bilinmeyene",
+        "B": "Yakından uzağa",
+        "C": "Ekonomiklik",
+        "D": "Bütünlük"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrencinin var olan bilgilerinden yola çıkıp yeni bilgilere doğru ilerlemek bilinenden bilinmeyene ilkesidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğretim İlkeleri",
+      "difficulty": 2,
+      "text": "Ders sürecinde yalnızca öğretmenin konuşması yerine öğrencilerin tartışma, deney ve uygulama yaparak öğrenmeye katılması hangi öğretim ilkesiyle açıklanır?",
+      "options": {
+        "A": "Bütünlük",
+        "B": "Aktif katılım",
+        "C": "Hayatilik",
+        "D": "Bilinenden bilinmeyene"
+      },
+      "correctOption": "B",
+      "explanation": "Öğrencinin öğretim sürecinde etkin rol alması, yaparak yaşayarak öğrenmesi aktif katılım ilkesidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sınama Durumları",
+      "difficulty": 1,
+      "text": "Program geliştirmede sınama durumlarının geçerli olabilmesi için öncelikle aşağıdakilerden hangisi gereklidir?",
+      "options": {
+        "A": "Çok sayıda soru sorulması",
+        "B": "Öğrencilerin zorlanması",
+        "C": "Ölçme araçlarının hedeflerle ve içerikle tutarlı olması",
+        "D": "Yalnızca yazılı sınav yapılması"
+      },
+      "correctOption": "C",
+      "explanation": "Ölçme araçları programın hedeflerine ve işlenen içeriğe uygun olduğunda hedefe ulaşma düzeyini doğru biçimde ölçebilir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sınama Durumları",
+      "difficulty": 2,
+      "text": "Öğrenme ürünlerinin ölçülmesinde yazılı sınav, performans görevi ve gözlem formu gibi farklı araçların birlikte kullanılması sınama durumlarının hangi özelliğine işaret eder?",
+      "options": {
+        "A": "Ekonomiklik",
+        "B": "Gizlilik",
+        "C": "Tekdüzelik",
+        "D": "Çeşitlilik"
+      },
+      "correctOption": "D",
+      "explanation": "Öğrenme ürünlerinin farklı alanlara ve düzeylere göre çeşitli araçlarla ölçülmesi, sınama durumlarında çeşitliliği gerektirir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Değerlendirme Türleri",
+      "difficulty": 1,
+      "text": "Öğretim yılının başında öğrencilerin konuyla ilgili ön bilgi ve beceri düzeyini belirlemek amacıyla yapılan değerlendirme hangisidir?",
+      "options": {
+        "A": "Tanımaya ve yerleştirmeye dönük değerlendirme",
+        "B": "Değere biçmeye dönük değerlendirme",
+        "C": "Sonuç değerlendirmesi",
+        "D": "Dışsal değerlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrencinin hazırbulunuşluk düzeyini belirlemek ve uygun yere yerleştirmek için yapılan değerlendirme tanımaya ve yerleştirmeye dönüktür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Değerlendirme Türleri",
+      "difficulty": 2,
+      "text": "Öğretim yılı sonunda öğrencilere başarı notu vermek amacıyla yapılan değerlendirme hangisidir?",
+      "options": {
+        "A": "Tanımaya dönük değerlendirme",
+        "B": "Değere biçmeye dönük değerlendirme",
+        "C": "Biçimlendirmeye dönük değerlendirme",
+        "D": "İçsel değerlendirme"
+      },
+      "correctOption": "B",
+      "explanation": "Öğrenme sonunda belli ölçütlere göre karar verip not takdir etmek değere biçmeye dönük (sonuç) değerlendirmedir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Değerlendirme",
+      "difficulty": 2,
+      "text": "Hedefe dayalı program değerlendirme yaklaşımında değerlendirmenin odak noktası aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Programın maliyeti",
+        "B": "Öğretmenlerin hizmet süresi",
+        "C": "Öğrencilerin önceden belirlenen hedeflere ulaşma derecesi",
+        "D": "Okul binasının fiziksel durumu"
+      },
+      "correctOption": "C",
+      "explanation": "Hedefe dayalı değerlendirmede ölçüt, programın belirlediği hedefler ve bu hedeflere ulaşılma düzeyidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Değerlendirme",
+      "difficulty": 2,
+      "text": "Programı hazırlayan ekibin ya da programı uygulayan öğretmenlerin kendi programlarını değerlendirmesi hangi değerlendirme türüdür?",
+      "options": {
+        "A": "Dışsal değerlendirme",
+        "B": "Karşılaştırmalı değerlendirme",
+        "C": "Işınsal değerlendirme",
+        "D": "İçsel değerlendirme"
+      },
+      "correctOption": "D",
+      "explanation": "Değerlendirme programı hazırlayan ya da uygulayanların kendisi tarafından yapıldığında içsel değerlendirme söz konusudur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Değerlendirme",
+      "difficulty": 3,
+      "text": "Bir programın, hazırlayıcılarından bağımsız uzmanlarca ve dışarıdan bir bakışla değerlendirilmesi hangi değerlendirme türüdür?",
+      "options": {
+        "A": "Dışsal değerlendirme",
+        "B": "İçsel değerlendirme",
+        "C": "Biçimlendirmeye dönük değerlendirme",
+        "D": "Tanımaya dönük değerlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Programdan bağımsız kişi ya da kurumlarca yapılan değerlendirme dışsal değerlendirmedir ve nesnellik sağlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Değerlendirme",
+      "difficulty": 3,
+      "text": "Bir programın etkililiğinin, uygulandığı deney grupları ile uygulanmadığı kontrol gruplarının sonuçları karşılaştırılarak belirlenmesi hangi değerlendirme yaklaşımıdır?",
+      "options": {
+        "A": "İçsel değerlendirme",
+        "B": "Karşılaştırmalı (deneysel) değerlendirme",
+        "C": "Hedefe dayalı değerlendirme",
+        "D": "Işınsal değerlendirme"
+      },
+      "correctOption": "B",
+      "explanation": "Deney ve kontrol gruplarının karşılaştırılmasına dayanan bu yaklaşım karşılaştırmalı ya da deneysel değerlendirmedir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Değerlendirmede Nitel Veri",
+      "difficulty": 2,
+      "text": "Bir program değerlendirme çalışmasında nitel veri toplamak için aşağıdakilerden hangisinden yararlanılır?",
+      "options": {
+        "A": "Standart başarı testinden",
+        "B": "Çoktan seçmeli sınavdan",
+        "C": "Gözlem, görüşme ve doküman incelemesinden",
+        "D": "Puan ortalaması hesaplamasından"
+      },
+      "correctOption": "C",
+      "explanation": "Nitel veriler görüşme, gözlem ve doküman incelemesi gibi yollarla toplanır; test ve puan hesaplaması nicel veri sağlar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Geliştirmede Kurullar",
+      "difficulty": 1,
+      "text": "Türkiye'de eğitim ve öğretimle ilgili program, yönetmelik ve ders kitabı kararlarını inceleyip onaylayan en yetkili kurul aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Zümre öğretmenler kurulu",
+        "B": "Okul aile birliği",
+        "C": "Öğrenci meclisi",
+        "D": "Talim ve Terbiye Kurulu"
+      },
+      "correctOption": "D",
+      "explanation": "Talim ve Terbiye Kurulu, eğitim programları ve ilgili kararlar konusunda MEB'in en yetkili danışma ve karar organıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Program Geliştirmede Kurullar",
+      "difficulty": 2,
+      "text": "Bir programın taslağını hazırlamak üzere alan uzmanları, öğretmenler ve ilgili birim temsilcilerinden oluşturulan birim aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Program geliştirme komisyonu",
+        "B": "Talim ve Terbiye Kurulu",
+        "C": "Okul aile birliği",
+        "D": "Ölçme değerlendirme merkezi"
+      },
+      "correctOption": "A",
+      "explanation": "Program geliştirme komisyonu, farklı uzmanlıkları bir araya getirerek program taslağını hazırlayan çalışma grubudur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "MEB Programlarının Yaklaşımı",
+      "difficulty": 2,
+      "text": "Türkiye'de 2005 yılından itibaren uygulanmaya başlanan öğretim programlarının benimsediği yaklaşım aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Davranışçı yaklaşım",
+        "B": "Yapılandırmacı yaklaşım",
+        "C": "Daimicilik",
+        "D": "Esasicilik"
+      },
+      "correctOption": "B",
+      "explanation": "2005 sonrası MEB programları, öğrencinin bilgiyi kendisinin yapılandırdığı yapılandırmacı yaklaşımı temel almıştır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "MEB Programlarının Yaklaşımı",
+      "difficulty": 1,
+      "text": "MEB'in son dönemdeki öğretim programlarında kazanımların yanında alan becerileri, kavramsal beceriler ve değerler eğitimine yer verilmesi hangi anlayışın yansımasıdır?",
+      "options": {
+        "A": "Yalnızca konu merkezli anlayışın",
+        "B": "Yalnızca ezbere dayalı anlayışın",
+        "C": "Beceri ve değer temelli program anlayışının",
+        "D": "Yalnızca merkezî sınav odaklı anlayışın"
+      },
+      "correctOption": "C",
+      "explanation": "Son dönem MEB programları beceri temelli bir yapı benimseyerek değerler eğitimini ve bütüncül gelişimi öne çıkarır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğretmenin Program Geliştirmedeki Rolü",
+      "difficulty": 3,
+      "text": "Bir programın uygulanmasında öğretmene düşen görevle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Programı hiç değiştirmeden uygulamakla yükümlüdür.",
+        "B": "Yalnızca sınav sorusu hazırlamakla ilgilenir.",
+        "C": "Program geliştirme çalışmalarına katılamaz.",
+        "D": "Programı uygularken koşullara uyarlayabilir ve uygulama sürecinde geri bildirim sağlayarak geliştirilmesine katkı sunabilir."
+      },
+      "correctOption": "D",
+      "explanation": "Öğretmen programı uygulayan kişi olarak esneklikten yararlanır ve karşılaştığı sorunları bildirerek programın geliştirilmesine katkı sağlar."
+    }
+  ]
+}

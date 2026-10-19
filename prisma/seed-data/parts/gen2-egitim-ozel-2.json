@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 2,
+      "text": "Okuma güçlüğü yaşayan bir öğrenci için öğretmenin uygulaması gereken öğretimsel düzenleme hangisidir?",
+      "options": { "A": "Metni küçük parçalara ayırıp çok duyulu yöntemlerle çalışmak", "B": "Okuma ödevini artırmak", "C": "Yalnızca yazılı anlatım yapmak", "D": "Metni hiç ele almamak" },
+      "correctOption": "A",
+      "explanation": "Metni parçalara ayırmak ve çok duyulu yöntem kullanmak, okuma güçlüğü olan öğrencinin anlamasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 1,
+      "text": "El yazısı okunaksız olan ve yazmada güçlük çeken öğrenci için öğretmenin uygun yaklaşımı hangisidir?",
+      "options": { "A": "Yazısını sınıf önünde eleştirmesi", "B": "Yazma ödevini iki katına çıkarması", "C": "Kâğıt düzeni ve klavye kullanımı gibi destekler sunması", "D": "Yazma çalışmalarından öğrenciyi muaf tutması" },
+      "correctOption": "C",
+      "explanation": "Kâğıt düzeni, satır aralığı ve klavye gibi destekler, yazma güçlüğü olan öğrencinin üretimini kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 2,
+      "text": "Sayıları ve işlemleri öğrenmede zorlanan öğrenciye matematik öğretiminde hangisi uygundur?",
+      "options": { "A": "Soyut anlatımı artırmak", "B": "Somut materyallerle işlem basamaklarını küçük adımlara bölmek", "C": "Ders süresini uzatmak", "D": "İşlemleri yalnızca ezberletmek" },
+      "correctOption": "B",
+      "explanation": "Somut materyal ve küçük adımlar, matematiksel ilişkilerin anlaşılmasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 3,
+      "text": "Öğrenme güçlüğü tanısının konulabilmesi için öğrencinin başarısızlığını açıklayabilecek hangi etkenlerin dışlanması gerekir?",
+      "options": { "A": "Öğrencinin ilgi alanlarının", "B": "Kardeş sayısının", "C": "Okulun bulunduğu ilin", "D": "Genel zekâ geriliği, duyusal yetersizlik ve olumsuz çevre koşullarının" },
+      "correctOption": "D",
+      "explanation": "Öğrenme güçlüğü tanısı, başarısızlığın zekâ geriliği, duyusal yetersizlik gibi başka nedenlerle açıklanamaması durumunda konur."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 2,
+      "text": "Öğrenme güçlüğü olan öğrencinin okuduğunu anlamasını desteklemek için öğretmenin yapması uygun olan hangisidir?",
+      "options": { "A": "Metni sessizce okumasını istemek", "B": "Metin öncesi anahtar sözcükleri öğretip yönlendirici sorular sormak", "C": "Metni ezberletmek", "D": "Okuma çalışmalarını tamamen bırakmak" },
+      "correctOption": "B",
+      "explanation": "Ön bilgilendirme ve yönlendirici sorular, okuduğunu anlama becerisini destekler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 3,
+      "text": "DEHB olan öğrencinin sınav başarısını artırmak için değerlendirmede yapılabilecek uyarlama hangisidir?",
+      "options": { "A": "Sınavı bütünüyle iptal etmek", "B": "Süreyi kısaltmak", "C": "Soruları tümüyle kaldırmak", "D": "Sınavı bölümlere ayırıp aralarda kısa mola vermek" },
+      "correctOption": "D",
+      "explanation": "Sınavın bölünmesi ve molalar, dikkatini sürdürmekte güçlük çeken öğrencinin performansını artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 1,
+      "text": "DEHB'nin dikkatsizlik baskın tipindeki öğrencinin gösterdiği özellik hangisidir?",
+      "options": { "A": "Sürekli yerinde duramaması", "B": "Ayrıntılara dikkat etmekte zorlanıp eşyalarını sık kaybetmesi", "C": "Her zaman yüksek sesle konuşması", "D": "Fiziksel bir engelinin bulunması" },
+      "correctOption": "B",
+      "explanation": "Dikkatsizlik baskın tipte öğrenci, ayrıntıları kaçırır ve eşyalarını sık kaybeder."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 3,
+      "text": "DEHB olan öğrencinin dürtüselliği nedeniyle sık sık söz kesmesi durumunda öğretmenin yapması uygun olan hangisidir?",
+      "options": { "A": "Öğrenciyi dersten çıkarmak", "B": "Ceza olarak teneffüse göndermek", "C": "Sınıf kurallarını görsel olarak hatırlatıp olumlu örnekleri pekiştirmek", "D": "Söz kesmesini görmezden gelip hiç kural koymamak" },
+      "correctOption": "C",
+      "explanation": "Kuralları görselleştirmek ve olumlu davranışları pekiştirmek, dürtüsel davranışı azaltmada etkilidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 2,
+      "text": "DEHB olan bir öğrencinin tedavisinde ilaç kullanımı gündeme geldiğinde öğretmenin rolü hangisidir?",
+      "options": { "A": "Aileyi suçlamadan okul gözlemlerini sağlık ekibiyle paylaşması", "B": "Öğrenciye kendi başına ilaç vermesi", "C": "İlaç dozunu kendi belirlemesi", "D": "Konuyu sınıfta açıkça tartışması" },
+      "correctOption": "A",
+      "explanation": "Öğretmen, okul içi gözlemlerini paylaşarak sağlık ekibine katkı sunar; tedavi kararı ve uygulaması sağlık ekibine aittir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "DEHB",
+      "difficulty": 1,
+      "text": "DEHB olan öğrencinin hareket gereksinimini karşılamak için öğretmenin yapabileceği uygun düzenleme hangisidir?",
+      "options": { "A": "Öğrenciyi sürekli sırada tutmak", "B": "Teneffüsü yasaklamak", "C": "Hareket ettiğinde ceza vermek", "D": "Öğrenciye sınıf içinde küçük sorumluluklar verip hareket etmesini sağlamak" },
+      "correctOption": "D",
+      "explanation": "Sınıf içi sorumluluklar, öğrencinin hareket gereksinimini kabul edilebilir biçimde karşılamasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 2,
+      "text": "Otizm spektrum bozukluğu olan öğrencinin etkinlikler arası geçişlerde yaşadığı zorluğu azaltmak için hangisi uygundur?",
+      "options": { "A": "Geçişleri hiç bildirmemek", "B": "Geçişi sürpriz biçimde yapmak", "C": "Geçişleri önceden görsel çizelgeyle duyurmak", "D": "Öğrenciyi etkinliklere hiç katmamak" },
+      "correctOption": "C",
+      "explanation": "Görsel çizelgeyle önceden yapılan duyurular, öğrencinin değişikliklere hazırlanmasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 1,
+      "text": "Konuşma becerisi sınırlı olan otizmli öğrencinin resim alışverişi gibi sistemler kullanmasının amacı hangisidir?",
+      "options": { "A": "İletişim kurma becerilerini desteklemek", "B": "Ders süresini uzatmak", "C": "Öğrenciyi oyalamak", "D": "Matematik öğretimini hızlandırmak" },
+      "correctOption": "A",
+      "explanation": "Alternatif ve destekleyici iletişim sistemleri, sözlü iletişim kuramayan öğrencinin istek ve gereksinimlerini iletmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 2,
+      "text": "Otizmli öğrencinin duyusal hassasiyetleri göz önüne alındığında sınıfta yapılması gereken düzenleme hangisidir?",
+      "options": { "A": "Sınıfı sürekli yüksek sesli tutmak", "B": "Gürültü ve yoğun ışık gibi uyaranları azaltmak", "C": "Sıra yerleşimini her gün değiştirmek", "D": "Duvarları çok renkli posterlerle kaplamak" },
+      "correctOption": "B",
+      "explanation": "Duyusal uyaranların azaltılması, otizmli öğrencinin aşırı uyarılma yaşamasını önler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 2,
+      "text": "Otizmli öğrencinin yoğun ilgi duyduğu bir konunun öğretim etkinliklerine dâhil edilmesi hangi amaca hizmet eder?",
+      "options": { "A": "Ders süresini kısaltmaya", "B": "Öğrenciyi etkinliklerden uzaklaştırmaya", "C": "Öğretmenin işini azaltmaya", "D": "Motivasyonunu artırıp katılımını güçlendirmeye" },
+      "correctOption": "D",
+      "explanation": "Öğrencinin ilgi alanından yararlanmak, öğretime katılım ve motivasyonunu artırır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 3,
+      "text": "Otizmli bir öğrencinin beklenmeyen bir değişiklik karşısında öfke nöbeti yaşaması durumunda öğretmenin ilk yaklaşımı hangisidir?",
+      "options": { "A": "Sakin kalıp öğrenciyi güvenli ve az uyaranlı bir alana yönlendirmesi", "B": "Yüksek sesle uyarması", "C": "Öğrenciyi sınıfın önünde cezalandırması", "D": "Olayı tümüyle görmezden gelmesi" },
+      "correctOption": "A",
+      "explanation": "Sakin kalıp uyaranı azaltmak, kriz anında öğrencinin yatışmasına yardımcı olur."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Otizm Spektrum Bozukluğu",
+      "difficulty": 2,
+      "text": "Otizm spektrum bozukluğunun 'spektrum' olarak adlandırılmasının nedeni hangisidir?",
+      "options": { "A": "Belirtilerin her bireyde aynı olması", "B": "Yalnızca yetişkinlerde görülmesi", "C": "Belirtilerin ve etkilenme düzeyinin bireyden bireye geniş bir aralıkta değişmesi", "D": "Tedavisinin hiç olmaması" },
+      "correctOption": "C",
+      "explanation": "Otizm, belirti ve etkilenme düzeyi bireyden bireye geniş biçimde değiştiği için spektrum olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 2,
+      "text": "Duygu ve davranış bozukluğu olan öğrencinin içe dönük davranış örneği hangisidir?",
+      "options": { "A": "Sınıfta sürekli kavga çıkarması", "B": "Sosyal ortamdan çekilme ve aşırı kaygı", "C": "Öğretmene karşı gelmesi", "D": "Eşyalara zarar vermesi" },
+      "correctOption": "B",
+      "explanation": "İçe dönük davranışlar, sosyal çekilme ve aşırı kaygı gibi kendine yönelik belirtilerle görülür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 1,
+      "text": "Duygu ve davranış bozukluğunun dışa dönük davranış örneği hangisidir?",
+      "options": { "A": "Aşırı sessizlik", "B": "Sosyal ortamdan kaçınma", "C": "Kaygılı bekleyiş", "D": "Saldırganlık ve kurallara karşı gelme" },
+      "correctOption": "D",
+      "explanation": "Dışa dönük davranışlar saldırganlık ve kurallara karşı gelme gibi başkalarına yönelik belirtilerdir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 1,
+      "text": "Duygu ve davranış bozukluğu olan öğrenci kriz anında olduğunda öğretmenin uygun yaklaşımı hangisidir?",
+      "options": { "A": "Sakin ve tutarlı bir dille öğrenciye güven vermesi", "B": "Bağırarak susturmaya çalışması", "C": "Sınıftan kovması", "D": "Arkadaşlarına şikâyet etmesi" },
+      "correctOption": "A",
+      "explanation": "Sakin ve tutarlı yaklaşım, kriz anında öğrencinin güven duymasını ve yatışmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Duygu ve Davranış Bozukluğu",
+      "difficulty": 1,
+      "text": "Duygu ve davranış bozukluğu olan öğrencinin okula devamını sürdürmesi için özellikle hangisi önemlidir?",
+      "options": { "A": "Ödev miktarının artırılması", "B": "Sınavların zorlaştırılması", "C": "Öğretmen ve ailenin sürekli ve tutarlı işbirliği yapması", "D": "Akranlarından uzak tutulması" },
+      "correctOption": "C",
+      "explanation": "Okul ve ailenin tutarlı işbirliği, öğrencinin davranışının olumlu yönde değişmesini destekler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Zekâ ve Özel Yetenek",
+      "difficulty": 1,
+      "text": "Üstün yetenekli öğrencinin kendi yaşıtlarına göre daha erken ve ileri düzeyde beceriler göstermesi hangi özelliğiyle açıklanır?",
+      "options": { "A": "Gelişim hızının akranlarından ileri olması", "B": "Sağlık durumunun iyi olması", "C": "Ailesinin kalabalık olması", "D": "Okula erken başlaması" },
+      "correctOption": "A",
+      "explanation": "Üstün yetenekli öğrenciler, akranlarına göre daha hızlı gelişim gösterir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Zekâ ve Özel Yetenek",
+      "difficulty": 1,
+      "text": "Üstün yetenekli öğrencinin öğrenim gördüğü sınıf düzeyinin üzerindeki bir sınıfa yerleştirilmesi hangi yaklaşımdır?",
+      "options": { "A": "Zenginleştirme", "B": "Destek eğitim odası", "C": "Hızlandırma", "D": "Kaynaştırma" },
+      "correctOption": "C",
+      "explanation": "Hızlandırma, öğrencinin daha ileri düzeydeki bir sınıfa ya da programa yerleştirilmesidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Zekâ ve Özel Yetenek",
+      "difficulty": 3,
+      "text": "Üstün yetenekli öğrencilerin tanılanmasında tek bir zekâ testi sonucuna dayanılmasının sakıncası hangisidir?",
+      "options": { "A": "Testin çok kısa sürmesi", "B": "Yeteneklerin yalnızca bir yönünün ölçülerek yanıltıcı sonuç verilmesi", "C": "Öğretmenin yorulması", "D": "Ailenin sürece katılmaması" },
+      "correctOption": "B",
+      "explanation": "Tek ölçüt, yaratıcılık gibi diğer yetenek alanlarını gözden kaçırarak yanıltıcı sonuçlara yol açabilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Zekâ ve Özel Yetenek",
+      "difficulty": 2,
+      "text": "Öğretmenin üstün yetenekli öğrenciye akranlarından farklı ve daha üst düzey görevler vermesi hangi yaklaşımla ifade edilir?",
+      "options": { "A": "Hızlandırma", "B": "Gruplama", "C": "Ayrıştırma", "D": "Farklılaştırılmış öğretim" },
+      "correctOption": "D",
+      "explanation": "Farklılaştırılmış öğretim, içerik, süreç ve ürünün öğrencinin düzeyine göre uyarlanmasıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Zekâ ve Özel Yetenek",
+      "difficulty": 2,
+      "text": "Üstün yetenekli öğrencilere benzer yetenek düzeyindeki akranlarıyla bir arada eğitim verilmesi hangi yaklaşımdır?",
+      "options": { "A": "Ayrıştırma", "B": "Gruplama", "C": "Sınıf düzeyini düşürme", "D": "Ödev artırma" },
+      "correctOption": "B",
+      "explanation": "Gruplama, benzer yetenek düzeyindeki öğrencilerin bir arada eğitim görmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Üstün Zekâ ve Özel Yetenek",
+      "difficulty": 2,
+      "text": "Öğretmenin üstün yetenekli öğrenciye sürekli ek ödev vermesinin sakıncası hangisidir?",
+      "options": { "A": "Öğrencinin derse katılmaması", "B": "Sınav sayısının artması", "C": "Çalışma yükünü artırıp öğrenciyi sıkması", "D": "Ailenin okula gelmemesi" },
+      "correctOption": "C",
+      "explanation": "Yalnızca ödev artırmak, öğrencinin çalışma yükünü gereksiz yere çoğaltıp ilgisini azaltabilir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 2,
+      "text": "Bireyselleştirilmiş Eğitim Programının uygulanmasından okulda birinci derecede sorumlu olan kişi hangisidir?",
+      "options": { "A": "Okul müdürü", "B": "Veli", "C": "Öğrencinin öğretmeni", "D": "Okul aile birliği başkanı" },
+      "correctOption": "C",
+      "explanation": "BEP'in günlük uygulanmasından, öğrenciyle çalışan öğretmen sorumludur."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "BEP hazırlanırken öğrencinin mevcut performansının belirlenmesinde hangi verilerden yararlanılır?",
+      "options": { "A": "Yalnızca öğrencinin boyu ve kilosu", "B": "Değerlendirme sonuçları ve performans kayıtları", "C": "Ailenin gelir düzeyi", "D": "Okulun bina yaşı" },
+      "correctOption": "B",
+      "explanation": "Mevcut performans düzeyi, ölçme sonuçları ve düzenli tutulan performans kayıtlarıyla belirlenir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 3,
+      "text": "BEP'in, öğrencinin evde ve toplumda kazandığı becerileri de kapsaması hangi özelliğine işaret eder?",
+      "options": { "A": "Yalnızca akademik olması", "B": "Yalnızca sınav odaklı olması", "C": "Tek dersle sınırlı olması", "D": "Bütüncül ve yaşam temelli olması" },
+      "correctOption": "D",
+      "explanation": "BEP yalnızca okul içi akademik becerileri değil, günlük yaşam becerilerini de kapsayacak biçimde bütüncüldür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 2,
+      "text": "BEP ekibinde yer alan rehberlik servisinin temel katkısı hangisidir?",
+      "options": { "A": "Öğrencinin psikososyal gelişimine ilişkin görüş sunmak", "B": "Ders programını hazırlamak", "C": "Sınav sorularını yazmak", "D": "Okul binasını onarmak" },
+      "correctOption": "A",
+      "explanation": "Rehberlik servisi, öğrencinin psikososyal gelişimine ve davranışına ilişkin değerlendirme sunar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "BEP",
+      "difficulty": 2,
+      "text": "BEP'te belirlenen amaçlara ulaşılıp ulaşılmadığının düzenli aralıklarla kontrol edilmesi hangi süreçtir?",
+      "options": { "A": "Tanılama", "B": "Tarama", "C": "Değerlendirme ve izleme", "D": "Sınıflama" },
+      "correctOption": "C",
+      "explanation": "Değerlendirme ve izleme, amaçlara ulaşma düzeyini belirleyerek programın güncellenmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 2,
+      "text": "Kaynaştırma sınıfındaki öğretmene ve öğrenciye destek sağlayan görevli hangisidir?",
+      "options": { "A": "Özel eğitim öğretmeni/gezici öğretmen", "B": "Okul aile birliği üyesi", "C": "Kantin görevlisi", "D": "Okul servisi şoförü" },
+      "correctOption": "A",
+      "explanation": "Özel eğitim öğretmeni ya da gezici öğretmen, kaynaştırma uygulamalarında destek hizmeti sunar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 3,
+      "text": "Destek eğitim odasındaki çalışmaların planlanmasında dikkat edilmesi gereken temel nokta hangisidir?",
+      "options": { "A": "Öğrencinin tüm derslerden tamamen ayrılması", "B": "Çalışmaların öğrencinin genel eğitim sınıfı derslerinden kopmayacak biçimde planlanması", "C": "Yalnızca sınav haftalarında çalışılması", "D": "Öğrencinin destekten habersiz tutulması" },
+      "correctOption": "B",
+      "explanation": "Destek eğitim, öğrencinin genel eğitim programıyla bütünlük içinde ve ondan kopmadan yürütülmelidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 2,
+      "text": "Kaynaştırmada öğrencinin değerlendirilmesinde kullanılması uygun olan yaklaşım hangisidir?",
+      "options": { "A": "Yalnızca sınıf ortalamasıyla karşılaştırma", "B": "Yalnızca yıl sonu sınavı", "C": "Yalnızca akran görüşleri", "D": "Öğrencinin kendi gelişimini temel alan birey odaklı değerlendirme" },
+      "correctOption": "D",
+      "explanation": "Özel gereksinimli öğrencinin değerlendirilmesi, kendi başlangıç düzeyine göre gelişimini izleyen birey odaklı olmalıdır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 2,
+      "text": "Kaynaştırma öğrencisinin sınıf etkinliklerine katılımını artırmak için öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Etkinlikleri öğrencinin katılabileceği biçimde esnetmesi", "B": "Öğrenciyi etkinliklerden uzak tutması", "C": "Yalnızca izleyici konumunda bırakması", "D": "Etkinlikleri tümüyle iptal etmesi" },
+      "correctOption": "A",
+      "explanation": "Etkinliklerin öğrencinin katılımını sağlayacak biçimde esnetilmesi, kaynaştırmanın temel gereğidir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 2,
+      "text": "Kaynaştırmada akranların öğrenciye yönelik tutumlarının olumlu olması için öğretmenin yapması gereken hangisidir?",
+      "options": { "A": "Farklılıklara saygı konusunda sınıf içi etkinlikler düzenlemesi", "B": "Öğrencinin farklılıklarını gizlemesi", "C": "Akranlarıyla hiçbir etkinlik yapmaması", "D": "Sınıfta rekabeti öne çıkarması" },
+      "correctOption": "A",
+      "explanation": "Farklılıklara saygıya yönelik etkinlikler, akranların olumlu tutum geliştirmesini destekler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Erken Müdahale",
+      "difficulty": 1,
+      "text": "Erken müdahale hizmetlerinin sunulduğu temel gelişim dönemi hangisidir?",
+      "options": { "A": "Yetişkinlik dönemi", "B": "Doğum ile okul öncesi dönem arası", "C": "Ortaokul dönemi", "D": "Lise dönemi" },
+      "correctOption": "B",
+      "explanation": "Erken müdahale, gelişimin en hızlı olduğu doğumdan okul öncesi döneme kadarki süreci kapsar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Erken Müdahale",
+      "difficulty": 2,
+      "text": "Erken müdahalede aileye ev içinde çocuğun gelişimini destekleyecek yolların öğretilmesinin amacı hangisidir?",
+      "options": { "A": "Aileyi süreçten uzaklaştırmak", "B": "Gelişimi destekleyecek fırsatların günlük yaşama yerleştirilmesi", "C": "Uzman sayısını azaltmak", "D": "Çocuğu okuldan uzak tutmak" },
+      "correctOption": "B",
+      "explanation": "Aileye öğretilen yollar, gelişimi destekleyen etkileşimlerin günlük yaşamın parçası hâline gelmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Erken Müdahale",
+      "difficulty": 2,
+      "text": "Erken müdahale programlarında çok disiplinli ekip çalışmasının gereği hangisidir?",
+      "options": { "A": "Maliyeti artırmak", "B": "Süreyi kısaltmak", "C": "Çocuğun farklı gelişim alanlarının uzmanlarca birlikte ele alınması", "D": "Aile görüşünün dışlanması" },
+      "correctOption": "C",
+      "explanation": "Çocuğun dil, hareket, bilişsel ve sosyal gelişimi farklı uzmanların işbirliğiyle birlikte ele alınır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Aile Eğitimi",
+      "difficulty": 1,
+      "text": "Özel eğitimde aile eğitiminin temel amacı hangisidir?",
+      "options": { "A": "Aileyi okuldan uzak tutmak", "B": "Aileye ödev vermek", "C": "Aileyi sınavlara sokmak", "D": "Ailenin çocuğunun eğitimine etkin katkı sağlayacak bilgi ve beceri kazanması" },
+      "correctOption": "D",
+      "explanation": "Aile eğitimi, ailenin çocuğunun gelişim ve eğitimine etkin biçimde katkı sunmasını amaçlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Aile Eğitimi",
+      "difficulty": 2,
+      "text": "Özel gereksinimli çocuğun ailesi yoğun kaygı yaşadığında öğretmenin uygun yaklaşımı hangisidir?",
+      "options": { "A": "Empati kurup aileyi yargılamadan dinlemesi", "B": "Kaygıyı görmezden gelmesi", "C": "Aileyi suçlaması", "D": "Aileyle iletişimi kesmesi" },
+      "correctOption": "A",
+      "explanation": "Empatik ve yargılamayan bir yaklaşım, ailenin güvenini kazanarak işbirliğini güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Aile Eğitimi",
+      "difficulty": 2,
+      "text": "Eve dayalı erken müdahale programlarının temel özelliği hangisidir?",
+      "options": { "A": "Programın yalnızca okulda yürütülmesi", "B": "Çocuğun okula yatılı verilmesi", "C": "Çalışmaların çocuğun doğal ortamı olan evde yürütülmesi", "D": "Ailenin süreçten dışlanması" },
+      "correctOption": "C",
+      "explanation": "Eve dayalı programlarda çalışmalar, çocuğun doğal ortamı olan evde ve aile katılımıyla yürütülür."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yasal Düzenlemeler",
+      "difficulty": 2,
+      "text": "Türk eğitim sisteminde kaynaştırma yoluyla eğitim hakkı hangi dayanakla güvence altına alınmıştır?",
+      "options": { "A": "Yalnızca okul yönetiminin kararıyla", "B": "Anayasa'daki eğitim hakkı ve özel eğitime ilişkin yasal düzenlemelerle", "C": "Okul aile birliği tüzüğüyle", "D": "Sınıf öğretmeninin inisiyatifiyle" },
+      "correctOption": "B",
+      "explanation": "Eğitim hakkı Anayasa'da güvence altındadır; özel eğitim ve kaynaştırmaya ilişkin usuller yasal düzenlemelerle belirlenir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yasal Düzenlemeler",
+      "difficulty": 3,
+      "text": "573 sayılı Kanun Hükmünde Kararname'nin özel eğitim açısından önemi hangisidir?",
+      "options": { "A": "Yalnızca okul binalarını düzenlemesi", "B": "Yalnızca öğretmen atamalarını belirlemesi", "C": "Yalnızca sınav takvimini düzenlemesi", "D": "Özel eğitimin amaç, ilke ve hizmet modellerini kapsamlı biçimde düzenlemesi" },
+      "correctOption": "D",
+      "explanation": "573 sayılı KHK, özel eğitimin temel amaç, ilke ve hizmet modellerini düzenleyen temel belgelerdendir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yasal Düzenlemeler",
+      "difficulty": 2,
+      "text": "Özel eğitim gerektiren bireyler için Bireyselleştirilmiş Eğitim Programı hazırlanmasının yasal dayanağı hangi düzenlemede yer alır?",
+      "options": { "A": "Okul kantin yönetmeliği", "B": "Trafik kanunu", "C": "Özel Eğitim Hizmetleri Yönetmeliği", "D": "Belediye zabıta yönetmeliği" },
+      "correctOption": "C",
+      "explanation": "BEP hazırlanması ve uygulanması Özel Eğitim Hizmetleri Yönetmeliği'nde düzenlenmiştir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yöntem ve Teknikler",
+      "difficulty": 2,
+      "text": "Uygulamalı davranış analizinin temel amacı hangisidir?",
+      "options": { "A": "Davranışın öncesi ve sonrasını düzenleyerek yeni davranış kazandırmak veya istenmeyen davranışı azaltmak", "B": "Öğrenciyi dersten uzaklaştırmak", "C": "Yalnızca not vermek", "D": "Sınav sayısını artırmak" },
+      "correctOption": "A",
+      "explanation": "Uygulamalı davranış analizi, davranışın öncesi ve sonrasını düzenleyerek davranış değişikliği sağlamayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yöntem ve Teknikler",
+      "difficulty": 3,
+      "text": "Doğrudan öğretim yönteminde öğretmenin izlediği temel sıra hangisidir?",
+      "options": { "A": "Yalnızca bağımsız uygulama", "B": "Yalnızca oyun oynama", "C": "Beceri sunumu, rehberli uygulama ve bağımsız uygulama", "D": "Yalnızca ödev verme" },
+      "correctOption": "C",
+      "explanation": "Doğrudan öğretim, sunum, rehberli uygulama ve bağımsız uygulama aşamalarıyla ilerler."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yöntem ve Teknikler",
+      "difficulty": 1,
+      "text": "Öğretimde verilen dönütün temel işlevi hangisidir?",
+      "options": { "A": "Öğrenciyi cezalandırmak", "B": "Öğrencinin davranışının doğruluğu konusunda bilgi vererek öğrenmeyi yönlendirmek", "C": "Ders süresini doldurmak", "D": "Not ortalamasını düşürmek" },
+      "correctOption": "B",
+      "explanation": "Dönüt, öğrencinin tepkisinin doğru olup olmadığını bildirerek öğrenmeyi yönlendirir."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yöntem ve Teknikler",
+      "difficulty": 3,
+      "text": "Beceri öğretiminde zincirleme yöntemine hangi durumda başvurulur?",
+      "options": { "A": "Beceri çok kolay olduğunda", "B": "Öğrenci hiç katılmadığında", "C": "Öğretim süresi çok kısa olduğunda", "D": "Beceri basamaklardan oluştuğunda ve adım adım öğretilmesi gerektiğinde" },
+      "correctOption": "D",
+      "explanation": "Zincirleme, birden çok basamaktan oluşan becerilerin adım adım öğretilmesinde kullanılır."
+    },
+    {
+      "categorySlug": "egitim-ozel",
+      "topic": "Yöntem ve Teknikler",
+      "difficulty": 1,
+      "text": "Öğretmenin bir beceriyi kendisi yaparak öğrenciye gösterdiği öğretim tekniği hangisidir?",
+      "options": { "A": "Model olma", "B": "Soru cevap", "C": "Tartışma", "D": "Gösteri izleme" },
+      "correctOption": "A",
+      "explanation": "Model olma, öğretmenin beceriyi yaparak öğrenciye görsel ipucu sunmasıdır."
+    }
+  ]
+}

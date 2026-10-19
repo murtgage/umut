@@ -1,0 +1,4 @@
+{"questions": [
+ {"categorySlug":"geometri","topic":"Küre Hacmi","difficulty":2,"text":"Bir kürenin yarıçapı 3 cm ise hacmi kaç cm³'dür? (π = 3.14 alınız)","options":{"A":"113.04","B":"100.48","C":"84.78","D":"67.82"},"correctOption":"A","explanation":"Küre hacmi = (4/3) × π × r³ = (4/3) × 3.14 × 27 = 4 × 3.14 × 9 = 113.04 cm³.","source":"özgün"},
+ {"categorySlug":"geometri","topic":"Koordinat Geometrisi","difficulty":2,"text":"A(1,2) ve B(6,6) noktaları arasındaki uzaklık kaç birimdir?","options":{"A":"√29","B":"√41","C":"√53","D":"√61"},"correctOption":"B","explanation":"Uzaklık = √[(6-1)² + (6-2)²] = √[5² + 4²] = √[25+16] = √41.","source":"özgün"}
+]}

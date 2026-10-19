@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Bir maddeyi doğru yanıtlayan öğrenci sayısının, maddeyi yanıtlayan tüm öğrenci sayısına oranı hangi madde istatistiğidir?",
+      "options": {
+        "A": "Madde ayırt edicilik gücü",
+        "B": "Madde güçlüğü",
+        "C": "Madde toplam korelasyonu",
+        "D": "Çeldirici analizi"
+      },
+      "correctOption": "B",
+      "explanation": "Madde güçlük indeksi (p), maddeye doğru yanıt verenlerin tüm yanıtlayıcılara oranıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 1,
+      "text": "Bir maddenin güçlük indeksi 1,00 ise bu maddeyle ilgili olarak hangisi söylenebilir?",
+      "options": {
+        "A": "Madde çok zordur",
+        "B": "Madde ayırt ediciliği yüksektir",
+        "C": "Madde puanlamaya uygun değildir",
+        "D": "Maddeyi tüm öğrenciler doğru yanıtlamıştır"
+      },
+      "correctOption": "D",
+      "explanation": "p=1,00 en kolay maddedir; maddeyi herkes doğru yanıtlamıştır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Madde güçlük indeksi 0,00 olan bir madde için aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Maddeyi hiçbir öğrenci doğru yanıtlamamıştır",
+        "B": "Madde çok kolaydır",
+        "C": "Madde herkes tarafından doğru yanıtlanmıştır",
+        "D": "Madde ayırt edicilik gücü yüksektir"
+      },
+      "correctOption": "A",
+      "explanation": "p=0,00, maddeye hiç doğru yanıt verilmediğini, yani maddenin çok zor olduğunu gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Bir madde için üst %27'lik grubun doğru yanıt oranından alt %27'lik grubun doğru yanıt oranının çıkarılmasıyla hesaplanan istatistik hangisidir?",
+      "options": {
+        "A": "Madde güçlüğü",
+        "B": "Madde ayırt edicilik gücü",
+        "C": "Madde varyansı",
+        "D": "Ranj"
+      },
+      "correctOption": "B",
+      "explanation": "Ayırt edicilik gücü, üst grup ile alt grubun doğru yanıt oranları farkıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Ayırt edicilik gücü negatif çıkan bir madde için en uygun işlem hangisidir?",
+      "options": {
+        "A": "Maddeyi teste olduğu gibi bırakmak",
+        "B": "Maddenin puan ağırlığını artırmak",
+        "C": "Maddeyi teste eklemek",
+        "D": "Maddeyi düzeltmek ya da testten çıkarmak"
+      },
+      "correctOption": "D",
+      "explanation": "Negatif ayırt edicilik, zayıf öğrencilerin maddeyi daha çok doğru yanıtladığını gösterir; madde düzeltilmeli veya çıkarılmalıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Ayırt edicilik gücü 0,20 ile 0,29 arasında olan bir madde için hangi değerlendirme uygundur?",
+      "options": {
+        "A": "Çok iyi bir madde olduğu",
+        "B": "Zorunlu hâllerde kullanılabileceği ve geliştirilmesi gerektiği",
+        "C": "Mutlaka testten çıkarılması gerektiği",
+        "D": "Ayırt ediciliğinin çok yüksek olduğu"
+      },
+      "correctOption": "B",
+      "explanation": "0,20-0,29 arası maddeler sınırda kabul edilir; gerekli görülürse kullanılabilir ancak düzeltilmesi önerilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 1,
+      "text": "Ayırt edicilik indeksi 0,40 ve üzerinde olan bir madde için hangisi söylenebilir?",
+      "options": {
+        "A": "Ayırt ediciliği yüksek bir maddedir",
+        "B": "Madde çok kolaydır",
+        "C": "Madde güvenirliği düşürür",
+        "D": "Madde puanlamaya uygun değildir"
+      },
+      "correctOption": "A",
+      "explanation": "0,40 ve üzeri ayırt edicilik değeri yüksek, iyi maddeleri gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Bir testte yanlış seçeneklerin hangi öğrenciler tarafından ne ölçüde tercih edildiğinin incelenmesi hangi analizdir?",
+      "options": {
+        "A": "Madde toplam korelasyonu",
+        "B": "Çeldirici analizi",
+        "C": "Yapı geçerliği",
+        "D": "Güçlük indeksi"
+      },
+      "correctOption": "B",
+      "explanation": "Çeldirici analizi, yanlış seçeneklerin işlevselliğini ve çekiciliğini inceler."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Bir çeldiricinin hiçbir öğrenci tarafından işaretlenmemesi neyi gösterir?",
+      "options": {
+        "A": "Çeldiricinin işlevsel olmadığını ve düzeltilmesi gerektiğini",
+        "B": "Maddenin geçerliğinin yüksek olduğunu",
+        "C": "Maddenin çok zor olduğunu",
+        "D": "Testin güvenirliğinin yüksek olduğunu"
+      },
+      "correctOption": "A",
+      "explanation": "Hiç tercih edilmeyen çeldirici ölçme açısından işlevsizdir ve yeniden düzenlenmelidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Madde puanı ile test toplam puanı arasındaki ilişkiyi gösteren ve maddenin ölçülen özelliğe katkısını yansıtan istatistik hangisidir?",
+      "options": {
+        "A": "Madde güçlüğü",
+        "B": "Ayırt edicilik gücü farkı",
+        "C": "Madde toplam korelasyonu",
+        "D": "Ranj"
+      },
+      "correctOption": "C",
+      "explanation": "Madde toplam korelasyonu, maddenin testin bütünüyle tutarlılığını gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 1,
+      "text": "Madde toplam korelasyonu 0,30'un altında olan maddeler için genellikle hangisi önerilir?",
+      "options": {
+        "A": "Maddenin testten çıkarılması ya da düzeltilmesi",
+        "B": "Madde puanının artırılması",
+        "C": "Maddenin teste sonradan eklenmesi",
+        "D": "Maddenin değiştirilmeden korunması"
+      },
+      "correctOption": "A",
+      "explanation": "0,30'un altındaki maddeler testin iç tutarlılığını düşürür; çıkarılmaları veya düzeltilmeleri önerilir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 2,
+      "text": "Bir dağılımdaki tüm puanların toplanıp kişi sayısına bölünmesiyle elde edilen merkezî eğilim ölçüsü hangisidir?",
+      "options": {
+        "A": "Ortanca",
+        "B": "Mod",
+        "C": "Aritmetik ortalama",
+        "D": "Standart sapma"
+      },
+      "correctOption": "C",
+      "explanation": "Aritmetik ortalama, puanlar toplamının kişi sayısına bölümüdür."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 1,
+      "text": "Bir puan dağılımında en çok tekrar eden değeri ifade eden merkezî eğilim ölçüsü hangisidir?",
+      "options": {
+        "A": "Aritmetik ortalama",
+        "B": "Ortanca",
+        "C": "Mod",
+        "D": "Ranj"
+      },
+      "correctOption": "C",
+      "explanation": "Mod, dağılımda en sık görülen değerdir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 1,
+      "text": "Puanlar küçükten büyüğe sıralandığında tam ortada kalan değeri ifade eden ölçü hangisidir?",
+      "options": {
+        "A": "Mod",
+        "B": "Aritmetik ortalama",
+        "C": "Standart sapma",
+        "D": "Ortanca (medyan)"
+      },
+      "correctOption": "D",
+      "explanation": "Ortanca, sıralanmış dağılımın ortasındaki değerdir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 1,
+      "text": "En büyük puan ile en küçük puan arasındaki farkı gösteren dağılım ölçüsü hangisidir?",
+      "options": {
+        "A": "Standart sapma",
+        "B": "Varyans",
+        "C": "Ranj (dizi genişliği)",
+        "D": "Çeyrekler açıklığı"
+      },
+      "correctOption": "C",
+      "explanation": "Ranj, en yüksek puan ile en düşük puan arasındaki farktır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 2,
+      "text": "Bir puan dağılımında standart sapmanın büyük olması neyi gösterir?",
+      "options": {
+        "A": "Puanların birbirine çok yakın olduğunu",
+        "B": "Puanların ortalamadan uzak, yani grubun heterojen olduğunu",
+        "C": "Testin geçerliğinin yüksek olduğunu",
+        "D": "Grubun homojen olduğunu"
+      },
+      "correctOption": "B",
+      "explanation": "Standart sapma büyükse puanlar ortalamadan uzaktır; grup heterojen bir yapı gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 3,
+      "text": "Ortalaması 0, standart sapması 1 olan ve puanların bu değerlere göre dönüştürülmesiyle elde edilen standart puan hangisidir?",
+      "options": {
+        "A": "T puanı",
+        "B": "Standart dokuz",
+        "C": "z puanı",
+        "D": "Persantil"
+      },
+      "correctOption": "C",
+      "explanation": "z puanı, ortalaması 0 ve standart sapması 1 olan standart puandır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 1,
+      "text": "Ortalaması 50, standart sapması 10 olan standart puan hangisidir?",
+      "options": {
+        "A": "z puanı",
+        "B": "T puanı",
+        "C": "Standart dokuz",
+        "D": "Ham puan"
+      },
+      "correctOption": "B",
+      "explanation": "T puanı, ortalaması 50 ve standart sapması 10 olan standart puandır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 3,
+      "text": "Ortalaması 5, standart sapması yaklaşık 2 olan ve 1 ile 9 arasında değer alan standart puan hangisidir?",
+      "options": {
+        "A": "Standart dokuz (stanine)",
+        "B": "T puanı",
+        "C": "z puanı",
+        "D": "Yüzdelik sıra"
+      },
+      "correctOption": "A",
+      "explanation": "Standart dokuz, ortalaması 5 ve standart sapması yaklaşık 2 olan 1-9 arası bir puandır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 2,
+      "text": "Bir öğrencinin aldığı puanın, kendisinden düşük puan alan öğrencilerin yüzdesini gösteren istatistik hangisidir?",
+      "options": {
+        "A": "z puanı",
+        "B": "T puanı",
+        "C": "Standart dokuz",
+        "D": "Yüzdelik sıra (persantil)"
+      },
+      "correctOption": "D",
+      "explanation": "Yüzdelik sıra, puanın grubun yüzde kaçından yüksek olduğunu belirtir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 2,
+      "text": "Bir öğrencinin z puanı 0 ise bu öğrenci hakkında hangisi söylenebilir?",
+      "options": {
+        "A": "Grupta en başarılıdır",
+        "B": "Grubun ortalamasında bir puana sahiptir",
+        "C": "Grupta en başarısızdır",
+        "D": "Puanı hesaplanamamıştır"
+      },
+      "correctOption": "B",
+      "explanation": "z=0, öğrencinin puanının grubun ortalamasına eşit olduğunu gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Standart Puanlar",
+      "difficulty": 2,
+      "text": "Bir öğrencinin T puanı 40 ise z puanı kaçtır?",
+      "options": {
+        "A": "-1",
+        "B": "1",
+        "C": "0,5",
+        "D": "4"
+      },
+      "correctOption": "A",
+      "explanation": "T = 10·z + 50 eşitliğinden z = (40-50)/10 = -1 bulunur."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 2,
+      "text": "Puanların ortalamadan sapmalarının karesini dikkate alarak dağılımın yaygınlığını gösteren ölçü hangisidir?",
+      "options": {
+        "A": "Ranj",
+        "B": "Mod",
+        "C": "Varyans ve standart sapma",
+        "D": "Ortanca"
+      },
+      "correctOption": "C",
+      "explanation": "Varyans ve standart sapma, puanların ortalamadan sapmalarını dikkate alır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi merkezî eğilim ölçüsüdür?",
+      "options": {
+        "A": "Standart sapma",
+        "B": "Ranj",
+        "C": "Ortanca",
+        "D": "Çeyrekler açıklığı"
+      },
+      "correctOption": "C",
+      "explanation": "Ortanca bir merkezî eğilim ölçüsüdür; diğerleri dağılım (yaygınlık) ölçüsüdür."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 3,
+      "text": "Bir test grubunda aritmetik ortalamanın ortancadan büyük olması dağılımın hangi özelliğini gösterir?",
+      "options": {
+        "A": "Simetrik olduğunu",
+        "B": "Sola çarpık (negatif kayışlı) olduğunu",
+        "C": "Normal olduğunu",
+        "D": "Sağa çarpık (pozitif kayışlı) olduğunu"
+      },
+      "correctOption": "D",
+      "explanation": "Ortalamanın ortancadan büyük olması dağılımın sağa çarpık (pozitif kayışlı) olduğunu gösterir."
+    }
+  ]
+}

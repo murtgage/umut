@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 3,
+      "text": "Bir kenarının uzunluğu 13 cm ve bir köşegeninin uzunluğu 10 cm olan eşkenar dörtgenin diğer köşegeninin uzunluğu kaç cm'dir?",
+      "options": { "A": "24", "B": "22", "C": "20", "D": "26" },
+      "correctOption": "A",
+      "explanation": "Eşkenar dörtgende köşegenler dik kesişir ve birbirini ortalar. (10/2)² + (x/2)² = 13² eşitliğinden x/2 = 12 ve x = 24 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Orta tabanının uzunluğu 15 cm ve üst tabanı 11 cm olan bir yamuğun alt tabanı kaç cm'dir?",
+      "options": { "A": "17", "B": "18", "C": "19", "D": "20" },
+      "correctOption": "C",
+      "explanation": "Yamukta orta taban, tabanların uzunlukları toplamının yarısıdır. (a + 11) / 2 = 15 eşitliğinden a = 19 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 1,
+      "text": "Bir paralelkenarın ardışık iki iç açısından birinin ölçüsü 65° ise diğerinin ölçüsü kaç derecedir?",
+      "options": { "A": "115", "B": "110", "C": "105", "D": "125" },
+      "correctOption": "A",
+      "explanation": "Paralelkenarda ardışık açılar bütünlerdir. Buradan 180° − 65° = 115° bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Alanı 144 cm² olan bir karenin köşegen uzunluğu kaç cm'dir?",
+      "options": { "A": "12", "B": "24", "C": "12 karekök3", "D": "12 karekök2" },
+      "correctOption": "D",
+      "explanation": "Karenin kenarı karekök144 = 12 cm'dir. Köşegen ise 12 karekök2 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 3,
+      "text": "Çevresinin uzunluğu 46 cm ve kısa kenarı 9 cm olan bir dikdörtgenin alanı kaç cm²'dir?",
+      "options": { "A": "117", "B": "144", "C": "135", "D": "126" },
+      "correctOption": "D",
+      "explanation": "Uzun kenar (46 / 2) − 9 = 14 cm'dir. Alan 14 · 9 = 126 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dörtgenler",
+      "difficulty": 2,
+      "text": "Alanı 120 cm² ve köşegenlerinden birinin uzunluğu 12 cm olan bir eşkenar dörtgenin diğer köşegeni kaç cm'dir?",
+      "options": { "A": "16", "B": "18", "C": "20", "D": "24" },
+      "correctOption": "C",
+      "explanation": "Eşkenar dörtgenin alanı köşegenlerin çarpımının yarısıdır. (12 · x) / 2 = 120 eşitliğinden x = 20 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çokgenler",
+      "difficulty": 1,
+      "text": "İç açılarının ölçüleri toplamı 720° olan bir çokgenin kenar sayısı kaçtır?",
+      "options": { "A": "5", "B": "8", "C": "7", "D": "6" },
+      "correctOption": "D",
+      "explanation": "n kenarlı çokgenin iç açıları toplamı (n − 2) · 180°'dir. (n − 2) · 180 = 720 eşitliğinden n = 6 bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çokgenler",
+      "difficulty": 1,
+      "text": "Bir düzgün altıgenin bir iç açısının ölçüsü kaç derecedir?",
+      "options": { "A": "108", "B": "120", "C": "135", "D": "144" },
+      "correctOption": "B",
+      "explanation": "Düzgün altıgenin iç açıları toplamı (6 − 2) · 180 = 720° olduğundan bir iç açı 720 / 6 = 120° bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çokgenler",
+      "difficulty": 1,
+      "text": "Bir düzgün sekizgenin bir dış açısının ölçüsü kaç derecedir?",
+      "options": { "A": "40", "B": "50", "C": "45", "D": "60" },
+      "correctOption": "C",
+      "explanation": "Düzgün bir çokgende dış açıların toplamı 360° olduğundan bir dış açı 360 / 8 = 45° bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çokgenler",
+      "difficulty": 3,
+      "text": "Bir düzgün çokgenin bir dış açısının ölçüsü 24° ise bu çokgenin kenar sayısı kaçtır?",
+      "options": { "A": "12", "B": "15", "C": "14", "D": "18" },
+      "correctOption": "B",
+      "explanation": "Düzgün çokgende kenar sayısı, 360°'nin bir dış açıya bölünmesiyle bulunur: 360 / 24 = 15."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çokgenler",
+      "difficulty": 1,
+      "text": "Kenar sayısı 10 olan bir çokgenin iç açılarının ölçüleri toplamı kaç derecedir?",
+      "options": { "A": "1440", "B": "1350", "C": "1260", "D": "1620" },
+      "correctOption": "A",
+      "explanation": "(n − 2) · 180° bağıntısına göre (10 − 2) · 180 = 1440° bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çokgenler",
+      "difficulty": 1,
+      "text": "Bir düzgün beşgenin bir dış açısının ölçüsü kaç derecedir?",
+      "options": { "A": "60", "B": "72", "C": "66", "D": "75" },
+      "correctOption": "B",
+      "explanation": "Düzgün beşgende dış açı 360 / 5 = 72° bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 2,
+      "text": "Yarıçapı 10 cm olan bir çemberde 36°'lik merkez açının gördüğü yayın uzunluğu kaç cm'dir? (π = 3)",
+      "options": { "A": "4", "B": "6", "C": "5", "D": "8" },
+      "correctOption": "B",
+      "explanation": "Yay uzunluğu 2πr · (α / 360) bağıntısıyla bulunur: 2 · 3 · 10 · (36 / 360) = 6 cm."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 2,
+      "text": "Yarıçapı 12 cm olan bir dairede 60°'lik merkez açının sınırladığı daire diliminin alanı kaç cm²'dir? (π = 3)",
+      "options": { "A": "36", "B": "48", "C": "72", "D": "144" },
+      "correctOption": "C",
+      "explanation": "Daire diliminin alanı πr² · (α / 360) bağıntısıyla bulunur: 3 · 144 · (60 / 360) = 72 cm²."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 3,
+      "text": "Bir çemberde aynı yayı gören çevre açının ölçüsü 34° ise bu yayı gören merkez açının ölçüsü kaç derecedir?",
+      "options": { "A": "17", "B": "68", "C": "34", "D": "136" },
+      "correctOption": "B",
+      "explanation": "Aynı yayı gören merkez açı, çevre açının iki katıdır. Buradan 2 · 34° = 68° bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 1,
+      "text": "Yarıçapı 5 cm olan bir dairenin alanı kaç cm²'dir? (π = 3,14)",
+      "options": { "A": "78,5", "B": "62,8", "C": "31,4", "D": "157" },
+      "correctOption": "A",
+      "explanation": "Dairenin alanı πr² olduğundan 3,14 · 5² = 3,14 · 25 = 78,5 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 1,
+      "text": "Çapının uzunluğu 20 cm olan bir çemberin çevresi kaç cm'dir? (π = 3,14)",
+      "options": { "A": "31,4", "B": "157", "C": "125,6", "D": "62,8" },
+      "correctOption": "D",
+      "explanation": "Çemberin çevresi πd olduğundan 3,14 · 20 = 62,8 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 3,
+      "text": "Bir çemberdeki bir kirişin uzunluğu 24 cm ve bu kirişin çemberin merkezine uzaklığı 5 cm ise çemberin yarıçapı kaç cm'dir?",
+      "options": { "A": "13", "B": "12", "C": "11", "D": "15" },
+      "correctOption": "A",
+      "explanation": "Merkezden kirişe indirilen dikme kirişi ikiye böler. Yarıçap karekök(12² + 5²) = 13 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 3,
+      "text": "Bir çembere dışındaki bir noktadan çizilen iki teğet arasındaki açının ölçüsü 50° ise bu teğetlerin değme noktaları arasındaki küçük yayın ölçüsü kaç derecedir?",
+      "options": { "A": "130", "B": "115", "C": "100", "D": "150" },
+      "correctOption": "A",
+      "explanation": "İki teğet arasındaki açı ile küçük yayın ölçüsü toplamı 180°'dir. Buradan küçük yay 180° − 50° = 130° bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 2,
+      "text": "Merkez açısının ölçüsü 72° olan bir daire diliminin alanı 45 cm² ise bu dairenin alanı kaç cm²'dir?",
+      "options": { "A": "180", "B": "200", "C": "250", "D": "225" },
+      "correctOption": "D",
+      "explanation": "Daire diliminin alanı, tüm dairenin alanının (α / 360) katıdır. Buradan 45 · (360 / 72) = 225 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 2,
+      "text": "Yarıçapı 6 cm olan bir çemberde 120°'lik merkez açının gördüğü yayın uzunluğu kaç cm'dir? (π = 3)",
+      "options": { "A": "8", "B": "10", "C": "18", "D": "12" },
+      "correctOption": "D",
+      "explanation": "Yay uzunluğu 2πr · (α / 360) bağıntısıyla bulunur: 2 · 3 · 6 · (120 / 360) = 12 cm."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 1,
+      "text": "Çevresinin uzunluğu 62,8 cm olan bir çemberin yarıçapı kaç cm'dir? (π = 3,14)",
+      "options": { "A": "8", "B": "9", "C": "12", "D": "10" },
+      "correctOption": "D",
+      "explanation": "2πr = 62,8 eşitliğinden 6,28r = 62,8 ve r = 10 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 1,
+      "text": "Yarıçapı 8 cm olan bir dairenin alanı kaç cm²'dir? (π = 3)",
+      "options": { "A": "144", "B": "168", "C": "224", "D": "192" },
+      "correctOption": "D",
+      "explanation": "Dairenin alanı πr² olduğundan 3 · 64 = 192 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Çember ve Daire",
+      "difficulty": 2,
+      "text": "Bir çemberde bir kirişin çemberin merkezine uzaklığı 8 cm ve çemberin yarıçapı 17 cm ise kirişin uzunluğu kaç cm'dir?",
+      "options": { "A": "24", "B": "26", "C": "30", "D": "28" },
+      "correctOption": "C",
+      "explanation": "Kirişin yarısı karekök(17² − 8²) = 15 cm'dir. Buradan kirişin tamamı 2 · 15 = 30 cm bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 1,
+      "text": "Bir kenarının uzunluğu 6 cm olan bir küpün hacmi kaç cm³'tür?",
+      "options": { "A": "36", "B": "216", "C": "108", "D": "324" },
+      "correctOption": "B",
+      "explanation": "Küpün hacmi kenarın küpüdür: 6³ = 216 cm³ bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Ayrıt uzunlukları 3 cm, 4 cm ve 5 cm olan bir dikdörtgenler prizmasının yüzey alanı kaç cm²'dir?",
+      "options": { "A": "94", "B": "80", "C": "60", "D": "120" },
+      "correctOption": "A",
+      "explanation": "Yüzey alanı 2·(3·4 + 4·5 + 3·5) = 2·(12 + 20 + 15) = 94 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 1,
+      "text": "Taban yarıçapı 4 cm ve yüksekliği 10 cm olan bir dik silindirin hacmi kaç cm³'tür? (π = 3)",
+      "options": { "A": "240", "B": "480", "C": "360", "D": "720" },
+      "correctOption": "B",
+      "explanation": "Silindirin hacmi πr²h olduğundan 3 · 16 · 10 = 480 cm³ bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Taban yarıçapı 3 cm ve yüksekliği 7 cm olan bir dik koninin hacmi kaç cm³'tür? (π = 3)",
+      "options": { "A": "21", "B": "42", "C": "63", "D": "189" },
+      "correctOption": "C",
+      "explanation": "Koninin hacmi (1/3)·πr²h olduğundan (1/3) · 3 · 9 · 7 = 63 cm³ bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 1,
+      "text": "Yarıçapının uzunluğu 3 cm olan bir kürenin yüzey alanı kaç cm²'dir? (π = 3)",
+      "options": { "A": "36", "B": "108", "C": "54", "D": "144" },
+      "correctOption": "B",
+      "explanation": "Kürenin yüzey alanı 4πr² olduğundan 4 · 3 · 9 = 108 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Yarıçapının uzunluğu 6 cm olan bir kürenin hacmi kaç cm³'tür? (π = 3)",
+      "options": { "A": "864", "B": "432", "C": "648", "D": "288" },
+      "correctOption": "A",
+      "explanation": "Kürenin hacmi (4/3)·πr³ olduğundan (4/3) · 3 · 216 = 864 cm³ bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 1,
+      "text": "Ayrıt uzunlukları 2 cm, 5 cm ve 8 cm olan bir dikdörtgenler prizmasının hacmi kaç cm³'tür?",
+      "options": { "A": "60", "B": "70", "C": "80", "D": "90" },
+      "correctOption": "C",
+      "explanation": "Prizmanın hacmi ayrıtların çarpımıdır: 2 · 5 · 8 = 80 cm³ bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Taban yarıçapı 6 cm ve yüksekliği 10 cm olan bir dik silindirin yanal alanı kaç cm²'dir? (π = 3)",
+      "options": { "A": "180", "B": "240", "C": "360", "D": "480" },
+      "correctOption": "C",
+      "explanation": "Silindirin yanal alanı 2πrh olduğundan 2 · 3 · 6 · 10 = 360 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Katı Cisimler",
+      "difficulty": 2,
+      "text": "Taban alanı 25 cm² ve yüksekliği 12 cm olan bir piramidin hacmi kaç cm³'tür?",
+      "options": { "A": "75", "B": "300", "C": "150", "D": "100" },
+      "correctOption": "D",
+      "explanation": "Piramidin hacmi (1/3)·taban alanı·yükseklik olduğundan (1/3) · 25 · 12 = 100 cm³ bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 1,
+      "text": "Analitik düzlemde A(0, 0) ve B(9, 12) noktaları arasındaki uzaklık kaç birimdir?",
+      "options": { "A": "15", "B": "13", "C": "12", "D": "17" },
+      "correctOption": "A",
+      "explanation": "İki nokta arasındaki uzaklık karekök((9 − 0)² + (12 − 0)²) = karekök225 = 15 birim bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 2,
+      "text": "Analitik düzlemde A(2, 1) ve B(8, 9) noktaları arasındaki uzaklık kaç birimdir?",
+      "options": { "A": "10", "B": "8", "C": "12", "D": "14" },
+      "correctOption": "A",
+      "explanation": "Uzaklık karekök((8 − 2)² + (9 − 1)²) = karekök(36 + 64) = 10 birim bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 1,
+      "text": "Analitik düzlemde A(−1, 3) ve B(5, 3) noktalarından geçen doğrunun eğimi kaçtır?",
+      "options": { "A": "1", "B": "0", "C": "−1", "D": "Tanımsız" },
+      "correctOption": "B",
+      "explanation": "Her iki noktanın ordinatı 3 olduğundan doğru x-eksenine paraleldir ve eğimi 0'dır."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 2,
+      "text": "Analitik düzlemde A(1, 2) ve B(4, 11) noktalarından geçen doğrunun eğimi kaçtır?",
+      "options": { "A": "1/3", "B": "2", "C": "9", "D": "3" },
+      "correctOption": "D",
+      "explanation": "Eğim, ordinatlar farkının apsisler farkına oranıdır: (11 − 2) / (4 − 1) = 9 / 3 = 3 bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 3,
+      "text": "Eğimi −2 olan ve K(0, 5) noktasından geçen doğrunun denklemi aşağıdakilerden hangisidir?",
+      "options": { "A": "y = 2x + 5", "B": "y = −2x − 5", "C": "y = −2x + 5", "D": "y = 5x − 2" },
+      "correctOption": "C",
+      "explanation": "Eğimi m olan ve y-eksenini b noktasında kesen doğru y = mx + b'dir. Buradan y = −2x + 5 bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 2,
+      "text": "y = 3x − 12 doğrusunun x-eksenini kestiği nokta aşağıdakilerden hangisidir?",
+      "options": { "A": "(0, 4)", "B": "(0, −12)", "C": "(−4, 0)", "D": "(4, 0)" },
+      "correctOption": "D",
+      "explanation": "Doğrunun x-eksenini kestiği noktada y = 0'dır. 3x − 12 = 0 eşitliğinden x = 4 ve nokta (4, 0) bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 1,
+      "text": "Analitik düzlemde A(2, −1) ve B(6, 7) noktalarını birleştiren doğru parçasının orta noktası aşağıdakilerden hangisidir?",
+      "options": { "A": "(2, 3)", "B": "(3, 4)", "C": "(4, 3)", "D": "(8, 6)" },
+      "correctOption": "C",
+      "explanation": "Orta nokta, uç noktaların koordinatlarının aritmetik ortalamasıdır: ((2 + 6)/2, (−1 + 7)/2) = (4, 3)."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Analitik Geometri",
+      "difficulty": 2,
+      "text": "Analitik düzlemde A(1, 1) noktasının x + 2y − 8 = 0 doğrusuna uzaklığı kaç birimdir?",
+      "options": { "A": "karekök2", "B": "karekök3", "C": "5", "D": "karekök5" },
+      "correctOption": "D",
+      "explanation": "Noktanın doğruya uzaklığı |1 + 2·1 − 8| / karekök(1² + 2²) = 5 / karekök5 = karekök5 birim bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dönüşüm Geometrisi",
+      "difficulty": 1,
+      "text": "Analitik düzlemde A(3, 5) noktası x-ekseni boyunca 4 birim sağa, y-ekseni boyunca 2 birim aşağıya ötelendiğinde elde edilen nokta aşağıdakilerden hangisidir?",
+      "options": { "A": "(1, 3)", "B": "(−1, 3)", "C": "(7, 7)", "D": "(7, 3)" },
+      "correctOption": "D",
+      "explanation": "Öteleme sonucunda apsis 3 + 4 = 7, ordinat 5 − 2 = 3 olur. Görüntü (7, 3) bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dönüşüm Geometrisi",
+      "difficulty": 2,
+      "text": "Analitik düzlemde A(−3, 4) noktasının x-eksenine göre yansıması altındaki görüntüsü aşağıdakilerden hangisidir?",
+      "options": { "A": "(3, 4)", "B": "(−3, 4)", "C": "(3, −4)", "D": "(−3, −4)" },
+      "correctOption": "D",
+      "explanation": "x-eksenine göre yansımada apsis değişmez, ordinatın işareti değişir. Görüntü (−3, −4) bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dönüşüm Geometrisi",
+      "difficulty": 2,
+      "text": "Analitik düzlemde A(2, −5) noktasının y-eksenine göre yansıması altındaki görüntüsü aşağıdakilerden hangisidir?",
+      "options": { "A": "(−2, −5)", "B": "(2, 5)", "C": "(−2, 5)", "D": "(5, −2)" },
+      "correctOption": "A",
+      "explanation": "y-eksenine göre yansımada ordinat değişmez, apsisin işareti değişir. Görüntü (−2, −5) bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Dönüşüm Geometrisi",
+      "difficulty": 2,
+      "text": "Analitik düzlemde A(4, 1) noktası orijin etrafında saat yönünde 90° döndürüldüğünde elde edilen görüntüsü aşağıdakilerden hangisidir?",
+      "options": { "A": "(−1, 4)", "B": "(−4, −1)", "C": "(1, −4)", "D": "(4, −1)" },
+      "correctOption": "C",
+      "explanation": "Orijin etrafında saat yönünde 90° döndürmede (x, y) noktası (y, −x) olur. Buradan (1, −4) bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgende Benzerlik ve Eşlik",
+      "difficulty": 2,
+      "text": "Benzerlik oranı 3/5 olan iki benzer üçgenin çevrelerinin oranı kaçtır?",
+      "options": { "A": "3/10", "B": "9/25", "C": "5/3", "D": "3/5" },
+      "correctOption": "D",
+      "explanation": "Benzer üçgenlerde çevrelerin oranı benzerlik oranına eşittir, yani 3/5'tir."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgende Benzerlik ve Eşlik",
+      "difficulty": 2,
+      "text": "Benzerlik oranı 2/3 olan iki benzer üçgenden büyüğünün alanı 54 cm² ise küçüğünün alanı kaç cm²'dir?",
+      "options": { "A": "18", "B": "21", "C": "36", "D": "24" },
+      "correctOption": "D",
+      "explanation": "Alanların oranı benzerlik oranının karesidir: (2/3)² = 4/9. Buradan 54 · (4/9) = 24 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Üçgende Alan",
+      "difficulty": 2,
+      "text": "Kenar uzunlukları 4 cm, 13 cm ve 15 cm olan bir üçgenin alanı kaç cm²'dir?",
+      "options": { "A": "20", "B": "26", "C": "24", "D": "30" },
+      "correctOption": "C",
+      "explanation": "Yarı çevre s = (4 + 13 + 15) / 2 = 16 cm'dir. Heron bağıntısına göre alan karekök(16·12·3·1) = 24 cm² bulunur."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Açıortay ve Kenarortay",
+      "difficulty": 3,
+      "text": "Bir üçgende bir iç açıortay, karşı kenarı 6 cm ve 9 cm uzunluğunda iki parçaya ayırmaktadır. Bu açıortayın komşu olduğu iki kenarın uzunlukları oranı kaçtır?",
+      "options": { "A": "1/3", "B": "2/3", "C": "1/2", "D": "3/4" },
+      "correctOption": "B",
+      "explanation": "İç açıortay teoremine göre komşu kenarların oranı, ayırdığı parçaların oranına eşittir: 6 / 9 = 2/3."
+    },
+    {
+      "categorySlug": "geometri",
+      "topic": "Açıortay ve Kenarortay",
+      "difficulty": 2,
+      "text": "Bir üçgende iç açıortayların kesiştiği noktanın üçgenin kenarlarına olan uzaklıkları eşittir. Bu nokta aşağıdakilerden hangisidir?",
+      "options": { "A": "Ağırlık merkezi", "B": "Diklik merkezi", "C": "İç teğet çemberinin merkezi", "D": "Çevrel çemberin merkezi" },
+      "correctOption": "C",
+      "explanation": "İç açıortayların kesiştiği nokta, üçgenin iç teğet çemberinin merkezidir ve kenarlara olan uzaklıkları eşittir."
+    }
+  ]
+}

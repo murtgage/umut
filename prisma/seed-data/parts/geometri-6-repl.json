@@ -1,0 +1,3 @@
+{"questions": [
+ {"categorySlug":"geometri","topic":"Küre Alanı","difficulty":2,"text":"Bir kürenin yüzey alanı 314 cm² ise yarıçapı kaç cm'dir? (π = 3.14 alınız)","options":{"A":"3","B":"4","C":"5","D":"6"},"correctOption":"C","explanation":"Küre yüzey alanı = 4 × π × r² → r² = A / (4π) = 314 / (4 × 3.14) = 314 / 12.56 = 25 → r = 5 cm.","source":"özgün"}
+]}

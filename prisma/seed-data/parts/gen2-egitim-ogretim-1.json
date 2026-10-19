@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Geribildirme İlkesi",
+      "difficulty": 1,
+      "text": "Öğretmenin öğrencinin verdiği yanıtın doğru veya yanlış olduğunu, nedenini ve nasıl düzeltebileceğini hemen belirtmesi hangi öğretim ilkesinin gereğidir?",
+      "options": { "A": "Geribildirme", "B": "Tekrar", "C": "Bütünlük", "D": "Güncellik" },
+      "correctOption": "A",
+      "explanation": "Geribildirme ilkesi, öğrencinin performansı hakkında zamanında ve açık biçimde bilgi verilmesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Tekrar ve Pekiştirme",
+      "difficulty": 1,
+      "text": "Öğrenilen bilginin kalıcı hâle getirilmesi için aynı içeriğin farklı biçimlerde ve aralıklarla yenilenmesi hangi ilkeyle açıklanır?",
+      "options": { "A": "Geribildirme", "B": "Tekrar ve pekiştirme", "C": "Ekonomiklik", "D": "Açıklık" },
+      "correctOption": "B",
+      "explanation": "Tekrar ve pekiştirme ilkesi, bilginin zaman içinde yenilenerek kalıcı hâle gelmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İşe Koşulma İlkesi",
+      "difficulty": 2,
+      "text": "Öğretmenin yeni bir konuyu işlemeden önce öğrencilere, konunun neden öğrenilmesi gerektiğini ve günlük yaşamda nerede kullanılacağını açıklaması hangi ilkeye hizmet eder?",
+      "options": { "A": "Bütünlük", "B": "Ekonomiklik", "C": "İşe koşulma", "D": "Bilimsellik" },
+      "correctOption": "C",
+      "explanation": "İşe koşulma ilkesi, öğrencinin konuyu niçin öğrenmesi gerektiğini bilmesini ve onu motive etmeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Sosyalleşme İlkesi",
+      "difficulty": 2,
+      "text": "Öğretimde öğrencilerin birbirleriyle etkileşime girmesi, ortak etkinlikler yapması ve grup içinde sorumluluk alması hangi ilkenin gereğidir?",
+      "options": { "A": "Bireyselleştirme", "B": "Ekonomiklik", "C": "Açıklık", "D": "Sosyalleşme" },
+      "correctOption": "D",
+      "explanation": "Sosyalleşme ilkesi, öğrencinin grup içinde iletişim kurmasını ve sosyal yaşama hazırlanmasını hedefler."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bireyselleştirme İlkesi",
+      "difficulty": 2,
+      "text": "Aynı kazanıma ulaşmak için her öğrenciye farklı etkinlik ve materyaller sunulması hangi ilkeyi uygulamaktır?",
+      "options": { "A": "Bireyselleştirme", "B": "Bütünlük", "C": "Sosyalleşme", "D": "Hayatilik" },
+      "correctOption": "A",
+      "explanation": "Bireyselleştirme ilkesi, öğrencilerin farklılıklarını dikkate alarak her birine uygun öğretim düzenlemesi yapmayı gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretim İlkeleri",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi öğretim ilkelerinden biri DEĞİLDİR?",
+      "options": { "A": "Bilimsellik", "B": "Teknolojiklik", "C": "Güncellik", "D": "Ekonomiklik" },
+      "correctOption": "B",
+      "explanation": "Teknolojiklik bir öğretim ilkesi değildir; bilimsellik, güncellik ve ekonomiklik ise öğretim ilkeleri arasındadır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretim İlkeleri",
+      "difficulty": 2,
+      "text": "Öğretim ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": { "A": "Somuttan soyuta", "B": "Bilinenden bilinmeyene", "C": "Katılımdan kaçınma", "D": "Yakından uzağa" },
+      "correctOption": "C",
+      "explanation": "Katılımdan kaçınma bir öğretim ilkesi değildir; öğretim ilkeleri arasında yer almaz."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Sunumsal Öğretim",
+      "difficulty": 2,
+      "text": "Öğretmenin bilgiyi doğrudan ve sistematik biçimde öğrenciye aktardığı, öğrencinin daha çok dinleyici konumda olduğu öğretim yaklaşımı hangisidir?",
+      "options": { "A": "Keşfederek öğretim", "B": "İşbirlikli öğretim", "C": "Proje tabanlı öğretim", "D": "Sunumsal öğretim" },
+      "correctOption": "D",
+      "explanation": "Sunumsal öğretimde bilgi öğretmen tarafından düzenli biçimde sunulur ve öğrenci dinleyici konumundadır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Keşfederek Öğretim",
+      "difficulty": 2,
+      "text": "Öğrencilerin kendi deneyim ve keşifleriyle kavram ve ilkeleri bulduğu, öğretmenin rehberlik ettiği yaklaşım hangisidir?",
+      "options": { "A": "Keşfederek öğretim", "B": "Sunumsal öğretim", "C": "İşbirlikli öğretim", "D": "Proje tabanlı öğretim" },
+      "correctOption": "A",
+      "explanation": "Keşfederek öğretimde öğrenci kendi çabalarıyla kavramlara ulaşır; öğretmen bu süreçte rehberlik eder."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İşbirlikli Öğretim",
+      "difficulty": 2,
+      "text": "Öğrencilerin küçük gruplar hâlinde birbirine yardım ederek ortak bir hedefe ulaştığı, sorumluluğun paylaşıldığı öğretim yaklaşımı hangisidir?",
+      "options": { "A": "Sunumsal öğretim", "B": "İşbirlikli öğretim", "C": "Keşfederek öğretim", "D": "Bireysel öğretim" },
+      "correctOption": "B",
+      "explanation": "İşbirlikli öğretimde öğrenciler gruplar hâlinde çalışır ve birbirine yardım ederek ortak hedefe ulaşır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Proje Tabanlı Öğretim",
+      "difficulty": 2,
+      "text": "Öğrencilerin gerçek bir soruna yönelik uzun süreli çalışarak somut bir ürün ortaya koyduğu yaklaşım hangisidir?",
+      "options": { "A": "İşbirlikli öğretim", "B": "Keşfederek öğretim", "C": "Proje tabanlı öğretim", "D": "Sunumsal öğretim" },
+      "correctOption": "C",
+      "explanation": "Proje tabanlı öğretimde öğrenciler gerçek bir sorunu çözmek için uzun süreli çalışır ve bir ürün ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Anlatım Yöntemi",
+      "difficulty": 1,
+      "text": "Öğretmenin bir konuyu sözlü olarak açıkladığı, öğrencilerin not aldığı ve soru-cevapla etkileşime girdiği en yaygın yöntem hangisidir?",
+      "options": { "A": "Tartışma", "B": "Problem çözme", "C": "Rol oynama", "D": "Anlatım" },
+      "correctOption": "D",
+      "explanation": "Anlatım yönteminde öğretmen bilgiyi sözlü olarak aktarır; öğrenciler dinler ve not alır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Tartışma Yöntemi",
+      "difficulty": 1,
+      "text": "Öğrencilerin bir konuya ilişkin görüşlerini karşılıklı olarak dile getirip bir sonuca varmaya çalıştığı yöntem hangisidir?",
+      "options": { "A": "Tartışma", "B": "Anlatım", "C": "Gösterip yaptırma", "D": "Proje" },
+      "correctOption": "A",
+      "explanation": "Tartışma yönteminde öğrenciler görüşlerini dile getirir ve bir sonuca ulaşmaya çalışır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Örnek Olay Yöntemi",
+      "difficulty": 2,
+      "text": "Öğretmenin gerçek yaşamdan bir olayı sınıfa getirip öğrencilerden olayın nedenlerini ve çözüm yollarını tartışmalarını istemesi hangi yönteme örnektir?",
+      "options": { "A": "Rol oynama", "B": "Örnek olay", "C": "Drama", "D": "Deney" },
+      "correctOption": "B",
+      "explanation": "Örnek olay yönteminde gerçek ya da gerçeğe yakın bir olay incelenir ve öğrenciler neden-sonuç ilişkisi kurar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Problem Çözme Yöntemi",
+      "difficulty": 2,
+      "text": "Öğrencilerin karşılaştıkları bir güçlüğü tanımlayıp olası çözüm yollarını önerdikleri, denedikleri ve sonucu değerlendirdikleri yöntem hangisidir?",
+      "options": { "A": "Anlatım", "B": "Tartışma", "C": "Problem çözme", "D": "Beyin fırtınası" },
+      "correctOption": "C",
+      "explanation": "Problem çözme yönteminde öğrenci güçlüğü tanımlar, çözüm yolları önerir, dener ve sonucu değerlendirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Rol Oynama Yöntemi",
+      "difficulty": 2,
+      "text": "Öğrencilerin bir durumu canlandırarak oynaması ve ardından yaşadıkları duyguları tartışması hangi yöntemle gerçekleştirilir?",
+      "options": { "A": "Drama", "B": "Örnek olay", "C": "Gezi-gözlem", "D": "Rol oynama" },
+      "correctOption": "D",
+      "explanation": "Rol oynama yönteminde öğrenci bir durumu canlandırır ve ardından yaşantısını tartışır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Drama Yöntemi",
+      "difficulty": 2,
+      "text": "Öğrencilerin bir konuyu kendi yaşantılarından yola çıkarak, doğaçlama ve oyunla yeniden yaratmasına dayanan yöntem hangisidir?",
+      "options": { "A": "Drama", "B": "Rol oynama", "C": "Örnek olay", "D": "Tartışma" },
+      "correctOption": "A",
+      "explanation": "Drama yönteminde öğrenciler bir konuyu doğaçlama ve oyunla yeniden yaratır; bu süreç duygusal ve bilişsel katılımı artırır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Beyin Fırtınası",
+      "difficulty": 2,
+      "text": "Beyin fırtınası tekniğinde fikirlerin ilk aşamada değerlendirilmeden toplanmasının temel amacı nedir?",
+      "options": { "A": "Fikir sayısının azaltılması", "B": "Yargı ve eleştirinin yaratıcılığı engellemesinin önlenmesi", "C": "Öğretmenin fikirlerine öncelik tanınması", "D": "Sürenin uzatılması" },
+      "correctOption": "B",
+      "explanation": "Beyin fırtınasında eleştiri ve yargı, fikir üretiminin önünü açmak için sürecin sonuna bırakılır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Gösterip Yaptırma",
+      "difficulty": 1,
+      "text": "Öğretmenin bir beceriyi önce kendisi uygulayarak gösterip ardından öğrencilerden aynı işlemi yapmalarını istemesi hangi yönteme örnektir?",
+      "options": { "A": "Anlatım", "B": "Problem çözme", "C": "Gösterip yaptırma", "D": "Proje" },
+      "correctOption": "C",
+      "explanation": "Gösterip yaptırma yönteminde beceri önce gösterilir, ardından öğrenci tarafından uygulanır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Deney Yöntemi",
+      "difficulty": 1,
+      "text": "Fen dersinde öğrencilerin bir değişkenin etkisini kontrollü koşullarda sınayıp sonucu kaydetmesi hangi yönteme örnektir?",
+      "options": { "A": "Tartışma", "B": "Panel", "C": "Sempozyum", "D": "Deney" },
+      "correctOption": "D",
+      "explanation": "Deney yönteminde bir değişkenin etkisi kontrollü koşullarda sınanır ve sonuç kaydedilir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Gezi-Gözlem",
+      "difficulty": 1,
+      "text": "Öğrencilerin bir müzeyi ziyaret ederek eserleri yerinde incelemesi hangi öğretim yöntemidir?",
+      "options": { "A": "Gezi-gözlem", "B": "Deney", "C": "Rol oynama", "D": "Problem çözme" },
+      "correctOption": "A",
+      "explanation": "Gezi-gözlem yönteminde öğrenme okul dışında, gerçek ortamda gözlem yoluyla gerçekleştirilir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Soru-Cevap Yöntemi",
+      "difficulty": 1,
+      "text": "Öğretmenin sorduğu sorularla öğrencilerin dikkatini çektiği, ön bilgilerini yokladığı ve konuya yönelttiği yöntem hangisidir?",
+      "options": { "A": "Anlatım", "B": "Soru-cevap", "C": "Proje", "D": "Örnek olay" },
+      "correctOption": "B",
+      "explanation": "Soru-cevap yönteminde öğretmen sorularla öğrencinin dikkatini çeker ve ön bilgilerini ortaya çıkarır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretim Araç-Gereçleri",
+      "difficulty": 1,
+      "text": "Öğretimde tahta, model, grafik, slayt ve video gibi öğrenmeyi kolaylaştıran her türlü materyale ne ad verilir?",
+      "options": { "A": "Kazanımlar", "B": "Hedefler", "C": "Öğretim araç-gereçleri", "D": "Değerlendirme ölçütleri" },
+      "correctOption": "C",
+      "explanation": "Öğretim araç-gereçleri, öğretmenin kullandığı ve öğrenmeyi kolaylaştıran tüm materyallerdir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretim Araç-Gereçleri",
+      "difficulty": 1,
+      "text": "Öğretim aracı seçerken aşağıdakilerden hangisi dikkate alınması gereken ölçütlerden biri DEĞİLDİR?",
+      "options": { "A": "Aracın kazanıma uygun olması", "B": "Öğrenci düzeyine ve yaşına uygun olması", "C": "Aracın güvenilir ve doğru bilgi vermesi", "D": "Aracın olabildiğince pahalı olması" },
+      "correctOption": "D",
+      "explanation": "Araç seçiminde kazanıma uygunluk, yaşa uygunluk ve güvenilirlik önemlidir; pahalı olması bir ölçüt değildir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Günlük Plan",
+      "difficulty": 1,
+      "text": "Bir öğretmenin tek bir ders saatinde yapacağı etkinlikleri giriş, gelişme ve sonuç bölümleri hâlinde ayrıntılı biçimde yansıttığı plan hangisidir?",
+      "options": { "A": "Günlük plan", "B": "Yıllık plan", "C": "Ünite planı", "D": "Ders programı" },
+      "correctOption": "A",
+      "explanation": "Günlük plan, tek bir ders saatinde yapılacak etkinlikleri giriş, gelişme ve sonuç bölümlerinde gösterir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Yıllık Plan",
+      "difficulty": 2,
+      "text": "Bir öğretmenin bir eğitim-öğretim yılında hangi ünite ve konuları hangi dönemlerde işleyeceğini gösteren plan hangisidir?",
+      "options": { "A": "Günlük plan", "B": "Yıllık plan", "C": "Ünite planı", "D": "Hedef listesi" },
+      "correctOption": "B",
+      "explanation": "Yıllık plan, bir ders yılı boyunca ele alınacak ünite ve konuların zaman çizelgesini gösterir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Ünite Planı",
+      "difficulty": 3,
+      "text": "Bir ünitenin kazanım, içerik, yöntem ve değerlendirme boyutlarını ayrıntılı biçimde ele alan plan hangisidir?",
+      "options": { "A": "Yıllık plan", "B": "Günlük plan", "C": "Ünite planı", "D": "Kazanım listesi" },
+      "correctOption": "C",
+      "explanation": "Ünite planı, bir ünitenin kazanım, içerik, öğretim etkinlikleri ve değerlendirmesini ayrıntılı olarak düzenler."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kazanım Yazma",
+      "difficulty": 2,
+      "text": "Kazanım yazarken \"öğrenci ... yapabilecektir\" biçiminde ifade edilmesinin temel nedeni nedir?",
+      "options": { "A": "Kazanımın süslü bir dil kullanması", "B": "Kazanımın öğretmeni tanımlaması", "C": "Kazanımın süreyle sınırlandırılması", "D": "Kazanımın gözlenebilir ve ölçülebilir bir davranış ifade etmesi" },
+      "correctOption": "D",
+      "explanation": "Kazanım, gözlenebilir ve ölçülebilir bir davranışı ifade ederek değerlendirmenin sağlanmasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kazanım Yazma",
+      "difficulty": 3,
+      "text": "\"Öğrenciler, iklim çeşitlerini coğrafi özelliklerine göre sınıflandırır.\" ifadesiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": { "A": "Kazanımda ölçülebilir bir davranış belirtilmiştir.", "B": "Kazanımda davranış belirtilmemiştir.", "C": "Kazanım bir değerlendirme aracıdır.", "D": "Kazanım, hangi dersin konusu olduğunu gösterir." },
+      "correctOption": "A",
+      "explanation": "Sınıflandırma, gözlenebilir ve ölçülebilir bir davranıştır; bu nedenle kazanım uygun biçimde yazılmıştır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Ölçme ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrencilerin öğrenme düzeyini çeşitli araçlarla belirlemeye yönelik tüm çalışmalarına ne ad verilir?",
+      "options": { "A": "Program", "B": "Ölçme ve değerlendirme", "C": "Kazanım", "D": "Ders planı" },
+      "correctOption": "B",
+      "explanation": "Öğrencilerin öğrenme düzeyini belirlemeye yönelik tüm çalışmalar ölçme ve değerlendirme kapsamındadır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Ölçme ve Değerlendirme",
+      "difficulty": 3,
+      "text": "Öğretmenin bir testin sonuçlarını kullanarak hangi konularda öğrencilerin zorlandığını belirlemesi ve öğretimini buna göre yeniden düzenlemesi değerlendirmenin hangi işlevidir?",
+      "options": { "A": "Sınıflama", "B": "Sıralama", "C": "Öğretimi geliştirme", "D": "Disiplin sağlama" },
+      "correctOption": "C",
+      "explanation": "Değerlendirme sonuçlarının öğretimin eksiklerini belirleyip düzeltilmesinde kullanılması, öğretimi geliştirme işlevidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 1,
+      "text": "Bloom'un bilişsel alan taksonomisinde bir olgunun, kavramın ya da olayın doğrudan hatırlanmasını gerektiren basamak hangisidir?",
+      "options": { "A": "Kavrama", "B": "Uygulama", "C": "Analiz", "D": "Bilgi" },
+      "correctOption": "D",
+      "explanation": "Bilgi basamağı, öğrenilenlerin olduğu gibi hatırlanmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 2,
+      "text": "Bir öğrencinin verilen bir problemde öğrendiği kuralı yeni bir duruma uygulaması Bloom'un hangi basamağına örnektir?",
+      "options": { "A": "Uygulama", "B": "Bilgi", "C": "Kavrama", "D": "Sentez" },
+      "correctOption": "A",
+      "explanation": "Uygulama basamağı, öğrenilen kural ya da bilginin yeni bir durumda kullanılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 2,
+      "text": "Bir metnin bölümlerini ayırıp aralarındaki ilişkileri ortaya koyan öğrenci davranışı Bloom'un hangi basamağına aittir?",
+      "options": { "A": "Kavrama", "B": "Analiz", "C": "Uygulama", "D": "Değerlendirme" },
+      "correctOption": "B",
+      "explanation": "Analiz basamağı, bir bütünü parçalarına ayırıp aralarındaki ilişkileri belirlemeyi gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 3,
+      "text": "Öğrencinin ele aldığı bir görüşü ölçütlere dayanarak yargıya bağlaması Bloom'un hangi basamağında yer alır?",
+      "options": { "A": "Analiz", "B": "Sentez", "C": "Değerlendirme", "D": "Uygulama" },
+      "correctOption": "C",
+      "explanation": "Değerlendirme basamağı, belirlenen ölçütlere dayanarak bir ürün ya da görüş hakkında yargıya varmayı gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 3,
+      "text": "Bloom'un tam öğrenme modeline göre öğrenciler arasındaki başarı farkının temel nedeni aşağıdakilerden hangisidir?",
+      "options": { "A": "Zekâ düzeylerinin farklı olması", "B": "Okulun fiziksel koşulları", "C": "Ders kitabının kalitesi", "D": "Öğretim hizmetinin niteliği ve tanınan sürenin yetersiz olması" },
+      "correctOption": "D",
+      "explanation": "Tam öğrenme modeline göre başarı farkı, öğretim hizmetinin niteliğinden ve öğrenciye tanınan süreden kaynaklanır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretmen Yeterlikleri",
+      "difficulty": 3,
+      "text": "Etkili bir öğretmenin alan bilgisini öğrencilerin anlayabileceği biçime dönüştürerek sunması, hangi mesleki yeterlik alanıyla doğrudan ilgilidir?",
+      "options": { "A": "Öğretme ve öğrenme süreci", "B": "Kişisel değerler", "C": "Okul ve çevreyle işbirliği", "D": "Sınıf içi iletişim" },
+      "correctOption": "A",
+      "explanation": "İçeriği öğrenci düzeyine uygun biçimde planlama ve sunma, öğretme-öğrenme sürecine ilişkin mesleki yeterlik alanıdır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretmen Özellikleri",
+      "difficulty": 3,
+      "text": "Öğretmenin sınıfta öğrencilerin katılımını artırmak için farklı yöntemler kullanması ve onların ihtiyaçlarını karşılamaya çalışması, öğretmen özelliklerinden hangisiyle açıklanır?",
+      "options": { "A": "İlgisizlik", "B": "Öğrenciyi tanıma ve ona göre davranma", "C": "Kararsızlık", "D": "Tek yönteme bağlılık" },
+      "correctOption": "B",
+      "explanation": "Öğretmenin öğrenci ihtiyaçlarını belirleyip buna göre davranması, öğrenciyi tanıma yeterliğiyle açıklanır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Sınıf İçi İletişim",
+      "difficulty": 2,
+      "text": "Öğretmenin derste jest, mimik ve beden duruşunu kullanması hangi iletişim türüne girer?",
+      "options": { "A": "Sözlü iletişim", "B": "Yazılı iletişim", "C": "Sözsüz iletişim", "D": "Formel iletişim" },
+      "correctOption": "C",
+      "explanation": "Jest, mimik ve beden duruşu gibi ögeler sözsüz iletişimi oluşturur."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Sınıf İçi İletişim",
+      "difficulty": 1,
+      "text": "Öğretmenin bir öğrencinin görüşüne değer verdiğini göstermesi ve onu dinlemesi, sınıf içi iletişim açısından neyi güçlendirir?",
+      "options": { "A": "Sınıfın gürültüsünü", "B": "Dersin süresini", "C": "Öğretmenin yorgunluğunu", "D": "Öğrencinin katılım ve güven duygusunu" },
+      "correctOption": "D",
+      "explanation": "Öğretmenin öğrenciyi dinlemesi ve görüşüne değer vermesi, öğrencinin katılımını ve güven duygusunu güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Motivasyon",
+      "difficulty": 2,
+      "text": "Öğrencinin bir konuyu öğrenme isteğinin, konunun kendisiyle ilgili olmasından kaynaklanması hangi motivasyon türüdür?",
+      "options": { "A": "İçsel motivasyon", "B": "Dışsal motivasyon", "C": "Sosyal baskı", "D": "Kıskançlık" },
+      "correctOption": "A",
+      "explanation": "İçsel motivasyon, öğrenmenin kendisinden kaynaklanan ve öğrenciyi etkin hâle getiren güdülenmedir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Motivasyon",
+      "difficulty": 3,
+      "text": "Öğretmenin öğrencilere sadece not veya ödül için değil, öğrenmenin kendisinden zevk almalarını sağlayacak etkinlikler sunması hangi amaçla yapılır?",
+      "options": { "A": "Sınav süresini uzatmak", "B": "Öğrencinin içsel motivasyonunu ve öğrenmeye ilgisini güçlendirmek", "C": "Sınıf mevcudunu azaltmak", "D": "Öğretmenin işini kolaylaştırmak" },
+      "correctOption": "B",
+      "explanation": "Öğrenmenin kendisinden zevk almayı hedefleyen etkinlikler, öğrencinin içsel motivasyonunu ve ilgisini güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "5E Modeli",
+      "difficulty": 3,
+      "text": "5E modelinde öğrencilerin dikkatinin çekildiği ve ön bilgilerinin ortaya çıkarıldığı ilk aşama hangisidir?",
+      "options": { "A": "Keşfetme", "B": "Açıklama", "C": "Giriş", "D": "Değerlendirme" },
+      "correctOption": "C",
+      "explanation": "5E modelinin giriş aşamasında öğrencinin ilgisi çekilir ve konuya ilişkin ön bilgileri yoklanır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İşbirlikli Öğrenme",
+      "difficulty": 1,
+      "text": "İşbirlikli öğrenmede öğrencilerin birbirine yardım etmesini sağlayan temel özellik hangisidir?",
+      "options": { "A": "Her öğrencinin yalnızca kendi başarısıyla değerlendirilmesi", "B": "Yalnızca en başarılı öğrencinin ödüllendirilmesi", "C": "Gruplar arası sürekli yarışma", "D": "Grup üyelerinin birbirine bağımlı olması ve ortak hedefe ulaşma" },
+      "correctOption": "D",
+      "explanation": "İşbirlikli öğrenmede üyeler birbirine bağımlıdır ve ortak hedefe ulaşmak için birlikte çalışır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Çoklu Zekâ Kuramı",
+      "difficulty": 3,
+      "text": "Çoklu zekâ kuramına göre sayılar, mantık ve matematiksel düşünmeyi kullanan öğrencinin baskın zekâ alanı hangisidir?",
+      "options": { "A": "Mantıksal-matematiksel", "B": "Sözel-dilsel", "C": "Müziksel-ritmik", "D": "Uzamsal" },
+      "correctOption": "A",
+      "explanation": "Mantıksal-matematiksel zekâ, sayıları, mantığı ve matematiksel düşünmeyi kullanmayı içerir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Yapılandırmacı Yaklaşım",
+      "difficulty": 3,
+      "text": "Yapılandırmacı yaklaşıma göre öğrenme sürecinde öğrencinin rolü en iyi hangisiyle açıklanır?",
+      "options": { "A": "Bilgiyi pasif biçimde alan", "B": "Bilgiyi kendi deneyimleriyle anlamlandıran ve yapan", "C": "Bilgiyi olduğu gibi ezberleyen", "D": "Öğretmenin yönlendirmesine tümüyle bağlı kalan" },
+      "correctOption": "B",
+      "explanation": "Yapılandırmacı yaklaşımda öğrenci bilgiyi kendi deneyimleriyle anlamlandırarak öğrenir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kavram Yanılgıları",
+      "difficulty": 2,
+      "text": "Öğrencilerin öğretime direnç gösteren, bilimsel olarak doğru olmayan ve kendi yaşantılarına dayanan yanlış anlamalarına ne ad verilir?",
+      "options": { "A": "Kazanım", "B": "Hedef", "C": "Kavram yanılgısı", "D": "Dönüt" },
+      "correctOption": "C",
+      "explanation": "Kendi yaşantılarına dayalı, bilimsel olmayan ve öğretime direnç gösteren yanlış anlamalara kavram yanılgısı denir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğrenme Stilleri",
+      "difficulty": 2,
+      "text": "Bir öğrencinin bilgiyi en iyi resim, şema ve grafikle öğrenmesi, aşağıdaki öğrenme stillerinden hangisiyle açıklanır?",
+      "options": { "A": "İşitsel", "B": "Kinestetik", "C": "Sözel", "D": "Görsel" },
+      "correctOption": "D",
+      "explanation": "Görsel öğrenme stili, bilginin resim, şema ve grafikle öğrenilmesini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öz Değerlendirme",
+      "difficulty": 3,
+      "text": "Öğrencinin kendi öğrenme sürecini ve performansını değerlendirmesine ne ad verilir?",
+      "options": { "A": "Öz değerlendirme", "B": "Tanılayıcı değerlendirme", "C": "İzleme değerlendirmesi", "D": "Düzey belirleme" },
+      "correctOption": "A",
+      "explanation": "Öğrencinin kendi öğrenmesini ve performansını değerlendirmesi öz değerlendirmedir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğrenmeyi Öğrenme",
+      "difficulty": 2,
+      "text": "Öğrencilerin kendi öğrenmelerini planlama, izleme ve değerlendirme sorumluluğunu üstlenmesi hangi yaklaşımın hedefidir?",
+      "options": { "A": "Ezberci öğretim", "B": "Öğrenmeyi öğrenme", "C": "Geleneksel anlatım", "D": "Sınav odaklı eğitim" },
+      "correctOption": "B",
+      "explanation": "Öğrenmeyi öğrenme, öğrencinin kendi öğrenmesini yönetme sorumluluğunu üstlenmesini hedefler."
+    }
+  ]
+}

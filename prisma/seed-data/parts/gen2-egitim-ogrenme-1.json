@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenmenin Tanımı",
+      "difficulty": 1,
+      "text": "Öğrenme, yaşantı ürünü olarak davranışta meydana gelen kalıcı izli değişiklik olarak tanımlanır. Buna göre aşağıdaki durumlardan hangisi öğrenme olarak nitelendirilemez?",
+      "options": {
+        "A": "Bir öğrencinin yüzme tekniğini geliştirmesi",
+        "B": "Yorgunluk nedeniyle ders sırasında sürekli esnemesi",
+        "C": "Bir çocuğun kendi başına ayakkabı bağlamayı öğrenmesi",
+        "D": "Bir kişinin yeni bir dilde selamlaşmayı öğrenmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Yorgunluk, hastalık veya ilaç etkisiyle ortaya çıkan geçici davranış değişiklikleri öğrenme sayılmaz; öğrenme için değişikliğin kalıcı izli olması gerekir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Olgunlaşma",
+      "difficulty": 1,
+      "text": "Bireyin herhangi bir yaşantı geçirmeden, biyolojik gelişimine bağlı olarak belli bir davranışı yapabilecek düzeye gelmesine ne ad verilir?",
+      "options": {
+        "A": "Olgunlaşma",
+        "B": "Hazırbulunuşluk",
+        "C": "Transfer",
+        "D": "Güdülenme"
+      },
+      "correctOption": "A",
+      "explanation": "Olgunlaşma, organizmanın kalıtımla getirdiği biyolojik gelişim sonucu belli davranışları yapmaya hazır hâle gelmesidir ve yaşantı gerektirmez."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Hazırbulunuşluk",
+      "difficulty": 2,
+      "text": "Bir öğrencinin bölme işlemini öğrenebilmesi için öncelikle çarpma işlemini bilmesi gerekmektedir. Bu durum aşağıdaki kavramlardan hangisiyle en iyi açıklanır?",
+      "options": {
+        "A": "Öğrenme eğrisi",
+        "B": "Öğrenme kapısı",
+        "C": "Hazırbulunuşluk",
+        "D": "Ket vurma"
+      },
+      "correctOption": "C",
+      "explanation": "Bireyin bir öğrenmeyi gerçekleştirebilmesi için gereken ön bilgiye ve olgunluk düzeyine sahip olması hazırbulunuşluk olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenme Eğrisi",
+      "difficulty": 2,
+      "text": "Öğrencinin çalışmayı sürdürdüğü hâlde öğrenme hızının bir süre hiç artmadığı ve eğrinin yatay seyrettiği döneme ne ad verilir?",
+      "options": {
+        "A": "Öğrenme sıçraması",
+        "B": "Olumlu transfer",
+        "C": "Öğrenme kapısı",
+        "D": "Öğrenme platosu"
+      },
+      "correctOption": "D",
+      "explanation": "Öğrenme sürecinde ilerlemenin geçici olarak durduğu yatay bölümler öğrenme platosu olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenme ve Performans",
+      "difficulty": 2,
+      "text": "Bir öğrenci konuyu evde rahatça çözebildiği hâlde sınav salonunda bildiklerini hatırlayamamaktadır. Bu durum aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Öğrenmenin gerçekleştiği ancak performansa dönüşemediği",
+        "B": "Öğrenmenin hiç gerçekleşmediği",
+        "C": "Bilginin uzun süreli belleğe hiç aktarılmadığı",
+        "D": "Öğrencinin öğrenme kapasitesinin yetersiz olduğu"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrenme gerçekleşmiş ancak kaygı gibi etkenlerle ortaya konamamıştır; öğrenme ile performans her zaman örtüşmeyebilir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenmeyi Etkileyen Öğrenci Özellikleri",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi öğrenmeyi etkileyen, öğrenciye ilişkin etkenlerden biri değildir?",
+      "options": {
+        "A": "Zekâ düzeyi",
+        "B": "Sınıfın fiziksel koşulları",
+        "C": "Öğrenmeye karşı tutum",
+        "D": "Konuyla ilgili ön bilgiler"
+      },
+      "correctOption": "B",
+      "explanation": "Sınıfın fiziksel koşulları öğrencinin kendisine değil öğrenme ortamına ilişkin bir etkendir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenmeyi Etkileyen Öğretmen Özellikleri",
+      "difficulty": 1,
+      "text": "Bir öğretmenin konusuna hâkim olması ve konuyu öğrencilerin anlayacağı örneklerle sunması öğrenmeyi etkileyen hangi öğretmen özelliğiyle ilgilidir?",
+      "options": {
+        "A": "Materyal hazırlama becerisi",
+        "B": "Ölçme ve değerlendirme becerisi",
+        "C": "Sınıf yönetimi becerisi",
+        "D": "Alan ve öğretim bilgisi"
+      },
+      "correctOption": "D",
+      "explanation": "Öğretmenin alanına hâkim olması ve bu bilgiyi öğrenci düzeyine uygun biçimde öğretime dönüştürebilmesi alan ve öğretim bilgisiyle ilgilidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Dönüt ve Düzeltme",
+      "difficulty": 2,
+      "text": "Bir öğretmen yazılı sınavlardan sonra öğrencilerine yalnızca puan vermekle kalmayıp hangi sorularda neden yanıldıklarını da açıklamaktadır. Bu uygulamanın öğrenmeye katkısı aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Dönüt ve düzeltme yoluyla eksik öğrenmelerin giderilmesi",
+        "B": "Puanların sınıfta okunması yoluyla güdülenmenin artırılması",
+        "C": "Öğrencilerin akranlarıyla kıyaslanmasının sağlanması",
+        "D": "Sınav kaygısının tamamen ortadan kaldırılması"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrenciye hatasının nedeni ve doğrusu açıklandığında dönüt ve düzeltme sağlanır; bu da eksik öğrenmelerin giderilmesine yardımcı olur."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenme Ortamının Etkisi",
+      "difficulty": 2,
+      "text": "Gürültülü, sıcaklığı uygun ayarlanmamış ve sık sık bölünen bir sınıfta ders yapılması öğrenmeyi olumsuz etkilemektedir. Bu durum öğrenmeyi etkileyen hangi etkenle ilgilidir?",
+      "options": {
+        "A": "Öğrencinin güdülenme düzeyi",
+        "B": "Öğretmenin alan bilgisi",
+        "C": "Öğrenme ortamının fiziksel özellikleri",
+        "D": "İçeriğin düzenleniş biçimi"
+      },
+      "correctOption": "C",
+      "explanation": "Isı, ışık, gürültü ve dikkat dağıtıcı uyaranlar öğrenme ortamının fiziksel özellikleri kapsamında değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğretim Materyalinin İşlevi",
+      "difficulty": 2,
+      "text": "Bir öğretmenin konuyu yalnızca sözel olarak anlatmak yerine görsel, işitsel ve dokunmaya dayalı araçları birlikte kullanması öğrenmeye hangi yolla katkı sağlar?",
+      "options": {
+        "A": "Ders süresinin kısalmasını sağlayarak",
+        "B": "Birden çok duyu organına seslenerek öğrenmenin kalıcılığını artırarak",
+        "C": "Ölçme ve değerlendirmeyi gereksiz hâle getirerek",
+        "D": "Öğrenciler arasındaki bireysel farklılıkları yok ederek"
+      },
+      "correctOption": "B",
+      "explanation": "Çoklu duyuya hitap eden materyaller bilginin kodlanmasını kolaylaştırdığı için öğrenmenin kalıcılığını artırır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Klasik Koşullanma Ögeleri",
+      "difficulty": 1,
+      "text": "Pavlov'un köpekle yaptığı deneyde et, herhangi bir öğrenme olmadan tükürük salgısına yol açtığı için hangi kavramla adlandırılır?",
+      "options": {
+        "A": "Koşullu uyarıcı",
+        "B": "Nötr uyarıcı",
+        "C": "Koşulsuz uyarıcı",
+        "D": "Koşullu tepki"
+      },
+      "correctOption": "C",
+      "explanation": "Doğuştan tepki oluşturan ve öğrenme gerektirmeyen uyarıcı koşulsuz uyarıcıdır; et bunun tipik örneğidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Nötr Uyarıcı",
+      "difficulty": 1,
+      "text": "Klasik koşullanmadan önce, tek başına sunulduğunda organizmada tükürük salgısı gibi ilgili tepkiyi oluşturmayan zil sesi hangi kavramla adlandırılır?",
+      "options": {
+        "A": "Koşulsuz tepki",
+        "B": "Pekiştireç",
+        "C": "Koşulsuz uyarıcı",
+        "D": "Nötr uyarıcı"
+      },
+      "correctOption": "D",
+      "explanation": "Koşullanma öncesinde kendiliğinden ilgili tepkiyi oluşturmayan uyarıcı nötr uyarıcıdır; koşullanma gerçekleşince koşullu uyarıcıya dönüşür."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Koşullu Tepki",
+      "difficulty": 2,
+      "text": "Yalnızca koşullu uyarıcı sunulduğunda organizmada ortaya çıkan ve öğrenme yoluyla kazanılmış olan tepkiye ne ad verilir?",
+      "options": {
+        "A": "Koşullu tepki",
+        "B": "Koşulsuz tepki",
+        "C": "Refleks",
+        "D": "İçgüdü"
+      },
+      "correctOption": "A",
+      "explanation": "Koşullu uyarıcıya karşı öğrenme sonucunda verilen tepki koşullu tepkidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Klasik Koşullanmada Pekiştirme",
+      "difficulty": 2,
+      "text": "Pavlov deneyinde zil sesinin etle art arda sunulması koşullanmanın güçlenerek sürmesini sağlamaktadır. Bu eşleştirme işlemi hangi kavramla adlandırılır?",
+      "options": {
+        "A": "Koşullu tepki",
+        "B": "Pekiştirme",
+        "C": "Sönme",
+        "D": "Gizil öğrenme"
+      },
+      "correctOption": "B",
+      "explanation": "Koşullu uyarıcı ile koşulsuz uyarıcının art arda sunulması pekiştirme olarak adlandırılır ve koşullanmanın kalıcılığını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Duygusal Koşullanma",
+      "difficulty": 2,
+      "text": "Bir öğrenci, coğrafya öğretmeninin derste kendisini sınıf önünde azarlamasından sonra coğrafya dersini düşündüğünde bile huzursuzluk duymaya başlamıştır. Bu durum aşağıdakilerden hangisinin örneğidir?",
+      "options": {
+        "A": "Edimsel koşullanma",
+        "B": "Gizil öğrenme",
+        "C": "Gözlem yoluyla öğrenme",
+        "D": "Koşullu duygusal tepki"
+      },
+      "correctOption": "D",
+      "explanation": "Başlangıçta nötr olan coğrafya dersinin olumsuz bir yaşantıyla eşleşerek kaygı üretmesi koşullu duygusal tepkidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Yüksek Düzey Koşullanma",
+      "difficulty": 3,
+      "text": "Koşullanma tamamlandıktan sonra koşullu uyarıcının yeni bir nötr uyarıcı için koşulsuz uyarıcı gibi iş görerek ikinci bir koşullanma oluşturmasına ne ad verilir?",
+      "options": {
+        "A": "Uyarıcı genellemesi",
+        "B": "Gölgeleme",
+        "C": "Yüksek düzey koşullanma",
+        "D": "Kendiliğinden geri gelme"
+      },
+      "correctOption": "C",
+      "explanation": "Koşullu uyarıcının pekiştireç gibi kullanılmasıyla oluşan bu koşullanmaya birinci ya da yüksek düzey koşullanma denir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bitişiklik İlkesi",
+      "difficulty": 2,
+      "text": "Klasik koşullanmanın gerçekleşebilmesi için nötr uyarıcının koşulsuz uyarıcıyla çok kısa bir zaman aralığında birlikte sunulması gerekir. Bu gereklilik hangi ilkeyle açıklanır?",
+      "options": {
+        "A": "Bitişiklik ilkesi",
+        "B": "Etki yasası",
+        "C": "Tekrar yasası",
+        "D": "Hazırbulunuşluk yasası"
+      },
+      "correctOption": "A",
+      "explanation": "Uyarıcıların kısa bir zaman aralığında birlikte sunulmasını zorunlu kılan ilke bitişiklik ilkesidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Karşıt Koşullanma",
+      "difficulty": 3,
+      "text": "Sınav kaygısı yaşayan bir öğrenciye sınavla ilgili düşünceleri sırasında derin gevşeme egzersizleri yaptırılarak kaygı yerine gevşeme tepkisi kazandırılmaya çalışılmıştır. Bu uygulama aşağıdakilerden hangisine dayanır?",
+      "options": {
+        "A": "Kademeli yaklaşma",
+        "B": "Karşıt koşullanma",
+        "C": "Edimsel sönme",
+        "D": "Olumsuz pekiştirme"
+      },
+      "correctOption": "B",
+      "explanation": "Bir tepkinin yerine onunla bağdaşmayan karşıt bir tepkinin koşullandırılması karşıt koşullanmadır ve sistematik duyarsızlaştırmanın temelini oluşturur."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Watson ve Duygusal Koşullanma",
+      "difficulty": 2,
+      "text": "Watson'un Küçük Albert deneyi, insanlarda korku gibi duygusal tepkilerin de öğrenme yoluyla kazanılabileceğini göstermiştir. Bu deney hangi öğrenme kuramına kanıt oluşturur?",
+      "options": {
+        "A": "Bilişsel öğrenme kuramı",
+        "B": "Yapılandırmacı yaklaşım",
+        "C": "Sosyal öğrenme kuramı",
+        "D": "Klasik koşullanma kuramı"
+      },
+      "correctOption": "D",
+      "explanation": "Nötr bir uyarıcının korkutucu bir uyarıcıyla eşleştirilmesiyle korkunun koşullandığını göstermesi bakımından deney klasik koşullanmayı destekler."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Klasik Koşullanmanın Sınırlılığı",
+      "difficulty": 3,
+      "text": "Klasik koşullanma yaklaşımının öğrenmeyi açıklamada yetersiz kaldığı durum aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bireyin sonuçlarını değerlendirerek davranışını bilinçli biçimde değiştirmesi",
+        "B": "Duygusal tepkilerin öğrenme yoluyla kazanılması",
+        "C": "Korkuların koşullanma yoluyla ortaya çıkması",
+        "D": "Reflekslere dayalı tepkilerin öğrenilmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Klasik koşullanma uyarıcıya bağlı, çoğunlukla istem dışı tepkileri açıklar; sonucunu değerlendirerek davranışını değiştirme edimsel koşullanma ile açıklanır."
+    }
+  ]
+}

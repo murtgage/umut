@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Felsefi Akımlar ve Program Tasarımı",
+      "difficulty": 1,
+      "text": "Temel bilgi ve becerilerin öğretilmesini, disiplini ve çalışkanlığı öne çıkaran esasicilik (temelcilik) akımının program tasarımına yansıması aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Konu merkezli tasarım",
+        "B": "Öğrenci merkezli tasarım",
+        "C": "Radikal tasarım",
+        "D": "Yaşantı merkezli tasarım"
+      },
+      "correctOption": "A",
+      "explanation": "Esasicilik, değişmeyen temel bilgi ve becerilerin öğretilmesini savunduğundan konu ve disiplin merkezli tasarımları destekler."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Felsefi Akımlar ve Program Tasarımı",
+      "difficulty": 2,
+      "text": "Değişmeyen, evrensel ve kalıcı bilginin klasik eserler yoluyla öğretilmesini savunan; bu nedenle konu merkezli tasarımı destekleyen felsefi akım hangisidir?",
+      "options": {
+        "A": "İlerlemecilik",
+        "B": "Daimicilik",
+        "C": "Varoluşçuluk",
+        "D": "Yeniden kurmacılık"
+      },
+      "correctOption": "B",
+      "explanation": "Daimicilik, insan doğasının ve temel bilginin değişmediğini savunarak klasik içeriğin aktarılmasını öngörür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Felsefi Akımlar ve Program Tasarımı",
+      "difficulty": 1,
+      "text": "Eğitimde öğrencinin ilgi, gereksinim ve deneyimlerini merkeze alan, öğrenciyi etkin kılan ilerlemecilik akımının program anlayışı için aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Konu merkezli tasarımı savunur.",
+        "B": "Yalnızca öğretmen merkezli yöntemleri önerir.",
+        "C": "Öğrenci merkezli tasarımı savunur.",
+        "D": "Programı hiçbir tasarım anlayışına dayandırmaz."
+      },
+      "correctOption": "C",
+      "explanation": "İlerlemecilik, öğrencinin yaşantı ve gereksinimlerinden yola çıkıldığı öğrenci merkezli tasarım anlayışını benimser."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Felsefi Akımlar ve Program Tasarımı",
+      "difficulty": 3,
+      "text": "Eğitimin, toplumsal sorunları çözmek ve toplumu yeniden biçimlendirmek amacıyla kullanılması gerektiğini savunan felsefi akım hangisidir?",
+      "options": {
+        "A": "Daimicilik",
+        "B": "Esasicilik",
+        "C": "İlerlemecilik",
+        "D": "Yeniden kurmacılık"
+      },
+      "correctOption": "D",
+      "explanation": "Yeniden kurmacılık, eğitimi toplumsal değişim ve yeniden yapılanmanın aracı olarak görür; bu anlayış sorun merkezli tasarımları besler."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Süreç Tasarımı",
+      "difficulty": 2,
+      "text": "Programın içeriğin aktarılmasından çok öğrencinin düşünme, araştırma ve öğrenme süreçlerini geliştirmeye odaklanan tasarım hangisidir?",
+      "options": {
+        "A": "Süreç tasarımı",
+        "B": "Disiplin tasarımı",
+        "C": "Konu tasarımı",
+        "D": "Çekirdek tasarım"
+      },
+      "correctOption": "A",
+      "explanation": "Süreç tasarımı, öğrencinin ne öğrendiğinden çok nasıl öğrendiğiyle, yani süreç becerileriyle ilgilenir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Psikolojik Temel",
+      "difficulty": 3,
+      "text": "Davranışçı öğrenme kuramlarının program geliştirmeye etkisiyle programlarda öne çıkan anlayış aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrencinin ön bilgilerinin gereksiz görülmesi",
+        "B": "Hedeflerin gözlenebilir davranışlar biçiminde yazılması ve pekiştirmeye ağırlık verilmesi",
+        "C": "Öğrenme sürecinin önemsiz sayılması",
+        "D": "Ölçme ve değerlendirmeden vazgeçilmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Davranışçılık, gözlenebilir davranış hedeflerini ve pekiştirmeye dayalı öğretim düzenlemelerini programlara taşımıştır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğrenci Merkezli Tasarım",
+      "difficulty": 1,
+      "text": "Programın, öğrencinin doğal gelişim sürecine uygun olarak ve onun ilgi ve gereksinimlerinden yola çıkılarak düzenlenmesini savunan öğrenci merkezli tasarım hangisidir?",
+      "options": {
+        "A": "Yaşam şartları tasarımı",
+        "B": "Çekirdek tasarım",
+        "C": "Çocuk merkezli tasarım",
+        "D": "Alan tasarımı"
+      },
+      "correctOption": "C",
+      "explanation": "Çocuk merkezli tasarımda çıkış noktası, çocuğun doğası, ilgileri ve gelişim özellikleridir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğrenci Merkezli Tasarım",
+      "difficulty": 3,
+      "text": "Programın önceden ve katı biçimde planlanmasına karşı çıkan; öğrencinin kendi öğrenmesini özgürce ve doğal biçimde yönlendirmesini savunan öğrenci merkezli tasarım hangisidir?",
+      "options": {
+        "A": "Disiplin tasarımı",
+        "B": "Süreç tasarımı",
+        "C": "Konu tasarımı",
+        "D": "Romantik (radikal) tasarım"
+      },
+      "correctOption": "D",
+      "explanation": "Romantik ya da radikal tasarım, planlamanın öğrenciyi sınırlandırdığını ileri sürerek özgür ve doğal öğrenmeyi savunur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğrenci Merkezli Tasarım",
+      "difficulty": 2,
+      "text": "Öğrencinin bilgiyi doğrudan yaşayarak ve deneyimleyerek öğrenmesini temel alan öğrenci merkezli tasarım hangisidir?",
+      "options": {
+        "A": "Yaşantı merkezli tasarım",
+        "B": "Konu tasarımı",
+        "C": "Disiplinler arası tasarım",
+        "D": "Çekirdek tasarım"
+      },
+      "correctOption": "A",
+      "explanation": "Yaşantı merkezli tasarımda öğrenme, öğrencinin doğrudan geçirdiği yaşantılar üzerine kurulur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sorun Merkezli Tasarım",
+      "difficulty": 2,
+      "text": "Programın, öğrencilerin yaşamda karşılaştıkları temel sorun alanlarına göre düzenlenmesini öngören sorun merkezli tasarım hangisidir?",
+      "options": {
+        "A": "Çocuk merkezli tasarım",
+        "B": "Yaşam şartları tasarımı",
+        "C": "Süreç tasarımı",
+        "D": "Konu tasarımı"
+      },
+      "correctOption": "B",
+      "explanation": "Yaşam şartları tasarımında içerik; sağlık, beslenme, barınma gibi yaşamın temel sorunları etrafında örgütlenir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sorun Merkezli Tasarım",
+      "difficulty": 1,
+      "text": "Tüm öğrencilerin ortak ve zorunlu olarak alması gereken, toplumsal yaşamın temel bilgi ve becerilerini içeren merkezî ders alanını esas alan sorun merkezli tasarım hangisidir?",
+      "options": {
+        "A": "Radikal tasarım",
+        "B": "Yaşantı merkezli tasarım",
+        "C": "Çekirdek tasarım",
+        "D": "Disiplin tasarımı"
+      },
+      "correctOption": "C",
+      "explanation": "Çekirdek (core) tasarım, toplumun ortak gereksinimlerini karşılayan zorunlu bir merkezî içerik alanı öngörür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Konu Merkezli Tasarımın Sınırlılığı",
+      "difficulty": 3,
+      "text": "Konu merkezli program tasarımına yöneltilen en yaygın eleştiri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilgiyi sistemli biçimde sunamaması",
+        "B": "Öğretmenin alan bilgisine hiç yer vermemesi",
+        "C": "Ölçme ve değerlendirmeyi olanaksız kılması",
+        "D": "Öğrencinin ilgi ve gereksinimlerini yeterince dikkate almaması"
+      },
+      "correctOption": "D",
+      "explanation": "Konu merkezli tasarım bilgiyi düzenli sunmakla birlikte öğrencinin ilgi, gereksinim ve yaşantılarını geri planda bırakır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Tarihî Temel",
+      "difficulty": 1,
+      "text": "Bir ülkenin eğitim programının geçmişten günümüze aktarılan kültürel birikim, deneyim ve uygulamalardan yararlanarak biçimlenmesi program geliştirmenin hangi temeliyle ilgilidir?",
+      "options": {
+        "A": "Tarihî temel",
+        "B": "Ekonomik temel",
+        "C": "Psikolojik temel",
+        "D": "Felsefi temel"
+      },
+      "correctOption": "A",
+      "explanation": "Tarihî temel, program geliştirmede geçmişteki eğitim deneyimlerinin ve kültürel birikimin dikkate alınmasını ifade eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Psikolojik Temel",
+      "difficulty": 2,
+      "text": "Bilişsel öğrenme kuramlarının program geliştirmeye etkisiyle programlarda ağırlık verilen anlayış aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca tekrar ve ezberin öne çıkarılması",
+        "B": "Öğrencinin anlamlandırma, problem çözme ve üst düzey düşünme becerilerinin geliştirilmesi",
+        "C": "Duyuşsal özelliklerin tümüyle yok sayılması",
+        "D": "Öğretim sürecinin mekanikleştirilmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Bilişsel kuramlar, bilginin işlenmesi ve anlamlandırılmasına, dolayısıyla üst düzey düşünme becerilerine vurgu yapar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Konu Merkezli Tasarımın Üstünlüğü",
+      "difficulty": 2,
+      "text": "Bilginin, her disiplinin kendi mantığı içinde ve sistematik biçimde öğretilmesini esas alan konu merkezli tasarımın sağladığı temel üstünlük aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrencinin ilgi ve gereksinimlerini her şeyin önüne alması",
+        "B": "Öğrenmeyi tümüyle rastlantıya bırakması",
+        "C": "Bilgiyi sistemli, düzenli ve derinlemesine öğretmesi",
+        "D": "Toplumsal sorunların çözümünü tek amaç hâline getirmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Konu merkezli tasarım, bilgiyi belli bir mantık sırası içinde ve derinlemesine vermesi bakımından üstündür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Temeller Arası Denge",
+      "difficulty": 3,
+      "text": "Program geliştirme çalışmalarının yalnızca tek bir temele dayandırılmasının en önemli sakıncası aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Programın uygulanma süresinin uzaması",
+        "B": "Öğretmen sayısının yetersiz kalması",
+        "C": "Ders saatlerinin artırılmasının zorunlu olması",
+        "D": "Programın bir yönünün aşırı vurgulanarak diğer gereksinimlerin göz ardı edilmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Programın tarihî, felsefi, psikolojik, sosyal ve ekonomik temelleri bir bütün olarak ele alınmalıdır; tek temele dayanmak dengeyi bozar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Konu ve Disiplin Tasarımı",
+      "difficulty": 1,
+      "text": "Konu tasarımı ile disiplin tasarımı arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Konu tasarımı içeriği başlıklara göre, disiplin tasarımı ise bilimin kendi yapı ve yöntemine göre düzenler.",
+        "B": "Konu tasarımı öğrenci merkezli, disiplin tasarımı sorun merkezlidir.",
+        "C": "Konu tasarımı yalnızca duyuşsal hedefleri kapsar.",
+        "D": "Disiplin tasarımı içerikten tümüyle vazgeçer."
+      },
+      "correctOption": "A",
+      "explanation": "Konu tasarımı içeriği konu başlıklarına göre sıralarken disiplin tasarımı her bilim dalının kendi yapısını ve yöntemini temel alır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Öğrenci Merkezli Tasarımın Sınırlılığı",
+      "difficulty": 3,
+      "text": "Öğrenci merkezli program tasarımının uygulamadaki en önemli güçlüğü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrenciyi tümüyle edilgin kılması",
+        "B": "Önceden planlanmasının ve değerlendirilmesinin zor olması",
+        "C": "Öğretmenin hiçbir rol üstlenmemesi",
+        "D": "Yaşantıya hiç yer vermemesi"
+      },
+      "correctOption": "B",
+      "explanation": "Öğrencinin ilgi ve yaşantılarına göre biçimlenen bu tasarımların önceden planlanması, izlenmesi ve değerlendirilmesi güçtür."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Sorun Merkezli Tasarımın Katkısı",
+      "difficulty": 2,
+      "text": "Sorun merkezli program tasarımının öğrenciye sağladığı temel katkı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Her disiplinin bilgisini birbirinden bağımsız öğretmesi",
+        "B": "Öğrenciyi yalnızca sınav başarısına odaklaması",
+        "C": "Gerçek yaşam sorunlarıyla uğraşarak problem çözme ve yaşam becerilerini geliştirmesi",
+        "D": "İçeriği tümüyle ezberlenmesi gereken listelere dönüştürmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Sorun merkezli tasarım, öğrencileri gerçek sorunlarla karşılaştırarak problem çözme ve yaşam becerilerini geliştirir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Tasarım Seçimini Etkileyen Etkenler",
+      "difficulty": 3,
+      "text": "Bir ülkede program tasarımı anlayışının seçilmesinde aşağıdakilerden hangisi etkili olmaz?",
+      "options": {
+        "A": "Ülkenin eğitim felsefesi ve amaçları",
+        "B": "Öğrencilerin gelişim özellikleri ve gereksinimleri",
+        "C": "Toplumun ekonomik ve sosyal yapısı",
+        "D": "Öğretmenlerin kaç yıl görev yaptığı geçmişi"
+      },
+      "correctOption": "D",
+      "explanation": "Tasarım seçimi eğitim felsefesi, öğrenci özellikleri ve toplumsal koşullarla ilgilidir; öğretmenin hizmet süresi belirleyici değildir."
+    }
+  ]
+}

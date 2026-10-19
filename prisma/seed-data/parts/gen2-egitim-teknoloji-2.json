@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "ADDIE modelinin tasarım aşamasında gerçekleştirilen temel iş hangisidir?",
+      "options": { "A": "Materyalin çoğaltılıp dağıtılması", "B": "Öğretim stratejilerinin ve materyal taslağının planlanması", "C": "Öğrenci başarısının sınavla ölçülmesi", "D": "Öğretimin gerçek ortamda yürütülmesi" },
+      "correctOption": "B",
+      "explanation": "Tasarım aşamasında kazanımlara uygun öğretim stratejileri ve materyal taslakları planlanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 1,
+      "text": "ASSURE modelinin adını oluşturan harflerden ilki olan ifade hangisidir?",
+      "options": { "A": "Öğrenciyi analiz etme", "B": "Yöntemi seçme", "C": "Materyali geliştirme", "D": "Hedefleri belirtme" },
+      "correctOption": "D",
+      "explanation": "ASSURE modelinin ilk adımı, ders için hedeflerin açık biçimde belirtilmesidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 1,
+      "text": "ASSURE modelinin sınıf öğretmenleri tarafından yaygın kullanılmasının temel nedeni hangisidir?",
+      "options": { "A": "Tek bir dersin planlanmasında uygulanabilir ve öğretmen dostu olması", "B": "Yalnızca üniversitelerde kullanılabilmesi", "C": "Çok yıllık program geliştirmeyi zorunlu kılması", "D": "Öğretmeni süreçten tamamen dışlaması" },
+      "correctOption": "A",
+      "explanation": "ASSURE, tek ders düzeyinde uygulanabilir adımlarıyla sınıf öğretmenine doğrudan seslenir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Dick ve Carey modelinde öğrencilerin giriş davranışlarının ve önkoşul becerilerinin belirlenmesi hangi adımla ilgilidir?",
+      "options": { "A": "Öğretim stratejilerinin geliştirilmesi", "B": "Biçimlendirici değerlendirme yapılması", "C": "Öğrenci özelliklerinin analiz edilmesi", "D": "Öğretim materyallerinin yazılması" },
+      "correctOption": "C",
+      "explanation": "Öğrenci analizi adımı, öğrencilerin hazırbulunuşluk ve giriş davranışlarının belirlenmesini kapsar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Morrison, Ross ve Kemp modelinin esnek ve doğrusal olmayan yapısının tasarımcıya sağladığı imkân hangisidir?",
+      "options": { "A": "Yalnızca tek bir sırayla ilerlemek zorunda kalması", "B": "Aşamalara gerektiğinde geri dönebilmesi", "C": "Değerlendirmeyi tümüyle atlaması", "D": "Hedefleri belirlemeden başlayabilmesi" },
+      "correctOption": "B",
+      "explanation": "Bu model, aşamaların birbirini besleyen ve gerektiğinde geri dönülebilen bir döngüde ele alınmasını öngörür."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Gerlach ve Ely modelini diğer öğretim tasarımı modellerinden ayıran temel özellik hangisidir?",
+      "options": { "A": "Yalnızca uzaktan eğitime yönelik olması", "B": "Kurumsal yönetim süreçlerine odaklanması", "C": "Yalnızca sayısal dersler için tasarlanması", "D": "Sınıf içi öğretime ve öğretmenin doğrudan uygulamasına dönük olması" },
+      "correctOption": "D",
+      "explanation": "Gerlach ve Ely modeli, sınıf içi uygulamaya dönük ve öğretmenin doğrudan kullanabileceği bir yaklaşım sunar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Öğretim tasarımı sürecinde başvurulan biçimlendirici değerlendirmenin amacı hangisidir?",
+      "options": { "A": "Öğrenciyi resmî olarak notlandırmak", "B": "Okul yönetimine rapor sunmak", "C": "Materyal geliştirilirken eksikleri belirleyip düzeltmek", "D": "Dersin bitiminde kesin karar vermek" },
+      "correctOption": "C",
+      "explanation": "Biçimlendirici değerlendirme, geliştirme sürecinde dönüt sağlayarak düzeltmeye imkân verir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 3,
+      "text": "Öğretim materyalinin geliştirme aşamasında son hâline getirilmeden önce yapılan düzeltmeler hangi değerlendirme türünün sonucunda gerçekleşir?",
+      "options": { "A": "Biçimlendirici değerlendirme", "B": "Toplam değerlendirme", "C": "Tanılayıcı değerlendirme", "D": "Yansıtıcı değerlendirme" },
+      "correctOption": "A",
+      "explanation": "Geliştirme sürecindeki ara düzeltmeler biçimlendirici değerlendirme yoluyla elde edilen verilere dayanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğretim Tasarımı Modelleri",
+      "difficulty": 2,
+      "text": "Bir öğretmenin dersine hangi öğretim tasarımı modelini uygulayacağına karar verirken dikkate alması gereken temel ölçüt hangisidir?",
+      "options": { "A": "Modelin en yeni olması", "B": "Öğretim bağlamına ve tasarım amacına uygunluğu", "C": "Modelin kısa adının akılda kalması", "D": "Modeli geliştirenin ünü" },
+      "correctOption": "B",
+      "explanation": "Model seçimi, öğretim bağlamının gereksinimlerine ve tasarımın amacına göre yapılmalıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 2,
+      "text": "TPACK modelinde pedagojik bilgi aşağıdakilerden hangisini kapsar?",
+      "options": { "A": "Ders içeriğine ilişkin alan bilgisini", "B": "Kullanılacak cihazların teknik özelliklerini", "C": "Öğretme ve öğrenme süreçlerinin nasıl yönetileceğine ilişkin bilgiyi", "D": "Okulun bütçe planlamasını" },
+      "correctOption": "C",
+      "explanation": "Pedagojik bilgi, öğretim yöntem ve süreçlerinin nasıl düzenleneceğine ilişkin bilgidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "TPACK modelinde bağlamın önemine ilişkin doğru ifade hangisidir?",
+      "options": { "A": "Aynı teknoloji farklı sınıf bağlamlarında farklı biçimde entegre edilmelidir", "B": "Teknoloji her bağlamda aynı biçimde kullanılmalıdır", "C": "Bağlamın teknoloji seçimine etkisi yoktur", "D": "Sınıf mevcudu teknoloji kararını etkilemez" },
+      "correctOption": "A",
+      "explanation": "TPACK, teknolojinin bağlama duyarlı biçimde, içerik ve pedagojiyle birlikte ele alınmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 1,
+      "text": "SAMR modelinde teknolojinin eski görevi hiçbir değişiklik yapmadan yerine geçecek biçimde kullanılması hangi basamağa karşılık gelir?",
+      "options": { "A": "Yeniden tanımlama", "B": "Değiştirme", "C": "Artırma", "D": "Yerine koyma" },
+      "correctOption": "D",
+      "explanation": "Yerine koyma, teknolojinin önceki işlevi hiç değiştirmeden kullanılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "SAMR modelinde artırma basamağında teknolojinin sağladığı katkı hangisidir?",
+      "options": { "A": "Görevi tamamen anlamsız kılması", "B": "Yazım denetimi gibi işlevlerle görevi iyileştirmesi", "C": "Önceki olanaklarla mümkün olmayan yeni görevler yaratması", "D": "Teknolojiyi devre dışı bırakması" },
+      "correctOption": "B",
+      "explanation": "Artırma basamağında teknoloji, görevi işlevsel olarak iyileştirir ancak dönüştürmez."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 2,
+      "text": "Öğretmenlerin bir teknolojiyi kullanma kararını algılanan yarar ve algılanan kullanım kolaylığı temelinde açıklayan model hangisidir?",
+      "options": { "A": "ADDIE", "B": "ASSURE", "C": "Teknoloji Kabul Modeli", "D": "SAMR" },
+      "correctOption": "C",
+      "explanation": "Teknoloji Kabul Modeli, kullanıcıların teknolojiyi benimsemesini algılanan yarar ve kolaylıkla açıklar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 2,
+      "text": "Teknoloji entegrasyonunda önce teknolojinin öğrenilip ardından derse eklenmesi biçimindeki yaygın yaklaşımın sakıncası hangisidir?",
+      "options": { "A": "Teknolojinin pedagoji ve içerikten kopuk kullanılması", "B": "Teknolojinin hiç kullanılmaması", "C": "Öğrencilerin okula gelmemesi", "D": "Öğretmenin ders anlatamaması" },
+      "correctOption": "A",
+      "explanation": "Teknoloji önce öğrenildiğinde, kazanım ve pedagojiyle bağ kurulmadan amaçsız kullanılabilir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Teknoloji Entegrasyonu",
+      "difficulty": 3,
+      "text": "Bir öğretmenin teknolojiyi dersin kazanımına hizmet edecek biçimde, uygun yöntemle birlikte seçmesi hangi yaklaşımın temel ilkesidir?",
+      "options": { "A": "Davranışçı yaklaşım", "B": "Sunuş yoluyla öğretim", "C": "Programlı öğretim", "D": "TPACK yaklaşımı" },
+      "correctOption": "D",
+      "explanation": "TPACK, teknolojinin pedagoji ve içerik bilgisiyle bütünleşik biçimde kullanılmasını esas alır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Bilgisayar Destekli Öğretim",
+      "difficulty": 1,
+      "text": "Bilgisayar destekli öğretimin öğrenciye sağladığı en belirgin katkı hangisidir?",
+      "options": { "A": "Ders süresini kısaltması", "B": "Kendi hızında ilerleyip anında geri bildirim alabilmesi", "C": "Öğretmeni tamamen ortadan kaldırması", "D": "Ölçme ihtiyacını ortadan kaldırması" },
+      "correctOption": "B",
+      "explanation": "Bilgisayar destekli öğretim, öğrenciye kendi hızında ilerleme ve anında geri bildirim imkânı sunar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Bilgisayar Destekli Öğretim",
+      "difficulty": 2,
+      "text": "Bilgisayar destekli öğretimde öğrencinin belirli kurallara göre yarışıp puan kazandığı, motivasyonu artıran yazılım türü hangisidir?",
+      "options": { "A": "Eğitsel oyun", "B": "Veri tabanı", "C": "Kelime işlemci", "D": "Elektronik tablo" },
+      "correctOption": "A",
+      "explanation": "Eğitsel oyun yazılımları, puan ve yarışma ögeleriyle öğrencinin motivasyonunu artırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Bilgisayar Destekli Öğretim",
+      "difficulty": 2,
+      "text": "Birebir öğretim yazılımlarının temel özelliği hangisidir?",
+      "options": { "A": "Yalnızca ölçme yapması", "B": "Yalnızca oyun sunması", "C": "Yeni bilgiyi öğreterek öğrenciyi adım adım yönlendirmesi", "D": "Öğretmenin ders anlatmasını engellemesi" },
+      "correctOption": "C",
+      "explanation": "Birebir öğretim yazılımları yeni içeriği sunar ve öğrenciyi kademeli olarak yönlendirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Bilgisayar Destekli Öğretim",
+      "difficulty": 2,
+      "text": "Öğrencilerin bilgisayarı bilgi toplama, çözümleme ve ürün oluşturma aracı olarak kullandığı bilgisayar destekli öğretim yaklaşımı hangisidir?",
+      "options": { "A": "Alıştırma ve tekrar yazılımı", "B": "Doğrusal programlı öğretim", "C": "Birebir öğretim yazılımı", "D": "Bilgisayarı araç olarak kullanan açık uçlu yaklaşım" },
+      "correctOption": "D",
+      "explanation": "Açık uçlu yaklaşımda öğrenci bilgisayarı üretim ve problem çözme aracı olarak kullanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Bilgisayar Destekli Öğretim",
+      "difficulty": 2,
+      "text": "Bir bilgisayar destekli öğretim yazılımı değerlendirilirken ilk olarak hangi ölçüt ele alınmalıdır?",
+      "options": { "A": "Grafiklerin sayısı", "B": "Menülerin rengi", "C": "Kazanımlarla tutarlılığı", "D": "Dosya boyutu" },
+      "correctOption": "C",
+      "explanation": "Yazılımın öncelikle hedeflenen kazanımlara hizmet etmesi gerekir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 1,
+      "text": "Uzaktan eğitimin tanımında öne çıkan temel özellik hangisidir?",
+      "options": { "A": "Öğretimin yüz yüze yapılması", "B": "Aynı sınıfta bulunma zorunluluğu", "C": "Yalnızca sınav uygulanması", "D": "Öğrenen ile öğreticinin farklı mekânlarda bulunması" },
+      "correctOption": "D",
+      "explanation": "Uzaktan eğitimde öğrenen ve öğretici fiziksel olarak aynı ortamda bulunmak zorunda değildir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 1,
+      "text": "Eş zamansız uzaktan eğitimin öğrenciye sağladığı esneklik hangisidir?",
+      "options": { "A": "Derse aynı anda katılma zorunluluğu", "B": "İçeriğe kendi çalışma planına göre istediği zaman erişebilmesi", "C": "Yalnızca okul saatleri içinde çalışabilmesi", "D": "Öğretmenle aynı odada bulunması" },
+      "correctOption": "B",
+      "explanation": "Eş zamansız model, öğrencinin içeriğe istediği zaman ve kendi hızında erişmesine imkân tanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 3,
+      "text": "Açık ve uzaktan öğrenmede açıklık kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": { "A": "Sınavların herkese açık yapılmasını", "B": "Ders içeriğinin gizli tutulmasını", "C": "Giriş koşullarında ve öğrenme yollarında esneklik tanınmasını", "D": "Yalnızca belirli bir yaş grubuna hitap edilmesini" },
+      "correctOption": "C",
+      "explanation": "Açıklık, öğrenenlere giriş koşulları ve öğrenme yolları bakımından esneklik sağlanmasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 2,
+      "text": "Kitlesel açık çevrim içi derslerin (MOOC) geleneksel çevrim içi derslerden ayrılan özelliği hangisidir?",
+      "options": { "A": "Çok sayıda katılımcıya açık ve genellikle ücretsiz olması", "B": "Yalnızca kayıtlı öğrencilere kapalı olması", "C": "Yüz yüze yapılması", "D": "Küçük gruplarla sınırlı olması" },
+      "correctOption": "A",
+      "explanation": "MOOC'lar çok sayıda katılımcıya açık, genellikle ücretsiz ve kitlesel ölçekli derslerdir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Uzaktan Eğitim",
+      "difficulty": 3,
+      "text": "Harmanlanmış öğrenmede istasyon rotasyon modeli neyi ifade eder?",
+      "options": { "A": "Öğrencilerin yıl boyunca aynı öğretmenle çalışmasını", "B": "Tüm dersin çevrim içi yürütülmesini", "C": "Öğretmenin yalnızca sunum yapmasını", "D": "Öğrencilerin sınıf içindeki farklı öğrenme istasyonları arasında dönüşümlü çalışmasını" },
+      "correctOption": "D",
+      "explanation": "İstasyon rotasyonunda öğrenciler, biri çevrim içi olabilecek farklı istasyonlar arasında sırayla çalışır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Ters Yüz Sınıf",
+      "difficulty": 2,
+      "text": "Ters yüz edilmiş sınıf modelinde öğretmenin sınıf içindeki temel rolü hangisidir?",
+      "options": { "A": "Uzun konferanslar vermesi", "B": "Öğrenciye rehberlik edip etkinlikleri yönlendirmesi", "C": "Yalnızca yoklama alması", "D": "Sınıfta hiç bulunmaması" },
+      "correctOption": "B",
+      "explanation": "Ters yüz sınıfta öğretmen içeriği aktarmak yerine etkinliklerde rehberlik eder."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Ters Yüz Sınıf",
+      "difficulty": 2,
+      "text": "Ters yüz edilmiş sınıf modelinin öğrenci açısından en önemli riski hangisidir?",
+      "options": { "A": "Sınıfta çok fazla ödev yapılması", "B": "Ders süresinin uzaması", "C": "Ders öncesi içeriği izlemeyip sınıfa hazırlıksız gelmesi", "D": "Öğretmenin hiç dönüt vermemesi" },
+      "correctOption": "C",
+      "explanation": "Model, ders öncesi hazırlığa dayandığından öğrencinin hazırlıksız gelmesi süreci aksatır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Harmanlanmış Öğrenme",
+      "difficulty": 2,
+      "text": "Zenginleştirilmiş sanal harmanlanmış öğrenme modelinde yüz yüze görüşmelerin özelliği hangisidir?",
+      "options": { "A": "Zorunlu olmayıp genellikle isteğe bağlı olması", "B": "Her gün yapılması", "C": "Tamamen yasak olması", "D": "Sınav haftasıyla sınırlı olması" },
+      "correctOption": "A",
+      "explanation": "Bu modelde öğretim büyük ölçüde çevrim içi yürütülür; yüz yüze görüşmeler çoğunlukla isteğe bağlıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "e-Öğrenme Standartları",
+      "difficulty": 2,
+      "text": "SCORM gibi e-öğrenme standartlarının kullanılmasının temel amacı hangisidir?",
+      "options": { "A": "Ders ücretlerini düşürmek", "B": "İçeriğin farklı öğrenme yönetim sistemlerinde uyumlu çalışmasını sağlamak", "C": "İnternet hızını artırmak", "D": "Öğretmen sayısını azaltmak" },
+      "correctOption": "B",
+      "explanation": "SCORM gibi standartlar, içeriğin farklı sistemler arasında taşınabilir ve uyumlu olmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 1,
+      "text": "Web 2.0'ı önceki web anlayışından ayıran temel özellik hangisidir?",
+      "options": { "A": "Kullanıcıların içerik üretip paylaşabilmesi ve etkileşim kurabilmesi", "B": "Yalnızca okuma yapılabilmesi", "C": "İnternetin ücretli olması", "D": "İçeriğin tek kişi tarafından sunulması" },
+      "correctOption": "A",
+      "explanation": "Web 2.0, kullanıcıyı pasif tüketiciden etkin içerik üreticisine dönüştürür."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 2,
+      "text": "Öğrencilerin ortak bir çevrim içi panoya eşzamanlı olarak fikir yazıp düzenleyebildiği araçlar öğretimde hangi amaçla kullanılır?",
+      "options": { "A": "Yoklama almak", "B": "Not hesaplamak", "C": "İşbirliği ve beyin fırtınası yapmak", "D": "Sınav kağıdı taramak" },
+      "correctOption": "C",
+      "explanation": "Ortak panolar, öğrencilerin birlikte fikir üretip düzenlemesine olanak tanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 1,
+      "text": "Öğretmenin öğrencilere çevrim içi kısa sınav uygulayıp anında sonuç alması hangi araç türüyle sağlanır?",
+      "options": { "A": "Kelime işlemci", "B": "Hesap tablosu", "C": "Sunu programı", "D": "Çevrim içi ölçme ve değerlendirme araçları" },
+      "correctOption": "D",
+      "explanation": "Çevrim içi ölçme araçları, kısa sınavlara anında yanıt ve sonuç sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 2,
+      "text": "Bir öğretmenin ders içeriğini podcast olarak hazırlamasının öğrenciye sağladığı katkı hangisidir?",
+      "options": { "A": "Öğrenciyi sınavdan muaf tutması", "B": "İçeriği istediği zaman tekrar tekrar dinleyebilmesi", "C": "Ders süresini kısaltması", "D": "Ödevi ortadan kaldırması" },
+      "correctOption": "B",
+      "explanation": "Podcast, öğrencinin içeriğe istediği zaman erişip tekrar dinlemesine imkân tanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 2,
+      "text": "Öğretimde blog kullanımının sağladığı temel katkı hangisidir?",
+      "options": { "A": "Öğrencilerin yazdıklarını yayımlayıp yorum alarak yazma becerisini geliştirmesi", "B": "İnternet hızını artırması", "C": "Sınavları otomatik okuması", "D": "Öğretmenin derse gelmesini gereksiz kılması" },
+      "correctOption": "A",
+      "explanation": "Bloglar, öğrencinin yazısını paylaşıp dönüt almasını sağlayarak yazma becerisini destekler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Web 2.0 Araçları",
+      "difficulty": 3,
+      "text": "Web 2.0 araçlarının sınıfta kullanımında öğretmenin alması gereken temel önlem hangisidir?",
+      "options": { "A": "Araçları sınırsız süre kullandırması", "B": "Öğrenci hesaplarını gizlice izlemesi", "C": "Kullanım amacını ve süresini planlayıp dijital güvenliği sağlaması", "D": "Araçları yalnızca ödev için yasaklaması" },
+      "correctOption": "C",
+      "explanation": "Araçların amacına ve süresine göre planlanması, mahremiyet ve güvenlik önlemlerinin alınması gerekir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Dijital Okuryazarlık",
+      "difficulty": 1,
+      "text": "Dijital okuryazarlık kapsamına giren beceri hangisidir?",
+      "options": { "A": "Yalnızca klavye kullanma hızı", "B": "Yalnızca oyun oynama", "C": "Yalnızca e-posta gönderme", "D": "Dijital araçlarla bilgiye erişme, bilgiyi değerlendirme ve üretme" },
+      "correctOption": "D",
+      "explanation": "Dijital okuryazarlık, dijital ortamda bilgiye erişme, değerlendirme, üretme ve paylaşma becerilerini kapsar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Dijital Vatandaşlık",
+      "difficulty": 1,
+      "text": "Dijital ayak izi kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": { "A": "Klavye tuşlarındaki aşınma", "B": "Bireyin çevrim içi etkinlikleri sonucu geride bıraktığı izler", "C": "Bilgisayarın enerji tüketimi", "D": "İnternet kablosunun uzunluğu" },
+      "correctOption": "B",
+      "explanation": "Dijital ayak izi, bireyin çevrim içi paylaşım ve etkinlikleriyle oluşan kalıcı izlerdir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Güvenli İnternet",
+      "difficulty": 1,
+      "text": "Öğrencilere çevrim içi ortamda kendilerine ve ailelerine ait özel bilgileri paylaşmama alışkanlığı kazandırmak hangi başlıkla ilgilidir?",
+      "options": { "A": "Yazılım lisansı", "B": "Donanım bakımı", "C": "Dijital güvenlik", "D": "Veri girişi" },
+      "correctOption": "C",
+      "explanation": "Kişisel bilgilerin korunması, dijital güvenlik eğitiminin temel başlıklarındandır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Güvenli İnternet",
+      "difficulty": 1,
+      "text": "Çevrim içi ortamda yanıltıcı, doğruluğu kanıtlanmamış biçimde hızla yayılan haberlere ne ad verilir?",
+      "options": { "A": "Sahte haber ve dezenformasyon", "B": "Açık erişim", "C": "Dijital imza", "D": "Yazılım güncellemesi" },
+      "correctOption": "A",
+      "explanation": "Sahte haber ve dezenformasyon, doğruluğu olmayan içeriğin hızla yayılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Dijital Vatandaşlık",
+      "difficulty": 2,
+      "text": "Dijital vatandaşlığın dijital erişim boyutu aşağıdakilerden hangisini ifade eder?",
+      "options": { "A": "Herkesin en yeni cihazı satın almasını", "B": "İnternetin yalnızca okulda kullanılmasını", "C": "Yazılımların ücretli olmasını", "D": "Herkesin teknolojiye eşit biçimde ulaşabilmesini" },
+      "correctOption": "D",
+      "explanation": "Dijital erişim, tüm bireylerin teknolojiye ve dijital ortamlara eşit koşullarda ulaşabilmesini hedefler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Güvenli İnternet",
+      "difficulty": 2,
+      "text": "Siber zorbalıkla karşılaşan bir öğrenciye öğretmenin öncelikle yapması gereken hangisidir?",
+      "options": { "A": "Olayı görmezden gelmesi", "B": "Durumu ciddiye alıp kanıtlarla birlikte okul rehberlik birimine bildirmesi", "C": "Öğrenciyle alay etmesi", "D": "Öğrencinin cihazını elinden alması" },
+      "correctOption": "B",
+      "explanation": "Siber zorbalıkta olay ciddiye alınmalı, kanıtlar korunarak rehberlik ve aile sürece dahil edilmelidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitimde Yapay Zekâ",
+      "difficulty": 1,
+      "text": "Yapay zekâ destekli bir öğrenme uygulamasının öğrenciye sağladığı belirgin avantaj hangisidir?",
+      "options": { "A": "Öğretmeni tümüyle ortadan kaldırması", "B": "Sınavları iptal etmesi", "C": "İçeriği öğrencinin düzeyine göre kişiselleştirmesi", "D": "Ders programını kaldırması" },
+      "correctOption": "C",
+      "explanation": "Yapay zekâ, öğrencinin düzeyine ve hızına göre içerik uyarlayarak kişiselleştirilmiş öğrenme sunar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitimde Yapay Zekâ",
+      "difficulty": 3,
+      "text": "Yapay zekâ araçlarının ürettiği bilgilerin öğretmen ve öğrenci tarafından sınanmasının temel nedeni hangisidir?",
+      "options": { "A": "Yanlış veya uydurma bilgi üretebilmesi", "B": "Araçların çok yavaş olması", "C": "İnternet kotasını tüketmesi", "D": "Ekranı yorması" },
+      "correctOption": "A",
+      "explanation": "Yapay zekâ modelleri, gerçeğe aykırı veya kaynağı olmayan bilgi üretebildiğinden doğrulama gerekir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Oyunlaştırma",
+      "difficulty": 1,
+      "text": "Oyunlaştırma kavramı eğitimde aşağıdakilerden hangisini ifade eder?",
+      "options": { "A": "Derslerin tümüyle oyuna çevrilmesini", "B": "Puan, rozet ve liderlik tablosu gibi oyun ögelerinin öğrenme sürecine eklenmesini", "C": "Oyun oynamanın yasaklanmasını", "D": "Sınavların kaldırılmasını" },
+      "correctOption": "B",
+      "explanation": "Oyunlaştırma, oyun ögelerini oyun dışı öğrenme süreçlerine ekleyerek motivasyonu artırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Oyunlaştırma",
+      "difficulty": 3,
+      "text": "Oyunlaştırmanın öğrenme açısından taşıdığı temel risk hangisidir?",
+      "options": { "A": "Öğrencinin okula gelmemesi", "B": "Ders süresinin uzaması", "C": "Teknolojinin arızalanması", "D": "Öğrenmenin geri plana atılıp yalnızca ödüle odaklanılması" },
+      "correctOption": "D",
+      "explanation": "Aşırı vurgulanan ödül ögeleri, öğrencinin asıl amaç olan öğrenmeden uzaklaşmasına yol açabilir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Eğitsel Dijital Oyunlar",
+      "difficulty": 2,
+      "text": "Eğitsel dijital oyunların öğretimsel değeri hangisidir?",
+      "options": { "A": "Öğrenciyi pasif izleyici kılması", "B": "Ders süresini kısaltması", "C": "Öğrenciyi etkin kılıp problem çözmeye ve karar vermeye yöneltmesi", "D": "Ölçmeyi gereksiz kılması" },
+      "correctOption": "C",
+      "explanation": "Eğitsel oyunlar, öğrenciyi etkin kılarak problem çözme ve karar verme becerilerini destekler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğrenme Yönetim Sistemi",
+      "difficulty": 2,
+      "text": "Bir öğrenme yönetim sistemi seçilirken dikkate alınması gereken öncelikli ölçüt hangisidir?",
+      "options": { "A": "Kurumun gereksinimlerine ve kullanıcı sayısına uygunluk", "B": "Arayüzdeki renk sayısı", "C": "Sistemin kurulduğu yıl", "D": "Logonun büyüklüğü" },
+      "correctOption": "A",
+      "explanation": "Sistem, kurumun gereksinimleri ve kullanıcı kapasitesi göz önünde bulundurularak seçilmelidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğrenme Yönetim Sistemi",
+      "difficulty": 2,
+      "text": "Öğrenme yönetim sisteminde öğrenci performansının otomatik olarak raporlanması öğretmene hangi kolaylığı sağlar?",
+      "options": { "A": "Ders programını değiştirmesini", "B": "Okul binasını küçültmesini", "C": "Öğrenci sayısını azaltmasını", "D": "İlerlemeyi izleyip geride kalanları erken fark etmesini" },
+      "correctOption": "D",
+      "explanation": "Otomatik raporlar, öğretmenin öğrenci ilerlemesini izleyip güçlük yaşayanları zamanında belirlemesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Öğrenme Yönetim Sistemi",
+      "difficulty": 1,
+      "text": "Bir öğrenme yönetim sisteminin mobil uyumlu olmasının sağladığı temel yarar hangisidir?",
+      "options": { "A": "Sunucu maliyetini artırması", "B": "Öğrencinin her yerden ve her zaman içeriğe erişebilmesini sağlaması", "C": "Ders sayısını azaltması", "D": "Sınavları zorunlu kılması" },
+      "correctOption": "B",
+      "explanation": "Mobil uyumluluk, öğrencinin mekândan bağımsız olarak içeriğe erişmesini kolaylaştırır."
+    }
+  ]
+}

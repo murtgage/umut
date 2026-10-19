@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Sunuş ve Buluş Yoluyla Öğretim",
+      "difficulty": 2,
+      "text": "Sunuş yoluyla öğretim ile buluş yoluyla öğretimin karşılaştırılmasında aşağıdakilerden hangisi doğrudur?",
+      "options": { "A": "Sunuş yolunda bilgi öğretmen tarafından sunulur; buluş yolunda öğrenci kurala kendisi ulaşır.", "B": "Her iki yöntemde de öğrenci tamamen edilgendir.", "C": "Sunuş yolu her zaman öğrenci merkezlidir.", "D": "Buluş yoluyla öğretimde öğretmen bilgiyi doğrudan verir." },
+      "correctOption": "A",
+      "explanation": "Sunuş yolunda bilgi öğretmen tarafından sunulur; buluş yolunda ise öğrenci örneklerden kurala kendisi ulaşır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Buluş Yoluyla Öğretim",
+      "difficulty": 2,
+      "text": "Öğrencilere birbirini izleyen örnekler verilerek ortak özellikleri bulmalarının beklendiği strateji hangisidir?",
+      "options": { "A": "Sunuş yoluyla öğretim", "B": "Buluş yoluyla öğretim", "C": "Anlatım", "D": "Gösterip yaptırma" },
+      "correctOption": "B",
+      "explanation": "Örneklerden yola çıkılarak öğrencinin kurala kendisinin ulaşması buluş yoluyla öğretimin özelliğidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Anlamlı Öğrenme",
+      "difficulty": 3,
+      "text": "David Ausubel'in savunduğu anlamlı öğrenme yaklaşımında yeni bilginin öğrencinin bilişsel yapısındaki mevcut kavramlarla ilişkilendirilmesinin temel amacı nedir?",
+      "options": { "A": "Ezberlemeyi hızlandırmak", "B": "Sınav başarısını artırmak", "C": "Bilginin kalıcı ve anlamlı hâle gelmesini sağlamak", "D": "Ders süresini kısaltmak" },
+      "correctOption": "C",
+      "explanation": "Anlamlı öğrenmede yeni bilgi mevcut kavramlarla ilişkilendirilir; bu da bilginin kalıcı ve anlamlı hâle gelmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Tümdengelim ve Tümevarım",
+      "difficulty": 2,
+      "text": "Öğretmenin önce genel kuralı verip ardından özel durumları öğrencilere uygulattığı mantıksal yol hangisidir?",
+      "options": { "A": "Tümevarımsal yol", "B": "Buluş yolu", "C": "Keşif yolu", "D": "Tümdengelimsel yol" },
+      "correctOption": "D",
+      "explanation": "Tümdengelimsel yolda genel kural önce sunulur ve özel durumlara uygulanır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Panel",
+      "difficulty": 1,
+      "text": "Konuyla ilgili kişilerin bir konuyu izleyiciler önünde kendi aralarında tartıştığı tartışma türü hangisidir?",
+      "options": { "A": "Panel", "B": "Forum", "C": "Sempozyum", "D": "Münazara" },
+      "correctOption": "A",
+      "explanation": "Panelde küçük bir grup konuyu izleyiciler önünde tartışır; amaç konunun farklı yönlerinin ele alınmasını sağlamaktır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Sempozyum",
+      "difficulty": 2,
+      "text": "Bir konunun farklı uzmanlar tarafından ayrı bölümler hâlinde sunulduğu toplantı türü hangisidir?",
+      "options": { "A": "Panel", "B": "Sempozyum", "C": "Kollegyum", "D": "Zıt panel" },
+      "correctOption": "B",
+      "explanation": "Sempozyumda konu, uzman kişilerce bölümlere ayrılarak ayrı ayrı sunulur; ardından sorular alınır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Münazara",
+      "difficulty": 1,
+      "text": "Bir konunun lehinde ve aleyhinde görüşlerini savunan iki grubun jüri önünde tartıştığı tür hangisidir?",
+      "options": { "A": "Panel", "B": "Forum", "C": "Münazara", "D": "Vızıltı grubu" },
+      "correctOption": "C",
+      "explanation": "Münazarada iki grup bir tezin lehinde ve aleyhinde görüşlerini savunur; jüri sonucu değerlendirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Forum",
+      "difficulty": 2,
+      "text": "Bir panelin ya da konuşmanın ardından izleyicilerin konuşmacılara soru sormasıyla süren bölüm hangisidir?",
+      "options": { "A": "Münazara", "B": "Sempozyum", "C": "Kollegyum", "D": "Forum" },
+      "correctOption": "D",
+      "explanation": "Forum, bir konuşma ya da panelin ardından izleyicilerin soru ve katkılarıyla sürdürülen tartışma bölümüdür."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kollegyum",
+      "difficulty": 1,
+      "text": "Kollegyum tekniğinde aşağıdakilerden hangisi göze çarpar?",
+      "options": { "A": "Konunun yalnızca bir uzman tarafından anlatılması", "B": "İki ayrı grubun (uzman ve danışman) konuyu birlikte ele alması", "C": "İzleyicilerin tamamen pasif kalması", "D": "Konunun tartışılmadan geçilmesi" },
+      "correctOption": "B",
+      "explanation": "Kollegyumda konu, uzmanlar grubu ve danışmanlar grubu tarafından birlikte incelenir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Vızıltı Grupları",
+      "difficulty": 2,
+      "text": "Öğrencilerin ikişerli ya da üçerli küçük kümeler oluşturarak kısa sürede bir konuyu tartıştığı teknik hangisidir?",
+      "options": { "A": "Kartopu", "B": "Vızıltı grupları", "C": "Akvaryum", "D": "Forum" },
+      "correctOption": "B",
+      "explanation": "Vızıltı gruplarında öğrenciler kısa süreli küçük kümeler hâlinde tartışarak görüşlerini hızla paylaşır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Akvaryum Tekniği",
+      "difficulty": 1,
+      "text": "Bir grup öğrencinin iç içe halka biçiminde tartışması, dış halkadaki öğrencilerin ise gözlemleyip değerlendirmesi hangi tekniktir?",
+      "options": { "A": "Konuşma halkası", "B": "Kartopu", "C": "Akvaryum", "D": "İstasyon" },
+      "correctOption": "C",
+      "explanation": "Akvaryum tekniğinde bir grup tartışırken diğer öğrenciler çemberin dışında gözlemleyip değerlendirir; ardından roller değişir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İstasyon Tekniği",
+      "difficulty": 2,
+      "text": "İstasyon tekniğinde öğrencilerin farklı masalarda dolaşarak bir konunun değişik bölümlerini tamamlamasının temel amacı nedir?",
+      "options": { "A": "Öğrencileri bireysel yarışmaya yönlendirmek", "B": "Öğretmenin değerlendirmesini ortadan kaldırmak", "C": "Yalnızca bir konu üzerinde çalışmak", "D": "Her istasyona katkı vererek ortak bir ürün oluşturmak" },
+      "correctOption": "D",
+      "explanation": "İstasyon tekniğinde konu istasyonlara ayrılır; gruplar dolaşarak her istasyona katkı verir ve ortak bir ürün ortaya çıkar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Jigsaw (Birleştirme)",
+      "difficulty": 3,
+      "text": "Birleştirme (jigsaw) tekniğinde her öğrencinin konunun bir bölümünde uzmanlaşıp öğrendiğini diğer grup üyelerine öğretmesinin temel amacı nedir?",
+      "options": { "A": "Karşılıklı bağımlılığı ve ortak sorumluluğu geliştirmek", "B": "Öğrencileri birbirleriyle yarıştırmak", "C": "Öğretmenin iş yükünü azaltmak", "D": "Sınıf mevcudunu azaltmak" },
+      "correctOption": "A",
+      "explanation": "Jigsawda her öğrenci konunun bir bölümünde uzmanlaşır ve öğrendiğini diğer üyelere öğretir; bu da karşılıklı bağımlılığı doğurur."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Konuşma Halkası",
+      "difficulty": 2,
+      "text": "Öğrencilerin bir çember oluşturup sırayla görüşlerini ifade ettiği, söz hakkının bir nesneyle belirlendiği teknik hangisidir?",
+      "options": { "A": "Akvaryum", "B": "Konuşma halkası", "C": "Münazara", "D": "Panel" },
+      "correctOption": "B",
+      "explanation": "Konuşma halkasında öğrenciler çember biçiminde oturur ve sırayla söz alır; konuşma sırası genellikle bir nesneyle belirlenir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kartopu Tekniği",
+      "difficulty": 2,
+      "text": "Öğrencilerin önce ikili, sonra dörtlü, ardından sekizli gruplar oluşturarak konuyu giderek büyüyen gruplarda tartıştığı teknik hangisidir?",
+      "options": { "A": "Vızıltı", "B": "Akvaryum", "C": "Kartopu", "D": "İstasyon" },
+      "correctOption": "C",
+      "explanation": "Kartopu tekniğinde gruplar küçükten büyüğe doğru aşamalı biçimde genişler ve tartışma her aşamada derinleşir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Görüş Geliştirme",
+      "difficulty": 3,
+      "text": "Öğrencilerin bir konuya ilişkin görüşlerini \"katılıyorum, kararsızım, katılmıyorum\" biçiminde belirterek konumlarını değiştirebildiği teknik hangisidir?",
+      "options": { "A": "Kartopu", "B": "Vızıltı", "C": "Zıt panel", "D": "Görüş geliştirme" },
+      "correctOption": "D",
+      "explanation": "Görüş geliştirme tekniğinde öğrenci belirli bir görüşü benimseyerek sınıfta konum alır; arkadaşlarının gerekçelerini dinledikçe görüşünü değiştirebilir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Altı Şapkalı Düşünme",
+      "difficulty": 3,
+      "text": "Altı şapkalı düşünme tekniğinde yeşil şapka hangi düşünme biçimini temsil eder?",
+      "options": { "A": "Yaratıcı ve yeni fikirler", "B": "Duygusal tepkiler", "C": "Nesnel bilgiler", "D": "Olumsuz yönler" },
+      "correctOption": "A",
+      "explanation": "Altı şapkalı düşünmede yeşil şapka yaratıcılığı ve yeni fikir üretmeyi simgeler."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "5E Modeli",
+      "difficulty": 2,
+      "text": "5E modelinde öğrencilerin gruplar hâlinde materyalleri inceleyip kavramları keşfettiği aşama hangisidir?",
+      "options": { "A": "Giriş", "B": "Keşfetme", "C": "Açıklama", "D": "Derinleştirme" },
+      "correctOption": "B",
+      "explanation": "Keşfetme aşamasında öğrenciler somut etkinlik ve incelemeler yoluyla yeni kavramları kendileri fark eder."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "7E Modeli",
+      "difficulty": 2,
+      "text": "7E modelinin 5E modeline göre ek olarak içerdiği aşamalar hangileridir?",
+      "options": { "A": "Değerlendirme ve uygulama", "B": "Giriş ve keşfetme", "C": "Ön bilgileri harekete geçirme ve genişletme", "D": "Açıklama ve derinleştirme" },
+      "correctOption": "C",
+      "explanation": "7E modeli, 5E modeline ön bilgileri harekete geçirme ve genişletme aşamalarının eklenmesiyle oluşur."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İşbirlikli Öğrenme",
+      "difficulty": 2,
+      "text": "Öğrenci Takımları-Başarı Bölümleri (ÖTBB) tekniğinde takım puanının nasıl hesaplanması, üyelerin birbirine yardım etmesini güdüler?",
+      "options": { "A": "Her öğrencinin bağımsız değerlendirilmesiyle", "B": "Yalnızca en başarılı öğrencinin puanıyla", "C": "Öğretmenin keyfi bir puan vermesiyle", "D": "Üyelerin kendi başlangıç düzeylerine göre gösterdikleri gelişimden" },
+      "correctOption": "D",
+      "explanation": "ÖTBB'de takım puanı, üyelerin kendi başlangıç düzeylerine göre gösterdikleri gelişimden hesaplanır; bu da birbirine yardım etmeyi güdüler."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İşbirlikli Öğrenme",
+      "difficulty": 2,
+      "text": "Takım-Oyun-Turnuva tekniğinde öğrencilerin benzer düzeydeki öğrencilerle puan için yarıştığı bölüm hangisidir?",
+      "options": { "A": "Turnuva", "B": "Sunum", "C": "Uzmanlaşma", "D": "Değerlendirme sınavı" },
+      "correctOption": "A",
+      "explanation": "Takım-Oyun-Turnuva tekniğinde öğrenciler turnuva masalarında, düzeyleri benzer öğrencilerle yarışarak takımlarına puan kazandırır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İşbirlikli Öğrenme",
+      "difficulty": 2,
+      "text": "Birleştirilmiş İşbirlikli Okuma ve Kompozisyon (BİOY) tekniğinin temel özelliği hangisidir?",
+      "options": { "A": "Öğrencilerin yalnızca bireysel okuması", "B": "Öğrencilerin gruplar hâlinde okuyup tartışarak birlikte bir metin yazması", "C": "Öğretmenin her öğrenciye ayrı ödev vermesi", "D": "Sınıfta yarışmaya dayalı değerlendirme yapılması" },
+      "correctOption": "B",
+      "explanation": "BİOY'da öğrenciler gruplar oluşturur, okuma parçasını birlikte okuyup tartışır, özetler ve grup olarak değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Programlı Öğretim",
+      "difficulty": 2,
+      "text": "Öğrencinin kendi hızıyla ilerlediği, içeriğin küçük adımlara bölündüğü ve her adımda anında dönüt verildiği öğretim yaklaşımı hangisidir?",
+      "options": { "A": "Buluş yoluyla öğretim", "B": "Gösterip yaptırma", "C": "Programlı öğretim", "D": "Örnek olay" },
+      "correctOption": "C",
+      "explanation": "Programlı öğretimde içerik küçük adımlara ayrılır, öğrenci kendi hızında ilerler ve her yanıtın ardından hemen dönüt alır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bilgisayar Destekli Öğretim",
+      "difficulty": 1,
+      "text": "Öğrencinin bilgisayar ortamında bireysel olarak alıştırma yapması, eksiklerini anında görmesi hangi öğretim uygulamasına örnektir?",
+      "options": { "A": "Gezi-gözlem", "B": "Beyin fırtınası", "C": "Münazara", "D": "Bilgisayar destekli öğretim" },
+      "correctOption": "D",
+      "explanation": "Bilgisayar destekli öğretim, öğrenciye bireysel çalışma, anında dönüt ve kendi hızında ilerleme olanağı sağlar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bireysel Çalışma",
+      "difficulty": 1,
+      "text": "Öğrencinin bir konuyu kendi başına araştırıp sorumluluk almasını sağlayan etkinlik hangisidir?",
+      "options": { "A": "Bireysel çalışma", "B": "Panel", "C": "İstasyon", "D": "Rol oynama" },
+      "correctOption": "A",
+      "explanation": "Bireysel çalışmada öğrenci kendi öğrenme sorumluluğunu üstlenir; öğretmen kaynak ve rehberlik sunar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Mikro Öğretim",
+      "difficulty": 3,
+      "text": "Mikro öğretim tekniğinin öğretmen adayının mesleki gelişimine temel katkısı aşağıdakilerden hangisidir?",
+      "options": { "A": "Kısa süreli ve kontrollü uygulamalarla becerilerin geliştirilip değerlendirilmesi", "B": "Teorik bilgilerin tamamen ortadan kaldırılması", "C": "Öğrenci sayısının artırılması", "D": "Ders planı hazırlamanın gereksizleşmesi" },
+      "correctOption": "A",
+      "explanation": "Mikro öğretimde aday kısa süreli ve kontrollü uygulama yapar; kayıtlar incelenerek beceriler geliştirilip değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kavram Haritası",
+      "difficulty": 1,
+      "text": "Kavramların ve aralarındaki ilişkilerin hiyerarşik biçimde görselleştirildiği öğretim aracı hangisidir?",
+      "options": { "A": "Anlam çözümleme tablosu", "B": "V-diyagramı", "C": "Kavram haritası", "D": "Balık kılçığı" },
+      "correctOption": "C",
+      "explanation": "Kavram haritası, kavramları ve kavramlar arası ilişkileri hiyerarşik bir yapıda görselleştirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Anlam Çözümleme Tablosu",
+      "difficulty": 3,
+      "text": "Öğrencilerin varlıkları belirli özelliklerine göre karşılaştırıp işaretlemeler yaparak kavramların ayırt edici özelliklerini görmesini sağlayan araç hangisidir?",
+      "options": { "A": "Zihin haritası", "B": "Kavram haritası", "C": "Kavram karikatürü", "D": "Anlam çözümleme tablosu" },
+      "correctOption": "D",
+      "explanation": "Anlam çözümleme tablosunda varlıklar satırlarda, özellikler sütunlarda yer alır; işaretlemelerle ayırt edici özellikler belirlenir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Kavram Karikatürü",
+      "difficulty": 2,
+      "text": "Bir kavrama ilişkin farklı görüşleri savunan karakterlerin yer aldığı çizimlerle öğrencilerin kavram yanılgılarının ortaya çıkarıldığı araç hangisidir?",
+      "options": { "A": "Kavram karikatürü", "B": "V-diyagramı", "C": "Zihin haritası", "D": "Balık kılçığı" },
+      "correctOption": "A",
+      "explanation": "Kavram karikatürü, farklı görüşleri karikatür biçiminde sunarak öğrencilerin kendi düşüncelerini ve kavram yanılgılarını ortaya koymalarını sağlar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "V-Diyagramı",
+      "difficulty": 3,
+      "text": "Bir deneyin amaç, yöntem, gözlem ve sonuç bölümlerini \"V\" biçiminde şematik olarak düzenleyen araç hangisidir?",
+      "options": { "A": "Kavram haritası", "B": "V-diyagramı", "C": "Zihin haritası", "D": "Anlam çözümleme tablosu" },
+      "correctOption": "B",
+      "explanation": "V-diyagramı, deney ya da araştırmanın kavramsal ve yöntemsel boyutlarını V biçiminde karşı karşıya getirerek bilginin yapılanışını görünür kılar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Zihin Haritası",
+      "difficulty": 1,
+      "text": "Merkeze bir kavramın yazıldığı, ona bağlı alt kavram ve çağrışımların dallar hâlinde yayıldığı görselleştirme aracı hangisidir?",
+      "options": { "A": "Kavram haritası", "B": "V-diyagramı", "C": "Zihin haritası", "D": "Balık kılçığı" },
+      "correctOption": "C",
+      "explanation": "Zihin haritasında merkezdeki ana kavramdan dallanarak çağrışımlar ve alt fikirler yayılır; yaratıcı düşünmeyi destekler."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Balık Kılçığı",
+      "difficulty": 2,
+      "text": "Bir sorunun olası nedenlerinin kategoriler hâlinde balık iskeleti biçiminde düzenlendiği araç hangisidir?",
+      "options": { "A": "Zihin haritası", "B": "Kavram karikatürü", "C": "Anlam çözümleme tablosu", "D": "Balık kılçığı" },
+      "correctOption": "D",
+      "explanation": "Balık kılçığı diyagramında sorunun nedenleri sınıflandırılarak görselleştirilir; böylece nedenler bütünlüklü biçimde görülür."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Üst Düzey Düşünme",
+      "difficulty": 3,
+      "text": "Aşağıdaki sorulardan hangisi üst düzey düşünme becerilerini ölçmeye en uygundur?",
+      "options": { "A": "Fotosentez hızını etkileyen etkenleri karşılaştırıp sonuçlarını yorumlayınız.", "B": "Fotosentez nedir?", "C": "Başkentimiz hangi ildir?", "D": "Suyun kimyasal formülü nedir?" },
+      "correctOption": "A",
+      "explanation": "Karşılaştırma ve yorumlama gerektiren sorular analiz ve değerlendirme gibi üst düzey düşünme becerilerini ölçer."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Dönüt ve Düzeltme",
+      "difficulty": 1,
+      "text": "Öğrenciye \"Bu paragraftaki giriş cümlesi konuyu iyi özetlemiş; ancak gelişme bölümünde örnek eksik kalmış.\" demesi hangi işleve örnektir?",
+      "options": { "A": "Ceza", "B": "Dönüt ve düzeltme", "C": "Not verme", "D": "Görmezden gelme" },
+      "correctOption": "B",
+      "explanation": "Öğrenciye neyi doğru yaptığı ve neyi düzeltmesi gerektiği konusunda bilgi verilmesi dönüt ve düzeltme sürecidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğrenme Stratejileri",
+      "difficulty": 1,
+      "text": "Öğrencinin ders kitabındaki önemli yerleri belirleyip kendi sözcükleriyle not alması ve bu notları aralıklarla yinelemesi hangi beceriyi geliştirmeye yöneliktir?",
+      "options": { "A": "Ezber", "B": "Öykünme", "C": "Öğrenme stratejisi kullanma", "D": "Sınav kaygısı" },
+      "correctOption": "C",
+      "explanation": "Not alma, özetleme ve aralıklı yineleme gibi düzenlemeler öğrencinin kendi öğrenmesini yönetmesini sağlayan öğrenme stratejileridir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Dikkat Çekme ve Güdüleme",
+      "difficulty": 1,
+      "text": "Öğretmenin dersin başında konuyla ilgili çarpıcı bir soru sorarak öğrencilerin ilgisini konuya çekmesi hangi öğretim etkinliğidir?",
+      "options": { "A": "Özetleme", "B": "Değerlendirme", "C": "Dönüt verme", "D": "Dikkat çekme ve güdüleme" },
+      "correctOption": "D",
+      "explanation": "Dersin girişinde öğrencinin ilgisini konuya çekmek ve öğrenme isteğini artırmak dikkat çekme ve güdüleme etkinlikleridir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "İpucu ve Pekiştirme",
+      "difficulty": 1,
+      "text": "Öğrenci soruyu yanıtlamakta zorlandığında öğretmenin \"Bir önceki örneği hatırla.\" diyerek yol göstermesi hangi öğretim davranışıdır?",
+      "options": { "A": "İpucu verme", "B": "Ceza verme", "C": "Görmezden gelme", "D": "Not verme" },
+      "correctOption": "A",
+      "explanation": "Öğrencinin doğru yanıta ulaşmasını kolaylaştırmak için verilen ek bilgi ya da yönlendirme ipucu olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Tam Öğrenme",
+      "difficulty": 2,
+      "text": "Bloom'un tam öğrenme modeline göre öğrencilerin öğrenme gücüne göre farklı sürelerde öğrenebilmesi için nelerin sağlanması gerekir?",
+      "options": { "A": "Öğrencilerin zekâ testlerine göre sınıflandırılması", "B": "Nitelikli öğretim hizmeti ve gerekli sürenin tanınması", "C": "Değerlendirmenin tamamen kaldırılması", "D": "Ders kitabının kısaltılması" },
+      "correctOption": "B",
+      "explanation": "Tam öğrenme modelinde başarı farkı, öğretim hizmetinin niteliğinden ve öğrenciye tanınan süreden kaynaklanır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Tanılayıcı Değerlendirme",
+      "difficulty": 1,
+      "text": "Öğretimin başında öğrencilerin konuya ilişkin hazırbulunuşluk düzeyini belirlemek amacıyla yapılan ölçmeye ne ad verilir?",
+      "options": { "A": "İzleme testi", "B": "Düzey belirleyici değerlendirme", "C": "Tanılayıcı değerlendirme", "D": "Öz değerlendirme" },
+      "correctOption": "C",
+      "explanation": "Tanılayıcı değerlendirme, öğretim öncesinde öğrencilerin ön bilgi ve eksiklerini belirlemek amacıyla yapılır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Zenginleştirme",
+      "difficulty": 2,
+      "text": "Hazırbulunuşluk düzeyi yüksek öğrencilere öğrenme sürecini derinleştirmek amacıyla ek etkinlikler sunulması hangi düzenlemedir?",
+      "options": { "A": "Düzeltme", "B": "Pekiştirme", "C": "Yönlendirme", "D": "Zenginleştirme" },
+      "correctOption": "D",
+      "explanation": "Zenginleştirme, var olan programa ek olarak öğrencinin ilgi ve düzeyine uygun daha derin ya da farklı çalışmalar sunulmasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bireyselleştirilmiş Öğretim",
+      "difficulty": 3,
+      "text": "Üstün yetenekli öğrencilere yönelik olarak sınıf düzeyinin üzerinde içerik sunulması ya da sınıf atlatma gibi uygulamalar hangi amaçla yapılır?",
+      "options": { "A": "Öğrencilerin potansiyelini geliştirecek uygun öğrenme yaşantıları sunmak", "B": "Öğrencileri cezalandırmak", "C": "Sınıf mevcudunu azaltmak", "D": "Değerlendirme yapmayı bırakmak" },
+      "correctOption": "A",
+      "explanation": "Üstün yetenekli öğrencilere yönelik hızlandırma ve zenginleştirme, onların potansiyelini geliştirmeye uygun öğrenme yaşantıları sağlamayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Yansıtıcı Düşünme",
+      "difficulty": 2,
+      "text": "Bir öğretmenin ders sonrasında \"Bugün hangi etkinlik daha iyi işledi, hangi bölümde öğrenciler zorlandı?\" sorularını kendine sorması hangi beceriyle açıklanır?",
+      "options": { "A": "Ezberleme", "B": "Yansıtıcı düşünme", "C": "Taklit etme", "D": "Koşullanma" },
+      "correctOption": "B",
+      "explanation": "Yansıtıcı düşünme, öğretmenin kendi uygulamalarını sorgulayıp deneyimlerinden öğrenerek öğretimini geliştirmesidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretim Sürecinin Düzenlenmesi",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi öğretim sürecinde öğrencinin öğrenmesini kolaylaştıran bir uygulamadır?",
+      "options": { "A": "Konunun öğrenci düzeyinin çok üzerinde anlatılması", "B": "Yalnızca öğretmenin konuşup öğrencinin dinlemesi", "C": "Yeni konunun ön öğrenmelerle ilişkilendirilerek sunulması", "D": "Konuların gerçek yaşamla ilişkilendirilmemesi" },
+      "correctOption": "C",
+      "explanation": "Yeni bilginin ön öğrenmelerle ilişkilendirilmesi anlamlı öğrenmeyi ve kalıcılığı artırır; bu da öğrenmeyi kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretmen Rolleri",
+      "difficulty": 2,
+      "text": "Öğretmenin ders sırasında öğrencinin öğrenmesini kolaylaştırmak için yol göstermesi ve gerektiğinde desteğini kademeli olarak azaltması hangi rolle açıklanır?",
+      "options": { "A": "Bilgi kaynağı olma", "B": "Denetleyici olma", "C": "Yönetici olma", "D": "Öğrenmeye rehber olma" },
+      "correctOption": "D",
+      "explanation": "Öğretmenin bilgi aktarmak yerine öğrencinin öğrenmesine yol göstermesi ve desteğini kademeli olarak çekmesi rehberlik rolüdür."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğretmen Yeterlikleri",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrencilerin öğrenme özelliklerini ve gelişimini çeşitli araçlarla izlemesi hangi yeterlik alanıyla ilgilidir?",
+      "options": { "A": "Öğrenciyi tanıma ve değerlendirme", "B": "Mesleki bilgi", "C": "Kişisel değerler", "D": "Okul ve çevreyle işbirliği" },
+      "correctOption": "A",
+      "explanation": "Öğrencinin hazırbulunuşluk düzeyini, öğrenme özelliklerini ve gelişimini izleyip yorumlamak öğretmenin öğrenciyi tanıma ve değerlendirme rolüdür."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 1,
+      "text": "\"Türkiye'nin en uzun nehri hangisidir?\" sorusu Bloom'un bilişsel alan basamaklarından hangisini ölçmektedir?",
+      "options": { "A": "Değerlendirme", "B": "Bilgi", "C": "Analiz", "D": "Sentez" },
+      "correctOption": "B",
+      "explanation": "Bilgi basamağı, öğrenilenlerin olduğu gibi hatırlanmasını gerektirir; bir olguya ilişkin doğrudan hatırlama sorusu bu basamağı ölçer."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 2,
+      "text": "Öğrencinin edindiği bilgilerle özgün bir deney tasarlaması Bloom'un hangi basamağına örnektir?",
+      "options": { "A": "Bilgi", "B": "Kavrama", "C": "Sentez (yaratma)", "D": "Uygulama" },
+      "correctOption": "C",
+      "explanation": "Sentez basamağı, ögeleri yeni ve özgün biçimde birleştirerek ortaya bir ürün koymayı gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Bloom Taksonomisi",
+      "difficulty": 3,
+      "text": "Öğrencinin bir çevre projesinin olumlu ve olumsuz yönlerini ölçütlere göre tartışıp bir yargıya varması Bloom'un hangi basamağına aittir?",
+      "options": { "A": "Kavrama", "B": "Analiz", "C": "Uygulama", "D": "Değerlendirme" },
+      "correctOption": "D",
+      "explanation": "Değerlendirme basamağı, belirlenen ölçütlere dayanarak bir ürün ya da görüş hakkında yargıya varmayı gerektirir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Ölçme ve Öğretim İlişkisi",
+      "difficulty": 2,
+      "text": "Öğretmenin ünite sonunda uyguladığı testin sonuçlarını, öğretimini yeniden düzenlemek için kullanması ölçme ve değerlendirmenin hangi işlevine örnektir?",
+      "options": { "A": "Öğretimi geliştirme", "B": "Sınıflama yapma", "C": "Not verme", "D": "Sıralama" },
+      "correctOption": "A",
+      "explanation": "Değerlendirme sonuçlarının öğretimin aksayan yönlerini belirleyip düzeltmede kullanılması, öğretimi geliştirme işlevidir."
+    },
+    {
+      "categorySlug": "egitim-ogretim",
+      "topic": "Öğrenme Stilleri",
+      "difficulty": 1,
+      "text": "Bir öğrencinin hareket ederek ve yaparak en iyi öğrenmesi, aşağıdaki öğrenme stillerinden hangisiyle açıklanır?",
+      "options": { "A": "İşitsel", "B": "Kinestetik", "C": "Görsel", "D": "Sözel" },
+      "correctOption": "B",
+      "explanation": "Kinestetik öğrenme stili, hareket ederek ve yaparak öğrenmeyi ifade eder."
+    }
+  ]
+}

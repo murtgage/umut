@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Bilimsel bilginin uygulamaya dönüştürülerek insan gereksinimlerini karşılayan araç, süreç ve yöntemlerin tümü hangi kavramla ifade edilir?",
+      "options": { "A": "Teknoloji", "B": "Bilim", "C": "Sanat", "D": "Felsefe" },
+      "correctOption": "A",
+      "explanation": "Teknoloji, bilimsel bilginin uygulamaya dönüştürülmesiyle elde edilen araç, süreç ve yöntemlerin bütünüdür."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Eğitim teknolojisinin kapsamına girip doğrudan sınıf içi öğretimle ilgilenmeyen boyut hangisidir?",
+      "options": { "A": "Materyal tasarımı", "B": "Öğretim yöntemi seçimi", "C": "Kazanım analizi", "D": "Eğitim yönetimi ve öğrenci işleri gibi eğitsel hizmetler" },
+      "correctOption": "D",
+      "explanation": "Eğitim teknolojisi, öğretim sürecinin yanında yönetim ve öğrenci işleri gibi daha geniş eğitsel hizmetleri de kapsar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Öğretim ortamının, girdi, süreç, çıktı ve dönüt ögeleriyle bir bütün olarak ele alınması hangi yaklaşımı yansıtır?",
+      "options": { "A": "Deneme yanılma yaklaşımı", "B": "Bireysel çalışma yaklaşımı", "C": "Sistem yaklaşımı", "D": "Doğaçlama yaklaşımı" },
+      "correctOption": "C",
+      "explanation": "Sistem yaklaşımı, öğretimi birbirini etkileyen ögelerden oluşan bütün olarak ele alır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Öğretimin planlanması, uygulanması ve değerlendirilmesini sistematik bir süreç olarak ele alan disiplin hangisidir?",
+      "options": { "A": "Sınıf yönetimi", "B": "Öğretim tasarımı", "C": "Ölçme ve değerlendirme", "D": "Eğitim sosyolojisi" },
+      "correctOption": "B",
+      "explanation": "Öğretim tasarımı, öğrenme ortamının sistematik biçimde planlanıp geliştirilmesini inceler."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Öğretim teknolojisi ile eğitim teknolojisi arasındaki kapsam ilişkisi için hangisi doğrudur?",
+      "options": { "A": "İki kavram birbirinin tam karşılığıdır", "B": "Eğitim teknolojisi öğretim teknolojisinin alt alanıdır", "C": "İki kavram birbiriyle ilişkisizdir", "D": "Öğretim teknolojisi eğitim teknolojisinin alt alanıdır" },
+      "correctOption": "D",
+      "explanation": "Öğretim teknolojisi, daha geniş olan eğitim teknolojisi alanının öğretimle ilgili alt boyutudur."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Öğretim tasarımı sürecinin başında yanıtlanması gereken temel soru hangisidir?",
+      "options": { "A": "Hangi araçlar satın alınmalı?", "B": "Sınav ne zaman yapılmalı?", "C": "Öğrenciler ne öğrenmeli?", "D": "Sınıf kaç kişi olmalı?" },
+      "correctOption": "C",
+      "explanation": "Tasarım süreci, önce kazanımların yani öğrencilerin ne öğreneceğinin belirlenmesiyle başlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi eğitim teknolojilerinin öğretim sürecine sağladığı katkı olarak gösterilemez?",
+      "options": { "A": "Bireysel öğrenmeye imkân tanıması", "B": "Anında geri bildirim sağlaması", "C": "Zengin görsel ve işitsel deneyim sunması", "D": "Öğretmenin yerini tamamen alması" },
+      "correctOption": "D",
+      "explanation": "Eğitim teknolojileri öğretmeni destekler; öğretmenin pedagojik rolünü tümüyle ortadan kaldırmaz."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Eğitimde teknoloji kullanımının esas amacı hangisidir?",
+      "options": { "A": "Öğrenmeyi daha etkili ve kalıcı biçimde desteklemek", "B": "Teknoloji sayısını artırmak", "C": "Okul maliyetlerini yükseltmek", "D": "Ders süresini kısaltmak" },
+      "correctOption": "A",
+      "explanation": "Eğitimde teknoloji, öğrenmeyi desteklemek ve öğretimin niteliğini artırmak amacıyla kullanılır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tarihsel Gelişim",
+      "difficulty": 2,
+      "text": "Bilgiyi küçük adımlarla sunan ve her adımdan sonra öğrenciye anında dönüt veren, Skinner tarafından geliştirilen yaklaşım hangisidir?",
+      "options": { "A": "Buluş yoluyla öğretim", "B": "Programlı öğretim", "C": "Beyin fırtınası", "D": "Tartışma yöntemi" },
+      "correctOption": "B",
+      "explanation": "Programlı öğretim, küçük adımlar ve anında pekiştirme ilkelerine dayanan davranışçı temelli bir yaklaşımdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tarihsel Gelişim",
+      "difficulty": 2,
+      "text": "Yirminci yüzyılın ortalarında eğitimde teknoloji tartışmalarını başlatan, film ve radyo gibi araçlara odaklanan hareket hangisidir?",
+      "options": { "A": "Bilgisayar destekli öğretim", "B": "Uzaktan eğitim", "C": "Görsel-işitsel hareket", "D": "Yapay zekâ akımı" },
+      "correctOption": "C",
+      "explanation": "Görsel-işitsel hareket, film, radyo ve slayt gibi araçların öğretimde kullanımını öne çıkarmıştır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tarihsel Gelişim",
+      "difficulty": 3,
+      "text": "Davranışçı kuramın eğitim teknolojilerine yansıması aşağıdakilerden hangisidir?",
+      "options": { "A": "Pekiştirme ve anında geri bildirim yoluyla öğrenmeyi biçimlendirme", "B": "Bilgiyi öğrenciye hiç sunmama", "C": "Öğrenciyi süreçten tamamen dışlama", "D": "Yalnızca grup tartışmasını öne çıkarma" },
+      "correctOption": "A",
+      "explanation": "Davranışçılık, uyarıcı-tepki-pekiştirme döngüsüyle öğrenmeyi biçimlendirmeyi esas alır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tarihsel Gelişim",
+      "difficulty": 2,
+      "text": "Bilgisayar destekli öğretimin ilk uygulamalarında bilgisayarın üstlendiği görev hangisidir?",
+      "options": { "A": "Öğrenciyi değerlendirmeden geçirme", "B": "İnternet üzerinden ders yapma", "C": "Sanal gerçeklik oluşturma", "D": "Doğrusal programlı öğretim ilkelerine göre içerik sunma" },
+      "correctOption": "D",
+      "explanation": "BDÖ'nün ilk uygulamaları, doğrusal programlı öğretim ilkelerini bilgisayar ortamına taşımıştır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tarihsel Gelişim",
+      "difficulty": 2,
+      "text": "Eğitim teknolojileri tarihinde kullanılan mikro öğretim uygulamasının temel amacı hangisidir?",
+      "options": { "A": "Öğrenciyi sınavla elemek", "B": "Öğretmen adayının küçük bir grup karşısında beceri denemesine imkân tanımak", "C": "Ders süresini uzatmak", "D": "Sınıf mevcudunu artırmak" },
+      "correctOption": "B",
+      "explanation": "Mikro öğretim, öğretmen adayının küçük grupla kısa denemeler yapıp dönüt almasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Tarihsel Gelişim",
+      "difficulty": 2,
+      "text": "Bilgisayarın öğretimde yaygınlaşmasıyla öğretmenin rolünde beklenen değişim hangisidir?",
+      "options": { "A": "Bilgi aktaran tek kaynak olmaktan çıkıp rehber konumuna gelmesi", "B": "Sınıftan tamamen uzaklaşması", "C": "Yalnızca sınav yapan kişi olması", "D": "Teknik arıza tamircisi olması" },
+      "correctOption": "A",
+      "explanation": "Teknolojiyle birlikte öğretmenin rolü bilgi aktarmaktan öğrenmeye rehberliğe doğru kayar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 1,
+      "text": "İletişim sürecinde kaynağın mesajı alıcıya aktarmak için kullandığı yol, araç veya ortam hangi ögeyle ifade edilir?",
+      "options": { "A": "Kanal", "B": "Mesaj", "C": "Gürültü", "D": "Dönüt" },
+      "correctOption": "A",
+      "explanation": "Kanal, mesajın kaynaktan alıcıya iletilmesini sağlayan araç ya da ortamdır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 2,
+      "text": "İletişimin sağlıklı kurulabilmesi için kaynak ile alıcının paylaşması gereken temel unsur hangisidir?",
+      "options": { "A": "Aynı fiziksel mekân", "B": "Ortak yaşantı alanı", "C": "Aynı yaş grubu", "D": "Aynı meslek" },
+      "correctOption": "B",
+      "explanation": "Kaynak ile alıcının ortak yaşantı alanı arttıkça mesajın doğru anlaşılma olasılığı yükselir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 1,
+      "text": "Alıcının mesaja verdiği tepkinin kaynağa geri iletilmesi hangi kavramla ifade edilir?",
+      "options": { "A": "Kanal", "B": "Gürültü", "C": "Geri bildirim", "D": "Kodlama" },
+      "correctOption": "C",
+      "explanation": "Geri bildirim (dönüt), alıcının tepkisinin kaynağa iletilerek iletişimin düzenlenmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 3,
+      "text": "Öğretmenin sözlü anlatım sırasında öğrencilerin yüz ifadelerinden konuyu anlamadıklarını fark etmesi hangi iletişim ögesiyle en doğrudan ilişkilidir?",
+      "options": { "A": "Kodlama", "B": "Kanal seçimi", "C": "Mesajın kaynağı", "D": "Dönüt" },
+      "correctOption": "D",
+      "explanation": "Öğrencilerin yüz ifadeleri, öğretmene ulaşan sözsüz dönüt işlevi görür."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 2,
+      "text": "İletişim sürecinde kod açımlama hangi tarafta gerçekleşir?",
+      "options": { "A": "Kaynak", "B": "Alıcı", "C": "Kanal", "D": "Gürültü kaynağı" },
+      "correctOption": "B",
+      "explanation": "Kod açımlama, alıcının gelen simgeleri anlamlandırdığı süreçtir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "İletişim Süreci",
+      "difficulty": 2,
+      "text": "Aynı mesajın farklı öğrenciler tarafından değişik biçimlerde anlaşılmasının iletişim açısından temel nedeni hangisidir?",
+      "options": { "A": "Alıcıların yaşantı ve algı farklılıkları", "B": "Kanalın hiç kullanılmaması", "C": "Mesajın hiç kodlanmaması", "D": "Dönütün matematiksel olması" },
+      "correctOption": "A",
+      "explanation": "Alıcıların farklı yaşantı ve algıları, aynı mesajı farklı biçimde anlamlandırmalarına yol açar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir sayfada görsel ve yazılı ögelerin görsel ağırlık bakımından uyumsuz dağıtılması hangi tasarım ilkesinin ihlal edildiğini gösterir?",
+      "options": { "A": "Yakınlık", "B": "Hizalama", "C": "Denge", "D": "Tekrar" },
+      "correctOption": "C",
+      "explanation": "Denge ilkesi, ögelerin sayfa üzerinde görsel ağırlık açısından uyumlu dağıtılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir sunumda her slaytta farklı yazı tipi ve farklı renk şeması kullanılması hangi tasarım ilkesini zedeler?",
+      "options": { "A": "Vurgu", "B": "Yakınlık", "C": "Hizalama", "D": "Bütünlük" },
+      "correctOption": "D",
+      "explanation": "Bütünlük ilkesi, materyal genelinde tutarlı renk ve yazı tipi kullanılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Materyalde yazı tipi seçilirken okunabilirliği artırmak için aşağıdakilerden hangisine dikkat edilmelidir?",
+      "options": { "A": "Tüm metnin aynı büyüklükte verilmesine", "B": "Başlık ile gövde metni arasında yeterli büyüklük farkı bırakılmasına", "C": "Yalnızca süslü yazı tiplerinin kullanılmasına", "D": "Satır aralığının sıfırlanmasına" },
+      "correctOption": "B",
+      "explanation": "Başlık ve gövde arasındaki büyüklük farkı, metnin okunabilirliğini ve anlaşılırlığını artırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Bir afişte çok sayıda farklı yazı tipinin bir arada kullanılmasının en önemli sakıncası hangisidir?",
+      "options": { "A": "Görsel karmaşa yaratıp okunabilirliği azaltması", "B": "Baskı maliyetini düşürmesi", "C": "Kâğıt tüketimini azaltması", "D": "Materyali dayanıklı kılması" },
+      "correctOption": "A",
+      "explanation": "Çok sayıda farklı yazı tipi görsel karmaşaya yol açarak mesajın algılanmasını güçleştirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 2,
+      "text": "Materyalde metnin arka plan üzerinde rahat okunabilmesi için hangi kurala dikkat edilmelidir?",
+      "options": { "A": "Arka planın her zaman desenli olmasına", "B": "Metnin italik ve küçük verilmesine", "C": "Metin ile arka plan arasında yeterli renk karşıtlığı sağlanmasına", "D": "Aynı renk tonlarının üst üste kullanılmasına" },
+      "correctOption": "C",
+      "explanation": "Metin ile arka plan arasındaki renk karşıtlığı, okunabilirlik için temel koşuldur."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 1,
+      "text": "Bir uyarı levhasında kırmızı rengin tercih edilmesi renklerin hangi işleviyle açıklanır?",
+      "options": { "A": "Ekonomiklik sağlaması", "B": "Dayanıklılık kazandırması", "C": "Hacmi küçültmesi", "D": "Dikkat çekmesi ve uyarması" },
+      "correctOption": "D",
+      "explanation": "Kırmızı gibi sıcak renkler dikkat çeker ve uyarı işlevi görür."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Tasarım İlkeleri",
+      "difficulty": 3,
+      "text": "Bir görsel materyalde bilinçli olarak beyaz boşluk (boş alan) bırakılmasının temel amacı hangisidir?",
+      "options": { "A": "Baskı maliyetini yükseltmek", "B": "Görselin nefes almasını sağlayıp odaklanmayı kolaylaştırmak", "C": "Materyali daha ağır kılmak", "D": "Sayfa sayısını artırmak" },
+      "correctOption": "B",
+      "explanation": "Boş alan kullanımı görseli sadeleştirir ve önemli ögelere odaklanmayı kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Çoklu Ortam İlkeleri",
+      "difficulty": 3,
+      "text": "Mayer'in çoklu ortam ilkelerine göre ekranda yazılı bir metnin aynı anda sesli olarak da okunması hangi ilkeye aykırıdır?",
+      "options": { "A": "Çoklu ortam ilkesi", "B": "Uzamsal yakınlık ilkesi", "C": "Bölümlere ayırma ilkesi", "D": "Gereksizlik ilkesi" },
+      "correctOption": "D",
+      "explanation": "Gereksizlik ilkesine göre aynı içeriğin hem yazılı hem sesli sunulması bilişsel yükü artırarak öğrenmeyi zorlaştırır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Çoklu Ortam İlkeleri",
+      "difficulty": 2,
+      "text": "Mayer'in çoklu ortam ilkelerine göre bir görselle ilgili açıklamanın görselin hemen yanına yerleştirilmesi hangi ilkeyle ilgilidir?",
+      "options": { "A": "Tutarlılık ilkesi", "B": "Uzamsal yakınlık ilkesi", "C": "Zamansal yakınlık ilkesi", "D": "Kanallar ilkesi" },
+      "correctOption": "B",
+      "explanation": "Uzamsal yakınlık ilkesi, ilgili metin ve görselin birbirine yakın konumlandırılmasını önerir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Çoklu Ortam İlkeleri",
+      "difficulty": 1,
+      "text": "Mayer'e göre bir kavramın hem görsel hem sözle sunulmasının yalnızca sözle sunulmasından daha etkili olması hangi ilkeyle açıklanır?",
+      "options": { "A": "Çoklu ortam ilkesi", "B": "Gereksizlik ilkesi", "C": "Bireysel farklılıklar ilkesi", "D": "Tutarlılık ilkesi" },
+      "correctOption": "A",
+      "explanation": "Çoklu ortam ilkesi, söz ve görselin birlikte sunulmasının öğrenmeyi güçlendirdiğini belirtir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Çoklu Ortam İlkeleri",
+      "difficulty": 2,
+      "text": "Mayer'in tutarlılık ilkesine göre bir çoklu ortam materyalinde hangisinden kaçınılmalıdır?",
+      "options": { "A": "Konuyla ilgili temel görsellerden", "B": "Öğrenciye verilen açıklamalardan", "C": "Konuyla ilgisiz görsel, ses ve metinlerden", "D": "Anahtar kavramların vurgulanmasından" },
+      "correctOption": "C",
+      "explanation": "Tutarlılık ilkesi, öğrenmeyle ilgisiz içeriklerin çıkarılmasını gerektirir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Çoklu Ortam İlkeleri",
+      "difficulty": 3,
+      "text": "Mayer'in bölümlere ayırma ilkesi aşağıdakilerden hangisini önerir?",
+      "options": { "A": "İçeriğin tek bir uzun bölümde kesintisiz sunulmasını", "B": "İçeriğin öğrencinin denetiminde küçük parçalara ayrılarak sunulmasını", "C": "Görsellerin tamamen kaldırılmasını", "D": "Sesin tümüyle devre dışı bırakılmasını" },
+      "correctOption": "B",
+      "explanation": "Bölümlere ayırma ilkesi, içeriğin öğrencinin kontrol edebildiği küçük parçalar hâlinde verilmesini önerir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Çoklu Ortam İlkeleri",
+      "difficulty": 3,
+      "text": "Mayer'e göre animasyon ile onunla ilgili anlatının eşzamanlı olarak sunulması hangi ilkeyle ilişkilidir?",
+      "options": { "A": "Tutarlılık ilkesi", "B": "Uzamsal yakınlık ilkesi", "C": "Zamansal yakınlık ilkesi", "D": "Gereksizlik ilkesi" },
+      "correctOption": "C",
+      "explanation": "Zamansal yakınlık ilkesi, görsel ve anlatının aynı anda sunulmasını önerir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 1,
+      "text": "Gerçek bir nesnenin üç boyutlu olarak benzerinin yapılıp gerektiğinde büyütülerek ya da küçültülerek kullanıldığı materyal türü hangisidir?",
+      "options": { "A": "Model", "B": "Karikatür", "C": "Şema", "D": "Afiş" },
+      "correctOption": "A",
+      "explanation": "Model, gerçek nesnenin üç boyutlu bir benzeridir ve büyütülmüş ya da küçültülmüş biçimde kullanılabilir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 1,
+      "text": "Bir süreci oluşturan basamakları oklarla ve kutularla sıralı biçimde gösteren görsel materyal hangisidir?",
+      "options": { "A": "Harita", "B": "Karikatür", "C": "Poster", "D": "Akış şeması" },
+      "correctOption": "D",
+      "explanation": "Akış şeması, bir sürecin basamaklarını sıralı ve ilişkili biçimde gösterir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 1,
+      "text": "Bir olgunun yeryüzündeki dağılışını kuş bakışı göstermek için kullanılan görsel materyal hangisidir?",
+      "options": { "A": "Şema", "B": "Harita", "C": "Grafik", "D": "Karikatür" },
+      "correctOption": "B",
+      "explanation": "Harita, olguların mekânsal dağılışını kuş bakışı olarak gösterir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 1,
+      "text": "Bir düşünceyi abartıp mizah yoluyla eleştiren, öğretimde dikkat çekmek amacıyla kullanılan çizim hangisidir?",
+      "options": { "A": "Şema", "B": "Harita", "C": "Karikatür", "D": "Grafik" },
+      "correctOption": "C",
+      "explanation": "Karikatür, mizah ve abartı yoluyla düşünceyi eleştirir ve dikkat çeker."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 1,
+      "text": "Sınıf duvarına asılan, kısa ve öz bilgiyle görsel ögeleri bir arada sunan geniş boyutlu materyal hangisidir?",
+      "options": { "A": "Akış şeması", "B": "Harita", "C": "Afiş", "D": "Ses kaydı" },
+      "correctOption": "C",
+      "explanation": "Afiş, kısa mesajla görsel ögeleri birleştirerek geniş yüzeylerde sunulan bir materyaldir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 3,
+      "text": "İki değişken arasındaki ilişkinin yönünü ve gücünü noktaların dağılımıyla göstermek için kullanılan grafik türü hangisidir?",
+      "options": { "A": "Serpilme grafiği", "B": "Sütun grafiği", "C": "Daire grafiği", "D": "Alan grafiği" },
+      "correctOption": "A",
+      "explanation": "Serpilme grafiği, iki değişken arasındaki ilişkiyi noktaların dağılımıyla gösterir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 1,
+      "text": "Öğretimde gerçek eşya kullanmanın sağladığı temel eğitsel avantaj hangisidir?",
+      "options": { "A": "Öğretimi tamamen sözel kılması", "B": "Öğrenciye doğrudan ve somut yaşantı sağlaması", "C": "Ders süresini kısaltması", "D": "Ölçme ihtiyacını ortadan kaldırması" },
+      "correctOption": "B",
+      "explanation": "Gerçek eşya, öğrenciye en somut ve doğrudan yaşantıyı sunar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 2,
+      "text": "Ders boyunca yalnızca işitsel materyal kullanıldığında öğrencilerin dikkatini sürdürmenin güçleşmesinin temel nedeni hangisidir?",
+      "options": { "A": "Ses düzeyinin düşük olması", "B": "Sürenin kısa olması", "C": "Görsel uyaran eksikliği bulunması", "D": "Öğretmenin konuşmaması" },
+      "correctOption": "C",
+      "explanation": "Yalnızca sese dayalı uyaranlar, görsel desteğin yokluğunda dikkati canlı tutmakta zorlanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Türleri",
+      "difficulty": 3,
+      "text": "Öğrencinin verdiği yanıta göre farklı öğrenme yollarına yönlendirildiği etkileşimli materyal türü hangisidir?",
+      "options": { "A": "Doğrusal materyal", "B": "Basılı materyal", "C": "Tek yönlü materyal", "D": "Dallara ayrılan materyal" },
+      "correctOption": "D",
+      "explanation": "Dallara ayrılan materyal, öğrenci yanıtına göre farklı içerik yolları sunar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 1,
+      "text": "Öğretmenin materyal hazırlamaya başlamadan önce öncelikle belirlemesi gereken unsur hangisidir?",
+      "options": { "A": "Materyalin rengi", "B": "Sınıfın oturma düzeni", "C": "Dersin işleneceği saat", "D": "Kazanım ve hedef davranışlar" },
+      "correctOption": "D",
+      "explanation": "Materyal, önce ulaşılmak istenen kazanım ve hedef davranışlar belirlenerek hazırlanır."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 2,
+      "text": "Bir materyalin hazırlanmasında harcanan emek, süre ve maliyetin göz önünde bulundurulması hangi seçim ölçütüyle ilgilidir?",
+      "options": { "A": "Ekonomiklik", "B": "Dayanıklılık", "C": "Estetik", "D": "Güncellik" },
+      "correctOption": "A",
+      "explanation": "Ekonomiklik, materyalin hazırlanmasında emek, süre ve maliyetin verimliliğini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 3,
+      "text": "Bir materyalin farklı öğrenci düzeylerine ve farklı konulara uyarlanabilmesi hangi seçim ölçütüyle ilişkilidir?",
+      "options": { "A": "Ekonomiklik", "B": "Esneklik", "C": "Dayanıklılık", "D": "Basitlik" },
+      "correctOption": "B",
+      "explanation": "Esneklik, materyalin farklı gereksinim ve bağlamlara uyarlanabilme özelliğidir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Hazırlama",
+      "difficulty": 2,
+      "text": "Öğretmenin hazırladığı materyali ders öncesinde küçük bir grupla deneyip eksiklerini gidermesi hangi uygulamaya örnektir?",
+      "options": { "A": "Özet çıkarma", "B": "Not verme", "C": "Ön deneme", "D": "Sınıf oturumu" },
+      "correctOption": "C",
+      "explanation": "Ön deneme, materyalin gerçek kullanımdan önce sınanarak geliştirilmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 2,
+      "text": "Öğretmenin materyal seçerken sınıfın fiziki koşullarını, süresi ve kalabalığı gibi sınırlılıkları göz önünde bulundurması hangi ölçütle ilgilidir?",
+      "options": { "A": "Estetik", "B": "Kullanım koşullarına uygunluk", "C": "Güncellik", "D": "Popülerlik" },
+      "correctOption": "B",
+      "explanation": "Kullanım koşullarına uygunluk, materyalin mevcut ortam ve sınırlılıklar içinde uygulanabilirliğini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Seçimi",
+      "difficulty": 2,
+      "text": "Materyal seçiminde öğrencilerin ön bilgilerinin ve hazırbulunuşluk düzeylerinin dikkate alınması neden gereklidir?",
+      "options": { "A": "Materyali ucuzlatmak için", "B": "Ders süresini azaltmak için", "C": "Materyalin anlaşılır ve ulaşılabilir olmasını sağlamak için", "D": "Öğretmeni rahatlatmak için" },
+      "correctOption": "C",
+      "explanation": "Ön bilgi ve hazırbulunuşluk düzeyi dikkate alındığında materyal öğrenci için anlaşılır ve ulaşılabilir olur."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Değerlendirme",
+      "difficulty": 2,
+      "text": "Bir materyalin öğrencilerin hedeflenen davranışları kazanmasını sağlama derecesi hangi ölçütle ifade edilir?",
+      "options": { "A": "Etkililik", "B": "Ekonomiklik", "C": "Dayanıklılık", "D": "Estetik" },
+      "correctOption": "A",
+      "explanation": "Etkililik, materyalin hedeflenen kazanımlara ulaştırma gücünü gösterir."
+    },
+    {
+      "categorySlug": "egitim-teknoloji",
+      "topic": "Materyal Değerlendirme",
+      "difficulty": 3,
+      "text": "Hazırlanan bir materyalin içerik doğruluğu ve düzey uygunluğu açısından değerlendirilmesinde uzman görüşüne başvurulmasının temel amacı hangisidir?",
+      "options": { "A": "Maliyeti düşürmek", "B": "Süreyi kısaltmak", "C": "Öğrenci sayısını artırmak", "D": "İçeriğin bilimsel doğruluğunu ve uygunluğunu denetlemek" },
+      "correctOption": "D",
+      "explanation": "Uzman görüşü, materyalin içerik doğruluğunun ve hedef kitleye uygunluğunun denetlenmesini sağlar."
+    }
+  ]
+}

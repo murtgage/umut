@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde ülkenin doğu ve batı kanadı biçiminde yönetilmesi anlayışına ne ad verilir?",
+      "options": { "A": "Kurultay", "B": "Kut", "C": "Töre", "D": "İkili teşkilat" },
+      "correctOption": "D",
+      "explanation": "İslamiyet öncesi Türk devletlerinde ülkenin doğu ve batı kanadı biçiminde yönetilmesine ikili teşkilat denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 1,
+      "text": "İslamiyet öncesi Türk devletlerinde devlet işlerinin görüşüldüğü danışma meclisine ne ad verilir?",
+      "options": { "A": "Divan-ı Hümayun", "B": "Kurultay", "C": "Meclis-i Mebusan", "D": "Senato" },
+      "correctOption": "B",
+      "explanation": "İslamiyet öncesi Türk devletlerinde devlet işlerinin görüşüldüğü, kağanın başkanlık ettiği danışma meclisine kurultay (toy) denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "Asya Hun Devleti'nin bilinen ilk hükümdarı aşağıdakilerden hangisidir?",
+      "options": { "A": "Mete Han", "B": "Bumin Kağan", "C": "Attila", "D": "Teoman" },
+      "correctOption": "D",
+      "explanation": "Asya Hun Devleti'nin bilinen ilk hükümdarı Teoman'dır; oğlu Mete Han ise devletin en güçlü döneminde hüküm sürmüştür."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "Avrupa Hun Devleti'nin en güçlü döneminde hüküm süren ve Doğu Roma ile Margus Antlaşması'nı imzalayan hükümdar aşağıdakilerden hangisidir?",
+      "options": { "A": "Balamir", "B": "Rua", "C": "Uldız", "D": "Attila" },
+      "correctOption": "D",
+      "explanation": "Avrupa Hun Devleti'ni en güçlü dönemine ulaştıran ve Doğu Roma ile Margus Antlaşması'nı imzalayan hükümdar Attila'dır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 1,
+      "text": "İslamiyet öncesi Türklerde ölülerin gömüldüğü oda biçimindeki mezarlara ne ad verilir?",
+      "options": { "A": "Balbal", "B": "Yuğ", "C": "Kurgan", "D": "Toy" },
+      "correctOption": "C",
+      "explanation": "İslamiyet öncesi Türklerde ölülerin gömüldüğü oda biçimindeki mezarlara kurgan denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 1,
+      "text": "İslamiyet öncesi Türklerde ölen bir kişinin ardından düzenlenen cenaze törenine ne ad verilir?",
+      "options": { "A": "Yuğ", "B": "Kurgan", "C": "Şölen", "D": "Toy" },
+      "correctOption": "A",
+      "explanation": "İslamiyet öncesi Türklerde ölünün ardından düzenlenen cenaze törenine yuğ denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde yönetme yetkisinin Tanrı tarafından kağana verildiğine inanılan anlayış aşağıdakilerden hangisidir?",
+      "options": { "A": "Töre", "B": "Kut", "C": "Ülüş", "D": "Tüz" },
+      "correctOption": "B",
+      "explanation": "Yönetme yetkisinin Tanrı tarafından kağana verildiğine inanılan anlayış kut anlayışıdır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 1,
+      "text": "İslamiyet öncesi Türklerde yazılı olmayan, zamanla oluşmuş hukuk kurallarına ne ad verilir?",
+      "options": { "A": "Töre", "B": "Tüz", "C": "Yarlıg", "D": "Ferman" },
+      "correctOption": "A",
+      "explanation": "İslamiyet öncesi Türklerde yazılı olmayan ve zamanla oluşan hukuk kurallarına töre denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "Türklerin ilk yazılı belgeleri sayılan Orhun Yazıtları hangi alfabeyle yazılmıştır?",
+      "options": { "A": "Göktürk alfabesi", "B": "Uygur alfabesi", "C": "Soğd alfabesi", "D": "Arap alfabesi" },
+      "correctOption": "A",
+      "explanation": "Orhun Yazıtları, Türklerin kendi alfabesi olan Göktürk (Orhun) alfabesiyle yazılmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 3,
+      "text": "Bumin Kağan'ın 552 yılında ayaklanarak egemenliğine son verdiği devlet aşağıdakilerden hangisidir?",
+      "options": { "A": "Sasani Devleti", "B": "Çin", "C": "Eftalitler", "D": "Avar (Juan-juan) Devleti" },
+      "correctOption": "D",
+      "explanation": "Bumin Kağan 552 yılında Avar (Juan-juan) egemenliğine son vererek Göktürk Devleti'ni kurmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 1,
+      "text": "Manas Destanı hangi Türk topluluğuna aittir?",
+      "options": { "A": "Uygurlar", "B": "Kırgızlar", "C": "Karluklar", "D": "Peçenekler" },
+      "correctOption": "B",
+      "explanation": "Manas Destanı, Kırgız Türklerine ait olan ve en uzun destanlardan biri sayılan eserdir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İslamiyet Öncesi Türk Tarihi",
+      "difficulty": 2,
+      "text": "Göktürk Devleti'nin 682 yılında yeniden kurulmasıyla oluşan ve Orhun Yazıtları'nı bırakan devlet aşağıdakilerden hangisidir?",
+      "options": { "A": "I. Göktürk Devleti", "B": "Uygur Devleti", "C": "II. Göktürk (Kutluk) Devleti", "D": "Avar Devleti" },
+      "correctOption": "C",
+      "explanation": "Kutluk Kağan tarafından 682 yılında kurulan II. Göktürk (Kutluk) Devleti, Orhun Yazıtları'nı bırakmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 3,
+      "text": "Karahanlı Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+      "options": { "A": "Bilge Kül Kadir Han", "B": "Satuk Buğra Han", "C": "Alp Tegin", "D": "Sebüktegin" },
+      "correctOption": "A",
+      "explanation": "Karahanlı Devleti'nin kurucusu Bilge Kül Kadir Han'dır; Satuk Buğra Han ise devletin ilk Müslüman hükümdarıdır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 1,
+      "text": "Yusuf Has Hacip tarafından yazılan ve İslami dönem Türk edebiyatının ilk eseri sayılan yapıt aşağıdakilerden hangisidir?",
+      "options": { "A": "Divanü Lugati't-Türk", "B": "Atabetü'l-Hakayık", "C": "Kutadgu Bilig", "D": "Divan-ı Hikmet" },
+      "correctOption": "C",
+      "explanation": "Yusuf Has Hacip'in yazdığı Kutadgu Bilig, İslami dönem Türk edebiyatının ilk eseri kabul edilir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 1,
+      "text": "Türk dilinin ilk sözlüğü ve dil bilgisi kitabı sayılan Divanü Lugati't-Türk'ün yazarı aşağıdakilerden hangisidir?",
+      "options": { "A": "Yusuf Has Hacip", "B": "Kaşgarlı Mahmud", "C": "Edip Ahmet Yükneki", "D": "Ahmet Yesevi" },
+      "correctOption": "B",
+      "explanation": "Divanü Lugati't-Türk'ün yazarı, eseri Araplara Türkçeyi öğretmek amacıyla kaleme alan Kaşgarlı Mahmud'dur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 3,
+      "text": "Gazneli Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+      "options": { "A": "Sebüktegin", "B": "Tuğrul Bey", "C": "Gazneli Mahmud", "D": "Alp Tegin" },
+      "correctOption": "D",
+      "explanation": "Gazneli Devleti, 962 yılında Alp Tegin tarafından kurulmuştur; Gazneli Mahmud ise devletin en ünlü hükümdarıdır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 1,
+      "text": "1071 Malazgirt Savaşı'nda Büyük Selçuklu ordusunun başında bulunan hükümdar aşağıdakilerden hangisidir?",
+      "options": { "A": "Tuğrul Bey", "B": "Alparslan", "C": "Melikşah", "D": "Sencer" },
+      "correctOption": "B",
+      "explanation": "1071 Malazgirt Savaşı'nda Büyük Selçuklu ordusunun başında Sultan Alparslan bulunmaktadır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 2,
+      "text": "Büyük Selçuklu Devleti'nin en geniş sınırlara ulaştığı dönemde hüküm süren hükümdar aşağıdakilerden hangisidir?",
+      "options": { "A": "Tuğrul Bey", "B": "Alparslan", "C": "Berkyaruk", "D": "Melikşah" },
+      "correctOption": "D",
+      "explanation": "Büyük Selçuklu Devleti, Melikşah döneminde en geniş sınırlarına ulaşmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 3,
+      "text": "Büyük Selçuklularda 'Ülke, hanedan üyelerinin ortak malıdır.' anlayışının bir sonucu olarak aşağıdakilerden hangisi ortaya çıkmıştır?",
+      "options": { "A": "Merkezî otoritenin güçlenmesi", "B": "Taht kavgalarının yaşanması", "C": "Demokratik yönetimin gelişmesi", "D": "Halkın yönetime katılması" },
+      "correctOption": "B",
+      "explanation": "Ülkenin hanedanın ortak malı sayılması, hanedan üyeleri arasında taht kavgalarına ve devletin zaman zaman bölünmesine yol açmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 1,
+      "text": "Büyük Selçuklularda şehzadelerin eğitimiyle ilgilenen ve onlara valiliklerinde yardımcı olan görevliye ne ad verilir?",
+      "options": { "A": "Amil", "B": "Vezir", "C": "Şıhne", "D": "Atabey" },
+      "correctOption": "D",
+      "explanation": "Büyük Selçuklularda şehzadelerin eğitiminden sorumlu olan ve onlara valilikte yardımcı olan görevliye atabey denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 2,
+      "text": "Büyük Selçukluların devlet adamı yetiştirmek amacıyla Bağdat ve çeşitli şehirlerde kurduğu medreselere ne ad verilir?",
+      "options": { "A": "Sahn-ı Seman Medreseleri", "B": "Nizamiye Medreseleri", "C": "Süleymaniye Medreseleri", "D": "Eyüp Medreseleri" },
+      "correctOption": "B",
+      "explanation": "Büyük Selçuklu veziri Nizamülmülk'ün kurduğu Nizamiye Medreseleri, devlet adamı ve bilgin yetiştiren önemli kurumlardır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "İlk Türk-İslam Devletleri",
+      "difficulty": 3,
+      "text": "Büyük Selçuklular ile Bizans arasında 1048 yılında yapılan ve Anadolu'ya yönelik ilk büyük karşılaşma sayılan savaş aşağıdakilerden hangisidir?",
+      "options": { "A": "Dandanakan Savaşı", "B": "Malazgirt Savaşı", "C": "Miryokefalon Savaşı", "D": "Pasinler Savaşı" },
+      "correctOption": "D",
+      "explanation": "1048 Pasinler Savaşı, Büyük Selçuklular ile Bizans arasındaki Anadolu'ya yönelik ilk büyük karşılaşmadır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 2,
+      "text": "Türkiye Selçuklu Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+      "options": { "A": "II. Kılıç Arslan", "B": "I. Kılıç Arslan", "C": "Kutalmışoğlu Süleyman Şah", "D": "I. Alâeddin Keykubad" },
+      "correctOption": "C",
+      "explanation": "Türkiye Selçuklu Devleti, 1077 yılında Kutalmışoğlu Süleyman Şah tarafından kurulmuştur."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 1,
+      "text": "1176 Miryokefalon Savaşı'nda Türkiye Selçukluları hangi devleti yenilgiye uğratmıştır?",
+      "options": { "A": "Haçlılar", "B": "Bizans", "C": "Moğollar", "D": "Harzemşahlar" },
+      "correctOption": "B",
+      "explanation": "1176 Miryokefalon Savaşı'nda II. Kılıç Arslan, Bizans ordusunu yenilgiye uğratmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 1,
+      "text": "1243 Kösedağ Savaşı'nda Türkiye Selçukluları hangi devlete yenilmiştir?",
+      "options": { "A": "Bizans", "B": "Memlükler", "C": "Moğollar", "D": "Harzemşahlar" },
+      "correctOption": "C",
+      "explanation": "1243 Kösedağ Savaşı'nda Türkiye Selçukluları Moğollara yenilmiş ve devlet Moğol egemenliğine girmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 2,
+      "text": "Türkiye Selçuklularında Alanya ve Sinop'un fethedilerek devlete liman kazandırıldığı, devletin en parlak döneminin yaşandığı hükümdar aşağıdakilerden hangisidir?",
+      "options": { "A": "I. Alâeddin Keykubad", "B": "I. Gıyaseddin Keyhüsrev", "C": "Kutalmışoğlu Süleyman Şah", "D": "I. Kılıç Arslan" },
+      "correctOption": "A",
+      "explanation": "Türkiye Selçukluları I. Alâeddin Keykubad döneminde en parlak dönemini yaşamış; Alanya ve Sinop bu dönemde fethedilmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 1,
+      "text": "Türkiye Selçuklularında ticaret yolları üzerinde tüccarların güvenliğini sağlamak ve konaklamalarını karşılamak amacıyla yaptırılan yapılara ne ad verilir?",
+      "options": { "A": "Bedesten", "B": "Kervansaray", "C": "Arasta", "D": "Külliye" },
+      "correctOption": "B",
+      "explanation": "Ticaret yolları üzerinde tüccarların güvenliğini sağlayan ve konaklama hizmeti veren yapılara kervansaray denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 1,
+      "text": "Anadolu'da Türkçeyi devlet dili hâline getirerek Türkçenin gelişmesine katkı sağlayan beylik aşağıdakilerden hangisidir?",
+      "options": { "A": "Germiyanoğulları", "B": "Karamanoğulları", "C": "Karesioğulları", "D": "Candaroğulları" },
+      "correctOption": "B",
+      "explanation": "Karamanoğulları, 1277'de Türkçeyi devlet dili ilan ederek Anadolu'da Türkçenin gelişmesine katkı sağlamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin Rumeli'ye geçişte üs olarak kullandığı ve topraklarına kattığı Anadolu beyliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Karamanoğulları", "B": "Karesioğulları", "C": "Dulkadiroğulları", "D": "Ramazanoğulları" },
+      "correctOption": "B",
+      "explanation": "Karesioğulları Beyliği Osmanlı'ya katılmış ve bu beyliğin donanmasıyla Rumeli'ye geçişte üs olarak yararlanılmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Türkiye Selçukluları ve Anadolu Beylikleri",
+      "difficulty": 2,
+      "text": "Anadolu'da Türk tasavvuf edebiyatının öncülerinden olan ve şiirlerinde sade bir Türkçe kullanan mutasavvıf şair aşağıdakilerden hangisidir?",
+      "options": { "A": "Mevlânâ Celâleddin Rûmî", "B": "Yunus Emre", "C": "Hacı Bektaş Veli", "D": "Âşık Paşa" },
+      "correctOption": "B",
+      "explanation": "Yunus Emre, sade Türkçeyle yazdığı şiirleriyle Anadolu'da Türk tasavvuf edebiyatının öncülerinden sayılır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nin Rumeli'de elde ettiği ilk toprak parçası olarak kabul edilen ve 1353 yılında alınan yer aşağıdakilerden hangisidir?",
+      "options": { "A": "Çimpe Kalesi", "B": "Edirne", "C": "Filibe", "D": "Niğbolu" },
+      "correctOption": "A",
+      "explanation": "1353 yılında alınan Çimpe Kalesi, Osmanlı Devleti'nin Rumeli'deki ilk toprağı kabul edilir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin Balkanlar'daki egemenliğini pekiştirdiği ve I. Murad'ın şehit düştüğü 1389 tarihli savaş aşağıdakilerden hangisidir?",
+      "options": { "A": "I. Kosova Savaşı", "B": "Niğbolu Savaşı", "C": "Varna Savaşı", "D": "Sırpsındığı Savaşı" },
+      "correctOption": "A",
+      "explanation": "1389 I. Kosova Savaşı kazanılmış, ancak savaş alanında I. Murad şehit düşmüştür."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nde 1402-1413 yılları arasında yaşanan ve 'Fetret Devri' olarak bilinen taht karışıklığına yol açan savaş aşağıdakilerden hangisidir?",
+      "options": { "A": "Varna Savaşı", "B": "I. Kosova Savaşı", "C": "Niğbolu Savaşı", "D": "Ankara Savaşı" },
+      "correctOption": "D",
+      "explanation": "1402 Ankara Savaşı'nda Yıldırım Bayezid'in Timur'a yenilmesi, Fetret Devri'nin başlamasına yol açmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 1,
+      "text": "Fetret Devri'ne son vererek Osmanlı Devleti'nde birliği yeniden sağlayan padişah aşağıdakilerden hangisidir?",
+      "options": { "A": "II. Murad", "B": "I. Mehmed (Çelebi)", "C": "Yıldırım Bayezid", "D": "II. Mehmed (Fatih)" },
+      "correctOption": "B",
+      "explanation": "I. Mehmed (Çelebi Mehmed), Fetret Devri'ne son vererek devlette birliği yeniden sağlamıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 1,
+      "text": "1444 Varna Savaşı'nda Haçlı ordusunu yenilgiye uğratan Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "options": { "A": "I. Mehmed", "B": "Yıldırım Bayezid", "C": "II. Murad", "D": "II. Mehmed" },
+      "correctOption": "C",
+      "explanation": "1444 Varna Savaşı'nda Osmanlı ordusunun başında II. Murad bulunmaktadır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 3,
+      "text": "Fatih Sultan Mehmed'in İstanbul'un fethinden sonra 'Kayser-i Rûm' unvanını kullanmasının temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Anadolu'daki beylikleri birleştirmek", "B": "İslam halifeliğini üstlenmek", "C": "Doğu Roma İmparatorluğu'nun mirasçısı olduğunu göstermek", "D": "Akdeniz ticaretini ele geçirmek" },
+      "correctOption": "C",
+      "explanation": "Fatih, Doğu Roma İmparatorluğu'nun mirasçısı olduğunu vurgulamak amacıyla 'Kayser-i Rûm' unvanını kullanmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin 1473 yılında Akkoyunlu hükümdarı Uzun Hasan'ı yenilgiye uğrattığı savaş aşağıdakilerden hangisidir?",
+      "options": { "A": "Çaldıran Savaşı", "B": "Otlukbeli Savaşı", "C": "Mercidabık Savaşı", "D": "Ankara Savaşı" },
+      "correctOption": "B",
+      "explanation": "1473 Otlukbeli Savaşı'nda Fatih Sultan Mehmed, Akkoyunlu hükümdarı Uzun Hasan'ı yenilgiye uğratmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 2,
+      "text": "Yavuz Sultan Selim'in 1516 yılında Memlükleri yenilgiye uğratarak Suriye'nin Osmanlı topraklarına katılmasını sağladığı savaş aşağıdakilerden hangisidir?",
+      "options": { "A": "Ridaniye Savaşı", "B": "Mercidabık Savaşı", "C": "Çaldıran Savaşı", "D": "Otlukbeli Savaşı" },
+      "correctOption": "B",
+      "explanation": "1516 Mercidabık Savaşı'nda Memlükler yenilgiye uğratılmış ve Suriye Osmanlı topraklarına katılmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nin 1529 yılında Viyana'yı kuşatmasına rağmen şehri alamamasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": { "A": "Haçlı ordusunun ani saldırısı", "B": "Kış koşullarının yaklaşması ve kuşatma araçlarının yetersiz kalması", "C": "Osmanlı donanmasının yenilgiye uğraması", "D": "Padişahın seferden vazgeçmesi" },
+      "correctOption": "B",
+      "explanation": "1529 Viyana Kuşatması, kış koşullarının yaklaşması ve ağır kuşatma araçlarının yetersizliği nedeniyle sonuçsuz kalmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 2,
+      "text": "1538 Preveze Deniz Savaşı'nda Osmanlı donanmasının başında bulunan kaptan-ı derya aşağıdakilerden hangisidir?",
+      "options": { "A": "Turgut Reis", "B": "Barbaros Hayreddin Paşa", "C": "Piri Reis", "D": "Kılıç Ali Paşa" },
+      "correctOption": "B",
+      "explanation": "1538 Preveze Deniz Savaşı'nda Osmanlı donanmasının başında Barbaros Hayreddin Paşa bulunmaktadır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nin 1533 yılında Avusturya ile imzaladığı ve Macaristan üzerindeki Osmanlı egemenliğini kabul ettirdiği antlaşma aşağıdakilerden hangisidir?",
+      "options": { "A": "Zitvatorok Antlaşması", "B": "Amasya Antlaşması", "C": "İstanbul Antlaşması", "D": "Karlofça Antlaşması" },
+      "correctOption": "C",
+      "explanation": "1533 İstanbul Antlaşması ile Avusturya, Macaristan üzerindeki Osmanlı egemenliğini kabul etmiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş ve Yükseliş",
+      "difficulty": 2,
+      "text": "Fatih Sultan Mehmed'in 1461 yılında fethederek Trabzon Rum İmparatorluğu'na son verdiği şehir aşağıdakilerden hangisidir?",
+      "options": { "A": "Amasra", "B": "Sinop", "C": "Kefe", "D": "Trabzon" },
+      "correctOption": "D",
+      "explanation": "1461 yılında Trabzon'un fethiyle Trabzon Rum İmparatorluğu sona ermiştir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 1,
+      "text": "Osmanlı Devleti'nde fetva makamının başında bulunan ve dini işlerin en yüksek sorumlusu sayılan görevli aşağıdakilerden hangisidir?",
+      "options": { "A": "Şeyhülislam", "B": "Kazasker", "C": "Reisülküttap", "D": "Defterdar" },
+      "correctOption": "A",
+      "explanation": "Osmanlı Devleti'nde fetva makamının başı ve dini işlerin en yüksek sorumlusu şeyhülislamdır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 1,
+      "text": "Osmanlı Devleti'nde maliye işlerinden sorumlu olan divan üyesi aşağıdakilerden hangisidir?",
+      "options": { "A": "Nişancı", "B": "Kazasker", "C": "Defterdar", "D": "Reisülküttap" },
+      "correctOption": "C",
+      "explanation": "Osmanlı Devleti'nde devletin gelir ve giderlerini yöneten, maliye işlerinden sorumlu divan üyesi defterdardır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nde devlet yazışmalarını hazırlayan ve belgelere padişahın tuğrasını çeken divan üyesi aşağıdakilerden hangisidir?",
+      "options": { "A": "Kazasker", "B": "Nişancı", "C": "Defterdar", "D": "Sadrazam" },
+      "correctOption": "B",
+      "explanation": "Osmanlı Devleti'nde devlet yazışmalarını hazırlayan ve belgelere padişahın tuğrasını çeken divan üyesi nişancıdır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nde adalet ve eğitim işlerinden sorumlu olan, kadı ve müderrislerin atanmasında söz sahibi divan üyesi aşağıdakilerden hangisidir?",
+      "options": { "A": "Defterdar", "B": "Kazasker", "C": "Nişancı", "D": "Şeyhülislam" },
+      "correctOption": "B",
+      "explanation": "Adalet ve eğitim işlerinden sorumlu olan, kadı ve müderris atamalarında söz sahibi divan üyesi kazaskerdir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 2,
+      "text": "Mülkiyeti devlete ait olup vergisi hizmet karşılığı bir kişiye bırakılan Osmanlı topraklarına ne ad verilir?",
+      "options": { "A": "Mülk arazi", "B": "Vakıf arazi", "C": "Öşür arazi", "D": "Tımar arazi" },
+      "correctOption": "D",
+      "explanation": "Mülkiyeti devlete ait olan ve geliri hizmet karşılığı bir kişiye bırakılan topraklara tımar (dirlik) arazi denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 3,
+      "text": "Osmanlı Devleti'nde tımar sisteminin bozulması ve toprakların iltizam yoluyla dağıtılması aşağıdakilerden hangisine yol açmıştır?",
+      "options": { "A": "Vergi gelirlerinin sürekli artmasına", "B": "Merkezî otoritenin güçlenmesine", "C": "Taşrada ayan ve toprak ağalarının güçlenmesine", "D": "Köylülerin toprak sahibi olmasına" },
+      "correctOption": "C",
+      "explanation": "Tımar sisteminin bozulup toprakların iltizamla dağıtılması, taşrada ayan ve toprak ağalarının güçlenmesine yol açmıştır."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 1,
+      "text": "Osmanlı Devleti'nde medreselerde ders veren ve öğrenci yetiştiren ilmiye sınıfı üyesine ne ad verilir?",
+      "options": { "A": "Kadı", "B": "Muhtesip", "C": "Müftü", "D": "Müderris" },
+      "correctOption": "D",
+      "explanation": "Osmanlı Devleti'nde medreselerde ders veren ve öğrenci yetiştiren ilmiye sınıfı üyesine müderris denir."
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kültür ve Medeniyeti",
+      "difficulty": 1,
+      "text": "Osmanlı Devleti'nde Müslüman olmayan toplulukların kendi dini ve sosyal işlerini düzenlemelerine imkân tanıyan sisteme ne ad verilir?",
+      "options": { "A": "Tımar sistemi", "B": "Millet sistemi", "C": "Devşirme sistemi", "D": "İltizam sistemi" },
+      "correctOption": "B",
+      "explanation": "Osmanlı Devleti'nde gayrimüslim toplulukların kendi dini ve sosyal işlerini düzenlemesine imkân tanıyan sisteme millet sistemi denir."
+    }
+  ]
+}

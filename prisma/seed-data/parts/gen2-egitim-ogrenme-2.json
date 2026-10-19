@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Edimsel Koşullanmanın Temel İlkesi",
+      "difficulty": 2,
+      "text": "Skinner'e göre edimsel koşullanmada davranışın sıklığı ve biçimi aşağıdakilerden hangisiyle belirlenir?",
+      "options": {
+        "A": "Davranıştan önce sunulan nötr uyarıcıyla",
+        "B": "Bireyin doğuştan getirdiği reflekslerle",
+        "C": "Davranışın ardından gelen sonuçlarla",
+        "D": "Bireyin zihnindeki bilişsel şemalarla"
+      },
+      "correctOption": "C",
+      "explanation": "Edimsel koşullanmada davranışın ardından gelen sonuçlar (pekiştireç ya da ceza) davranışın sıklığını ve biçimini belirler."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Olumlu Pekiştirme",
+      "difficulty": 1,
+      "text": "Öğretmen, sınıf kurallarına uyan öğrencilere her hafta yıldız vermekte ve öğrencilerin kurala uyma davranışı giderek artmaktadır. Bu durumda uygulanan işlem hangisidir?",
+      "options": {
+        "A": "Olumlu pekiştirme",
+        "B": "I. tür ceza",
+        "C": "Olumsuz pekiştirme",
+        "D": "Sönme"
+      },
+      "correctOption": "A",
+      "explanation": "İstenen davranışın ardından hoşa giden bir uyarıcının (yıldız) verilmesi ve davranışın artması olumlu pekiştirmedir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Olumsuz Pekiştirmenin Tanımı",
+      "difficulty": 2,
+      "text": "Edimsel koşullanmada, hoşa gitmeyen bir uyarıcının ortamdan çıkarılması yoluyla istenen davranışın sıklığının artırılmasına ne ad verilir?",
+      "options": {
+        "A": "I. tür ceza",
+        "B": "Olumsuz pekiştirme",
+        "C": "II. tür ceza",
+        "D": "Kademeli yaklaşma"
+      },
+      "correctOption": "B",
+      "explanation": "Olumsuz pekiştirmede itici bir uyarıcı ortadan kaldırılarak davranışın yapılma sıklığı artırılır; bu yönüyle cezadan ayrılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kaçma Davranışı",
+      "difficulty": 3,
+      "text": "Kendisine sürekli emir veren yöneticisinden uzaklaşmak için odadan çıkan bir çalışan, bu davranışı sayesinde emirleri duymaktan kurtulmakta ve odadan çıkma davranışını sürdürmektedir. Bu davranış aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Kaçınma davranışı",
+        "B": "Olumlu pekiştirme",
+        "C": "Edimsel sönme",
+        "D": "Kaçma davranışı"
+      },
+      "correctOption": "D",
+      "explanation": "Ortamda var olan itici uyarıcıdan kurtulmak için gösterilen davranış kaçma davranışıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kaçınma Davranışı",
+      "difficulty": 3,
+      "text": "Daha önce öğretmeninden azar işiten bir öğrenci, öğretmen sınıfa girer girmez gözlerini defterinden ayırmayarak azar işitmekten kurtulmaktadır. Öğrencinin bu davranışı hangi kavramla açıklanır?",
+      "options": {
+        "A": "Uyarıcı genellemesi",
+        "B": "Kaçınma davranışı",
+        "C": "Olumlu pekiştirme",
+        "D": "Kademeli yaklaşma"
+      },
+      "correctOption": "B",
+      "explanation": "İtici uyarıcı ortaya çıkmadan önce, onu hiç yaşamamak için gösterilen davranış kaçınma davranışıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "I. Tür Ceza",
+      "difficulty": 1,
+      "text": "Ders sırasında sürekli izinsiz konuşan bir öğrenciye öğretmen ek olarak fazladan ödev vermiş ve öğrencinin izinsiz konuşma davranışı azalmıştır. Öğretmenin uyguladığı işlem hangisidir?",
+      "options": {
+        "A": "I. tür ceza",
+        "B": "Olumsuz pekiştirme",
+        "C": "Olumlu pekiştirme",
+        "D": "Edimsel sönme"
+      },
+      "correctOption": "A",
+      "explanation": "İstenmeyen davranışın ardından ortama itici bir uyarıcı (ek ödev) eklenerek davranışın azaltılması I. tür cezadır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Cezanın İşlevi",
+      "difficulty": 2,
+      "text": "Edimsel koşullanma açısından ceza ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Cezadan sonra davranışın yapılma olasılığı artar.",
+        "B": "Ceza, davranışın yerine yeni bir davranış kazandırır.",
+        "C": "Ceza, davranışın yapılma olasılığını azaltmayı amaçlar.",
+        "D": "Ceza, yalnızca olumsuz pekiştirmenin bir türüdür."
+      },
+      "correctOption": "C",
+      "explanation": "Cezanın işlevi davranışı bastırmak, yani yapılma olasılığını azaltmaktır; davranışın yerine yenisini kazandırmaz."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Zincirleme",
+      "difficulty": 3,
+      "text": "Bir öğretmen, birbirini izleyen birden çok davranışı (önce defteri açma, sonra tahtadaki tarihi yazma, ardından yoklama verme) sırayla pekiştirerek öğrencisine sabah rutinini kazandırmıştır. Bu uygulama aşağıdakilerden hangisiyle adlandırılır?",
+      "options": {
+        "A": "Kademeli yaklaşma",
+        "B": "Premack ilkesi",
+        "C": "Premack ilkesinin tersine çevrilmesi",
+        "D": "Zincirleme"
+      },
+      "correctOption": "D",
+      "explanation": "Her biri diğerinin uyarıcısı olan davranışların sıra ile pekiştirilerek bir davranış zinciri oluşturulmasına zincirleme denir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Edimsel Davranış",
+      "difficulty": 1,
+      "text": "Skinner'in kutusunda bir fareyi kaldıraca basarak yiyeceğe ulaşmayı öğrenmesi, hayvanın çevresi üzerinde etkili olarak sonuç ürettiği bir davranıştır. Bu tür davranışlar hangi kavramla adlandırılır?",
+      "options": {
+        "A": "Tepkisel davranış",
+        "B": "Edimsel davranış",
+        "C": "Refleksif davranış",
+        "D": "İçgüdüsel davranış"
+      },
+      "correctOption": "B",
+      "explanation": "Organizmanın çevresini etkilemek için ortaya koyduğu ve sonuçlarıyla kontrol edilen davranışlara edimsel davranış denir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Pekiştirme Tarifeleri",
+      "difficulty": 2,
+      "text": "Bir öğretmen, öğrencisini sınıfta yaptığı doğru yanıtlar sayısı belli olmayan biçimde, bazen üçüncü bazen yedinci doğru yanıttan sonra övmektedir. Uygulanan pekiştirme tarifesi hangisidir?",
+      "options": {
+        "A": "Sabit zamanlı",
+        "B": "Sabit oranlı",
+        "C": "Değişken oranlı",
+        "D": "Değişken zamanlı"
+      },
+      "correctOption": "C",
+      "explanation": "Pekiştirecin kaçıncı doğru davranıştan sonra verileceğinin belirsiz olduğu tarife değişken oranlı tarifedir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Pekiştirme Tarifeleri",
+      "difficulty": 2,
+      "text": "Her dersin sonunda öğrencilerine kısa bir değerlendirme yapıp olumlu geri bildirim veren bir öğretmenin kullandığı pekiştirme tarifesi hangisidir?",
+      "options": {
+        "A": "Sabit zamanlı",
+        "B": "Değişken oranlı",
+        "C": "Sabit oranlı",
+        "D": "Değişken zamanlı"
+      },
+      "correctOption": "A",
+      "explanation": "Pekiştireç belirli, eşit zaman aralıklarında verildiğinde sabit zamanlı tarife uygulanmış olur."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Pekiştirme Tarifeleri",
+      "difficulty": 3,
+      "text": "Kumar makinelerinin başından uzun süre kalkılamaması ve kazanma davranışının sönmeye karşı çok dirençli olması hangi pekiştirme tarifesiyle açıklanır?",
+      "options": {
+        "A": "Sabit oranlı",
+        "B": "Sabit zamanlı",
+        "C": "Sürekli pekiştirme",
+        "D": "Değişken oranlı"
+      },
+      "correctOption": "D",
+      "explanation": "Değişken oranlı tarifede ödül beklenmedik aralıklarla geldiğinden davranış sönmeye en dirençli davranıştır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Premack İlkesi",
+      "difficulty": 3,
+      "text": "Öğrencilerine önce matematik alıştırmalarını bitirme koşulu getiren, ardından istedikleri oyunu oynamalarına izin veren bir öğretmen edimsel koşullanmanın hangi ilkesinden yararlanmaktadır?",
+      "options": {
+        "A": "Bitişiklik ilkesi",
+        "B": "Premack ilkesi",
+        "C": "Etki yasası",
+        "D": "Kademeli yaklaşma"
+      },
+      "correctOption": "B",
+      "explanation": "Çok yapılmak istenen bir etkinliğin, az yapılmak istenen davranış için pekiştireç olarak kullanılması Premack ilkesidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Birincil Pekiştireç",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi öğrenme gerektirmeyen, doğuştan pekiştireç özelliği taşıyan birincil pekiştireçtir?",
+      "options": {
+        "A": "Yüksek not alma",
+        "B": "Öğretmenin gülümsemesi",
+        "C": "Aç birinin yemek yemesi",
+        "D": "Arkadaşlarının takdirini kazanma"
+      },
+      "correctOption": "C",
+      "explanation": "Yiyecek, su gibi biyolojik ihtiyaçları karşılayan uyarıcılar doğuştan pekiştireç olup birincil pekiştireçtir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Ayırt Edici Uyarıcı",
+      "difficulty": 2,
+      "text": "Bir öğrenci, soru sorma davranışını yalnızca matematik dersinde göstermekte, diğer derslerde sorusu olsa bile elini kaldırmamaktadır. Öğrencinin bu davranışı hangi kavramla açıklanır?",
+      "options": {
+        "A": "Ayırt edici uyarıcı",
+        "B": "Koşulsuz uyarıcı",
+        "C": "Olumsuz pekiştireç",
+        "D": "Nötr uyarıcı"
+      },
+      "correctOption": "A",
+      "explanation": "Pekiştirecin verilip verilmeyeceğine ilişkin ipucu sağlayan ve davranışın nerede gösterileceğini belirleyen uyarıcı ayırt edici uyarıcıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Thorndike ve Deneme Yanılma",
+      "difficulty": 1,
+      "text": "Thorndike, aç bir kedinin kafesten çıkmak için yaptığı rastgele hareketlerin yerini giderek basit ve doğru hareketler almaya başladığını gözlemiştir. Bu öğrenme biçimi hangi kavramla açıklanır?",
+      "options": {
+        "A": "İçgörüsel öğrenme",
+        "B": "Gizil öğrenme",
+        "C": "Sosyal öğrenme",
+        "D": "Deneme yanılma yoluyla öğrenme"
+      },
+      "correctOption": "D",
+      "explanation": "Thorndike'ın kedinin kafesten çıkma sürecini açıklaması, yanlışların ayıklanarak doğru davranışların seçilmesi anlamına gelen deneme yanılma yoluyla öğrenmedir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Etki Yasası",
+      "difficulty": 1,
+      "text": "Thorndike'a göre bir davranışın ardından doyum verici bir sonuç gelirse davranışın yapılma olasılığı artar, rahatsız edici bir sonuç gelirse azalır. Bu açıklama hangi yasayla ilgilidir?",
+      "options": {
+        "A": "Alıştırma yasası",
+        "B": "Etki yasası",
+        "C": "Hazırbulunuşluk yasası",
+        "D": "Bitişiklik ilkesi"
+      },
+      "correctOption": "B",
+      "explanation": "Davranışın sonucunun doyum ya da rahatsızlık verici olmasının öğrenmeyi belirlediğini savunan yasa etki yasasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Alıştırma Yasası",
+      "difficulty": 2,
+      "text": "Thorndike'ın bağ kuramına göre, tekrarlanan bir davranışın daha güçlü biçimde yerleşmesi, uzun süre tekrarlanmayanın ise zayıflaması hangi yasa ile açıklanır?",
+      "options": {
+        "A": "Alıştırma yasası",
+        "B": "Etki yasası",
+        "C": "Hazırbulunuşluk yasası",
+        "D": "Baskınlık ilkesi"
+      },
+      "correctOption": "A",
+      "explanation": "Tekrar ve kullanımın bağı güçlendirdiğini, kullanmamanın ise bağı zayıflattığını savunan yasa alıştırma yasasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Hazırbulunuşluk Yasası",
+      "difficulty": 2,
+      "text": "Thorndike'a göre bireyin hazır olmadığı bir davranışı zorla yapmaya çalışması rahatsızlık doğurur; hazır olduğunda ise davranış doyum verir. Bu açıklama hangi yasayla ilgilidir?",
+      "options": {
+        "A": "Etki yasası",
+        "B": "Alıştırma yasası",
+        "C": "Hazırbulunuşluk yasası",
+        "D": "Koşullanma yasası"
+      },
+      "correctOption": "C",
+      "explanation": "Bireyin bir davranışı yapmaya hazır olma durumunun öğrenmeyi etkilediğini belirten yasa hazırbulunuşluk yasasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Programlı Öğretim",
+      "difficulty": 2,
+      "text": "Skinner'ın eğitime yaptığı katkılardan biri olan; içeriğin küçük adımlara bölünerek her adımdan sonra öğrenciye dönüt verilmesini ve öğrencinin kendi hızıyla ilerlemesini öngören yaklaşım hangisidir?",
+      "options": {
+        "A": "Buluş yoluyla öğretim",
+        "B": "Ön organize ediciler",
+        "C": "İş birlikli öğrenme",
+        "D": "Programlı öğretim"
+      },
+      "correctOption": "D",
+      "explanation": "Skinner'ın geliştirdiği programlı öğretim, küçük adımlar, etkin katılım ve anında dönüt ilkelerine dayanır."
+    }
+  ]
+}

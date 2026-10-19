@@ -212,21 +212,6 @@
     },
     {
       "categorySlug": "geometri",
-      "topic": "Katı Cisimler",
-      "difficulty": 3,
-      "text": "Bir silindirin hacmi 188,4 cm³, taban yarıçapı 3 cm ise yüksekliği kaç cm'dir? (π=3,14)",
-      "options": {
-        "A": "4",
-        "B": "5",
-        "C": "6",
-        "D": "8"
-      },
-      "correctOption": "C",
-      "explanation": "Hacim = πr²h = 3,14×9×h; 188,4/28,26 ≈ 6,67 ≈ 6 cm.",
-      "source": "özgün"
-    },
-    {
-      "categorySlug": "geometri",
       "topic": "Koordinat",
       "difficulty": 2,
       "text": "A(3,4) noktasının orijine uzaklığı kaç birimdir?",

@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test Türleri",
+      "difficulty": 1,
+      "text": "Öğrencilerin belli bir öğretim sonunda kazandıkları bilgi ve becerileri ölçen test türü hangisidir?",
+      "options": {
+        "A": "Başarı testi",
+        "B": "Yetenek testi",
+        "C": "İlgi envanteri",
+        "D": "Kişilik testi"
+      },
+      "correctOption": "A",
+      "explanation": "Başarı testleri, öğretim sonucunda kazanılan davranışları ölçer."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test Türleri",
+      "difficulty": 2,
+      "text": "Bireyin doğuştan getirdiği gizil gücünü ve öğrenme kapasitesini ölçmeyi amaçlayan test türü hangisidir?",
+      "options": {
+        "A": "Başarı testi",
+        "B": "Yetenek testi",
+        "C": "Tutum ölçeği",
+        "D": "İlgi envanteri"
+      },
+      "correctOption": "B",
+      "explanation": "Yetenek testleri, bireyin gizil gücünü ve öğrenme potansiyelini ölçer."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test Türleri",
+      "difficulty": 2,
+      "text": "Bir bireyin bir nesneye, kişiye ya da olaya karşı olumlu veya olumsuz eğilimini ölçen araç hangisidir?",
+      "options": {
+        "A": "Kişilik testi",
+        "B": "Başarı testi",
+        "C": "Tutum ölçeği",
+        "D": "Yetenek testi"
+      },
+      "correctOption": "C",
+      "explanation": "Tutum ölçekleri, bireyin duyuşsal eğilimlerini ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test Türleri",
+      "difficulty": 2,
+      "text": "Bireyin meslek seçiminde kendine uygun alanı bulmasına yardımcı olmak amacıyla kullanılan araç hangisidir?",
+      "options": {
+        "A": "İlgi envanteri",
+        "B": "Başarı testi",
+        "C": "Dikkat testi",
+        "D": "Motor beceri testi"
+      },
+      "correctOption": "A",
+      "explanation": "İlgi envanterleri, bireyin mesleki ilgilerini belirlemeye yarar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test Türleri",
+      "difficulty": 3,
+      "text": "Bireyin kişisel özelliklerini, uyum düzeyini ve davranış eğilimlerini ölçen testler hangi grupta toplanır?",
+      "options": {
+        "A": "Başarı testleri",
+        "B": "Kişilik testleri",
+        "C": "Yetenek testleri",
+        "D": "Hız testleri"
+      },
+      "correctOption": "B",
+      "explanation": "Kişilik testleri; uyum, tutum ve davranış eğilimlerini ölçer."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Değerlendirme Türleri",
+      "difficulty": 2,
+      "text": "Öğretim süreci devam ederken öğrenme eksiklerini belirleyip öğretimi düzenlemeye yönelik yapılan değerlendirme hangisidir?",
+      "options": {
+        "A": "Düzey belirleyici değerlendirme",
+        "B": "Tanıma-yerleştirme değerlendirmesi",
+        "C": "Yansıtıcı değerlendirme",
+        "D": "Biçimlendirici değerlendirme"
+      },
+      "correctOption": "D",
+      "explanation": "Biçimlendirici değerlendirme öğretim sürerken yapılır ve öğretimi düzenlemeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Değerlendirme Türleri",
+      "difficulty": 2,
+      "text": "Öğretim yılının başında öğrencilerin hazır bulunuşluk düzeylerini belirlemek için yapılan değerlendirme hangisidir?",
+      "options": {
+        "A": "Biçimlendirici değerlendirme",
+        "B": "Düzey belirleyici değerlendirme",
+        "C": "Tanıma ve yerleştirme değerlendirmesi",
+        "D": "Akran değerlendirmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Tanıma-yerleştirme değerlendirmesi hazır bulunuşluğu belirleyip uygun yere yerleştirmeyi sağlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Değerlendirme Türleri",
+      "difficulty": 2,
+      "text": "Ünite ya da dönem sonunda öğrencinin kazanımlara ulaşma derecesini belirlemek için yapılan değerlendirme hangisidir?",
+      "options": {
+        "A": "Tanıma değerlendirmesi",
+        "B": "Biçimlendirici değerlendirme",
+        "C": "Düzey belirleyici (ürün) değerlendirme",
+        "D": "Oryantasyon değerlendirmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Düzey belirleyici değerlendirme, öğretim sonunda yeterliği belirler."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 3,
+      "text": "Öğrencilerin gerçek yaşam durumlarını andıran görevleri yerine getirerek bilgi ve becerilerini ortaya koymasını sağlayan ölçme aracı hangisidir?",
+      "options": {
+        "A": "Portfolyo",
+        "B": "Çoktan seçmeli test",
+        "C": "Sözlü yoklama",
+        "D": "Performans görevi"
+      },
+      "correctOption": "D",
+      "explanation": "Performans görevleri, gerçek yaşam durumlarında beceri sergilemeye dayanır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 2,
+      "text": "Öğrencinin dönem boyunca yaptığı çalışmaların sistemli biçimde toplanıp öğrenme sürecinin izlenmesini sağlayan araç hangisidir?",
+      "options": {
+        "A": "Rubrik",
+        "B": "Kontrol listesi",
+        "C": "Portfolyo (ürün dosyası)",
+        "D": "Tanı testi"
+      },
+      "correctOption": "C",
+      "explanation": "Portfolyo, öğrencinin zaman içindeki gelişimini gösteren çalışmaların toplamıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 2,
+      "text": "Bir performansın niteliklerini ve düzeylerini açıklayarak puanlama ölçütlerini ortaya koyan araç hangisidir?",
+      "options": {
+        "A": "Kontrol listesi",
+        "B": "Rubrik (dereceli puanlama anahtarı)",
+        "C": "Kısa cevaplı test",
+        "D": "Anket"
+      },
+      "correctOption": "B",
+      "explanation": "Rubrik, performansı ölçütlere ve düzeylere göre tanımlayarak puanlamayı sağlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 2,
+      "text": "Bir davranışın yalnızca 'yapıldı/yapılmadı' biçiminde iki seçenekle işaretlendiği ölçme aracı hangisidir?",
+      "options": {
+        "A": "Rubrik",
+        "B": "Portfolyo",
+        "C": "Kontrol listesi",
+        "D": "Derecelendirme ölçeği"
+      },
+      "correctOption": "C",
+      "explanation": "Kontrol listesi, davranışın var olup olmadığını ikili biçimde işaretlemeye dayanır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 3,
+      "text": "Öğrencilerin birbirlerinin performansını belirlenen ölçütlere göre değerlendirmesi hangi ölçme yaklaşımıdır?",
+      "options": {
+        "A": "Öz değerlendirme",
+        "B": "Akran değerlendirme",
+        "C": "Öğretmen değerlendirmesi",
+        "D": "Uzman değerlendirmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Akran değerlendirme, öğrencilerin birbirlerinin performansını değerlendirmesidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 1,
+      "text": "Öğrencinin kendi çalışmalarını ve öğrenme sürecini değerlendirmesi hangi yaklaşımdır?",
+      "options": {
+        "A": "Akran değerlendirme",
+        "B": "Gözlem",
+        "C": "Derecelendirme",
+        "D": "Öz değerlendirme"
+      },
+      "correctOption": "D",
+      "explanation": "Öz değerlendirme, bireyin kendi performansını ve sürecini değerlendirmesidir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 3,
+      "text": "Kavramlar arası ilişkilerin hiyerarşik olarak şema biçiminde gösterildiği ölçme aracı hangisidir?",
+      "options": {
+        "A": "Kavram haritası",
+        "B": "Zaman şeridi",
+        "C": "Anlam çözümleme tablosu",
+        "D": "Tanı testi"
+      },
+      "correctOption": "A",
+      "explanation": "Kavram haritası, kavramları ve aralarındaki ilişkileri görsel biçimde ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 2,
+      "text": "Gözlemcinin, gözlediği grubun içinde yer alarak gözlem yapması hangi gözlem türüdür?",
+      "options": {
+        "A": "Doğal gözlem",
+        "B": "Yapılandırılmış gözlem",
+        "C": "Sürekli gözlem",
+        "D": "Katılımcı gözlem"
+      },
+      "correctOption": "D",
+      "explanation": "Katılımcı gözlemde gözlemci grubun içinde yer alır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 1,
+      "text": "Bireyin kendi duygu, düşünce ve yaşantılarını yazılı olarak anlattığı test dışı teknik hangisidir?",
+      "options": {
+        "A": "Sosyometri",
+        "B": "Otobiyografi",
+        "C": "Anket",
+        "D": "Kim bu?"
+      },
+      "correctOption": "B",
+      "explanation": "Otobiyografi, bireyin kendi yaşam öyküsünü anlatmasıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 3,
+      "text": "Bir sınıftaki öğrencilerin kimlerle arkadaşlık kurmak istediklerini belirlemeye dayanan teknik hangisidir?",
+      "options": {
+        "A": "Otobiyografi",
+        "B": "Problem tarama listesi",
+        "C": "Derecelendirme ölçeği",
+        "D": "Sosyometri"
+      },
+      "correctOption": "D",
+      "explanation": "Sosyometri, grup içi ilişkileri ve arkadaşlık tercihlerini ortaya koyar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Klasik Test Kuramı ve MTK",
+      "difficulty": 1,
+      "text": "Klasik test kuramına göre gözlenen puan hangi bileşenlere ayrılır?",
+      "options": {
+        "A": "Gerçek puan ve hata puanı",
+        "B": "Ham puan ve standart puan",
+        "C": "Güçlük ve ayırt edicilik",
+        "D": "Geçerlik ve güvenirlik"
+      },
+      "correctOption": "A",
+      "explanation": "Klasik test kuramında gözlenen puan, gerçek puan ile hata puanının toplamıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Klasik Test Kuramı ve MTK",
+      "difficulty": 3,
+      "text": "Bireyin yetenek düzeyine göre kendisine uygun zorlukta madde sunan ve her yanıta göre sonraki maddeyi seçen test türü hangisidir?",
+      "options": {
+        "A": "Kâğıt-kalem testi",
+        "B": "Hız testi",
+        "C": "Eşdeğer form",
+        "D": "Bireye uyarlanmış test (MTK)"
+      },
+      "correctOption": "D",
+      "explanation": "Bireye uyarlanmış testler, madde tepki kuramına dayanarak zorluğu bireye göre ayarlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Sınav Türleri ve Puanlama",
+      "difficulty": 1,
+      "text": "Tüm öğrencilere aynı soruların aynı sırada ve aynı koşullarda verildiği sınav türü hangisidir?",
+      "options": {
+        "A": "Klasik (geleneksel) sınav",
+        "B": "Bireysel sınav",
+        "C": "Gözlem kaydı",
+        "D": "Performans görevi"
+      },
+      "correctOption": "A",
+      "explanation": "Klasik sınavlarda her öğrenciye aynı soru ve koşullar uygulanır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Sınav Türleri ve Puanlama",
+      "difficulty": 3,
+      "text": "Sınav kâğıtlarının puanlayıcıdan bağımsız olarak, önceden belirlenen anahtara göre puanlanması hangi niteliği sağlar?",
+      "options": {
+        "A": "Kullanışlılık",
+        "B": "Yapı geçerliği",
+        "C": "Kapsam geçerliği",
+        "D": "Objektiflik"
+      },
+      "correctOption": "D",
+      "explanation": "Objektif puanlama, puanlamanın kişisel yargıdan bağımsız olmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Sınav Türleri ve Puanlama",
+      "difficulty": 1,
+      "text": "Bir sınavda yalnızca bazı öğrencilere ek süre verilmesi hangi ölçme ilkesini zedeler?",
+      "options": {
+        "A": "Geçerlik",
+        "B": "Objektiflik",
+        "C": "Eşit koşullarda ölçme",
+        "D": "Kapsam"
+      },
+      "correctOption": "C",
+      "explanation": "Tüm öğrencilere eşit koşul ve süre sağlanmalıdır; aksi hâlde ölçme adil olmaz."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 3,
+      "text": "Bir ölçme aracının yalnızca belli bir konuya odaklanıp diğer kazanımları yok sayması en çok hangi niteliği zedeler?",
+      "options": {
+        "A": "Kapsam geçerliğini",
+        "B": "Kullanışlılığını",
+        "C": "İç tutarlılığını",
+        "D": "Objektifliğini"
+      },
+      "correctOption": "A",
+      "explanation": "Konuların tamamını temsil etmemek kapsam geçerliğini düşürür."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Alternatif Ölçme Araçları",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi alternatif (tamamlayıcı) ölçme araçlarından biridir?",
+      "options": {
+        "A": "Çoktan seçmeli test",
+        "B": "Doğru-yanlış testi",
+        "C": "Boşluk doldurma testi",
+        "D": "Portfolyo"
+      },
+      "correctOption": "D",
+      "explanation": "Portfolyo, performans ve rubrik gibi araçlar tamamlayıcı ölçme araçlarıdır."
+    }
+  ]
+}

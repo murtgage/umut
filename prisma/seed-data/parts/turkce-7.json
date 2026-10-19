@@ -1,29 +1,319 @@
 {
   "questions": [
-    {"categorySlug":"turkce","topic":"Deyimler","difficulty":2,"text":"'Gözden düşmek' deyimi aşağıdakilerden hangisini anlatır?","options":{"A":"Değerini yitirmek","B":"Gözü bozulmak","C":"Düşmek","D":"Gözü kapanmak"},"correctOption":"A","explanation":"'Gözden düşmek' değerini yitirmek anlamına gelir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Deyimler","difficulty":2,"text":"'Kulak vermek' deyimi aşağıdakilerden hangisini anlatır?","options":{"A":"Dinlemek","B":"Kulağını vermek","C":"İşitmek","D":"Duymak"},"correctOption":"A","explanation":"'Kulak vermek' dinlemek/dikkat etmek anlamına gelir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Deyimler","difficulty":2,"text":"'Elinden tutmak' deyimi aşağıdakilerden hangisini anlatır?","options":{"A":"Yardım etmek","B":"Tutmak","C":"El vermek","D":"Kavramak"},"correctOption":"A","explanation":"'Elinden tutmak' yardım etmek anlamına gelir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Deyimler","difficulty":3,"text":"'Ağzı açık kalmak' deyimi aşağıdakilerden hangisini anlatır?","options":{"A":"Şaşırmak","B":"Ağzını açmak","C":"Konuşmak","D":"Yemek yemek"},"correctOption":"A","explanation":"'Ağzı açık kalmak' şaşırmak/hayret etmek anlamına gelir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Atasözleri","difficulty":2,"text":"'Damlaya damlaya göl olur' atasözü aşağıdakilerden hangisini anlatır?","options":{"A":"Küçük birikimler büyük sonuçlar doğurur","B":"Su birikir","C":"Yağmur yağar","D":"Göl oluşur"},"correctOption":"A","explanation":"Atasözü küçük birikimlerin büyük sonuçlar doğuracağını anlatır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Atasözleri","difficulty":2,"text":"'Sakla samanı, gelir zamanı' atasözü aşağıdakilerden hangisini anlatır?","options":{"A":"Eski şeyler ileride işe yarar","B":"Saman saklanır","C":"Zaman geçer","D":"Tasarruf yapmak"},"correctOption":"A","explanation":"Atasözü saklanan şeylerin ileride işe yarayacağını anlatır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Bağlaçlar","difficulty":2,"text":"Aşağıdaki sözcüklerden hangisi 'bağlaç' türündedir?","options":{"A":"Ve","B":"İle","C":"Çok","D":"Ev"},"correctOption":"A","explanation":"'Ve' bağlaç türündedir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Bağlaçlar","difficulty":2,"text":"'Ama' bağlacı aşağıdaki cümlelerin hangisinde kullanılmıştır?","options":{"A":"Geldi ama oturmadı.","B":"Geldi ve oturdu.","C":"Geldi çünkü oturdu.","D":"Geldi, oturdu."},"correctOption":"A","explanation":"'Ama' zıtlık bildiren bağlaçtır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Bağlaçlar","difficulty":2,"text":"'Veya' bağlacı aşağıdaki cümlelerin hangisinde kullanılmıştır?","options":{"A":"Çay veya kahve içerim.","B":"Çay ve kahve içerim.","C":"Çay ama kahve içerim.","D":"Çay çünkü kahve içerim."},"correctOption":"A","explanation":"'Veya' seçim bildiren bağlaçtır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Edatlar","difficulty":2,"text":"'Gibi' edatı aşağıdaki cümlelerin hangisinde kullanılmıştır?","options":{"A":"Senin gibi çalışmalıyım.","B":"Seninle çalışmalıyım.","C":"Senin için çalışmalıyım.","D":"Senin yüzünden çalışmalıyım."},"correctOption":"A","explanation":"'Gibi' benzetme bildiren edattır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Edatlar","difficulty":2,"text":"'Kadar' edatı aşağıdaki cümlelerin hangisinde kullanılmıştır?","options":{"A":"Bana kadar gel.","B":"Bana gibi gel.","C":"Bana için gel.","D":"Bana ile gel."},"correctOption":"A","explanation":"'Kadar' sınır/ölçü bildiren edattır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Ünlem","difficulty":1,"text":"Aşağıdaki sözcüklerden hangisi 'ünlem' türündedir?","options":{"A":"Hey","B":"Ev","C":"Güzel","D":"Koş"},"correctOption":"A","explanation":"'Hey' ünlem türündedir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Ünlem","difficulty":2,"text":"Aşağıdaki cümlelerin hangisinde 'ünlem işareti' kullanımı uygundur?","options":{"A":"Ne güzel bir gün!","B":"Ne güzel bir gün.","C":"Ne güzel bir gün?","D":"Ne güzel bir gün,"},"correctOption":"A","explanation":"Ünlem bildiren cümle ünlem işareti ile biter.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Anlatım Bozukluğu","difficulty":2,"text":"Aşağıdaki cümlelerin hangisinde 'özne-yüklem uyumsuzluğu' vardır?","options":{"A":"Çocuklar oynuyorlar.","B":"Çocuklar oynuyor.","C":"Çocuk oynuyor.","D":"Bir çocuk oynuyor."},"correctOption":"A","explanation":"A seçeneğinde gereksiz çoğulluk eki kullanılmıştır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Anlatım Bozukluğu","difficulty":3,"text":"Aşağıdaki cümlelerin hangisinde 'mantık hatası' vardır?","options":{"A":"Herkes geldi, bazıları gelmedi.","B":"Tüm öğrenciler başarılı.","C":"Bazı öğrenciler başarılı.","D":"Hiç kimse gelmedi."},"correctOption":"A","explanation":"A seçeneğinde çelişki vardır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Paragraf Türleri","difficulty":2,"text":"Aşağıdaki paragraf türlerinden hangisi 'olayları anlatır'?","options":{"A":"Öyküleyici paragraf","B":"Betimleyici paragraf","C":"Açıklayıcı paragraf","D":"Tartışmacı paragraf"},"correctOption":"A","explanation":"Öyküleyici paragraf olayları anlatır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Paragraf Türleri","difficulty":2,"text":"Aşağıdaki paragraf türlerinden hangisi 'bir kavramı açıklar'?","options":{"A":"Açıklayıcı paragraf","B":"Öyküleyici paragraf","C":"Betimleyici paragraf","D":"Tartışmacı paragraf"},"correctOption":"A","explanation":"Açıklayıcı paragraf kavramları açıklar.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Paragraf Türleri","difficulty":2,"text":"Aşağıdaki paragraf türlerinden hangisi 'bir yer/kişi tasvir eder'?","options":{"A":"Betimleyici paragraf","B":"Öyküleyici paragraf","C":"Açıklayıcı paragraf","D":"Tartışmacı paragraf"},"correctOption":"A","explanation":"Betimleyici paragraf tasvir eder.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Ses Olayları","difficulty":2,"text":"'Renk' sözcüğünün 'renkli' olurken 'k' sesinin türemesi hangi ses olayına örnektir?","options":{"A":"Ünsüz türemesi","B":"Ünsüz düşmesi","C":"Ünlü daralması","D":"Ünsüz benzeşmesi"},"correctOption":"A","explanation":"'Renkli' yapısında 'k' sesi türemiştir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Ses Olayları","difficulty":2,"text":"'Burun' sözcüğünün 'burnu' olurken 'n' sesinin düşmesi hangi ses olayına örnektir?","options":{"A":"Ünsüz düşmesi","B":"Ünsüz türemesi","C":"Ünlü daralması","D":"Ünsüz benzeşmesi"},"correctOption":"A","explanation":"'Burnu' yapısında 'n' sesi düşmüştür.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Ses Olayları","difficulty":2,"text":"'Kitap' sözcüğünün 'kitabı' olurken 'a' sesinin düşmesi hangi ses olayına örnektir?","options":{"A":"Ünlü düşmesi","B":"Ünlü daralması","C":"Ünsüz yumuşaması","D":"Ünsüz benzeşmesi"},"correctOption":"A","explanation":"'Kitabı' yapısında 'a' sesi düşmüştür.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Hece ve Vurgu","difficulty":2,"text":"Aşağıdaki sözcüklerden hangisi 'üç hecelidir'?","options":{"A":"Kalem","B":"Kitaplar","C":"Öğrenci","D":"Çalışkanlar"},"correctOption":"C","explanation":"'Öğrenci' (öğ-ren-ci) üç hecelidir.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Yazım","difficulty":2,"text":"Aşağıdaki cümlelerin hangisinde 'büyük harf' kullanımı yanlıştır?","options":{"A":"Atatürk Bulvarı","B":"türkçe dersi","C":"Ankara","D":"İstanbul"},"correctOption":"B","explanation":"'Türkçe' özel isim olarak büyük harfle başlamalıdır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Noktalama","difficulty":2,"text":"Aşağıdaki cümlelerin hangisinde 'kesme işareti' kullanımı uygundur?","options":{"A":"Ahmet'in kitabı","B":"Ahmetin kitabı","C":"Ahmet in kitabı","D":"Ahmet-in kitabı"},"correctOption":"A","explanation":"İyelik eki kesme işareti ile ayrılır.","source":"özgün"},
-    {"categorySlug":"turkce","topic":"Noktalama","difficulty":2,"text":"Aşağıdaki cümlelerin hangisinde 'tırnak işareti' kullanımı uygundur?","options":{"A":"'Geldi' dedi.","B":"Geldi dedi.","C":"Geldi, dedi.","D":"Geldi; dedi."},"correctOption":"A","explanation":"Alıntı tırnak işareti ile gösterilir.","source":"özgün"}
+    {
+      "categorySlug": "turkce",
+      "topic": "Deyimler",
+      "difficulty": 2,
+      "text": "'Gözden düşmek' deyimi aşağıdakilerden hangisini anlatır?",
+      "options": {
+        "A": "Değerini yitirmek",
+        "B": "Gözü bozulmak",
+        "C": "Düşmek",
+        "D": "Gözü kapanmak"
+      },
+      "correctOption": "A",
+      "explanation": "'Gözden düşmek' değerini yitirmek anlamına gelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Deyimler",
+      "difficulty": 2,
+      "text": "'Kulak vermek' deyimi aşağıdakilerden hangisini anlatır?",
+      "options": {
+        "A": "Dinlemek",
+        "B": "Kulağını vermek",
+        "C": "İşitmek",
+        "D": "Duymak"
+      },
+      "correctOption": "A",
+      "explanation": "'Kulak vermek' dinlemek/dikkat etmek anlamına gelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Deyimler",
+      "difficulty": 2,
+      "text": "'Elinden tutmak' deyimi aşağıdakilerden hangisini anlatır?",
+      "options": {
+        "A": "Yardım etmek",
+        "B": "Tutmak",
+        "C": "El vermek",
+        "D": "Kavramak"
+      },
+      "correctOption": "A",
+      "explanation": "'Elinden tutmak' yardım etmek anlamına gelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Deyimler",
+      "difficulty": 3,
+      "text": "'Ağzı açık kalmak' deyimi aşağıdakilerden hangisini anlatır?",
+      "options": {
+        "A": "Şaşırmak",
+        "B": "Ağzını açmak",
+        "C": "Konuşmak",
+        "D": "Yemek yemek"
+      },
+      "correctOption": "A",
+      "explanation": "'Ağzı açık kalmak' şaşırmak/hayret etmek anlamına gelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Atasözleri",
+      "difficulty": 2,
+      "text": "'Damlaya damlaya göl olur' atasözü aşağıdakilerden hangisini anlatır?",
+      "options": {
+        "A": "Küçük birikimler büyük sonuçlar doğurur",
+        "B": "Su birikir",
+        "C": "Yağmur yağar",
+        "D": "Göl oluşur"
+      },
+      "correctOption": "A",
+      "explanation": "Atasözü küçük birikimlerin büyük sonuçlar doğuracağını anlatır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Atasözleri",
+      "difficulty": 2,
+      "text": "'Sakla samanı, gelir zamanı' atasözü aşağıdakilerden hangisini anlatır?",
+      "options": {
+        "A": "Eski şeyler ileride işe yarar",
+        "B": "Saman saklanır",
+        "C": "Zaman geçer",
+        "D": "Tasarruf yapmak"
+      },
+      "correctOption": "A",
+      "explanation": "Atasözü saklanan şeylerin ileride işe yarayacağını anlatır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Bağlaçlar",
+      "difficulty": 2,
+      "text": "Aşağıdaki sözcüklerden hangisi 'bağlaç' türündedir?",
+      "options": {
+        "A": "Ve",
+        "B": "İle",
+        "C": "Çok",
+        "D": "Ev"
+      },
+      "correctOption": "A",
+      "explanation": "'Ve' bağlaç türündedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Bağlaçlar",
+      "difficulty": 2,
+      "text": "'Ama' bağlacı aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Geldi ama oturmadı.",
+        "B": "Geldi ve oturdu.",
+        "C": "Geldi çünkü oturdu.",
+        "D": "Geldi, oturdu."
+      },
+      "correctOption": "A",
+      "explanation": "'Ama' zıtlık bildiren bağlaçtır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Bağlaçlar",
+      "difficulty": 2,
+      "text": "'Veya' bağlacı aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Çay veya kahve içerim.",
+        "B": "Çay ve kahve içerim.",
+        "C": "Çay ama kahve içerim.",
+        "D": "Çay çünkü kahve içerim."
+      },
+      "correctOption": "A",
+      "explanation": "'Veya' seçim bildiren bağlaçtır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Edatlar",
+      "difficulty": 2,
+      "text": "'Gibi' edatı aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Senin gibi çalışmalıyım.",
+        "B": "Seninle çalışmalıyım.",
+        "C": "Senin için çalışmalıyım.",
+        "D": "Senin yüzünden çalışmalıyım."
+      },
+      "correctOption": "A",
+      "explanation": "'Gibi' benzetme bildiren edattır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Edatlar",
+      "difficulty": 2,
+      "text": "'Kadar' edatı aşağıdaki cümlelerin hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Bana kadar gel.",
+        "B": "Bana gibi gel.",
+        "C": "Bana için gel.",
+        "D": "Bana ile gel."
+      },
+      "correctOption": "A",
+      "explanation": "'Kadar' sınır/ölçü bildiren edattır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ünlem",
+      "difficulty": 1,
+      "text": "Aşağıdaki sözcüklerden hangisi 'ünlem' türündedir?",
+      "options": {
+        "A": "Hey",
+        "B": "Ev",
+        "C": "Güzel",
+        "D": "Koş"
+      },
+      "correctOption": "A",
+      "explanation": "'Hey' ünlem türündedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ünlem",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'ünlem işareti' kullanımı uygundur?",
+      "options": {
+        "A": "Ne güzel bir gün!",
+        "B": "Ne güzel bir gün.",
+        "C": "Ne güzel bir gün?",
+        "D": "Ne güzel bir gün,"
+      },
+      "correctOption": "A",
+      "explanation": "Ünlem bildiren cümle ünlem işareti ile biter.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Anlatım Bozukluğu",
+      "difficulty": 3,
+      "text": "Aşağıdaki cümlelerin hangisinde 'mantık hatası' vardır?",
+      "options": {
+        "A": "Herkes geldi, bazıları gelmedi.",
+        "B": "Tüm öğrenciler başarılı.",
+        "C": "Bazı öğrenciler başarılı.",
+        "D": "Hiç kimse gelmedi."
+      },
+      "correctOption": "A",
+      "explanation": "A seçeneğinde çelişki vardır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki paragraf türlerinden hangisi 'olayları anlatır'?",
+      "options": {
+        "A": "Öyküleyici paragraf",
+        "B": "Betimleyici paragraf",
+        "C": "Açıklayıcı paragraf",
+        "D": "Tartışmacı paragraf"
+      },
+      "correctOption": "A",
+      "explanation": "Öyküleyici paragraf olayları anlatır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki paragraf türlerinden hangisi 'bir kavramı açıklar'?",
+      "options": {
+        "A": "Açıklayıcı paragraf",
+        "B": "Öyküleyici paragraf",
+        "C": "Betimleyici paragraf",
+        "D": "Tartışmacı paragraf"
+      },
+      "correctOption": "A",
+      "explanation": "Açıklayıcı paragraf kavramları açıklar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Paragraf Türleri",
+      "difficulty": 2,
+      "text": "Aşağıdaki paragraf türlerinden hangisi 'bir yer/kişi tasvir eder'?",
+      "options": {
+        "A": "Betimleyici paragraf",
+        "B": "Öyküleyici paragraf",
+        "C": "Açıklayıcı paragraf",
+        "D": "Tartışmacı paragraf"
+      },
+      "correctOption": "A",
+      "explanation": "Betimleyici paragraf tasvir eder.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Ses Olayları",
+      "difficulty": 2,
+      "text": "'Kitap' sözcüğünün 'kitabı' olurken 'a' sesinin düşmesi hangi ses olayına örnektir?",
+      "options": {
+        "A": "Ünlü düşmesi",
+        "B": "Ünlü daralması",
+        "C": "Ünsüz yumuşaması",
+        "D": "Ünsüz benzeşmesi"
+      },
+      "correctOption": "A",
+      "explanation": "'Kitabı' yapısında 'a' sesi düşmüştür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Yazım",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'büyük harf' kullanımı yanlıştır?",
+      "options": {
+        "A": "Atatürk Bulvarı",
+        "B": "türkçe dersi",
+        "C": "Ankara",
+        "D": "İstanbul"
+      },
+      "correctOption": "B",
+      "explanation": "'Türkçe' özel isim olarak büyük harfle başlamalıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'kesme işareti' kullanımı uygundur?",
+      "options": {
+        "A": "Ahmet'in kitabı",
+        "B": "Ahmetin kitabı",
+        "C": "Ahmet in kitabı",
+        "D": "Ahmet-in kitabı"
+      },
+      "correctOption": "A",
+      "explanation": "İyelik eki kesme işareti ile ayrılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "turkce",
+      "topic": "Noktalama",
+      "difficulty": 2,
+      "text": "Aşağıdaki cümlelerin hangisinde 'tırnak işareti' kullanımı uygundur?",
+      "options": {
+        "A": "'Geldi' dedi.",
+        "B": "Geldi dedi.",
+        "C": "Geldi, dedi.",
+        "D": "Geldi; dedi."
+      },
+      "correctOption": "A",
+      "explanation": "Alıntı tırnak işareti ile gösterilir.",
+      "source": "özgün"
+    }
   ]
 }

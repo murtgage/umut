@@ -229,7 +229,7 @@
       "categorySlug": "turkce",
       "topic": "Ses Bilgisi",
       "difficulty": 2,
-      "text": "'Dondurma' sözcüğü aşağıdaki ses olaylarından hangisine örnektir?",
+      "text": "'Köyüm' sözcüğü aşağıdaki ses olaylarından hangisine örnektir?",
       "options": {
         "A": "Ünlü daralması",
         "B": "Ünsüz yumuşaması",
@@ -237,7 +237,7 @@
         "D": "Ünlü düşmesi"
       },
       "correctOption": "A",
-      "explanation": "'Dondurma' (dondur+ma) yapısında ünlü daralması görülür.",
+      "explanation": "'Köyüm' (köy+üm) yapısında kalın ö ünlüsü ince ü ye daralmıştır; bu olaya ünlü daralması denir.",
       "source": "özgün"
     },
     {

@@ -1,29 +1,334 @@
 {
   "questions": [
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en yüksek dağı hangisidir?","options":{"A":"Erciyes","B":"Ağrı","C":"Uludağ","D":"Kaçkar"},"correctOption":"B","explanation":"Türkiye'nin en yüksek dağı Ağrı Dağı'dır (5137 m).","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en uzun nehri hangisidir?","options":{"A":"Fırat","B":"Dicle","C":"Kızılırmak","D":"Sakarya"},"correctOption":"C","explanation":"Türkiye'nin en uzun nehri Kızılırmak'tır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en büyük gölü hangisidir?","options":{"A":"Tuz Gölü","B":"Van Gölü","C":"Eğirdir Gölü","D":"Burdur Gölü"},"correctOption":"B","explanation":"Türkiye'nin en büyük gölü Van Gölü'dür.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin başkenti hangi şehirdir?","options":{"A":"İstanbul","B":"Ankara","C":"İzmir","D":"Bursa"},"correctOption":"B","explanation":"Türkiye'nin başkenti Ankara'dır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en kalabalık şehri hangisidir?","options":{"A":"Ankara","B":"İzmir","C":"İstanbul","D":"Bursa"},"correctOption":"C","explanation":"Türkiye'nin en kalabalık şehri İstanbul'dur.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye hangi kıtalar üzerinde yer alır?","options":{"A":"Asya ve Avrupa","B":"Asya ve Afrika","C":"Avrupa ve Afrika","D":"Sadece Asya"},"correctOption":"A","explanation":"Türkiye Asya ve Avrupa kıtaları üzerinde yer alır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin komşu ülkelerinden hangisi doğuda yer alır?","options":{"A":"Yunanistan","B":"Bulgaristan","C":"İran","D":"Suriye"},"correctOption":"C","explanation":"İran Türkiye'nin doğu komşusudur.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en büyük adası hangisidir?","options":{"A":"Gökçeada","B":"Bozcaada","C":"Marmara Adası","D":"İmralı"},"correctOption":"A","explanation":"Türkiye'nin en büyük adası Gökçeada'dır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en uzun sahil şeridi hangi denize aittir?","options":{"A":"Karadeniz","B":"Akdeniz","C":"Ege Denizi","D":"Marmara Denizi"},"correctOption":"C","explanation":"Türkiye'nin en uzun sahil şeridi Ege Denizi'ndedir.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en büyük ovası hangisidir?","options":{"A":"Çukurova","B":"Konya Ovası","C":"Harran Ovası","D":"Bafra Ovası"},"correctOption":"B","explanation":"Türkiye'nin en büyük ovası Konya Ovası'dır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":3,"text":"Türkiye'de en fazla yağış alan bölge hangisidir?","options":{"A":"Karadeniz Bölgesi","B":"Marmara Bölgesi","C":"Ege Bölgesi","D":"Akdeniz Bölgesi"},"correctOption":"A","explanation":"En fazla yağış Karadeniz Bölgesi'nde düşer.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en büyük bölgesi (yüzölçümü) hangisidir?","options":{"A":"İç Anadolu","B":"Doğu Anadolu","C":"Karadeniz","D":"Akdeniz"},"correctOption":"B","explanation":"En büyük bölge Doğu Anadolu'dur.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en küçük bölgesi (yüzölçümü) hangisidir?","options":{"A":"Marmara","B":"Ege","C":"Güneydoğu Anadolu","D":"Akdeniz"},"correctOption":"C","explanation":"En küçük bölge Güneydoğu Anadolu'dur.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en büyük barajı hangisidir?","options":{"A":"Atatürk Barajı","B":"Keban Barajı","C":"Karakaya Barajı","D":"Birecik Barajı"},"correctOption":"A","explanation":"En büyük baraj Atatürk Barajı'dır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Türkiye Coğrafyası","difficulty":2,"text":"Türkiye'nin en önemli maden yataklarından biri olan bor hangi bölgede bulunur?","options":{"A":"Ege","B":"İç Anadolu","C":"Marmara","D":"Karadeniz"},"correctOption":"C","explanation":"Bor madeni Marmara Bölgesi'nde (Balıkesir, Kütahya) bulunur.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Dünya Coğrafyası","difficulty":2,"text":"Dünyanın en büyük okyanusu hangisidir?","options":{"A":"Atlantik","B":"Hint","C":"Pasifik","D":"Arktik"},"correctOption":"C","explanation":"En büyük okyanus Pasifik'tir.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Dünya Coğrafyası","difficulty":2,"text":"Dünyanın en yüksek dağı hangisidir?","options":{"A":"K2","B":"Everest","C":"Kilimanjaro","D":"Mont Blanc"},"correctOption":"B","explanation":"En yüksek dağ Everest'tir (8848 m).","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Dünya Coğrafyası","difficulty":2,"text":"Dünyanın en uzun nehri hangisidir?","options":{"A":"Amazon","B":"Nil","C":"Yangtze","D":"Mississippi"},"correctOption":"B","explanation":"En uzun nehir Nil'dir (geleneksel kabul).","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Dünya Coğrafyası","difficulty":2,"text":"Dünyanın en büyük gölü hangisidir?","options":{"A":"Victoria","B":"Superior","C":"Hazar","D":"Baikal"},"correctOption":"C","explanation":"En büyük göl Hazar Gölü'dür (yüzölçümü).","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Dünya Coğrafyası","difficulty":2,"text":"Dünyanın en büyük çölü hangisidir?","options":{"A":"Sahra","B":"Gobi","C":"Arabistan","D":"Kalahari"},"correctOption":"A","explanation":"En büyük çöl Sahra'dır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"İklim","difficulty":2,"text":"Türkiye'de hangi iklim tipi yaygındır?","options":{"A":"Kar deniz iklimi","B":"Akdeniz iklimi","C":"Karasal iklim","D":"Tropikal iklim"},"correctOption":"C","explanation":"Türkiye'de karasal iklim yaygındır.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"İklim","difficulty":2,"text":"Akdeniz ikliminin özellikleri nelerdir?","options":{"A":"Yazlar sıcak ve kurak, kışlar ılık ve yağışlı","B":"Yazlar serin, kışlar soğuk","C":"Yıl boyu yağışlı","D":"Yazlar yağışlı, kışlar kurak"},"correctOption":"A","explanation":"Akdeniz iklimi: yazlar sıcak-kurak, kışlar ılık-yağışlı.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"İklim","difficulty":2,"text":"Karadeniz ikliminin özellikleri nelerdir?","options":{"A":"Yazlar sıcak ve kurak, kışlar ılık ve yağışlı","B":"Yazlar serin, kışlar ılık, yıl boyu yağışlı","C":"Yazlar sıcak, kışlar soğuk","D":"Yıl boyu kurak"},"correctOption":"B","explanation":"Karadeniz iklimi: yazlar serin, kışlar ılık, yıl boyu yağışlı.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Nüfus","difficulty":2,"text":"Türkiye'nin nüfusu yaklaşık kaç milyondur? (2024)","options":{"A":"70","B":"80","C":"85","D":"90"},"correctOption":"C","explanation":"Türkiye'nin nüfusu yaklaşık 85 milyondur.","source":"özgün"},
-    {"categorySlug":"cografya","topic":"Nüfus","difficulty":2,"text":"Türkiye'nin en kalabalık bölgesi hangisidir?","options":{"A":"Marmara","B":"İç Anadolu","C":"Ege","D":"Akdeniz"},"correctOption":"A","explanation":"En kalabalık bölge Marmara'dır.","source":"özgün"}
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en yüksek dağı hangisidir?",
+      "options": {
+        "A": "Erciyes",
+        "B": "Ağrı",
+        "C": "Uludağ",
+        "D": "Kaçkar"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin en yüksek dağı Ağrı Dağı'dır (5137 m).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en uzun nehri hangisidir?",
+      "options": {
+        "A": "Fırat",
+        "B": "Dicle",
+        "C": "Kızılırmak",
+        "D": "Sakarya"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye'nin en uzun nehri Kızılırmak'tır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük gölü hangisidir?",
+      "options": {
+        "A": "Tuz Gölü",
+        "B": "Van Gölü",
+        "C": "Eğirdir Gölü",
+        "D": "Burdur Gölü"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin en büyük gölü Van Gölü'dür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin başkenti hangi şehirdir?",
+      "options": {
+        "A": "İstanbul",
+        "B": "Ankara",
+        "C": "İzmir",
+        "D": "Bursa"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin başkenti Ankara'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en kalabalık şehri hangisidir?",
+      "options": {
+        "A": "Ankara",
+        "B": "İzmir",
+        "C": "İstanbul",
+        "D": "Bursa"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye'nin en kalabalık şehri İstanbul'dur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye hangi kıtalar üzerinde yer alır?",
+      "options": {
+        "A": "Asya ve Avrupa",
+        "B": "Asya ve Afrika",
+        "C": "Avrupa ve Afrika",
+        "D": "Sadece Asya"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye Asya ve Avrupa kıtaları üzerinde yer alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin komşu ülkelerinden hangisi doğuda yer alır?",
+      "options": {
+        "A": "Yunanistan",
+        "B": "Bulgaristan",
+        "C": "İran",
+        "D": "Suriye"
+      },
+      "correctOption": "C",
+      "explanation": "İran Türkiye'nin doğu komşusudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük adası hangisidir?",
+      "options": {
+        "A": "Gökçeada",
+        "B": "Bozcaada",
+        "C": "Marmara Adası",
+        "D": "İmralı"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye'nin en büyük adası Gökçeada'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en uzun sahil şeridi hangi denize aittir?",
+      "options": {
+        "A": "Karadeniz",
+        "B": "Akdeniz",
+        "C": "Ege Denizi",
+        "D": "Marmara Denizi"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye'nin en uzun sahil şeridi Ege Denizi'ndedir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük ovası hangisidir?",
+      "options": {
+        "A": "Çukurova",
+        "B": "Konya Ovası",
+        "C": "Harran Ovası",
+        "D": "Bafra Ovası"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin en büyük ovası Konya Ovası'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 3,
+      "text": "Türkiye'de en fazla yağış alan bölge hangisidir?",
+      "options": {
+        "A": "Karadeniz Bölgesi",
+        "B": "Marmara Bölgesi",
+        "C": "Ege Bölgesi",
+        "D": "Akdeniz Bölgesi"
+      },
+      "correctOption": "A",
+      "explanation": "En fazla yağış Karadeniz Bölgesi'nde düşer.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük bölgesi (yüzölçümü) hangisidir?",
+      "options": {
+        "A": "İç Anadolu",
+        "B": "Doğu Anadolu",
+        "C": "Karadeniz",
+        "D": "Akdeniz"
+      },
+      "correctOption": "B",
+      "explanation": "En büyük bölge Doğu Anadolu'dur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye Coğrafyası",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük barajı hangisidir?",
+      "options": {
+        "A": "Atatürk Barajı",
+        "B": "Keban Barajı",
+        "C": "Karakaya Barajı",
+        "D": "Birecik Barajı"
+      },
+      "correctOption": "A",
+      "explanation": "En büyük baraj Atatürk Barajı'dır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük okyanusu hangisidir?",
+      "options": {
+        "A": "Atlantik",
+        "B": "Hint",
+        "C": "Pasifik",
+        "D": "Arktik"
+      },
+      "correctOption": "C",
+      "explanation": "En büyük okyanus Pasifik'tir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en yüksek dağı hangisidir?",
+      "options": {
+        "A": "K2",
+        "B": "Everest",
+        "C": "Kilimanjaro",
+        "D": "Mont Blanc"
+      },
+      "correctOption": "B",
+      "explanation": "En yüksek dağ Everest'tir (8848 m).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en uzun nehri hangisidir?",
+      "options": {
+        "A": "Amazon",
+        "B": "Nil",
+        "C": "Yangtze",
+        "D": "Mississippi"
+      },
+      "correctOption": "B",
+      "explanation": "En uzun nehir Nil'dir (geleneksel kabul).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük gölü hangisidir?",
+      "options": {
+        "A": "Victoria",
+        "B": "Superior",
+        "C": "Hazar",
+        "D": "Baikal"
+      },
+      "correctOption": "C",
+      "explanation": "En büyük göl Hazar Gölü'dür (yüzölçümü).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'de hangi iklim tipi yaygındır?",
+      "options": {
+        "A": "Kar deniz iklimi",
+        "B": "Akdeniz iklimi",
+        "C": "Karasal iklim",
+        "D": "Tropikal iklim"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye'de karasal iklim yaygındır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Akdeniz ikliminin özellikleri nelerdir?",
+      "options": {
+        "A": "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı",
+        "B": "Yazlar serin, kışlar soğuk",
+        "C": "Yıl boyu yağışlı",
+        "D": "Yazlar yağışlı, kışlar kurak"
+      },
+      "correctOption": "A",
+      "explanation": "Akdeniz iklimi: yazlar sıcak-kurak, kışlar ılık-yağışlı.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Karadeniz ikliminin özellikleri nelerdir?",
+      "options": {
+        "A": "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı",
+        "B": "Yazlar serin, kışlar ılık, yıl boyu yağışlı",
+        "C": "Yazlar sıcak, kışlar soğuk",
+        "D": "Yıl boyu kurak"
+      },
+      "correctOption": "B",
+      "explanation": "Karadeniz iklimi: yazlar serin, kışlar ılık, yıl boyu yağışlı.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Türkiye'nin nüfusu yaklaşık kaç milyondur? (2024)",
+      "options": {
+        "A": "70",
+        "B": "80",
+        "C": "85",
+        "D": "90"
+      },
+      "correctOption": "C",
+      "explanation": "Türkiye'nin nüfusu yaklaşık 85 milyondur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Türkiye'nin en kalabalık bölgesi hangisidir?",
+      "options": {
+        "A": "Marmara",
+        "B": "İç Anadolu",
+        "C": "Ege",
+        "D": "Akdeniz"
+      },
+      "correctOption": "A",
+      "explanation": "En kalabalık bölge Marmara'dır.",
+      "source": "özgün"
+    }
   ]
 }

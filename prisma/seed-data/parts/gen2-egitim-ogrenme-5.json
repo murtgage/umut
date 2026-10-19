@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Rogers ve Yaşantısal Öğrenme",
+      "difficulty": 1,
+      "text": "Rogers'a göre öğrencinin kişisel ilgilerini, gereksinimlerini ve yaşantısını merkeze alan, bireyin kendini geliştirmesine dönük öğrenme türü hangisidir?",
+      "options": {
+        "A": "Yaşantısal ve anlamlı öğrenme",
+        "B": "Ezber öğrenme",
+        "C": "Koşullu öğrenme",
+        "D": "Gizil öğrenme"
+      },
+      "correctOption": "A",
+      "explanation": "Hümanistik yaklaşımda bireyin gereksinim ve ilgilerine dayanan, kişisel anlam taşıyan öğrenme yaşantısal ve anlamlı öğrenmedir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Rogers ve Öğrenci Merkezli Eğitim",
+      "difficulty": 2,
+      "text": "Hümanistik yaklaşıma göre öğrencinin değerlendirilmeden kabul edilmesi ve koşulsuz saygı görmesi aşağıdakilerden hangisini sağlar?",
+      "options": {
+        "A": "Öğrencinin rekabetçi olmasını",
+        "B": "Öğrencinin kendini güvende hissederek öğrenmeye açık olmasını",
+        "C": "Öğretmenin otoritesinin zayıflamasını",
+        "D": "Ölçme ve değerlendirmenin gereksizleşmesini"
+      },
+      "correctOption": "B",
+      "explanation": "Koşulsuz kabul gören öğrenci kendini güvende hisseder, savunmaya geçmeden öğrenmeye açık hâle gelir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Hümanistik Yaklaşımda Öğretmenin Rolü",
+      "difficulty": 3,
+      "text": "Hümanistik yaklaşımda öğretmenin temel işlevi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilgiyi öğrenciye doğrudan aktararak ezberletmek",
+        "B": "Sınıfta katı bir disiplin kurmak",
+        "C": "Öğrencinin kendini gerçekleştirmesine öğrenme ortamı hazırlayarak kolaylaştırıcı olmak",
+        "D": "Öğrencileri sürekli sınavla denetlemek"
+      },
+      "correctOption": "C",
+      "explanation": "Hümanistik anlayışta öğretmen bilgi aktarıcı değil, öğrencinin gelişimini destekleyen bir kolaylaştırıcıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Maslow İhtiyaçlar Hiyerarşisi",
+      "difficulty": 1,
+      "text": "Maslow'un ihtiyaçlar hiyerarşisinin en üst basamağında, bireyin potansiyelini sonuna kadar kullanmasını ifade eden ihtiyaç hangisi yer alır?",
+      "options": {
+        "A": "Güvenlik ihtiyacı",
+        "B": "Ait olma ihtiyacı",
+        "C": "Fizyolojik ihtiyaçlar",
+        "D": "Kendini gerçekleştirme ihtiyacı"
+      },
+      "correctOption": "D",
+      "explanation": "Maslow'a göre alt basamaktaki ihtiyaçlar karşılandıkça birey en üst basamaktaki kendini gerçekleştirme ihtiyacına yönelir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Maslow İhtiyaçlar Hiyerarşisi",
+      "difficulty": 2,
+      "text": "Yeni bir okula başlayan öğrencinin arkadaş edinmeye çalışması ve gruba kabul edilmek istemesi Maslow'un hangi ihtiyaç basamağıyla açıklanır?",
+      "options": {
+        "A": "Ait olma ve sevgi ihtiyacı",
+        "B": "Fizyolojik ihtiyaçlar",
+        "C": "Güvenlik ihtiyacı",
+        "D": "Kendini gerçekleştirme ihtiyacı"
+      },
+      "correctOption": "A",
+      "explanation": "Sevilme, kabul edilme ve bir gruba ait olma isteği Maslow'un ait olma ve sevgi basamağında yer alır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "İçsel ve Dışsal Güdülenme",
+      "difficulty": 1,
+      "text": "Ailesinin kendisine bisiklet alma sözü vermesi üzerine derslerine ağırlık veren bir öğrencinin güdülenmesi için aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "İçsel güdülenme ile hareket etmektedir.",
+        "B": "Dışsal güdülenme ile hareket etmektedir.",
+        "C": "Öğrenilmiş çaresizlik yaşamaktadır.",
+        "D": "Kaygı düzeyi çok yüksektir."
+      },
+      "correctOption": "B",
+      "explanation": "Davranış, eylemin kendisinden zevk almak yerine dışsal bir ödül beklentisiyle yapıldığından dışsal güdülenmedir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Başarı Güdüsü",
+      "difficulty": 3,
+      "text": "Başarı güdüsü yüksek olan bir öğrencinin görev seçimiyle ilgili olarak aşağıdakilerden hangisi beklenir?",
+      "options": {
+        "A": "Çok kolay görevleri hiçbir zaman reddetmemesi",
+        "B": "Yalnızca başarısız olacağı kesin görevleri seçmesi",
+        "C": "Ne çok kolay ne çok zor, orta güçlükteki görevleri tercih etmesi",
+        "D": "Görev seçiminde hiçbir ölçüt kullanmaması"
+      },
+      "correctOption": "C",
+      "explanation": "Başarı güdüsü yüksek bireyler başarı şansının bulunduğu, orta düzeyde güçlükteki görevleri tercih eder."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kaygı ve Öğrenme",
+      "difficulty": 2,
+      "text": "Öğrenme sürecinde kaygının etkisiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Kaygının az olması her zaman öğrenmeyi en üst düzeye çıkarır.",
+        "B": "Kaygı düzeyi öğrenmeyi hiç etkilemez.",
+        "C": "Kaygı arttıkça öğrenme sürekli olarak daha iyi olur.",
+        "D": "Kaygı belirli bir düzeye kadar öğrenmeyi destekler, çok yükseldiğinde engeller."
+      },
+      "correctOption": "D",
+      "explanation": "Orta düzeyde kaygı bireyi harekete geçirirken, aşırı kaygı dikkati dağıtarak öğrenmeyi ve performansı olumsuz etkiler."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenilmiş Çaresizlik",
+      "difficulty": 3,
+      "text": "Bir öğrencinin, ne kadar çalışırsa çalışsın başarısız olacağına inandığı için artık hiç denemeden vazgeçmesi hangi kavramla açıklanır?",
+      "options": {
+        "A": "Öğrenilmiş çaresizlik",
+        "B": "Olumsuz pekiştirme",
+        "C": "Aşırı öğrenme",
+        "D": "Uyarıcı genellemesi"
+      },
+      "correctOption": "A",
+      "explanation": "Davranışın sonucu değiştirmediği yaşantılar sonucu ortaya çıkan deneme isteksizliği öğrenilmiş çaresizliktir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Yükleme Kuramı",
+      "difficulty": 3,
+      "text": "Bir öğrencinin sınavdan düşük not almasını, değiştirilemeyecek bir özellik olarak zekâsının yetersizliğine yüklemesinin en olası sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Daha çok çaba gösterme kararlılığının artması",
+        "B": "Başarısızlığı yetersiz çalışmaya bağlayarak yeni yöntem araması",
+        "C": "Öğrenmeye karşı güdülenmesinin azalması ve vazgeçmesi",
+        "D": "Öğrenilmiş çaresizliğin hiç yaşanmaması"
+      },
+      "correctOption": "C",
+      "explanation": "Başarısızlığı değiştirilemez bir nedene yüklemek bireyin çabasını anlamsız görmesine yol açarak güdülenmeyi düşürür."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Yükleme Kuramı",
+      "difficulty": 2,
+      "text": "Başarısızlığını yeterince çalışmamaya bağlayan bir öğrencinin bu yükleme biçimi için aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Değiştirilebilir bir nedene yapıldığı için çabayı artırabilir.",
+        "B": "Kalıcı ve değiştirilemez bir nedene yapıldığı için umutsuzluğa yol açar.",
+        "C": "Dışsal ve denetlenemez bir nedene yapılmıştır.",
+        "D": "Öğrencinin güdülenmesini kesin olarak düşürür."
+      },
+      "correctOption": "A",
+      "explanation": "Çaba, bireyin denetleyebildiği ve değiştirebildiği bir neden olduğundan bu yükleme öğrenciyi daha çok çalışmaya yöneltir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Saygınlık İhtiyacı",
+      "difficulty": 1,
+      "text": "Maslow'un ihtiyaçlar hiyerarşisinde bireyin başarılı olma, tanınma, takdir edilme ve saygı görme isteğini kapsayan basamak hangisidir?",
+      "options": {
+        "A": "Güvenlik ihtiyacı",
+        "B": "Fizyolojik ihtiyaçlar",
+        "C": "Ait olma ihtiyacı",
+        "D": "Saygınlık ihtiyacı"
+      },
+      "correctOption": "D",
+      "explanation": "Başarı, yeterlik, tanınma ve saygı görme gereksinimleri Maslow'un saygınlık basamağında yer alır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenme Stratejileri",
+      "difficulty": 1,
+      "text": "Öğrencinin yeni bilgiyi zihninde var olan bilgilerle ilişkilendirmek için benzetme kurması, örnek vermesi ve kendi cümleleriyle özetlemesi hangi öğrenme stratejisi kapsamındadır?",
+      "options": {
+        "A": "Anlamlandırma stratejisi",
+        "B": "Kaynak yönetimi stratejisi",
+        "C": "Duyuşsal strateji",
+        "D": "Dikkat stratejisi"
+      },
+      "correctOption": "A",
+      "explanation": "Bilginin var olan bilişsel yapıyla ilişkilendirilmesini sağlayan eklemleme ve özetleme etkinlikleri anlamlandırma stratejileridir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Yürütücü Biliş",
+      "difficulty": 2,
+      "text": "Bir öğrencinin sınava hazırlanırken hangi konuları öğrenip öğrenmediğini değerlendirmesi ve çalışma yöntemini buna göre değiştirmesi hangi beceriyle açıklanır?",
+      "options": {
+        "A": "Dikkat",
+        "B": "Yürütücü biliş",
+        "C": "Algı",
+        "D": "Genelleme"
+      },
+      "correctOption": "B",
+      "explanation": "Bireyin kendi öğrenme sürecini izlemesi, değerlendirmesi ve düzenlemesi yürütücü biliş (üstbiliş) becerisidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Duyuşsal Stratejiler",
+      "difficulty": 2,
+      "text": "Bir öğrencinin sınav öncesi gevşeme egzersizleri yapması ve kendisini motive edici cümleler söylemesi hangi öğrenme stratejisi kapsamındadır?",
+      "options": {
+        "A": "Örgütleme stratejisi",
+        "B": "Tekrar stratejisi",
+        "C": "Duyuşsal strateji",
+        "D": "Anlamlandırma stratejisi"
+      },
+      "correctOption": "C",
+      "explanation": "Kaygıyı denetlemeye ve güdülenmeyi sürdürmeye yönelik stratejiler duyuşsal stratejilerdir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kaynak Yönetimi Stratejileri",
+      "difficulty": 2,
+      "text": "Öğrencinin çalışma masasını düzenlemesi, çalışma saatlerini planlaması ve dikkatini dağıtan ortamlardan uzak durması hangi strateji grubunda yer alır?",
+      "options": {
+        "A": "Anlamlandırma",
+        "B": "Örgütleme",
+        "C": "Yürütücü biliş",
+        "D": "Kaynak yönetimi"
+      },
+      "correctOption": "D",
+      "explanation": "Zaman, çevre ve çaba gibi öğrenme kaynaklarının düzenlenmesi kaynak yönetimi stratejileridir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenme Stilleri",
+      "difficulty": 2,
+      "text": "Bir öğrencinin bir bütünün parçalarından çok bütününe ve genel yapısına odaklanarak öğrenmesi, bilişsel stil sınıflamasında hangi kavramla açıklanır?",
+      "options": {
+        "A": "Alan bağımlı öğrenme stili",
+        "B": "Alan bağımsız öğrenme stili",
+        "C": "Görsel öğrenme stili",
+        "D": "İşitsel öğrenme stili"
+      },
+      "correctOption": "A",
+      "explanation": "Bütünsel algılayan, çevresel bağlamdan etkilenen ve sosyal ipuçlarına duyarlı bireyler alan bağımlı öğrenme stiline sahiptir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öğrenme Stilleri",
+      "difficulty": 1,
+      "text": "Dersi dinlemek yerine konuyu şema, grafik ve renkli görsellerle çalıştığında daha iyi öğrenen bir birey hangi öğrenme stiline sahiptir?",
+      "options": {
+        "A": "Devimsel öğrenme stili",
+        "B": "Görsel öğrenme stili",
+        "C": "İşitsel öğrenme stili",
+        "D": "Sözel öğrenme stili"
+      },
+      "correctOption": "B",
+      "explanation": "Bilgiyi görsel araçlarla işlemeyi tercih eden ve bu yolla daha iyi öğrenen bireyler görsel öğrenme stiline sahiptir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Güdülenme Modeli",
+      "difficulty": 3,
+      "text": "Keller'in güdülenme modelinde dikkat, ilgi, güven ve doyum boyutlarının ele alınması hangi modelle açıklanır?",
+      "options": {
+        "A": "Bilişsel haritası modeli",
+        "B": "Yapılandırmacı öğrenme modeli",
+        "C": "ARCS güdülenme modeli",
+        "D": "Bilgi işleme modeli"
+      },
+      "correctOption": "C",
+      "explanation": "Keller'in ARCS modeli dikkat, ilgi, güven ve doyum boyutlarıyla öğretimde güdülenmeyi artırmayı amaçlar."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Öz Yeterlik İnancının Kaynağı",
+      "difficulty": 2,
+      "text": "Öz yeterlik inancının gelişimini inceleyen Bandura'ya göre bu inancı en güçlü biçimde etkileyen kaynak aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Başkalarının sözlü telkinleri",
+        "B": "Duygusal uyarılma durumu",
+        "C": "Başkalarının başarılarını izleme",
+        "D": "Bizzat yaşadığı başarılı deneyimler"
+      },
+      "correctOption": "D",
+      "explanation": "Bireyin kendi gayretiyle elde ettiği başarı deneyimleri, öz yeterlik inancını oluşturan en güçlü kaynaktır."
+    }
+  ]
+}

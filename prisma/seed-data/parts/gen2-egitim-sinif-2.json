@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Değişkenleri",
+      "difficulty": 1,
+      "text": "Sınıf yönetimini etkileyen değişkenler arasında aşağıdakilerden hangisi yer almaz?",
+      "options": { "A": "Öğrencilerin öğrenme özellikleri", "B": "Öğretmenin mezun olduğu üniversite", "C": "Sınıfın fiziksel koşulları", "D": "Okulun ve ailenin tutumu" },
+      "correctOption": "B",
+      "explanation": "Sınıf yönetimini etkileyen değişkenler arasında öğretmenin mezun olduğu üniversite yer almaz."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Değişkenleri",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde \"öğretmene ilişkin değişkenler\" arasında aşağıdakilerden hangisi yer alır?",
+      "options": { "A": "Okulun fiziksel koşulları", "B": "Öğretmenin iletişim becerisi ve tutumu", "C": "Sınıfın mevcudu", "D": "Ailenin gelir düzeyi" },
+      "correctOption": "B",
+      "explanation": "Öğretmenin iletişim becerisi ve tutumu, öğretmene ilişkin değişkenler arasında yer alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Değişkenleri",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi sınıf yönetiminde çevresel değişkenler grubuna girer?",
+      "options": { "A": "Öğrencinin hazırbulunuşluk düzeyi", "B": "Öğretmenin yıl deneyimi", "C": "Toplumun okuldan beklentileri", "D": "Sınıfın oturma düzeni" },
+      "correctOption": "C",
+      "explanation": "Toplumun okuldan beklentileri, sınıf yönetiminde çevresel değişkenler grubuna girer."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Değişkenleri",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde \"öğrenci değişkenleri\" arasında aşağıdakilerden hangisi yer alır?",
+      "options": { "A": "Öğretmenin yaşı", "B": "Okulun konumu", "C": "Dersin saati", "D": "Öğrencilerin hazırbulunuşluk düzeyleri" },
+      "correctOption": "D",
+      "explanation": "Öğrencilerin hazırbulunuşluk düzeyleri, sınıf yönetiminde öğrenci değişkenleri grubuna girer."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Mevcudu",
+      "difficulty": 2,
+      "text": "Sınıf mevcudunun çok fazla olmasının sınıf yönetimi üzerindeki en olası etkisi aşağıdakilerden hangisidir?",
+      "options": { "A": "Bireysel ilginin ve öğretimsel etkinliklerin zorlaşması", "B": "Öğrenci başarısının otomatik artması", "C": "Öğretmenin iş yükünün azalması", "D": "Sınıf düzeninin kendiliğinden sağlanması" },
+      "correctOption": "A",
+      "explanation": "Kalabalık sınıflarda bireysel ilgi ve öğretimsel etkinlikler zorlaşır; bu da sınıf yönetimini olumsuz etkiler."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İçi Disiplin Sorunları",
+      "difficulty": 2,
+      "text": "Sınıf içi disiplin sorunlarının temelinde yatan en yaygın neden aşağıdakilerden hangisidir?",
+      "options": { "A": "Okulun fiziksel koşulları", "B": "Dersin ilgi çekici olmaması ve öğretmenin ilgisiz davranması", "C": "Öğrencilerin yaşları", "D": "Ders kitabının kalitesi" },
+      "correctOption": "B",
+      "explanation": "Dersin ilgi çekici olmaması ve öğretmenin ilgisiz davranması, sınıf içi disiplin sorunlarının en yaygın nedenlerindendir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışların Nedenleri",
+      "difficulty": 3,
+      "text": "Dreikurs'a göre öğrencinin öğretmenin otoritesine karşı çıkarak üstünlük kurmaya çalışması hangi yanlış amaçla açıklanır?",
+      "options": { "A": "Dikkat çekme", "B": "İntikam alma", "C": "Güç kurma", "D": "Yetersizlik" },
+      "correctOption": "C",
+      "explanation": "Dreikurs'a göre öğretmenin otoritesine meydan okuyarak üstünlük kurma çabası güç kurma yanlış amacına yöneliktir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İstenmeyen Davranışların Nedenleri",
+      "difficulty": 2,
+      "text": "Sınıfta öğrencilerin ders dışı konularla meşgul olmasının en yaygın nedeni aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerin çok iyi hazırbulunuşlu olması", "B": "Dersin öğrenci düzeyinin altında olması", "C": "Sınıfın çok sessiz olması", "D": "Dersin öğrenci düzeyine uygun olmaması ve ilgi çekici bulunmaması" },
+      "correctOption": "D",
+      "explanation": "Ders, öğrencinin düzeyine uygun değilse ve ilgi çekici bulunmuyorsa öğrenci dikkatini ders dışı konulara yönlendirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sağlıklı Rekabet",
+      "difficulty": 1,
+      "text": "Sınıfta öğrenciler arasında sağlıklı rekabetin olumlu yanı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerin birbirini kıskanması", "B": "Öğrencilerin birbirlerini motive etmesi ve çabalarını artırması", "C": "Sınıf ikliminin bozulması", "D": "Öğrencilerin işbirliğinden uzaklaşması" },
+      "correctOption": "B",
+      "explanation": "Sağlıklı rekabet, öğrencileri birbirlerini motive ederek çabalarını artırabilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Sorumluluğu",
+      "difficulty": 1,
+      "text": "Sınıf yönetiminde öğrencilere görev ve sorumluluk verilmesinin en önemli işlevi aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğretmenin iş yükünü hafifletmek", "B": "Öğrencilerde sorumluluk bilinci ve aidiyet duygusu geliştirmek", "C": "Öğrencileri birbirinden ayırmak", "D": "Sınav sayısını azaltmak" },
+      "correctOption": "B",
+      "explanation": "Öğrencilere görev verilmesi, sorumluluk bilinci ve sınıfa aidiyet duygusu geliştirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Görev Dağılımı",
+      "difficulty": 1,
+      "text": "Sınıfta görevlerin öğrenciler arasında dönüşümlü ve adil biçimde dağıtılmasının amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencileri birbirleriyle kıyaslamak", "B": "Sınıf mevcudunu azaltmak", "C": "Her öğrencinin sorumluluk almasını ve kendini değerli hissetmesini sağlamak", "D": "Öğretmenin görev vermekten kaçınması" },
+      "correctOption": "C",
+      "explanation": "Görevlerin dönüşümlü ve adil dağıtılması, her öğrencinin sorumluluk almasını ve kendini değerli hissetmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İçi Gruplar",
+      "difficulty": 2,
+      "text": "Sınıfta öğrencilerin kendi kendine oluşturduğu grupların (clique) yönetilmesinde en uygun yaklaşım aşağıdakilerden hangisidir?",
+      "options": { "A": "Grupların tamamen dışlanması", "B": "Öğretmenin hiç müdahale etmemesi", "C": "Grupların kalıcı olarak serbest bırakılması", "D": "Gruplar arası etkileşimi artıracak etkinlikler düzenlemek" },
+      "correctOption": "D",
+      "explanation": "Gruplar arası etkileşimi artıracak etkinlikler düzenlenerek, dışlanan öğrencilerin sınıfa dahil olması sağlanır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Akran İlişkileri",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde öğrencilerin akranlarıyla olumlu ilişkiler kurmasını desteklemenin temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerin sosyal gelişimini ve sınıfa uyumunu desteklemek", "B": "Sınıfın daha gürültülü olmasına neden olmak", "C": "Öğretmenin işini artırmak", "D": "Sınavların kolaylaşmasına yardımcı olmak" },
+      "correctOption": "A",
+      "explanation": "Akranlarıyla olumlu ilişkiler kurmasını desteklemek, öğrencinin sosyal gelişimini ve sınıfa uyumunu destekler."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Akran Zorbalığı",
+      "difficulty": 2,
+      "text": "Akran zorbalığı durumunda izleyici öğrencilerin sessiz kalmasının zorbalık davranışı üzerindeki etkisi nedir?",
+      "options": { "A": "Zorbalığı hemen bitirir", "B": "Zorba davranışını örtük biçimde onaylar ve pekiştirir", "C": "Zorbalığı tamamen yok sayar", "D": "Zorba öğrenciyi pişman eder" },
+      "correctOption": "B",
+      "explanation": "İzleyicilerin sessiz kalması, zorbalık davranışını örtük biçimde onaylar ve pekiştirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Empati",
+      "difficulty": 1,
+      "text": "Empatinin temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Başkasının durumunu küçümsemek", "B": "Başkasının duygularını görmezden gelmek", "C": "Başkasının yerine geçerek onun duygularını anlamaya çalışmak", "D": "Başkasıyla sürekli aynı fikirde olmak" },
+      "correctOption": "C",
+      "explanation": "Empati, başkasının yerine geçerek onun duygularını ve düşüncelerini anlamaya çalışma becerisidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çatışma Yönetimi",
+      "difficulty": 3,
+      "text": "Öğrenciler arası çatışmalarda \"kazan-kazan\" yaklaşımının temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Bir tarafın kazanması, diğerinin kaybetmesi", "B": "Taraflardan birinin tüm isteklerini kabul etmesi", "C": "Her iki tarafın da ihtiyaçlarının karşılanmasına çalışılması", "D": "Çatışmanın görmezden gelinmesi" },
+      "correctOption": "C",
+      "explanation": "Kazan-kazan yaklaşımında her iki tarafın da ihtiyaçları birlikte karşılanmaya çalışılır; ilişkiler korunur ve çözüm kalıcı olur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çatışma Yönetimi",
+      "difficulty": 2,
+      "text": "Öğretmenin sınıfta çıkan bir tartışmayı büyüterek çözüm aramak yerine görmezden gelmesi hangi çatışma yönetimi yaklaşımına örnektir?",
+      "options": { "A": "Kaçınma", "B": "Uzlaşma", "C": "İşbirliği", "D": "Rekabet" },
+      "correctOption": "A",
+      "explanation": "Çatışmayı görmezden gelmek kaçınma yaklaşımıdır; bu yaklaşımda sorun çözülmez, yalnızca ertelenir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çatışma Yönetimi",
+      "difficulty": 3,
+      "text": "Sınıfta tarafların bir kısım isteklerinden vazgeçerek ortak bir çözüme ulaşması hangi çatışma yönetimi yaklaşımıdır?",
+      "options": { "A": "Kaçınma", "B": "Uzlaşma", "C": "İşbirliği", "D": "Zorlama" },
+      "correctOption": "B",
+      "explanation": "Uzlaşmada taraflar bir kısım isteklerinden vazgeçerek ortak bir çözüme ulaşır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çatışma Yönetimi",
+      "difficulty": 2,
+      "text": "Sınıfta çıkan bir çatışmada her iki tarafın da kazanacağı bir çözüm aranması hangi yaklaşıma uygundur?",
+      "options": { "A": "Zorlama", "B": "Kaçınma", "C": "İşbirlikli çözüm", "D": "Rekabet" },
+      "correctOption": "C",
+      "explanation": "İşbirlikli (kazan-kazan) çözümde tarafların ihtiyaçları birlikte karşılanmaya çalışılır; ilişkiler korunur ve çözüm kalıcı olur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çatışma Yönetimi",
+      "difficulty": 3,
+      "text": "Öğretmenin sınıftaki bir anlaşmazlıkta taraflardan birini kazanmaya zorlaması hangi çatışma yönetimi yaklaşımına örnektir?",
+      "options": { "A": "İşbirliği", "B": "Uzlaşma", "C": "Kaçınma", "D": "Zorlama (baskılama)" },
+      "correctOption": "D",
+      "explanation": "Zorlama yaklaşımında bir taraf kazanır, diğeri kaybeder; ilişkiler zedelenir ve çözüm kalıcı olmaz."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Tutumları",
+      "difficulty": 1,
+      "text": "Sınıfta öğretmenin davranışlarının adil ve tutarlı olmasının temel sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerin birbirini kıskanması", "B": "Öğrencilerin öğretmene güvenmesi ve kurallara uymaya daha istekli olması", "C": "Sınıfın tamamen sessiz olması", "D": "Öğretmenin sorumluluklarının azalması" },
+      "correctOption": "B",
+      "explanation": "Öğretmenin adil ve tutarlı davranması, öğrencilerin ona güvenmesini ve kurallara uymaya daha istekli olmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Tutumları",
+      "difficulty": 2,
+      "text": "Öğretmenin bir davranışı cezalandırırken tüm öğrencilere aynı tutarla yaklaşması hangi ilkeye uygundur?",
+      "options": { "A": "Kişisel önyargı", "B": "Tutarlılık ve adillik", "C": "Aşırı hoşgörü", "D": "Tasadüfi davranma" },
+      "correctOption": "B",
+      "explanation": "Aynı davranışa aynı tutarla yaklaşmak, sınıf yönetiminde tutarlılık ve adillik ilkesinin gereğidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenciyi Etiketleme",
+      "difficulty": 2,
+      "text": "Öğretmenin bir öğrenciyi sürekli olumsuz etiketlemesinin olası sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencinin motivasyonunun artması", "B": "Öğrencinin davranışının kalıcı olarak değişmesi", "C": "Öğrencinin olumsuz etiketi içselleştirmesi ve davranışının pekişmesi", "D": "Sınıf ikliminin hemen düzelmesi" },
+      "correctOption": "C",
+      "explanation": "Sürekli olumsuz etiketleme, öğrencinin etiketi içselleştirmesine ve davranışının pekişmesine yol açabilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Tutumları",
+      "difficulty": 1,
+      "text": "Öğretmenin öğrencisine karşı sabırlı ve anlayışlı olması hangi değerle ilişkilidir?",
+      "options": { "A": "Adalet", "B": "Dürüstlük", "C": "Sorumluluk", "D": "Empati ve hoşgörü" },
+      "correctOption": "D",
+      "explanation": "Öğretmenin öğrencisine karşı sabırlı ve anlayışlı olması, empati ve hoşgörü değeriyle ilişkilidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kaynaştırma Eğitimi",
+      "difficulty": 3,
+      "text": "Kaynaştırma sınıfında öğretmenin öğrenme güçlüğü olan öğrenciye göre materyal ve süre düzenlemesi yapmasının temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencinin öğrenme ihtiyacına uygun öğretim sunarak gelişimini desteklemek", "B": "Öğrenciyi sınıftan ayırmak", "C": "Diğer öğrencilerin hızını düşürmek", "D": "Öğretmenin işini kolaylaştırmak" },
+      "correctOption": "A",
+      "explanation": "Materyal ve süre düzenlemeleri, öğrencinin öğrenme ihtiyacına uygun öğretim sunarak gelişimini desteklemeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Bireyselleştirilmiş Eğitim Programı",
+      "difficulty": 3,
+      "text": "Bireyselleştirilmiş eğitim programının (BEP) temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrenciyi sınıftan ayırmak", "B": "Öğrencinin özelliklerine uygun hedef, içerik ve yöntem düzenlemeleriyle gelişimini desteklemek", "C": "Diğer öğrencileri geride bırakmak", "D": "Öğretmenin iş yükünü artırmak" },
+      "correctOption": "B",
+      "explanation": "BEP, öğrencinin özelliklerine uygun hedef, içerik ve yöntem düzenlemeleriyle gelişimini desteklemeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretimi Farklılaştırma",
+      "difficulty": 2,
+      "text": "Öğretmenin aynı kazanımı farklı öğrencilere farklı materyal ve etkinliklerle sunması hangi yaklaşımı yansıtır?",
+      "options": { "A": "Standart öğretimi aynen uygulama", "B": "Öğrencileri tek tip olarak görme", "C": "Öğretimi farklılaştırma", "D": "Değerlendirmeyi kaldırma" },
+      "correctOption": "C",
+      "explanation": "Öğretimi farklılaştırma, öğrencilerin farklılıklarını dikkate alarak aynı kazanımı farklı etkinliklerle sunmayı ifade eder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Çokkültürlülük",
+      "difficulty": 3,
+      "text": "Çokkültürlü bir sınıfta öğretmenin farklı kültürlere ait örnek ve materyalleri derse katmasının temel amacı nedir?",
+      "options": { "A": "Dersi zorlaştırmak", "B": "Öğrencileri birbirinden ayırmak", "C": "Sadece bir kültürü öne çıkarmak", "D": "Farklı kültürlerden gelen öğrencileri derse dahil etmek ve herkese değer vermek" },
+      "correctOption": "D",
+      "explanation": "Farklı kültürlere ait örneklerin derse katılması, tüm öğrencileri derse dahil eder ve herkese değer verilmesini sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Geri Bildirim",
+      "difficulty": 2,
+      "text": "Sınıfta öğrenciye verilen geri bildirimin temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencinin öğrenmesini desteklemek ve yol göstermek", "B": "Öğrenciyi cezalandırmak", "C": "Öğrencileri kıyaslamak", "D": "Sınav notunu artırmak" },
+      "correctOption": "A",
+      "explanation": "Geri bildirimin temel amacı, öğrencinin öğrenmesini desteklemek ve ona yol göstermektir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Süreç Odaklı Değerlendirme",
+      "difficulty": 1,
+      "text": "Öğretmenin öğrencileri yalnızca sınav notuyla değil, öğrenme süreci boyunca da değerlendirmesi hangi yaklaşımı yansıtır?",
+      "options": { "A": "Süreç odaklı değerlendirme", "B": "Yalnızca sonuç odaklı değerlendirme", "C": "Standart testler", "D": "Derecelendirme" },
+      "correctOption": "A",
+      "explanation": "Süreç odaklı değerlendirme, öğrencinin yalnızca sınav notuyla değil öğrenme süreci boyunca izlenip değerlendirilmesini içerir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi ve Teknoloji",
+      "difficulty": 3,
+      "text": "Sınıfta teknoloji kullanımının sınıf yönetimi açısından doğru değerlendirilmesi aşağıdakilerden hangisidir?",
+      "options": { "A": "Teknoloji her zaman sınıfı dağıtır", "B": "Teknoloji kullanımından kaçınılmalıdır", "C": "Teknoloji, amaca uygun ve planlı kullanıldığında öğrenmeyi destekler", "D": "Teknoloji yalnızca öğrenciler tarafından kullanılmalıdır" },
+      "correctOption": "C",
+      "explanation": "Teknoloji, amaca uygun ve planlı kullanıldığında öğrenmeyi destekler; yönetilmeyen kullanım ise sınıfı dağıtabilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenme Güçlüğü",
+      "difficulty": 3,
+      "text": "Öğrenme güçlüğü olan bir öğrencinin derse ilgisiz olmasının temelinde yatan en olası neden aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencinin çok iyi hazırbulunuşlu olması", "B": "Dersin çok kolay olması", "C": "Sınıfın çok sakin olması", "D": "Öğrencinin sahip olduğu ön öğrenmelerin eksik olması ve dersin zor gelmesi" },
+      "correctOption": "D",
+      "explanation": "Öğrenme güçlüğü yaşayan öğrencinin derse ilgisiz olmasının temelinde, eksik ön öğrenmeler ve dersin onun için zor gelmesi yatabilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Öz Yeterliği",
+      "difficulty": 2,
+      "text": "Öğretmen öz yeterliği kavramı en iyi hangi ifadeyle açıklanır?",
+      "options": { "A": "Okul yönetiminin öğretmene verdiği destek", "B": "Öğretmenin maaşıyla ilgili memnuniyeti", "C": "Öğrencilerin sınav notlarının yüksek olması", "D": "Öğretmenin, öğretme becerilerine ve öğrencilerin öğrenmesini etkileyebileceğine dair inancı" },
+      "correctOption": "D",
+      "explanation": "Öğretmen öz yeterliği, öğretmenin öğretme becerilerine ve öğrenci öğrenmesini etkileyebileceğine dair inancıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Mesleki Tükenmişlik",
+      "difficulty": 2,
+      "text": "Öğretmenlerde tükenmişlik sendromunun duygusal tükenme boyutunun en belirgin göstergesi aşağıdakilerden hangisidir?",
+      "options": { "A": "İşe karşı ilgi ve enerjinin azalması", "B": "Öğrenci başarısının artması", "C": "Maaşın yükselmesi", "D": "Okulun fiziksel koşullarının iyileşmesi" },
+      "correctOption": "A",
+      "explanation": "Duygusal tükenme boyutunda, öğretmen işe karşı ilgisini ve enerjisini yitirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Mesleki Tükenmişlik",
+      "difficulty": 1,
+      "text": "Öğretmenin mesleki tükenmişliğini azaltmada en etkili yaklaşım aşağıdakilerden hangisidir?",
+      "options": { "A": "Sorunların üzerine gitmemek", "B": "Sürekli fazla mesai yapmak", "C": "Meslektaşlarla dayanışma ve gerçekçi hedefler belirlemek", "D": "Destek almaktan kaçınmak" },
+      "correctOption": "C",
+      "explanation": "Meslektaşlarla dayanışma, destek alma ve gerçekçi hedefler belirleme tükenmişliği önlemede etkili yaklaşımlardır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen-Öğrenci İlişkisi",
+      "difficulty": 1,
+      "text": "Öğretmenin her öğrenciyle bireysel ilgilenmesi ve onların sorunlarını önemsemesi sınıf yönetiminde neyi güçlendirir?",
+      "options": { "A": "Öğrencilerin birbirini kıskanmasını", "B": "Sınıfın gürültüsünü", "C": "Öğretmenin yorgunluğunu", "D": "Öğrencilerin öğretmene duyduğu güveni ve bağlılığı" },
+      "correctOption": "D",
+      "explanation": "Öğretmenin bireysel ilgilenmesi, öğrencilerin öğretmene duyduğu güveni ve bağlılığı güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Adil Yaklaşım",
+      "difficulty": 2,
+      "text": "Öğretmenin bir öğrenciyi diğerlerine göre daha fazla övmesinin sınıf yönetimi açısından olası sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerde adaletsizlik algısı ve kıskançlık duygusunun gelişmesi", "B": "Sınıf ikliminin hemen düzelmesi", "C": "Tüm öğrencilerin motivasyonunun artması", "D": "Kurallara uyulan bir ortamın otomatik oluşması" },
+      "correctOption": "A",
+      "explanation": "Öğretmenin bir öğrenciyi diğerlerine göre daha fazla övmesi, öğrencilerde adaletsizlik algısı ve kıskançlık duygusuna yol açabilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Anlayışları",
+      "difficulty": 2,
+      "text": "Çağdaş disiplin anlayışı ile geleneksel (baskıcı) disiplin anlayışının temel farkı aşağıdakilerden hangisidir?",
+      "options": { "A": "Geleneksel anlayış öz denetimi hedefler, çağdaş anlayış dışsal denetimi hedefler.", "B": "Geleneksel anlayış cezaya dayanır, çağdaş anlayış öz denetim ve sorumluluk bilincini hedefler.", "C": "İki anlayış arasında hiçbir fark yoktur.", "D": "Geleneksel anlayış öğrenciyi merkeze alır, çağdaş anlayış öğretmeni merkeze alır." },
+      "correctOption": "B",
+      "explanation": "Geleneksel disiplin cezaya dayanırken, çağdaş disiplin öğrencinin öz denetimini ve sorumluluk bilincini hedefler."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Disiplin Anlayışları",
+      "difficulty": 1,
+      "text": "Geleneksel (baskıcı) disiplin anlayışının temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrenciye sorumluluk verilmesi", "B": "Öğrencinin öz denetiminin hedeflenmesi", "C": "Ceza ve korkutma yoluyla öğrencinin yönetilmesi", "D": "Kurallara birlikte karar verilmesi" },
+      "correctOption": "C",
+      "explanation": "Geleneksel disiplin anlayışında öğrenci, ceza ve korkutma yoluyla yönetilir; öğrencinin öz denetimi hedeflenmez."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Sorumluluğu",
+      "difficulty": 2,
+      "text": "Öğrencinin kendi davranışını değerlendirip düzeltmesine imkân tanıyan yaklaşım hangisidir?",
+      "options": { "A": "Dışsal denetime dayalı yaklaşım", "B": "Öğrenciyi etiketleyen yaklaşım", "C": "Sürekli ceza veren yaklaşım", "D": "Öz denetimi ve sorumluluğu hedefleyen yaklaşım" },
+      "correctOption": "D",
+      "explanation": "Öz denetimi ve sorumluluğu hedefleyen yaklaşım, öğrencinin kendi davranışını değerlendirip düzeltmesine imkân tanır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Önlemsel Yaklaşım",
+      "difficulty": 1,
+      "text": "Önleyici sınıf yönetimi yaklaşımının temel özelliği aşağıdakilerden hangisidir?",
+      "options": { "A": "Kuralların belirlenmemesi", "B": "Sorunların ortaya çıkmasının beklenmesi", "C": "Her sorun karşısında ceza verilmesi", "D": "Sorunların önlenmesi için önceden tedbir alınması" },
+      "correctOption": "D",
+      "explanation": "Önleyici yaklaşımda öğretmen, sorunların önlenmesi için önceden tedbir alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenci Katılımı",
+      "difficulty": 1,
+      "text": "Öğretmenin sınıfta öğrencilerin görüşlerine yer vermesi ve onları kararlara katması hangi sonucu doğurur?",
+      "options": { "A": "Öğrencilerin katılım ve sorumluluk duygusunun güçlenmesi", "B": "Sınıf ikliminin bozulması", "C": "Öğretmenin otoritesinin sarsılması", "D": "Kuralların tamamen kaldırılması" },
+      "correctOption": "A",
+      "explanation": "Öğrencilerin kararlara katılması, katılım ve sorumluluk duygusunu güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Odaklı Geri Bildirim",
+      "difficulty": 3,
+      "text": "Öğretmenin bir öğrencinin yaptığı olumsuz davranışı eleştirirken, eleştiriyi davranışa yöneltip kişiliğe yönelmemesi hangi ilkeye uygundur?",
+      "options": { "A": "Öğrenciyi etiketleme", "B": "Öğrenciyi yargılama", "C": "Davranış odaklı geri bildirim", "D": "Öğrencileri karşılaştırma" },
+      "correctOption": "C",
+      "explanation": "Eleştiri davranışa yöneltilirse öğrenciyi incitmeden davranış düzeltilir; kişiliğe yöneltilirse öğrencinin kendisini kötü hissetmesi sağlanır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İçi İletişim",
+      "difficulty": 2,
+      "text": "Öğretmenin sınıfta yönerge verirken net ve kısa biçimde söylemesinin temel yararı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerin yönergeyi anlamasını kolaylaştırmak", "B": "Sınıfın gürültülü olmasına neden olmak", "C": "Öğrencilerin söz almasını artırmak", "D": "Dersin süresini uzatmak" },
+      "correctOption": "A",
+      "explanation": "Net ve kısa yönergeler, öğrencilerin ne yapması gerektiğini anlamasını kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Okul-Aile İşbirliği",
+      "difficulty": 2,
+      "text": "Öğretmenin veli görüşmesinde öğrencinin başarılarını da dile getirmesinin temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Velinin olumlu bir tutum geliştirmesini ve işbirliğini güçlendirmek", "B": "Veliyi yanıltmak", "C": "Öğretmenin sorumluluğunu azaltmak", "D": "Sorunları görmezden gelmek" },
+      "correctOption": "A",
+      "explanation": "Başarıların da dile getirilmesi, velinin olumlu bir tutum geliştirmesini ve işbirliğini güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen-Veli İlişkileri",
+      "difficulty": 2,
+      "text": "Öğretmenin veli toplantılarında öğrenciyle ilgili gözlemlerini somut örneklerle aktarması neden önemlidir?",
+      "options": { "A": "Veliyi yormak için", "B": "Öğrencinin durumunun daha iyi anlaşılmasını sağlamak için", "C": "Veliyi suçlamak için", "D": "Toplantıyı uzatmak için" },
+      "correctOption": "B",
+      "explanation": "Somut örneklerle aktarılan gözlemler, öğrencinin durumunun veli tarafından daha iyi anlaşılmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İlk Günler ve Sosyalleşme",
+      "difficulty": 1,
+      "text": "Ders yılının ilk günlerinde öğrencilerin birbirini tanıması için yapılan etkinlikler sınıf yönetimi açısından hangi yararı sağlar?",
+      "options": { "A": "Öğrencilerin sosyal ilişkilerini ve sınıfa uyumunu kolaylaştırmak", "B": "Öğretmenin iş yükünü artırmak", "C": "Kuralların kaldırılmasına neden olmak", "D": "Sınavların ertelenmesine yol açmak" },
+      "correctOption": "A",
+      "explanation": "Tanışma etkinlikleri, öğrencilerin sosyal ilişkilerini ve sınıfa uyumunu kolaylaştırır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğrenciyi Tanıma",
+      "difficulty": 2,
+      "text": "Öğretmenin öğrencilerini iyi tanımasının sınıf yönetimi açısından en önemli yararı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencileri etiketlemesini kolaylaştırmak", "B": "Sınıfı daha gürültülü hâle getirmek", "C": "Kuralları tamamen kaldırmak", "D": "Öğretim ve yönetim uygulamalarını öğrenci özelliklerine göre düzenlemesine yardımcı olmak" },
+      "correctOption": "D",
+      "explanation": "Öğretmenin öğrencilerini iyi tanıması, öğretim ve yönetim uygulamalarını öğrenci özelliklerine göre düzenlemesine yardımcı olur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Kuralları",
+      "difficulty": 2,
+      "text": "Sınıf kurallarının işlevsel olması için en önemli koşul aşağıdakilerden hangisidir?",
+      "options": { "A": "Kuralların öğretilmesi, hatırlatılması ve tutarlı biçimde uygulanması", "B": "Kuralların sayısının artırılması", "C": "Kuralların sadece sözel bildirilmesi", "D": "Kurallara yalnızca zayıf öğrencilerin uyması" },
+      "correctOption": "A",
+      "explanation": "Kuralların öğretilmesi, hatırlatılması ve tutarlı uygulanması, kuralların işlevsel olmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Örnek Olma",
+      "difficulty": 1,
+      "text": "Öğretmenin sınıfta kurallara uyması ve öğrencilere örnek olmasının temel sonucu aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerin kurallara uymasını engellemek", "B": "Öğrencilerin kurallara uymasında örnek teşkil etmek ve güven kazandırmak", "C": "Sınıfın tamamen serbest kalmasına neden olmak", "D": "Kuralların hiçbir zaman uygulanmaması" },
+      "correctOption": "B",
+      "explanation": "Öğretmenin kurallara uyması ve öğrencilere örnek olması, öğrencilerin kurallara uymasını kolaylaştırır ve öğretmene güven kazandırır."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{"questions": [
+ {"categorySlug":"tarih","topic":"Türkiye Cumhuriyeti Tarihi","difficulty":2,"text":"1980 Askeri Darbesi sonucunda hangi anayasa değişikliği 1982'de referendumla kabul edilmiştir?","options":{"A":"1961 Anayasası","B":"1982 Anayasası","C":"1924 Anayasası","D":"1921 Anayasası"},"correctOption":"B","explanation":"1980 darbesi sonrası 1982 Anayasası hazırlanmış ve 7 Kasım 1982'de referendumla kabul edilmiştir.","source":"özgün"},
+ {"categorySlug":"tarih","topic":"Türkiye Cumhuriyeti Tarihi","difficulty":2,"text":"Atatürk'ün 'Siyasete bulaşmamalıdır' uyarısını yaptığı kurum hangisidir?","options":{"A":"Ordu","B":"Meclis","C":"Yargıtay","D":"Cumhurbaşkanlığı"},"correctOption":"A","explanation":"Atatürk, orduyu siyasetin dışında tutmayı; 'Siyasi bir kurum olarak ordu siyasi bir araç olmamalıdır' diyerek vurgulamıştır.","source":"özgün"}
+]}

@@ -119,7 +119,7 @@ async function main() {
   let partFiles: string[] = [];
   try {
     partFiles = (await readdir(PARTS_DIR))
-      .filter((file) => file.endsWith(".json"))
+      .filter((file) => file.endsWith(".json") && !file.startsWith("_"))
       .sort();
   } catch {
     console.log("parts/ dizini yok.");
@@ -132,9 +132,14 @@ async function main() {
       sources.push({ label: `parts/${file}`, questions });
       console.log(`  okundu: parts/${file} → ${questions.length} soru`);
     } catch (error) {
-      console.error(
-        `  HATA: parts/${file} okunamadı — ${error instanceof Error ? error.message : error}`,
-      );
+      const message = error instanceof Error ? error.message : String(error);
+      // Ajan geçici çıktıları (validation/verification) "questions" anahtarı
+      // içermez — bunlar veri değil, atlanmaları gerekir.
+      if (message.includes('"questions" dizisi yok')) {
+        console.warn(`  ATLANDI: parts/${file} soru dosyası değil (ajan çıktısı)`);
+        continue;
+      }
+      console.error(`  HATA: parts/${file} okunamadı — ${message}`);
       process.exitCode = 1;
       return;
     }

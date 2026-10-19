@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 2,
+      "text": "Meslek seçiminin çocukluktan başlayıp yaşam boyu süren gelişimsel bir süreç olduğunu savunan kariyer kuramcısı kimdir?",
+      "options": {
+        "A": "Donald Super",
+        "B": "John Holland",
+        "C": "Eli Ginzberg",
+        "D": "Anne Roe"
+      },
+      "correctOption": "A",
+      "explanation": "Super, kariyer gelişimini yaşam boyu süren gelişimsel bir süreç olarak ele alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 1,
+      "text": "Meslek seçimini 'fantazi, geçici ve gerçekçi' dönemler biçiminde evrelere ayıran kuramcı kimdir?",
+      "options": {
+        "A": "Eli Ginzberg",
+        "B": "Donald Super",
+        "C": "John Holland",
+        "D": "John Krumboltz"
+      },
+      "correctOption": "A",
+      "explanation": "Ginzberg, meslek seçimini fantazi, geçici ve gerçekçi dönemler olarak evrelemiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 3,
+      "text": "Kişiliği mesleki seçimlerle ilişkilendirerek gerçekçi, araştırmacı, sanatçı, sosyal, girişimci ve geleneksel olmak üzere altı tip tanımlayan kuramcı kimdir?",
+      "options": {
+        "A": "John Holland",
+        "B": "Donald Super",
+        "C": "Anne Roe",
+        "D": "Eli Ginzberg"
+      },
+      "correctOption": "A",
+      "explanation": "Holland tipolojisi, meslek seçimini kişilik tipleriyle ilişkilendirir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 2,
+      "text": "Meslek seçiminde erken çocukluk yaşantılarının ve aile ikliminin etkisine vurgu yapan kuramcı kimdir?",
+      "options": {
+        "A": "Anne Roe",
+        "B": "John Holland",
+        "C": "Albert Bandura",
+        "D": "Donald Super"
+      },
+      "correctOption": "A",
+      "explanation": "Roe, erken çocukluk yaşantıları ve aile tutumlarının meslek seçimine etkisini vurgular."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 3,
+      "text": "Meslek kararını öğrenme yaşantıları ve kendini değerlendirmeyle açıklayan sosyal öğrenme temelli kariyer kuramcısı kimdir?",
+      "options": {
+        "A": "John Krumboltz",
+        "B": "Donald Super",
+        "C": "Eli Ginzberg",
+        "D": "Anne Roe"
+      },
+      "correctOption": "A",
+      "explanation": "Krumboltz, kariyer kararını öğrenme yaşantılarına dayandırır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 1,
+      "text": "Bir kimsenin yaşamı boyunca üstlendiği iş ve rollerin oluşturduğu desen hangi kavramla ifade edilir?",
+      "options": {
+        "A": "Kariyer",
+        "B": "Zekâ",
+        "C": "Tutum",
+        "D": "İlgi"
+      },
+      "correctOption": "A",
+      "explanation": "Kariyer, yaşam boyu üstlenilen iş ve rollerin tümüdür."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 2,
+      "text": "Psikolojik danışma sürecinde danışmanın, danışanın ifade ettiği duyguları ona geri vermesi hangi beceridir?",
+      "options": {
+        "A": "Yansıtma",
+        "B": "Yorumlama",
+        "C": "Yönlendirme",
+        "D": "Emir verme"
+      },
+      "correctOption": "A",
+      "explanation": "Yansıtma, danışanın belirttiği duygu ve düşüncelerin ona geri verilmesidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 2,
+      "text": "Danışanın belirsiz ve genel ifadelerinin netleştirilmesine yönelik beceri hangisidir?",
+      "options": {
+        "A": "Somutluk",
+        "B": "Yüzleştirme",
+        "C": "Sessizlik",
+        "D": "Özetleme"
+      },
+      "correctOption": "A",
+      "explanation": "Somutluk, danışanın ifadelerinin açıklığa kavuşturulmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 2,
+      "text": "Danışanın söyledikleri ile davranışları arasındaki tutarsızlığın ona gösterilmesi hangi beceridir?",
+      "options": {
+        "A": "Yüzleştirme",
+        "B": "Yansıtma",
+        "C": "Emir verme",
+        "D": "Sorgulama"
+      },
+      "correctOption": "A",
+      "explanation": "Yüzleştirme, tutarsızlıkların danışana fark ettirilmesidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 1,
+      "text": "Danışmanın, danışanın söylediklerini ana hatlarıyla birleştirip geri vermesi hangi beceridir?",
+      "options": {
+        "A": "Özetleme",
+        "B": "Yansıtma",
+        "C": "Yorumlama",
+        "D": "Yönlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Özetleme, süreçte söylenenlerin toparlanarak geri verilmesidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 1,
+      "text": "Psikolojik danışma sürecinin ilk evresi hangisidir?",
+      "options": {
+        "A": "İlişki kurma ve tanışma",
+        "B": "Sonlandırma",
+        "C": "Eyleme geçme",
+        "D": "Değerlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Süreç, güvene dayalı ilişki kurma evresiyle başlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 2,
+      "text": "Danışanın problemi tanımlaması ve danışmanın durumu değerlendirmesiyle ilerleyen süreç evresi hangisidir?",
+      "options": {
+        "A": "Anlama ve değerlendirme",
+        "B": "Tanışma",
+        "C": "Sonlandırma",
+        "D": "Uygulama"
+      },
+      "correctOption": "A",
+      "explanation": "İkinci evre, problemin anlaşılması ve değerlendirilmesidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 1,
+      "text": "Psikolojik danışma sürecinin son evresi hangisidir?",
+      "options": {
+        "A": "İlişkiyi sonlandırma ve izleme",
+        "B": "Gözlem",
+        "C": "Değerlendirme",
+        "D": "Isınma"
+      },
+      "correctOption": "A",
+      "explanation": "Süreç, sonlandırma ve izleme evresiyle tamamlanır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 1,
+      "text": "Psikolojik danışmada danışmanın, danışanı yargılamadan ve anlamaya odaklanarak dinlemesi hangi beceridir?",
+      "options": {
+        "A": "Etkin dinleme",
+        "B": "Yönlendirme",
+        "C": "Öğüt verme",
+        "D": "Emir verme"
+      },
+      "correctOption": "A",
+      "explanation": "Etkin dinleme, yargılamadan ve anlamaya odaklanarak dinlemedir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Özel Durumlar",
+      "difficulty": 3,
+      "text": "Üstün yetenekli öğrencilere yönelik rehberlikte öncelikli olarak dikkat edilmesi gereken hangisidir?",
+      "options": {
+        "A": "Akademik gelişim kadar duygusal-sosyal gelişimin de desteklenmesi",
+        "B": "Yalnızca sınav başarısına odaklanılması",
+        "C": "Akranlarından tamamen ayrıştırılmaları",
+        "D": "Sadece mesleki yönlendirme yapılması"
+      },
+      "correctOption": "A",
+      "explanation": "Üstün yetenekli öğrencilerde bilişsel gelişim kadar duygusal-sosyal gelişim de önemlidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Özel Durumlar",
+      "difficulty": 2,
+      "text": "Öğrenme güçlüğü olan öğrencilere sunulacak rehberlikte en uygun yaklaşım hangisidir?",
+      "options": {
+        "A": "Bireyselleştirilmiş destek ve güçlü yönlerin geliştirilmesi",
+        "B": "Akranlarıyla aynı düzeyde değerlendirme",
+        "C": "Ayırt edici etiketleme",
+        "D": "Yalnızca cezalandırma"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrenme güçlüğünde bireyselleştirilmiş destek ve güçlü yönlere odaklanma esastır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Özel Durumlar",
+      "difficulty": 2,
+      "text": "Engelli öğrencilerin rehberlik sürecinde kaynaştırma ve uyum açısından öncelikli amaç hangisidir?",
+      "options": {
+        "A": "Topluma ve okula uyumlarının desteklenmesi",
+        "B": "Yalnızca tanı konulması",
+        "C": "Tedavinin okula bırakılması",
+        "D": "Ayrı okullara yönlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Rehberlik, engelli öğrencinin topluma ve okula uyumunu destekler."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Aile Danışmanlığı ve Grupla Psikolojik Danışma",
+      "difficulty": 1,
+      "text": "Aile danışmanlığında amaçlanan temel hedef hangisidir?",
+      "options": {
+        "A": "Aile içi iletişimi ve ilişkileri geliştirmek",
+        "B": "Yalnızca çocuğu değiştirmek",
+        "C": "Aileyi parçalamak",
+        "D": "Bir üyeyi suçlamak"
+      },
+      "correctOption": "A",
+      "explanation": "Aile danışmanlığı, aile içi iletişim ve ilişkileri güçlendirmeyi amaçlar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Aile Danışmanlığı ve Grupla Psikolojik Danışma",
+      "difficulty": 2,
+      "text": "Grupla psikolojik danışmanın bireysel danışmaya göre bir avantajı hangisidir?",
+      "options": {
+        "A": "Üyelerin birbirinden destek ve geri bildirim alması",
+        "B": "Gizliliğin daha kolay sağlanması",
+        "C": "Konuların daha yüzeysel ele alınması",
+        "D": "Sürenin daha kısa tutulması"
+      },
+      "correctOption": "A",
+      "explanation": "Grupta üyeler birbirinden destek ve geri bildirim alır; evrensellik duygusu gelişir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Aile Danışmanlığı ve Grupla Psikolojik Danışma",
+      "difficulty": 2,
+      "text": "Grupla psikolojik danışmada üyenin, benzer sorunlar yaşayan kişileri görerek yalnız olmadığını anlamasına ne denir?",
+      "options": {
+        "A": "Evrensellik",
+        "B": "İzolasyon",
+        "C": "Direnç",
+        "D": "Sessizlik"
+      },
+      "correctOption": "A",
+      "explanation": "Evrensellik, üyenin sorununun yalnızca kendisine özgü olmadığını fark etmesidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 3,
+      "text": "Kariyer gelişiminde bireyin kendilik kavramını meslek tercihiyle bütünleştirmesini vurgulayan kuram hangisidir?",
+      "options": {
+        "A": "Super'in gelişimsel kariyer kuramı",
+        "B": "Klasik psikanaliz",
+        "C": "Davranışçı kuram",
+        "D": "Gestalt kuramı"
+      },
+      "correctOption": "A",
+      "explanation": "Super, kariyer gelişimini kendilik kavramının meslekle bütünleşmesi olarak açıklar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 1,
+      "text": "Öğrencinin gerçekçi bir meslek kararı verebilmesi için öncelikle neyin yapılması gerekir?",
+      "options": {
+        "A": "Kendini ve meslekleri tanıması",
+        "B": "Kararı ailesinin vermesi",
+        "C": "Yalnızca puan ortalamasını yükseltmesi",
+        "D": "Arkadaşını taklit etmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Sağlıklı meslek kararı, bireyin kendini ve meslekleri tanımasına bağlıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 2,
+      "text": "Psikolojik danışmada danışmanın kendi duygu ve düşüncelerini uygun biçimde paylaşması hangi beceridir?",
+      "options": {
+        "A": "Saydamlık (içtenlik)",
+        "B": "Yönlendirme",
+        "C": "Yorumlama",
+        "D": "Sorgulama"
+      },
+      "correctOption": "A",
+      "explanation": "Saydamlık, danışmanın kendi duygularını uygun düzeyde paylaşmasıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Aile Danışmanlığı ve Grupla Psikolojik Danışma",
+      "difficulty": 2,
+      "text": "Psikolojik danışmanın, öğretmen ve aileyle iş birliği yaparak öğrenciye dolaylı yardım sunması hangi hizmet alanıyla örtüşür?",
+      "options": {
+        "A": "Konsültasyon",
+        "B": "Oryantasyon",
+        "C": "Test uygulama",
+        "D": "Sosyometri"
+      },
+      "correctOption": "A",
+      "explanation": "Konsültasyon, öğrenciye dolaylı yardım amacıyla yapılan iş birliğidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Kariyer Gelişimi Kuramları",
+      "difficulty": 3,
+      "text": "Kariyer danışmanlığında bireyin ilgi, yetenek ve değerlerini dikkate alan bütüncül yaklaşımın gereği hangisidir?",
+      "options": {
+        "A": "Bireyin kendini tanıması ile meslek bilgisinin birlikte ele alınması",
+        "B": "Yalnızca puan ortalamasına bakılması",
+        "C": "Sadece aile isteğinin dikkate alınması",
+        "D": "Bireyin tek bir mesleğe zorlanması"
+      },
+      "correctOption": "A",
+      "explanation": "Sağlıklı kariyer kararı, kişisel özellikler ile meslek bilgisinin birlikte değerlendirilmesini gerektirir."
+    }
+  ]
+}

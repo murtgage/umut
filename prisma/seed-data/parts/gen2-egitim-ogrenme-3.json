@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gestalt Algı Yasaları",
+      "difficulty": 1,
+      "text": "Birbirine yakın duran noktaların ya da nesnelerin zihinde tek bir grup olarak algılanması Gestalt kuramının hangi algı yasasıyla açıklanır?",
+      "options": {
+        "A": "Yakınlık yasası",
+        "B": "Benzerlik yasası",
+        "C": "Kapalılık yasası",
+        "D": "Devamlılık yasası"
+      },
+      "correctOption": "A",
+      "explanation": "Birbirine mekân olarak yakın uyarıcıların birlikte algılanması yakınlık yasasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gestalt Algı Yasaları",
+      "difficulty": 2,
+      "text": "Aynı renk ve biçimdeki uyarıcıların, birbirlerinden uzakta olsalar bile bir grup oluşturacak biçimde algılanması hangi yasayla açıklanır?",
+      "options": {
+        "A": "Yakınlık yasası",
+        "B": "Benzerlik yasası",
+        "C": "Tamamlama yasası",
+        "D": "Süreklilik yasası"
+      },
+      "correctOption": "B",
+      "explanation": "Benzer özellik taşıyan uyarıcıların birlikte algılanması benzerlik yasasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gestalt Algı Yasaları",
+      "difficulty": 2,
+      "text": "Üzerinde kopuk kopuk noktalar bulunan bir şeklin zihinde bütünlenerek eksik parçaları tamamlanmış gibi algılanması hangi yasayla açıklanır?",
+      "options": {
+        "A": "Yakınlık yasası",
+        "B": "Benzerlik yasası",
+        "C": "Tamamlama yasası",
+        "D": "Bitişiklik yasası"
+      },
+      "correctOption": "C",
+      "explanation": "Eksik bırakılan kesimlerin zihinde bütünlenmesi tamamlama (kapalılık) yasasıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Gestalt Görüşün Temel İlkesi",
+      "difficulty": 2,
+      "text": "Gestalt kuramının öğrenmeye ilişkin en temel savı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrenme yalnızca dış uyarıcı ve tepki bağının kurulmasıyla oluşur.",
+        "B": "Öğrenme bireyin doğuştan getirdiği kalıtsal özelliklerle belirlenir.",
+        "C": "Öğrenme pekiştirecin sürekli verilmesine bağlıdır.",
+        "D": "Öğrenmenin özü parçalar arasındaki ilişkilerin bütün olarak kavranmasıdır."
+      },
+      "correctOption": "D",
+      "explanation": "Gestaltçılara göre bütün, parçaların toplamından farklı ve daha fazladır; öğrenme ilişkilerin bütünsel olarak algılanmasıyla gerçekleşir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "İçgörüsel Öğrenme",
+      "difficulty": 1,
+      "text": "Köhler'in maymunlarla yaptığı deneylerde hayvanın çubukları birleştirmeyi deneme yanılma olmaksızın bir anda çözerek muzu alması hangi kavramla açıklanır?",
+      "options": {
+        "A": "İçgörüsel öğrenme",
+        "B": "Gizil öğrenme",
+        "C": "Programlı öğrenme",
+        "D": "Kademeli yaklaşma"
+      },
+      "correctOption": "A",
+      "explanation": "Problemin çözümünün denemeden bağımsız olarak aniden kavranması içgörüsel öğrenmedir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Tolman İşaret Öğrenme",
+      "difficulty": 2,
+      "text": "Tolman'a göre organizma, çevresindeki uyarıcılar ile ulaştığı amaç arasındaki ilişkileri öğrenir. Bu görüşü ifade eden öğrenme yaklaşımı hangisidir?",
+      "options": {
+        "A": "Bağ kuramı",
+        "B": "İşaret öğrenme kuramı",
+        "C": "Edimsel koşullanma kuramı",
+        "D": "Karşıt koşullanma kuramı"
+      },
+      "correctOption": "B",
+      "explanation": "Tolman'ın, bireyin işaretleri amaçla ilişkilendirerek öğrendiğini savunan görüşü işaret öğrenme kuramıdır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Beklenti Kavramı",
+      "difficulty": 3,
+      "text": "Tolman'a göre bir davranışın yapılma olasılığını artıran temel etken aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Uyarıcının organizmada doğuştan tepki oluşturması",
+        "B": "Davranışın kendisinin tekrar sayısı",
+        "C": "Bireyin davranış sonucunda pekiştireç geleceğine ilişkin beklentisi",
+        "D": "Bireyin kalıtımsal yatkınlığı"
+      },
+      "correctOption": "C",
+      "explanation": "Tolman'a göre öğrenilen şey uyarıcı-tepki bağı değil, davranış ile sonuç arasındaki ilişkiye dair bir beklentidir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Bilişsel ve Davranışçı Yaklaşımın Farkı",
+      "difficulty": 2,
+      "text": "Bilişsel kuramları davranışçı kuramlardan ayıran temel özellik aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca gözlenebilir davranışlarla ilgilenmeleri",
+        "B": "Pekiştireci öğrenmenin tek koşulu saymaları",
+        "C": "Hayvanlar üzerinde yapılan deneylere dayanmaları",
+        "D": "Dikkat, algı, bellek gibi içsel süreçleri öğrenmenin merkezine almaları"
+      },
+      "correctOption": "D",
+      "explanation": "Bilişsel yaklaşımlar uyarıcı-tepki arasındaki zihinsel işlemleri, yani içsel süreçleri inceleme konusu yapar."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Duyusal Kayıt",
+      "difficulty": 1,
+      "text": "Duyu organlarına ulaşan uyarıcıların yalnızca çok kısa bir süre tutulduğu bellek birimiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Kapasitesi oldukça geniş, bilgiyi tutma süresi ise çok kısadır.",
+        "B": "Kapasitesi iki ya da üç birimle sınırlıdır.",
+        "C": "Bilgi burada kalıcı olarak depolar.",
+        "D": "Bilgi burada anlamlandırılarak kodlanır."
+      },
+      "correctOption": "A",
+      "explanation": "Duyusal kayıt gelen uyarıcıların tümünü karşılayacak genişlikte olup bilgiyi yarım saniyeyi aşmayan bir süre tutar."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Kısa Süreli Bellek",
+      "difficulty": 2,
+      "text": "Kısa süreli belleğin kapasitesinin, tekrar edilmeyen bilgi için yaklaşık yedi birim olduğunu ortaya koyan araştırmacı kimdir?",
+      "options": {
+        "A": "Pavlov",
+        "B": "George Miller",
+        "C": "Ausubel",
+        "D": "Thorndike"
+      },
+      "correctOption": "B",
+      "explanation": "Miller, kısa süreli belleğin kapasitesini 7±2 birim olarak belirlemiş ve bu sayıyı büyülü sayı olarak adlandırmıştır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Çalışan Bellek",
+      "difficulty": 2,
+      "text": "Bilginin kısa süreli bellekten uzun süreli belleğe aktarılmadan önce üzerinde zihinsel işlemlerin yapıldığı, bilginin etkin biçimde işlendiği bölüm aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Duyusal kayıt",
+        "B": "Ototelik bellek",
+        "C": "Çalışan bellek",
+        "D": "Anlamsal bellek"
+      },
+      "correctOption": "C",
+      "explanation": "Çalışan bellek, kısa süreli belleğin bilgi üzerinde işlem yapan etkin bölümüdür."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Uzun Süreli Bellek",
+      "difficulty": 1,
+      "text": "Öğrenilen bilgilerin kalıcı olarak saklandığı bellek birimiyle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Kapasitesi sınırlı olup hızla dolmaktadır.",
+        "B": "Bilgiyi yalnızca birkaç saniye tutmaktadır.",
+        "C": "Bilgiyi yalnızca görsel olarak kodlamaktadır.",
+        "D": "Kapasitesi ve bilgiyi tutma süresi bakımından pratikte sınırsızdır."
+      },
+      "correctOption": "D",
+      "explanation": "Uzun süreli bellek hem kapasite hem de saklama süresi bakımından sınırsız kabul edilir; sorun kapasitede değil geri getirmededir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Örgütleme",
+      "difficulty": 1,
+      "text": "Bir öğrencinin çok sayıda bilgiyi anlamlı kümeler hâlinde gruplandırarak öğrenmesi hangi bilişsel yolla açıklanır?",
+      "options": {
+        "A": "Örgütleme",
+        "B": "Sönme",
+        "C": "Genelleme",
+        "D": "Geri bildirim"
+      },
+      "correctOption": "A",
+      "explanation": "Bilgilerin benzerlik ve ilişkilerine göre anlamlı kümelere ayrılarak düzenlenmesi örgütlemedir ve bellek yükünü azaltır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Hatırlama ve Tanıma",
+      "difficulty": 2,
+      "text": "Öğrenilen bir bilginin, herhangi bir ipucuna gereksinim duyulmadan zihinden çıkarılarak ortaya getirilmesine ne ad verilir?",
+      "options": {
+        "A": "Kodlama",
+        "B": "Hatırlama",
+        "C": "Algı",
+        "D": "Dikkat"
+      },
+      "correctOption": "B",
+      "explanation": "Bilginin herhangi bir ipucu olmadan geri getirilmesi hatırlama; ipucu yardımıyla bulunması ise tanımadır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "İleriye Ket Vurma",
+      "difficulty": 2,
+      "text": "Bir öğrencinin önce İngilizce öğrenmesinin, ardından Fransızca öğrenirken zorluk yaşamasına neden olması hangi kavramla açıklanır?",
+      "options": {
+        "A": "Kendiliğinden geri gelme",
+        "B": "Geriye ket vurma",
+        "C": "İleriye ket vurma",
+        "D": "Olumsuz pekiştirme"
+      },
+      "correctOption": "C",
+      "explanation": "Önceden öğrenilen bilgilerin yeni öğrenmeleri güçleştirmesi ileriye ket vurma olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Unutma Kuramları",
+      "difficulty": 1,
+      "text": "Kaygı verici yaşantıların bilinçten uzaklaştırılarak hatırlanamamasını savunan unutma kuramı hangisidir?",
+      "options": {
+        "A": "İz kaybolması kuramı",
+        "B": "Karışma kuramı",
+        "C": "Geri getirme ipucunun yetersizliği",
+        "D": "Bastırma kuramı"
+      },
+      "correctOption": "D",
+      "explanation": "Freud'un öne sürdüğü bastırma kuramına göre rahatsız edici yaşantılar bilinç dışına itilerek unutulur."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Unutma Kuramları",
+      "difficulty": 3,
+      "text": "Bir öğrencinin bilgiyi öğrendiği hâlde uygun geri getirme ipucunu bulamadığı için hatırlayamaması hangi unutma açıklamasıyla ilişkilidir?",
+      "options": {
+        "A": "Geri getirme ipucunun yetersizliği",
+        "B": "İzlerin zamanla silinmesi",
+        "C": "İstemsiz öğrenmelerle karışma",
+        "D": "Bilginin hiç kodlanmaması"
+      },
+      "correctOption": "A",
+      "explanation": "Bilgi uzun süreli bellekte bulunduğu hâlde onu çağıracak uygun ipucu bulunamadığında hatırlama gerçekleşmez."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Aşırı Öğrenme",
+      "difficulty": 2,
+      "text": "Bir öğrenci, bir şiiri hatasız söylemeye başladıktan sonra birkaç kez daha tekrar etmiş ve bu şiiri uzun süre unutmamıştır. Bu durum hangi kavramla açıklanır?",
+      "options": {
+        "A": "Ket vurma",
+        "B": "Aşırı öğrenme",
+        "C": "Gizil öğrenme",
+        "D": "Sönme"
+      },
+      "correctOption": "B",
+      "explanation": "Öğrenme gerçekleştikten sonra yapılan ek tekrarlar bilginin kalıcılığını artırır; bu durum aşırı öğrenme olarak adlandırılır."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Olumlu Transfer",
+      "difficulty": 2,
+      "text": "Türkçe dersinde kazandığı metin çözümleme becerisinin, tarih dersindeki kaynak metinleri anlamasını kolaylaştırması hangi kavramla açıklanır?",
+      "options": {
+        "A": "Olumlu transfer",
+        "B": "Olumsuz transfer",
+        "C": "Ket vurma",
+        "D": "Uyarıcı genellemesi"
+      },
+      "correctOption": "A",
+      "explanation": "Önceki öğrenmelerin yeni öğrenmeleri kolaylaştırması olumlu transferdir."
+    },
+    {
+      "categorySlug": "egitim-ogrenme",
+      "topic": "Olumsuz Transfer",
+      "difficulty": 3,
+      "text": "Bir öğrencinin klavyede on parmak yazmayı öğrendikten sonra daktiloda eski alışkanlığıyla yazmaya çalışması nedeniyle hata yapması hangi kavramla açıklanır?",
+      "options": {
+        "A": "Olumlu transfer",
+        "B": "Olumsuz transfer",
+        "C": "Aşırı öğrenme",
+        "D": "Örgütleme"
+      },
+      "correctOption": "B",
+      "explanation": "Önceki öğrenmelerin yeni öğrenmeyi zorlaştırması ya da hatalara yol açması olumsuz transferdir."
+    }
+  ]
+}

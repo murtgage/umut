@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Bloom Bilişsel Alan",
+      "difficulty": 1,
+      "text": "Bloom'un klasik bilişsel alan sınıflamasında basamaklar en alttan en üste doğru aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilgi, kavrama, uygulama, analiz, sentez, değerlendirme",
+        "B": "Kavrama, bilgi, analiz, uygulama, sentez, değerlendirme",
+        "C": "Bilgi, uygulama, kavrama, sentez, analiz, değerlendirme",
+        "D": "Uygulama, bilgi, kavrama, analiz, sentez, değerlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Bloom'un bilişsel alanı bilgi, kavrama, uygulama, analiz, sentez ve değerlendirme basamaklarından oluşur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Bloom Bilişsel Alan",
+      "difficulty": 1,
+      "text": "Bloom'un bilişsel alan sınıflamasında, öğrencinin öğrendiği bilgiyi hatırlayarak söylemesini gerektiren en alt basamak hangisidir?",
+      "options": {
+        "A": "Kavrama",
+        "B": "Bilgi",
+        "C": "Uygulama",
+        "D": "Analiz"
+      },
+      "correctOption": "B",
+      "explanation": "Bilgi basamağı, daha önce öğrenilenlerin hatırlanmasını ve olduğu gibi ifade edilmesini gerektirir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Bloom Bilişsel Alan",
+      "difficulty": 2,
+      "text": "Bir şiirdeki benzetme, mecaz ve söz sanatlarının ayrı ayrı belirlenerek yapının çözümlenmesini gerektiren davranış Bloom'un hangi basamağına aittir?",
+      "options": {
+        "A": "Bilgi",
+        "B": "Kavrama",
+        "C": "Analiz",
+        "D": "Uygulama"
+      },
+      "correctOption": "C",
+      "explanation": "Bütünü oluşturan ögelerin ve aralarındaki ilişkilerin belirlenmesi analiz basamağının özelliğidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Bloom Bilişsel Alan",
+      "difficulty": 2,
+      "text": "Elde ettiği bilgi ve verileri kullanarak özgün bir proje ya da model geliştiren öğrencinin ortaya koyduğu davranış Bloom'un hangi basamağındadır?",
+      "options": {
+        "A": "Bilgi",
+        "B": "Analiz",
+        "C": "Kavrama",
+        "D": "Sentez"
+      },
+      "correctOption": "D",
+      "explanation": "Parçaları yeni ve özgün bir bütün oluşturacak biçimde birleştirmeyi gerektiren davranışlar sentez basamağındadır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Bloom Bilişsel Alan",
+      "difficulty": 1,
+      "text": "Bir yazılı metnin bilimsellik, tutarlılık ve dil yönünden belli ölçütlere göre yargılanmasını gerektiren davranış Bloom'un hangi basamağına aittir?",
+      "options": {
+        "A": "Değerlendirme",
+        "B": "Bilgi",
+        "C": "Uygulama",
+        "D": "Kavrama"
+      },
+      "correctOption": "A",
+      "explanation": "Ölçütlere dayanarak yargıda bulunma ve karar verme değerlendirme basamağının özelliğidir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Güncellenmiş Bloom Taksonomisi",
+      "difficulty": 3,
+      "text": "Güncellenmiş Bloom taksonomisinde bilişsel süreç basamakları aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilgi, kavrama, uygulama, analiz, sentez, değerlendirme",
+        "B": "Hatırlama, anlama, uygulama, analiz, değerlendirme, yaratma",
+        "C": "Anlama, hatırlama, analiz, uygulama, yaratma, değerlendirme",
+        "D": "Hatırlama, uygulama, anlama, değerlendirme, analiz, yaratma"
+      },
+      "correctOption": "B",
+      "explanation": "Güncellenmiş taksonomide basamaklar hatırlama, anlama, uygulama, analiz, değerlendirme ve yaratma biçiminde sıralanır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Duyuşsal Alan",
+      "difficulty": 1,
+      "text": "Krathwohl'ün duyuşsal alan sınıflamasında basamaklar en alttan en üste doğru aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Değer verme, alma, örgütleme, tepkide bulunma, kişilik hâline getirme",
+        "B": "Alma, değer verme, tepkide bulunma, kişilik hâline getirme, örgütleme",
+        "C": "Alma, tepkide bulunma, değer verme, örgütleme, kişilik hâline getirme",
+        "D": "Tepkide bulunma, alma, örgütleme, değer verme, kişilik hâline getirme"
+      },
+      "correctOption": "C",
+      "explanation": "Duyuşsal alan; alma, tepkide bulunma, değer verme, örgütleme ve kişilik hâline getirme basamaklarından oluşur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Duyuşsal Alan",
+      "difficulty": 3,
+      "text": "Bir öğrencinin doğa sevgisini yalnızca ders içinde değil günlük yaşamının ayrılmaz bir parçası hâline getirerek tutarlı davranışlar sergilemesi duyuşsal alanın hangi basamağına ulaştığını gösterir?",
+      "options": {
+        "A": "Alma",
+        "B": "Tepkide bulunma",
+        "C": "Örgütleme",
+        "D": "Kişilik hâline getirme"
+      },
+      "correctOption": "D",
+      "explanation": "Değerin bireyin kişiliğinin bir parçası olarak tutarlı davranışlara dönüşmesi kişilik hâline getirme basamağıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Duyuşsal Alan",
+      "difficulty": 1,
+      "text": "Bir öğrencinin derste sorulan soruya gönüllü olarak yanıt vermesi ve sınıf etkinliklerine istekli katılması duyuşsal alanın hangi basamağıyla ilgilidir?",
+      "options": {
+        "A": "Tepkide bulunma",
+        "B": "Kişilik hâline getirme",
+        "C": "Örgütleme",
+        "D": "Değer verme"
+      },
+      "correctOption": "A",
+      "explanation": "Öğrencinin etkinliğe isteyerek katılıp tepki göstermesi duyuşsal alanın tepkide bulunma basamağıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Psikomotor Alan",
+      "difficulty": 2,
+      "text": "Bir öğrencinin voleybol servisini öğretmeninin rehberliğinde ve yönlendirmesiyle ilk kez uygulamaya çalışması psikomotor alanın hangi basamağına aittir?",
+      "options": {
+        "A": "Otomatikleşme",
+        "B": "Kılavuzla yapma",
+        "C": "Beceri hâline getirme",
+        "D": "Uyarlama"
+      },
+      "correctOption": "B",
+      "explanation": "Hareketin bir rehber ya da yönerge eşliğinde yapıldığı basamak kılavuzla yapma basamağıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedef Yazma İlkeleri",
+      "difficulty": 1,
+      "text": "\"Öğretmen, öğrencilere atasözlerinin anlamını açıklar.\" biçiminde yazılan bir hedefin en önemli kusuru aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Konusu çok zor olması",
+        "B": "İçerikle ilgisiz olması",
+        "C": "Öğrenci merkezli değil, öğretmen merkezli yazılmış olması",
+        "D": "Ölçüt içermesi"
+      },
+      "correctOption": "C",
+      "explanation": "Hedefler öğretmenin değil öğrencinin kazanacağı davranışı ifade etmelidir; bu hedef öğretmeni merkeze aldığı için kusurludur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedef Yazma İlkeleri",
+      "difficulty": 1,
+      "text": "Program geliştirmede yazılan hedeflerin gözlenebilir ve ölçülebilir olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Hedeflerin daha kısa yazılmasını sağlaması",
+        "B": "Öğretmenin işini azaltması",
+        "C": "Ders sayısını artırması",
+        "D": "Hedefe ulaşılıp ulaşılmadığının ölçme ve değerlendirmeyle belirlenebilmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Gözlenebilir ve ölçülebilir davranışlar, hedefe ulaşma düzeyinin nesnel biçimde değerlendirilmesini mümkün kılar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedef Yazma İlkeleri",
+      "difficulty": 2,
+      "text": "\"Öğrenci, sözlük kullanarak anlamını bilmediği kelimelerin anlamını bulacaktır.\" ifadesinde yer alan \"sözlük kullanarak\" sözü hedefin hangi ögesidir?",
+      "options": {
+        "A": "Koşul",
+        "B": "Davranış",
+        "C": "Ölçüt",
+        "D": "Düzey"
+      },
+      "correctOption": "A",
+      "explanation": "Davranışın hangi araç, ortam ya da sınırlılıklar içinde gösterileceğini belirten öge koşuldur."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Mager'in Hedef Yazma Yaklaşımı",
+      "difficulty": 1,
+      "text": "Mager'e göre iyi yazılmış bir hedefte bulunması gereken ögeler aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Konu, ders ve süre",
+        "B": "Performans, koşul ve ölçüt",
+        "C": "Araç, yöntem ve teknik",
+        "D": "Sınıf düzeyi, cinsiyet ve yaş"
+      },
+      "correctOption": "B",
+      "explanation": "Mager, hedeflerin performans (davranış), koşul ve ölçüt olmak üzere üç ögeden oluşması gerektiğini belirtir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedef Yazma İlkeleri",
+      "difficulty": 2,
+      "text": "Bir hedef, \"Öğrenci, felsefenin tanımını yapar, önemli filozofları sınıflandırır, felsefi akımları sentezler.\" biçiminde yazılmıştır. Bu hedefin en önemli kusuru aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ölçüt içermesi",
+        "B": "Konuyla ilgisiz olması",
+        "C": "Birden çok davranışı tek hedefte birleştirmesi",
+        "D": "Yalnızca duyuşsal alana yönelik olması"
+      },
+      "correctOption": "C",
+      "explanation": "Hedeflerde her hedefin tek ve gözlenebilir bir davranışı ifade etmesi gerekir; çok sayıda davranışın bir arada verilmesi hedef yazma kuralına aykırıdır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Aşamalı Sınıflama",
+      "difficulty": 3,
+      "text": "Program geliştirmede hedeflerin aşamalı sınıflamasının (taksonomi) temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğretmenlerin ders saatlerini azaltmak",
+        "B": "Ders kitaplarını yenilemek",
+        "C": "Sınıf mevcutlarını düzenlemek",
+        "D": "Öğrenme ürünlerini basitten karmaşığa, kolaydan zora sıralayarak öğretimi planlamaya kolaylık sağlamak"
+      },
+      "correctOption": "D",
+      "explanation": "Aşamalı sınıflama, davranışların basitten karmaşığa sıralanmasını sağlayarak öğretim, ölçme ve değerlendirmeyi sistemli kılar."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Kazanım ve Hedef İlişkisi",
+      "difficulty": 2,
+      "text": "Öğretim programlarında kullanılan \"kazanım\" kavramı ile hedef arasındaki ilişki için aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Kazanım, öğrencinin öğrenme süreci sonunda ulaşacağı bilgi, beceri ve tutumu ifade eder.",
+        "B": "Kazanım yalnızca öğretmenin yapacağı etkinlikleri belirtir.",
+        "C": "Kazanım ölçme ve değerlendirmenin dışında tutulur.",
+        "D": "Kazanımlar hiçbir zaman davranışsal olarak ifade edilmez."
+      },
+      "correctOption": "A",
+      "explanation": "Kazanım, öğrencinin öğrenme sonunda kazanması beklenen bilgi, beceri ve tutumları dürüst ve gözlenebilir biçimde ifade eder."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Hedefler Arası Ön Koşul İlişkisi",
+      "difficulty": 2,
+      "text": "Bir programda hedefler yazılırken basitten karmaşığa doğru bir sıra izlenmesinin nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bazı hedeflerin öğrenilebilmesi için önceki kazanımların ön koşul olması",
+        "B": "Öğretmenin konuları sevmesi",
+        "C": "Sınavların kolay hazırlanması",
+        "D": "Ders saatlerinin azalması"
+      },
+      "correctOption": "A",
+      "explanation": "Üst düzey kazanımlar alt düzey kazanımlara dayanır; bu nedenle hedefler ön koşul ilişkisi gözetilerek sıralanır."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Duyuşsal Hedeflerin Ölçülmesi",
+      "difficulty": 3,
+      "text": "Duyuşsal alana ilişkin hedeflerin ölçülmesinde karşılaşılan en önemli güçlük aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bu hedeflerin programda yer almaması",
+        "B": "Duyuşsal davranışların hiç gözlenememesi",
+        "C": "İlgilerin, tutumların ve değerlerin dolaysız ve kesin biçimde ölçülmesinin güç olması",
+        "D": "Duyuşsal hedeflerin yalnızca sınavla ölçülebilmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Tutum, ilgi ve değerler içsel özellikler olduğundan doğrudan ve kesin biçimde ölçülmeleri güçtür; çoğunlukla gözlem ve ölçeklerle dolaylı olarak değerlendirilir."
+    },
+    {
+      "categorySlug": "egitim-program",
+      "topic": "Psikomotor Hedefler",
+      "difficulty": 3,
+      "text": "Psikomotor alana ilişkin hedeflerin diğer alanlardan ayrılan en belirgin özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yalnızca bilişsel bilgi içermeleri",
+        "B": "Zihinsel süreçlere hiç yer vermemeleri",
+        "C": "Sınavlarda hiç ölçülememeleri",
+        "D": "Kas ve sinir koordinasyonuna dayalı gözlenebilir hareket becerilerini içermeleri"
+      },
+      "correctOption": "D",
+      "explanation": "Psikomotor hedefler, kas ve sinir sistemi koordinasyonuyla gerçekleşen gözlenebilir hareket becerilerine yöneliktir."
+    }
+  ]
+}

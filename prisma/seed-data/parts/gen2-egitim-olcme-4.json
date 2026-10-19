@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçüt Türleri ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Değerlendirmede öğrencinin başarısının diğer öğrencilerle karşılaştırılarak yargıya varılması hangi ölçüt türüdür?",
+      "options": {
+        "A": "Mutlak ölçüt",
+        "B": "Bağıl ölçüt",
+        "C": "Ölçüt bağıntılı geçerlik",
+        "D": "Yapı ölçütü"
+      },
+      "correctOption": "B",
+      "explanation": "Bağıl (norm) ölçüt, bireyin başarısını grup içindeki konumuna göre yargılar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçüt Türleri ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Öğrencinin başarısının, önceden belirlenen bir ölçüte ulaşıp ulaşmadığına göre yargılanması hangi ölçüt türüdür?",
+      "options": {
+        "A": "Bağıl ölçüt",
+        "B": "Norm ölçütü",
+        "C": "Persantil ölçütü",
+        "D": "Mutlak ölçüt"
+      },
+      "correctOption": "D",
+      "explanation": "Mutlak ölçüt, gruba değil önceden belirlenen ölçüte göre yargılamayı gerektirir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Üzerinde ölçme yapılan ve bireyden bireye farklı değerler alabilen özellik hangisidir?",
+      "options": {
+        "A": "Ölçüt",
+        "B": "Ölçüm",
+        "C": "Sabit",
+        "D": "Değişken"
+      },
+      "correctOption": "D",
+      "explanation": "Değişken, bireyden bireye farklı değerler alabilen özelliktir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 2,
+      "text": "Aşağıdakilerden hangisi sürekli bir değişkendir?",
+      "options": {
+        "A": "Cinsiyet",
+        "B": "Medeni durum",
+        "C": "Boy uzunluğu",
+        "D": "Kan grubu"
+      },
+      "correctOption": "C",
+      "explanation": "Sürekli değişken ölçümle her ara değeri alabilir; boy uzunluğu bu türdendir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçme ve Değerlendirmede Temel Kavramlar",
+      "difficulty": 1,
+      "text": "Aşağıdakilerden hangisi süreksiz bir değişkendir?",
+      "options": {
+        "A": "Ağırlık",
+        "B": "Sıcaklık",
+        "C": "Cinsiyet",
+        "D": "Zaman"
+      },
+      "correctOption": "C",
+      "explanation": "Süreksiz değişken sınırlı ve kesikli değerler alır; cinsiyet böyledir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik ve Güvenirlik İlişkisi",
+      "difficulty": 2,
+      "text": "Bir ölçme aracının güvenirliği düşükse bu durum geçerliği nasıl etkiler?",
+      "options": {
+        "A": "Geçerliği de düşürür",
+        "B": "Geçerliği artırır",
+        "C": "Geçerliği etkilemez",
+        "D": "Geçerliği garanti eder"
+      },
+      "correctOption": "A",
+      "explanation": "Güvenirlik geçerliğin ön koşuludur; güvenirliği düşük aracın geçerliği de düşük olur."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik ve Güvenirlik İlişkisi",
+      "difficulty": 2,
+      "text": "Geçerliği yüksek bir ölçme aracının güvenirliği için hangisi söylenebilir?",
+      "options": {
+        "A": "Mutlaka düşüktür",
+        "B": "Sıfırdır",
+        "C": "Bilinemez",
+        "D": "Yüksek olması beklenir"
+      },
+      "correctOption": "D",
+      "explanation": "Geçerli bir aracın güvenilir olması gerekir; ancak yüksek güvenirlik tek başına geçerliği kanıtlamaz."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 1,
+      "text": "Bir ölçme aracının güvenirlik katsayısı hangi değer aralığında yer alır?",
+      "options": {
+        "A": "-1 ile +1 arasında",
+        "B": "0 ile +1 arasında",
+        "C": "0 ile 100 arasında",
+        "D": "-10 ile +10 arasında"
+      },
+      "correctOption": "B",
+      "explanation": "Güvenirlik katsayısı 0 ile +1 arasında değişir; 1'e yaklaşması güvenirliğin yüksekliğini gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 3,
+      "text": "Aynı ölçme aracının iki yarısı arasındaki tutarlılığı inceleyen güvenirlik yöntemi hangisidir?",
+      "options": {
+        "A": "Test-tekrar test",
+        "B": "Eşdeğer form",
+        "C": "Test yarılama (split-half)",
+        "D": "Gözlemciler arası güvenirlik"
+      },
+      "correctOption": "C",
+      "explanation": "Test yarılama, testin iki eş yarıya bölünüp aralarındaki tutarlılığa bakılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 1,
+      "text": "Birden fazla puanlayıcının aynı ürünü benzer biçimde puanlaması hangi güvenirlik türüdür?",
+      "options": {
+        "A": "Puanlayıcılar arası güvenirlik",
+        "B": "İç tutarlılık",
+        "C": "Test-tekrar test",
+        "D": "Eşdeğer form"
+      },
+      "correctOption": "A",
+      "explanation": "Puanlayıcılar arası güvenirlik, öznel puanlamalarda tutarlılığı ifade eder."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 1,
+      "text": "Testte yer alan maddelerin aynı özelliği ölçüp ölçmediğini gösteren güvenirlik türü hangisidir?",
+      "options": {
+        "A": "Kararlılık",
+        "B": "Eşdeğerlik",
+        "C": "Objektiflik",
+        "D": "İç tutarlılık"
+      },
+      "correctOption": "D",
+      "explanation": "İç tutarlılık, maddelerin aynı yapıyı ölçme derecesini gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Güvenirlik",
+      "difficulty": 2,
+      "text": "Bir testin güvenirliğini artırmak için aşağıdakilerden hangisi en uygun yoldur?",
+      "options": {
+        "A": "Soru sayısını artırmak ve maddelerin homojen olmasını sağlamak",
+        "B": "Süreyi kısaltmak",
+        "C": "Soruları çok farklı konulardan seçmek",
+        "D": "Puanlamayı öznel yapmak"
+      },
+      "correctOption": "A",
+      "explanation": "Uzun ve homojen testler ile objektif puanlama güvenirliği artırır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 1,
+      "text": "Madde güçlük indeksinin ideal olarak hangi değere yakın olması istenir?",
+      "options": {
+        "A": "0,00",
+        "B": "0,50",
+        "C": "1,00",
+        "D": "0,90"
+      },
+      "correctOption": "B",
+      "explanation": "0,50 güçlükteki maddeler en iyi ayırt ediciliği gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Bir maddenin ayırt edicilik gücünü hesaplamak için üst ve alt gruplar genellikle hangi oranla seçilir?",
+      "options": {
+        "A": "%10",
+        "B": "%27",
+        "C": "%50",
+        "D": "%75"
+      },
+      "correctOption": "B",
+      "explanation": "Üst ve alt grup genellikle grubun %27'sinden oluşturulur."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 2,
+      "text": "Testin toplam puanına göre en yüksek puan alan üst grup ile en düşük puan alan alt grubun maddeye verdikleri tepkiler karşılaştırılarak hangi istatistik elde edilir?",
+      "options": {
+        "A": "Madde güçlüğü",
+        "B": "Madde varyansı",
+        "C": "Madde ayırt edicilik gücü",
+        "D": "Standart sapma"
+      },
+      "correctOption": "C",
+      "explanation": "Ayırt edicilik gücü, üst ve alt grupların doğru yanıt oranları farkıyla bulunur."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 1,
+      "text": "Bir testteki maddelerin güçlük indeksleri 0'a yaklaştıkça testin güçlüğü nasıl değişir?",
+      "options": {
+        "A": "Test kolaylaşır",
+        "B": "Test değişmez",
+        "C": "Test belirsizleşir",
+        "D": "Test zorlaşır"
+      },
+      "correctOption": "D",
+      "explanation": "Güçlük indeksi düşük maddeler zor maddelerdir; testin bütünü de zorlaşır."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 2,
+      "text": "Ortalama, ortanca ve modun birbirine eşit olduğu dağılım hangisidir?",
+      "options": {
+        "A": "Sağa çarpık",
+        "B": "Simetrik (normal) dağılım",
+        "C": "Sola çarpık",
+        "D": "J eğrisi"
+      },
+      "correctOption": "B",
+      "explanation": "Simetrik dağılımda merkezî eğilim ölçüleri birbirine eşittir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 2,
+      "text": "Dağılım normal (simetrik) olduğunda ortalamanın altında ve üstünde kalan alan için hangisi doğrudur?",
+      "options": {
+        "A": "Üstte daha çok alan vardır",
+        "B": "Altta daha çok alan vardır",
+        "C": "Her iki yanda eşit alan vardır",
+        "D": "Alan hesaplanamaz"
+      },
+      "correctOption": "C",
+      "explanation": "Normal dağılımda ortalamanın iki yanındaki alan eşittir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 3,
+      "text": "Puanların ortalamadan ortalama olarak ne kadar saptığını gösteren ve tüm puanları dikkate alan ölçü hangisidir?",
+      "options": {
+        "A": "Standart sapma",
+        "B": "Ranj",
+        "C": "Ortanca",
+        "D": "Mod"
+      },
+      "correctOption": "A",
+      "explanation": "Standart sapma, tüm puanların ortalamadan ortalama uzaklığını gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 1,
+      "text": "İki değişken arasındaki birlikte değişimin yönünü ve gücünü gösteren istatistik hangisidir?",
+      "options": {
+        "A": "Korelasyon katsayısı",
+        "B": "Aritmetik ortalama",
+        "C": "Standart sapma",
+        "D": "Ranj"
+      },
+      "correctOption": "A",
+      "explanation": "Korelasyon katsayısı, iki değişken arasındaki ilişkinin yönünü ve gücünü gösterir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Test İstatistikleri",
+      "difficulty": 2,
+      "text": "İki değişken arasındaki korelasyon katsayısının +1 olması neyi gösterir?",
+      "options": {
+        "A": "İlişki yoktur",
+        "B": "Mükemmel negatif ilişki vardır",
+        "C": "Değişkenler bağımsızdır",
+        "D": "Mükemmel pozitif ilişki vardır"
+      },
+      "correctOption": "D",
+      "explanation": "+1 korelasyon, iki değişken arasında mükemmel doğrusal pozitif ilişki olduğunu belirtir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Ölçüt Türleri ve Değerlendirme",
+      "difficulty": 2,
+      "text": "Bireyin puanlarını yorumlarken grup ortalamasını ve dağılımını temel alan yaklaşım hangisidir?",
+      "options": {
+        "A": "Mutlak ölçüt",
+        "B": "Ölçüt referanslı değerlendirme",
+        "C": "Performans değerlendirme",
+        "D": "Norm referanslı değerlendirme"
+      },
+      "correctOption": "D",
+      "explanation": "Norm referanslı değerlendirme, bireyi grup içindeki konumuna göre yorumlar."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Değerlendirme Türleri",
+      "difficulty": 2,
+      "text": "Öğrencinin öğrenme eksiklerini belirleyip uygun öğretim düzenlemesine gitmek amacıyla yapılan değerlendirme hangisidir?",
+      "options": {
+        "A": "Tanılayıcı (diagnostik) değerlendirme",
+        "B": "Düzey belirleyici değerlendirme",
+        "C": "İzleme",
+        "D": "Akran değerlendirme"
+      },
+      "correctOption": "A",
+      "explanation": "Tanılayıcı değerlendirme, öğrenme güçlüklerinin kaynağını belirlemeye yöneliktir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Madde Analizi",
+      "difficulty": 3,
+      "text": "Bir testte yüksek puan alan öğrencilerin maddeyi doğru, düşük puan alanların yanlış yanıtlama eğilimi maddenin hangi özelliğini gösterir?",
+      "options": {
+        "A": "Güçlüğünü",
+        "B": "Geçerliğini",
+        "C": "Ayırt ediciliğini",
+        "D": "Varyansını"
+      },
+      "correctOption": "C",
+      "explanation": "Maddenin başarılı ve başarısız öğrencileri ayırt etme gücü ayırt ediciliktir."
+    },
+    {
+      "categorySlug": "egitim-olcme",
+      "topic": "Geçerlik",
+      "difficulty": 2,
+      "text": "Bir testin kapsam geçerliğini sağlamak için konuları ve kazanımları sorularla ilişkilendiren çizelge hangisidir?",
+      "options": {
+        "A": "Kavram haritası",
+        "B": "Puanlama anahtarı",
+        "C": "Kontrol listesi",
+        "D": "Belirtke tablosu (test planı)"
+      },
+      "correctOption": "D",
+      "explanation": "Belirtke tablosu, kazanım-konu dağılımına göre soru planlamayı sağlar."
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Psikolojik danışmada bilinçdışı çatışmalar, çocukluk yaşantıları ve savunma mekanizmalarını merkeze alan kuram hangisidir?",
+      "options": {
+        "A": "Hümanistik kuram",
+        "B": "Davranışçı kuram",
+        "C": "Psikanalitik kuram",
+        "D": "Bilişsel kuram"
+      },
+      "correctOption": "C",
+      "explanation": "Freud'un psikanalitik kuramı bilinçdışı ve çocukluk yaşantılarına odaklanır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 1,
+      "text": "İnsan davranışının temelinde id, ego ve süperego yapılarını tanımlayan kuramcı kimdir?",
+      "options": {
+        "A": "Carl Rogers",
+        "B": "Sigmund Freud",
+        "C": "Albert Ellis",
+        "D": "Fritz Perls"
+      },
+      "correctOption": "B",
+      "explanation": "İd, ego ve süperego kavramları Freud'a aittir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Bireyin doğuştan gelen aşağılık duygusunu telafi etmeye ve üstünlük çabasına yöneldiğini savunan kuramcı kimdir?",
+      "options": {
+        "A": "Sigmund Freud",
+        "B": "Alfred Adler",
+        "C": "B. F. Skinner",
+        "D": "William Glasser"
+      },
+      "correctOption": "B",
+      "explanation": "Adler, aşağılık duygusu ve üstünlük çabası kavramlarını geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Kolektif bilinçdışı, arketipler ve bireyleşme kavramları hangi kuramcıyla ilişkilidir?",
+      "options": {
+        "A": "Aaron Beck",
+        "B": "Alfred Adler",
+        "C": "Carl Rogers",
+        "D": "Carl Jung"
+      },
+      "correctOption": "D",
+      "explanation": "Kolektif bilinçdışı ve arketipler Jung'un analitik psikolojisine aittir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Davranışçı kuramın öncülerinden olan ve edimsel koşullanma ile pekiştirme kavramlarını geliştiren psikolog kimdir?",
+      "options": {
+        "A": "Carl Rogers",
+        "B": "B. F. Skinner",
+        "C": "Abraham Maslow",
+        "D": "Eric Berne"
+      },
+      "correctOption": "B",
+      "explanation": "Skinner, edimsel koşullanma ve pekiştirme kavramlarını geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 1,
+      "text": "Klasik koşullanma (koşullu refleks) üzerine yaptığı çalışmalarla bilinen kuramcı kimdir?",
+      "options": {
+        "A": "Albert Bandura",
+        "B": "B. F. Skinner",
+        "C": "Ivan Pavlov",
+        "D": "Sigmund Freud"
+      },
+      "correctOption": "C",
+      "explanation": "Klasik koşullanma, Pavlov'un deneyleriyle açıklanmıştır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 3,
+      "text": "Gözlem yoluyla öğrenme ve model alma kavramlarını ortaya koyan sosyal öğrenme kuramını geliştiren psikolog kimdir?",
+      "options": {
+        "A": "Ivan Pavlov",
+        "B": "Joseph Wolpe",
+        "C": "B. F. Skinner",
+        "D": "Albert Bandura"
+      },
+      "correctOption": "D",
+      "explanation": "Bandura, sosyal öğrenme ve gözlem yoluyla öğrenme kavramlarını geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 1,
+      "text": "Akılcı duygusal davranışçı terapiyi (REBT) geliştirerek irrasyonel inançlara odaklanan kuramcı kimdir?",
+      "options": {
+        "A": "Aaron Beck",
+        "B": "Albert Ellis",
+        "C": "Carl Rogers",
+        "D": "Viktor Frankl"
+      },
+      "correctOption": "B",
+      "explanation": "Ellis, irrasyonel inançları ABC modeliyle ele alan REBT'yi geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Bilişsel terapinin kurucusu olan ve otomatik düşünceler ile bilişsel çarpıtmalara odaklanan kuramcı kimdir?",
+      "options": {
+        "A": "Albert Ellis",
+        "B": "Aaron Beck",
+        "C": "Carl Jung",
+        "D": "Fritz Perls"
+      },
+      "correctOption": "B",
+      "explanation": "Beck, otomatik düşünceler ve bilişsel çarpıtmalar üzerine bilişsel terapiyi geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Danışanı merkeze alan, koşulsuz kabul ve empati kavramlarını vurgulayan hümanistik yaklaşımın geliştiricisi kimdir?",
+      "options": {
+        "A": "Abraham Maslow",
+        "B": "Carl Rogers",
+        "C": "Fritz Perls",
+        "D": "B. F. Skinner"
+      },
+      "correctOption": "B",
+      "explanation": "Rogers, danışan merkezli yaklaşım ve koşulsuz kabul kavramlarıyla tanınır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "İhtiyaçlar hiyerarşisini geliştirerek kendini gerçekleştirmeyi en üst basamak olarak tanımlayan psikolog kimdir?",
+      "options": {
+        "A": "Viktor Frankl",
+        "B": "Carl Rogers",
+        "C": "Abraham Maslow",
+        "D": "Eric Berne"
+      },
+      "correctOption": "C",
+      "explanation": "Maslow'un ihtiyaçlar hiyerarşisinde kendini gerçekleştirme en üst basamaktadır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Yaşamın anlamını ve varoluşsal sorumluluğu vurgulayan logoterapinin kurucusu kimdir?",
+      "options": {
+        "A": "Wilhelm Reich",
+        "B": "Viktor Frankl",
+        "C": "Rollo May",
+        "D": "Abraham Maslow"
+      },
+      "correctOption": "B",
+      "explanation": "Frankl, logoterapi yaklaşımıyla yaşamın anlamını merkeze alır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 3,
+      "text": "Burada ve şimdi ilkesiyle bireyin farkındalığını artırmayı ve bölünmüş parçalarını bütünleştirmeyi amaçlayan kuram hangisidir?",
+      "options": {
+        "A": "Gerçeklik terapisi",
+        "B": "Psikanaliz",
+        "C": "Davranışçı terapi",
+        "D": "Gestalt terapi"
+      },
+      "correctOption": "D",
+      "explanation": "Gestalt terapi, farkındalık ve bütünleşme üzerine kuruludur."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 1,
+      "text": "Gestalt terapiyi geliştiren ve boş sandalye tekniğiyle tanınan kuramcı kimdir?",
+      "options": {
+        "A": "Eric Berne",
+        "B": "Fritz Perls",
+        "C": "Carl Rogers",
+        "D": "William Glasser"
+      },
+      "correctOption": "B",
+      "explanation": "Perls, Gestalt terapiyi geliştirmiş ve boş sandalye tekniğini kullanmıştır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 3,
+      "text": "Bireyin kendisine ve başkalarına karşı sorumluluk almasını, gerçeklik ve doğru-yanlış değerlendirmesi yapmasını esas alan gerçeklik terapisi hangi kuramcıya aittir?",
+      "options": {
+        "A": "Viktor Frankl",
+        "B": "Eric Berne",
+        "C": "William Glasser",
+        "D": "Albert Ellis"
+      },
+      "correctOption": "C",
+      "explanation": "Glasser, gerçeklik terapisi ve seçim kuramının geliştiricisidir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 3,
+      "text": "İnsan davranışını ebeveyn, yetişkin ve çocuk ego durumlarıyla açıklayan işlem (transaksiyonel) analizi kim geliştirmiştir?",
+      "options": {
+        "A": "Carl Jung",
+        "B": "William Glasser",
+        "C": "Fritz Perls",
+        "D": "Eric Berne"
+      },
+      "correctOption": "D",
+      "explanation": "Berne, işlem analizini ve ego durumları modelini geliştirmiştir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Teknikleri",
+      "difficulty": 2,
+      "text": "Davranışçı yaklaşımda bireyin korku duyduğu uyarana kademeli olarak yakınlaştırılmasına dayanan teknik hangisidir?",
+      "options": {
+        "A": "Serbest çağrışım",
+        "B": "Sistematik duyarsızlaştırma",
+        "C": "Boş sandalye",
+        "D": "Rüya analizi"
+      },
+      "correctOption": "B",
+      "explanation": "Sistematik duyarsızlaştırma, kademeli yakınlaştırmayla kaygıyı azaltır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Teknikleri",
+      "difficulty": 2,
+      "text": "Psikanalitik yaklaşımda danışanın aklına gelen her şeyi sansürsüz anlatmasına dayanan teknik hangisidir?",
+      "options": {
+        "A": "Pekiştirme",
+        "B": "Sistematik duyarsızlaştırma",
+        "C": "Serbest çağrışım",
+        "D": "Model alma"
+      },
+      "correctOption": "C",
+      "explanation": "Serbest çağrışım, bilinçdışı içeriğe ulaşmak için kullanılan psikanalitik tekniktir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Teknikleri",
+      "difficulty": 1,
+      "text": "Bireyin kaygı yaratan düşüncelerinin kanıtlarla sorgulanmasına dayanan bilişsel teknik hangisidir?",
+      "options": {
+        "A": "Şekillendirme",
+        "B": "Sistematik duyarsızlaştırma",
+        "C": "İtici koşullama",
+        "D": "Sokratik sorgulama"
+      },
+      "correctOption": "D",
+      "explanation": "Bilişsel terapi, düşüncelerin kanıtlarla sorgulanmasını (Sokratik sorgulama) kullanır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Süreci ve Becerileri",
+      "difficulty": 3,
+      "text": "Hümanistik yaklaşımda danışanın duygularının danışman tarafından doğru anlaşılıp ona iletilmesini ifade eden kavram hangisidir?",
+      "options": {
+        "A": "Koşullu kabul",
+        "B": "Empatik anlayış",
+        "C": "Yönlendirme",
+        "D": "Yorumlama"
+      },
+      "correctOption": "B",
+      "explanation": "Empatik anlayış, danışanın duygularının doğru biçimde anlaşılıp yansıtılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Teknikleri",
+      "difficulty": 2,
+      "text": "Davranışçı yaklaşımda uygun davranışın ardından olumlu uyarıcı verilerek davranışın artırılması hangi tekniktir?",
+      "options": {
+        "A": "Sönme",
+        "B": "Ceza",
+        "C": "Olumlu pekiştirme",
+        "D": "Gölgeleme"
+      },
+      "correctOption": "C",
+      "explanation": "Olumlu pekiştirme, davranışın ardından ödül verilerek davranışı güçlendirir."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Ellis'in ABC modelinde B harfi hangi kavramı ifade eder?",
+      "options": {
+        "A": "Olay",
+        "B": "Duygu",
+        "C": "Davranış",
+        "D": "İnançlar (düşünceler)"
+      },
+      "correctOption": "D",
+      "explanation": "ABC modelinde A olay, B inanç/düşünce, C ise duygusal sonuçtur."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 2,
+      "text": "Psikolojik danışma kuramları arasında bilinçdışı süreçlere ve geçmiş yaşantılara en çok vurgu yapan yaklaşım hangisidir?",
+      "options": {
+        "A": "Hümanistik yaklaşım",
+        "B": "Psikanalitik yaklaşım",
+        "C": "Bilişsel yaklaşım",
+        "D": "Gestalt yaklaşımı"
+      },
+      "correctOption": "B",
+      "explanation": "Psikanaliz, bilinçdışı süreçlere ve geçmiş yaşantılara odaklanır."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 3,
+      "text": "Bireyin şimdiki davranışlarına ve sorumluluk almasına vurgu yapan, geçmişten çok bugünü önemseyen yaklaşımlar hangileridir?",
+      "options": {
+        "A": "Yalnızca psikanaliz",
+        "B": "Klasik psikanaliz",
+        "C": "Gerçeklik ve Gestalt terapileri",
+        "D": "Sadece davranışçı yaklaşım"
+      },
+      "correctOption": "C",
+      "explanation": "Gerçeklik ve Gestalt terapileri şimdi ve buraya ile sorumluluğa vurgu yapar."
+    },
+    {
+      "categorySlug": "egitim-rehberlik",
+      "topic": "Psikolojik Danışma Kuramları",
+      "difficulty": 1,
+      "text": "Etkili psikolojik danışmada kuram seçimiyle ilgili en uygun yaklaşım hangisidir?",
+      "options": {
+        "A": "Kuramı hiç kullanmamak",
+        "B": "Yalnızca tek kurama bağlı kalmak",
+        "C": "Kuramı rastgele seçmek",
+        "D": "Danışanın ihtiyaç ve özelliklerine uygun bütüncül ve esnek yaklaşım"
+      },
+      "correctOption": "D",
+      "explanation": "Etkili danışma, danışanın gereksinimlerine uygun esnek ve bütüncül kuram kullanımını gerektirir."
+    }
+  ]
+}

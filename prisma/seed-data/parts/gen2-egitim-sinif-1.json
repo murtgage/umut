@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Kavramları",
+      "difficulty": 1,
+      "text": "Sınıf yönetimi kavramıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": { "A": "Sınıf yönetimi, öğrenmeyi kolaylaştıracak düzenlemelerle birlikte öğretim sürecini de kapsar.", "B": "Sınıf yönetimi yalnızca ders dışı zamanlarla ilgilidir.", "C": "Sınıf yönetimi yalnızca sınav dönemlerinde önem kazanır.", "D": "Sınıf yönetimi öğrencilerin cezalandırılmasıyla sınırlıdır." },
+      "correctOption": "A",
+      "explanation": "Sınıf yönetimi, öğrenmeyi kolaylaştıran düzenlemeleri ve öğretim sürecini kapsar; yalnızca cezalandırma ile sınırlı değildir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Kavramları",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminin ne olduğunu anlamak için aşağıdaki ifadelerden hangisi en doğrusudur?",
+      "options": { "A": "Sınıf yönetimi, disiplin sağlamakla sınırlı bir kavramdır.", "B": "Sınıf yönetimi, öğrencilerin notlarıyla ilgilidir.", "C": "Sınıf yönetimi yalnızca öğretmenin kişisel özelliklerine bağlıdır.", "D": "Sınıf yönetimi, öğretim sürecini destekleyen tüm düzenleme ve etkinlikleri kapsar." },
+      "correctOption": "D",
+      "explanation": "Sınıf yönetimi, öğretim sürecini destekleyen tüm düzenleme ve etkinlikleri kapsayan geniş bir kavramdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetiminin Amacı",
+      "difficulty": 2,
+      "text": "Etkili bir sınıf yönetiminin temel amacı aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencileri cezalandırmak", "B": "Öğretmenin otoritesini korumak", "C": "Öğrenmeyi destekleyen, güvenli ve düzenli bir öğrenme ortamı oluşturmak", "D": "Sınav başarısını artırmak" },
+      "correctOption": "C",
+      "explanation": "Sınıf yönetiminin temel amacı, öğrenmeyi destekleyen, güvenli ve düzenli bir öğrenme ortamı oluşturmaktır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi ve Disiplin",
+      "difficulty": 2,
+      "text": "Sınıf yönetimi ile sınıf disiplini arasındaki temel fark hangisidir?",
+      "options": { "A": "İki kavram arasında hiçbir fark yoktur.", "B": "Sınıf disiplini sınıf yönetiminden daha kapsamlıdır.", "C": "Sınıf disiplini yalnızca kurallarla, sınıf yönetimi yalnızca öğretimle ilgilidir.", "D": "Sınıf disiplini sınıf yönetiminin bir boyutudur; sınıf yönetimi daha kapsamlıdır." },
+      "correctOption": "D",
+      "explanation": "Sınıf disiplini sınıf yönetiminin bir boyutudur; sınıf yönetimi disiplinin yanı sıra öğretim, fiziksel düzen ve ilişkileri de kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Yaklaşımları",
+      "difficulty": 1,
+      "text": "İstenmeyen davranış ortaya çıkmadan önce gerekli önlemleri almayı esas alan sınıf yönetimi yaklaşımı hangisidir?",
+      "options": { "A": "Önleyici yaklaşım", "B": "Reaktif yaklaşım", "C": "Etkileşimci yaklaşım", "D": "Ceza odaklı yaklaşım" },
+      "correctOption": "A",
+      "explanation": "Önleyici yaklaşımda öğretmen, istenmeyen davranışın ortaya çıkmasını engellemek için tedbirler alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Yaklaşımları",
+      "difficulty": 2,
+      "text": "İstenmeyen davranış ortaya çıktıktan sonra müdahaleyi esas alan sınıf yönetimi yaklaşımı aşağıdakilerden hangisidir?",
+      "options": { "A": "Önleyici yaklaşım", "B": "Reaktif (davranış sonrası) yaklaşım", "C": "Etkileşimci yaklaşım", "D": "Demokratik yaklaşım" },
+      "correctOption": "B",
+      "explanation": "Reaktif yaklaşımda öğretmen, istenmeyen davranış ortaya çıktıktan sonra müdahale eder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetimi Yaklaşımları",
+      "difficulty": 3,
+      "text": "Öğrencilerin gelişim düzeylerini ve ihtiyaçlarını dikkate alarak yönetimi planlayan yaklaşım hangisidir?",
+      "options": { "A": "Otoriter yaklaşım", "B": "Önleyici yaklaşım", "C": "Etkileşimci (ihtiyaç odaklı) yaklaşım", "D": "Laissez-faire yaklaşım" },
+      "correctOption": "C",
+      "explanation": "Etkileşimci yaklaşımda yönetim, öğrencilerin gelişim düzeyleri ve ihtiyaçları dikkate alınarak planlanır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Fiziksel Düzen",
+      "difficulty": 1,
+      "text": "Sınıfın fiziksel düzenlenmesinde aşağıdakilerden hangisine dikkat edilmesi en az önemlidir?",
+      "options": { "A": "Öğrencilerin öğretmeni ve tahtayı rahatça görebilmesi", "B": "Sınıfın havalandırma ve ışık koşullarının uygunluğu", "C": "Öğretmenin tüm öğrencileri görebileceği bir konumda olması", "D": "Sıraların öğretmenin beğendiği renkte olması" },
+      "correctOption": "D",
+      "explanation": "Fiziksel düzenlemede görüş açısı, ışık, havalandırma ve öğretmenin sınıfı izleyebilmesi işlevsel ölçütlerdir; sıra rengi öğretimin niteliğini doğrudan etkilemez."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetiminin Boyutları",
+      "difficulty": 2,
+      "text": "Öğretmenin dersleri kazanımlara uygun biçimde planlaması, sunması ve öğretim zamanını etkili kullanması sınıf yönetiminin hangi boyutuyla ilgilidir?",
+      "options": { "A": "Öğretimsel yönetim boyutu", "B": "Fiziksel düzen boyutu", "C": "İlişki boyutu", "D": "Davranış boyutu" },
+      "correctOption": "A",
+      "explanation": "Öğretimsel yönetim; dersin planlanması, sunulması, içeriğin ve zamanın etkili biçimde yönetilmesini kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetiminin Boyutları",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde ilişki boyutu aşağıdakilerden hangisini kapsar?",
+      "options": { "A": "Dersin planlanması ve sunulması", "B": "Öğretmenin öğrenci, veli ve diğer paydaşlarla kurduğu iletişim ve işbirliği", "C": "Sınıfın oturma düzeni", "D": "Sınavların hazırlanması" },
+      "correctOption": "B",
+      "explanation": "İlişki boyutu, öğretmenin öğrenci, veli ve diğer paydaşlarla kurduğu iletişim ve işbirliğini kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Yönetiminin Boyutları",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde \"zaman boyutu\" aşağıdakilerden hangisini ifade eder?",
+      "options": { "A": "Sınıfın fiziksel koşullarının düzenlenmesi", "B": "Öğrencilerin duygusal gelişimi", "C": "Öğretime ayrılan sürenin ve geçişlerin etkili kullanılması", "D": "Ders araç-gereçlerinin seçilmesi" },
+      "correctOption": "C",
+      "explanation": "Zaman boyutu, öğretime ayrılan sürenin ve etkinlikler arası geçişlerin etkili biçimde kullanılmasını kapsar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Kuralları",
+      "difficulty": 2,
+      "text": "Sınıf kurallarının belirlenmesinde dikkat edilmesi gereken temel ölçüt aşağıdakilerden hangisidir?",
+      "options": { "A": "Kuralların olabildiğince çok sayıda olması", "B": "Kuralların yalnızca öğretmen tarafından belirlenmesi", "C": "Her öğrenci için farklı kurallar belirlenmesi", "D": "Kuralların az sayıda, açık ve olumlu ifadelerle belirtilmesi" },
+      "correctOption": "D",
+      "explanation": "Etkili sınıf kuralları az sayıda, açık, gözlenebilir ve olumlu biçimde ifade edilmiş olmalıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Kuralları",
+      "difficulty": 1,
+      "text": "Sınıf kurallarının olumlu ifadelerle yazılmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilere ne yapmaları gerektiğinin açıkça bildirilmesi", "B": "Kuralların sayısının artırılması", "C": "Öğretmenin ceza yetkisinin genişletilmesi", "D": "Kuralların gizli tutulması" },
+      "correctOption": "A",
+      "explanation": "Olumlu ifadelerle yazılan kurallar, öğrencilere ne yapmaları gerektiğini açıkça bildirir; olumsuz ifadeler ise yasakları vurgular."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Kuralları",
+      "difficulty": 2,
+      "text": "Sınıf kurallarının öğrencilerle birlikte belirlenmesinin en önemli yararı aşağıdakilerden hangisidir?",
+      "options": { "A": "Kuralların tamamen öğretmen tarafından dayatılması", "B": "Öğrencilerin kuralları benimsemesi ve öz denetim geliştirmesi", "C": "Kuralların sınıfta uygulanmaması", "D": "Öğrencilerin tüm kurallardan muaf tutulması" },
+      "correctOption": "B",
+      "explanation": "Öğrenciler birlikte belirledikleri kuralları benimser; bu da kurallara uyma ve öz denetim geliştirme konusunda olumlu etki yaratır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf Rutinleri",
+      "difficulty": 1,
+      "text": "Öğretmenin derse girişte yoklama alması, ödevleri toplaması ve ders araçlarını belirli bir düzende dağıtması hangi kavramla ifade edilir?",
+      "options": { "A": "Fiziksel düzen", "B": "Disiplin", "C": "Sınıf rutinleri", "D": "Sınıf iklimi" },
+      "correctOption": "C",
+      "explanation": "Sınıf rutinleri, sık yinelenen işlerin belirli bir düzende ve alışkanlık hâlinde yapılmasını sağlayarak zamanın verimli kullanılmasına katkı sunar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "İlk Günler ve Sosyalleşme",
+      "difficulty": 1,
+      "text": "Öğretmenin ders yılının başında sınıf kurallarını ve beklentilerini açıkça belirtmesinin temel yararı hangisidir?",
+      "options": { "A": "Öğrencilerin sıkılması", "B": "Ders süresinin uzaması", "C": "Sınıf mevcudunun azalması", "D": "Sorunların önlenip zaman kaybının azalmasını sağlaması" },
+      "correctOption": "D",
+      "explanation": "Beklentilerin baştan açıkça belirtilmesi, sorunların ortaya çıkmadan önlenmesini ve ders zamanının verimli kullanılmasını sağlar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İklimi",
+      "difficulty": 1,
+      "text": "Öğrencilerin kendilerini güvende ve değerli hissettikleri sınıf ortamı hangi kavramla ifade edilir?",
+      "options": { "A": "Olumlu sınıf iklimi", "B": "Sınıf mevcudu", "C": "Sınıf disiplini", "D": "Sınıf yerleşimi" },
+      "correctOption": "A",
+      "explanation": "Olumlu sınıf iklimi; saygı, güven ve kabulün egemen olduğu, öğrencilerin rahatça katılabildiği sağlıklı bir öğrenme ortamını ifade eder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İklimi",
+      "difficulty": 2,
+      "text": "Sınıfta psikolojik olarak güvenli bir iklimin oluşmasında en etkili unsur aşağıdakilerden hangisidir?",
+      "options": { "A": "Sınavların sık sık yapılması", "B": "Öğretmenin öğrencilere saygılı ve adil davranması", "C": "Sınıfın kalabalık olması", "D": "Derslerin zorlaştırılması" },
+      "correctOption": "B",
+      "explanation": "Öğretmenin öğrencilere saygılı ve adil davranması, psikolojik olarak güvenli bir sınıf ikliminin temelini oluşturur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Oturma Düzenleri",
+      "difficulty": 1,
+      "text": "Sıraların birer grup oluşturacak biçimde birleştirilmesiyle oluşturulan, grup çalışmalarına uygun oturma düzeni hangisidir?",
+      "options": { "A": "Tek sıra düzeni", "B": "Çember düzeni", "C": "Küme (gruplu) düzeni", "D": "V düzeni" },
+      "correctOption": "C",
+      "explanation": "Küme düzeninde sıralar grup oluşturacak biçimde yerleştirilir; etkileşim ve grup çalışmaları kolaylaşır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Oturma Düzenleri",
+      "difficulty": 2,
+      "text": "Sınıfta kullanılan oturma düzeninin belirlenmesinde temel belirleyici unsur aşağıdakilerden hangisidir?",
+      "options": { "A": "Öğrencilerin boy uzunlukları", "B": "Öğretmenin kişisel tercihi", "C": "Dersin kazanımı ve kullanılacak öğretim yöntemi", "D": "Sınıfın duvar rengi" },
+      "correctOption": "C",
+      "explanation": "Oturma düzeni, dersin kazanımı ve kullanılacak öğretim yöntemine göre belirlenir; yöntem değiştiğinde düzen de değişebilir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Liderlik Stilleri",
+      "difficulty": 2,
+      "text": "Sınıf yönetiminde tüm kararları tek başına alan ve öğrencilere söz hakkı tanımayan öğretmenin liderlik stili hangisidir?",
+      "options": { "A": "Otoriter liderlik", "B": "Demokratik liderlik", "C": "Laissez-faire liderlik", "D": "Dönüşümcü liderlik" },
+      "correctOption": "A",
+      "explanation": "Otoriter liderlikte tüm kararlar lider tarafından alınır ve izleyenlere söz hakkı tanınmaz."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Liderlik Stilleri",
+      "difficulty": 2,
+      "text": "Sınıf kurallarını öğrencilerle birlikte belirleyen ve görüşlerini dikkate alan öğretmenin liderlik stili hangisidir?",
+      "options": { "A": "Otoriter liderlik", "B": "Demokratik liderlik", "C": "Laissez-faire liderlik", "D": "İşlemsel liderlik" },
+      "correctOption": "B",
+      "explanation": "Demokratik liderlikte kararlara birlikte karar verilir ve izleyenlerin görüşleri dikkate alınır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Liderlik Stilleri",
+      "difficulty": 2,
+      "text": "Sınıfta hiçbir kural koymayıp öğrencileri tamamen kendi hâline bırakan öğretmenin liderlik stili hangisidir?",
+      "options": { "A": "Otoriter liderlik", "B": "Demokratik liderlik", "C": "Laissez-faire liderlik", "D": "Dönüşümcü liderlik" },
+      "correctOption": "C",
+      "explanation": "Laissez-faire liderlikte lider yön göstermez ve izleyenleri kendi hâline bırakır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Öğretmen Liderliği",
+      "difficulty": 3,
+      "text": "Öğretmenin sınıf içinde öğrencilere ilham veren bir vizyon sunması ve değişimi teşvik etmesi hangi liderlik yaklaşımıyla açıklanır?",
+      "options": { "A": "İşlemsel liderlik", "B": "Otokratik liderlik", "C": "Tam serbesti", "D": "Dönüşümcü liderlik" },
+      "correctOption": "D",
+      "explanation": "Dönüşümcü liderlik, liderin izleyenlerin değer ve gelişimini dönüştürmeye, ilham vermeye ve değişimi teşvik etmeye odaklanmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kounin Modeli",
+      "difficulty": 2,
+      "text": "Kounin'in sınıf yönetimi yaklaşımında öğretmenin sınıfta olup bitenlerin nerede ve hangi anda gerçekleştiğini fark etmesi hangi kavramla açıklanır?",
+      "options": { "A": "Farkındalık", "B": "Doyum", "C": "Örtüşme", "D": "İvme" },
+      "correctOption": "A",
+      "explanation": "Farkındalık, öğretmenin sınıftaki gelişmeleri eş zamanlı olarak fark edip müdahaleyi doğru yerde ve anda yapmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kounin Modeli",
+      "difficulty": 2,
+      "text": "Öğretmenin bir grupla ilgilenirken sınıfın başka bir köşesinde dikkati dağılan öğrencilerle de ilgilenebilmesi Kounin'in hangi kavramıyla açıklanır?",
+      "options": { "A": "Doyum", "B": "Örtüşme", "C": "Pürüzsüzlük", "D": "Grup uyarısı" },
+      "correctOption": "B",
+      "explanation": "Örtüşme, öğretmenin aynı anda birden fazla etkinliği izleyip yönetebilmesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kounin Modeli",
+      "difficulty": 2,
+      "text": "Dersin gereksiz kesinti ve konu dışına sapmalar olmadan sürdürülmesini ifade eden Kounin kavramı hangisidir?",
+      "options": { "A": "İvme", "B": "Grup uyarısı", "C": "Pürüzsüzlük", "D": "Örtüşme" },
+      "correctOption": "C",
+      "explanation": "Pürüzsüzlük, dersin akışının bozulmadan sürmesini; ani kesintilerin ve konu dışına çıkmaların engellenmesini ifade eder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kounin Modeli",
+      "difficulty": 3,
+      "text": "Öğretmenin bir etkinlikten diğerine hazırlıksız ve dağınık biçimde geçerek dersin temposunu düşürmesi Kounin'in hangi kavramına aykırı davranmasıdır?",
+      "options": { "A": "Doyum", "B": "Grupla odaklanma", "C": "Farkındalık", "D": "İvme" },
+      "correctOption": "D",
+      "explanation": "İvme, dersin uygun bir hızla ve düzenli biçimde ilerlemesini gerektirir; dağınık geçişler ivmeyi bozar."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kounin Modeli",
+      "difficulty": 2,
+      "text": "Bir soruyu belirli bir öğrenciye yöneltmeden önce öğretmenin tüm sınıfa yönelip herkesin dikkatini toplaması Kounin'in hangi kavramıyla açıklanır?",
+      "options": { "A": "Grup uyarısı", "B": "Örtüşme", "C": "Doyum", "D": "Pürüzsüzlük" },
+      "correctOption": "A",
+      "explanation": "Grup uyarısı, öğretmenin soru ya da yönergeyi tüm sınıfa yönelterek herkesin hazır olmasını ve dikkatini canlı tutmasını sağlamasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Kounin Modeli",
+      "difficulty": 3,
+      "text": "Kounin'e göre öğretmenin bir etkinliği tamamlamadan başka bir etkinliğe geçmesi hangi kavramla açıklanır?",
+      "options": { "A": "İvme", "B": "Sarsıntı", "C": "Örtüşme", "D": "Grup uyarısı" },
+      "correctOption": "B",
+      "explanation": "Sarsıntı, dersin akışının etkinlik tamamlanmadan kesilmesi ya da hazırlıksız geçişlerle bozulmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Glasser Modeli",
+      "difficulty": 3,
+      "text": "Glasser'ın seçim kuramına göre insan davranışının temelinde hangi ihtiyaçlar yer alır?",
+      "options": { "A": "Yalnızca fizyolojik ihtiyaçlar", "B": "Yalnızca güvenlik ihtiyacı", "C": "Sevme, ait olma, güç, özgürlük ve eğlence ihtiyaçları", "D": "Yalnızca kendini gerçekleştirme ihtiyacı" },
+      "correctOption": "C",
+      "explanation": "Glasser'ın seçim kuramına göre insan davranışının temelinde sevme, ait olma, güç, özgürlük ve eğlence ihtiyaçları yer alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Glasser Modeli",
+      "difficulty": 2,
+      "text": "Glasser'ın kalite okulu yaklaşımına göre öğretmenin sınıfta yapması gereken temel düzenleme hangisidir?",
+      "options": { "A": "Öğrencileri sürekli başarısızlıkla karşılaştırmak", "B": "Ders içeriğini tümüyle ezberletmek", "C": "Öğrencilere hiç seçim hakkı tanımamak", "D": "Öğrencilerin yapmaya değer bulduğu nitelikli işler yapmalarını sağlamak" },
+      "correctOption": "D",
+      "explanation": "Glasser'a göre öğrenci ancak kendisi için anlamlı, başarabileceği ve yapmaya değer bulduğu işlerle öğrenir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Dreikurs Modeli",
+      "difficulty": 3,
+      "text": "Dreikurs'a göre öğrencinin istenmeyen davranışının altında yatan yanlış amaçlardan biri aşağıdakilerden hangisidir?",
+      "options": { "A": "Dikkat çekme", "B": "Öğrenmeye istekli olma", "C": "Sorumluluk almak", "D": "Başkalarına yardım etmek" },
+      "correctOption": "A",
+      "explanation": "Dreikurs'a göre yanlış amaçlar arasında dikkat çekme, güç kurma, intikam alma ve yetersizlik gösterme yer alır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Dreikurs Modeli",
+      "difficulty": 2,
+      "text": "Dreikurs'a göre öğrencinin davranışının doğal sonuçlarıyla yüzleşmesine izin verilmesi hangi kavramla ifade edilir?",
+      "options": { "A": "Yapay ceza", "B": "Doğal sonuç", "C": "Görmezden gelme", "D": "Olumlu pekiştirme" },
+      "correctOption": "B",
+      "explanation": "Doğal sonuç, öğrencinin davranışının ortaya çıkardığı doğal çıktıyı yaşamasına izin verilmesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Canter Modeli",
+      "difficulty": 2,
+      "text": "Canter'ın güvenli disiplin modeline göre öğretmenin temel özelliği hangisidir?",
+      "options": { "A": "Öğrencinin her davranışını hoş görmesi", "B": "Öğrencileri sürekli cezalandırması", "C": "Beklentilerini net biçimde ortaya koyması ve tutarlı, kararlı davranması", "D": "Sınıfta hiçbir kural koymaması" },
+      "correctOption": "C",
+      "explanation": "Canter'ın güvenli disiplin modelinde öğretmen beklentilerini açıkça belirtir, kararlı davranır ve sonuçları tutarlı biçimde uygular."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Gordon Modeli",
+      "difficulty": 3,
+      "text": "Gordon'a göre öğretmenin \"Derste konuştuğunu fark ettim, bunu yaparken biraz zorlandım.\" biçimindeki mesajı hangi kavramla açıklanır?",
+      "options": { "A": "İletişim engeli", "B": "Sen dili", "C": "Kapı aralayıcı mesaj", "D": "Ben dili" },
+      "correctOption": "D",
+      "explanation": "Ben dili, öğretmenin öğrenciyi yargılamadan kendi duygusunu ve yaşadığı durumu kişisel biçimde ifade etmesidir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Gordon Modeli",
+      "difficulty": 2,
+      "text": "Gordon'a göre öğretmenin öğrencinin duygularını yansıtarak dinlemesi hangi beceridir?",
+      "options": { "A": "Yansıtıcı dinleme", "B": "Emir verme", "C": "Yargılama", "D": "Sen dili kullanma" },
+      "correctOption": "A",
+      "explanation": "Yansıtıcı dinlemede öğretmen, öğrencinin söylediklerini ve duygularını yansıtarak dinler; böylece öğrenci kendisini anlaşılmış hisseder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Müdahale Yaklaşımları",
+      "difficulty": 3,
+      "text": "Öğretmenin istenmeyen davranışa müdahalede izlemesi gereken sıra aşağıdakilerden hangisidir?",
+      "options": { "A": "Sözlü uyarı, görmezden gelme, aileyi çağırma", "B": "Görmezden gelme, sözsüz uyarı, sözlü uyarı, birebir görüşme", "C": "Öğrenciyi sınıftan çıkarma, müdürü çağırma, not kırma", "D": "Doğrudan ceza verme, veliyi çağırma, disiplin kuruluna sevk" },
+      "correctOption": "B",
+      "explanation": "Müdahalede en hafif ve dersi en az kesen yoldan başlanır: önce görmezden gelme, ardından sözsüz ve sözlü uyarı, son çare olarak birebir görüşme izlenir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Pekiştirme",
+      "difficulty": 3,
+      "text": "Öğrencinin istenen davranışı yapması üzerine öğretmenin onu o gün nöbet görevinden muaf tutması hangi tekniktir?",
+      "options": { "A": "Olumlu pekiştirme", "B": "Ceza", "C": "Olumsuz pekiştirme", "D": "Sönme" },
+      "correctOption": "C",
+      "explanation": "Olumsuz pekiştirme, istenen davranışın ardından hoşa gitmeyen bir uyarıcının ortadan kaldırılmasıyla davranışın artırılmasıdır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Pekiştirme",
+      "difficulty": 1,
+      "text": "Öğrencinin istenen davranışını sergilemesinin ardından öğretmenin ona sözlü övgü veya yıldız vermesi hangi tekniktir?",
+      "options": { "A": "Olumsuz pekiştirme", "B": "Ceza", "C": "Sönme", "D": "Olumlu pekiştirme" },
+      "correctOption": "D",
+      "explanation": "Olumlu pekiştirmede, istenen davranışın ardından hoşa giden bir uyarıcı sunulur ve davranışın tekrarlanması sağlanır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Ceza ve Pekiştirme Dengesi",
+      "difficulty": 3,
+      "text": "Sınıf yönetiminde cezanın sık ve ağır kullanılmasının en olası olumsuz sonucu hangisidir?",
+      "options": { "A": "Öğrencide öğrenmeye ve okula karşı olumsuz duygular gelişmesi", "B": "Öğrencinin davranışının kalıcı olarak değişmesi", "C": "Sınıf ikliminin hemen düzelmesi", "D": "Öğrencinin motivasyonunun artması" },
+      "correctOption": "A",
+      "explanation": "Aşırı ceza kullanımı, öğrencide okula ve öğrenmeye karşı olumsuz duygular gelişmesine yol açabilir; davranış kalıcı olarak değişmez."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Pekiştirme",
+      "difficulty": 1,
+      "text": "İstenmeyen bir davranışı pekiştiren uyarıcının ortamdan çekilmesiyle davranışın zamanla azalması hangi süreçtir?",
+      "options": { "A": "Olumlu pekiştirme", "B": "Sönme", "C": "Ceza", "D": "Şekillendirme" },
+      "correctOption": "B",
+      "explanation": "Sönmede, davranışı pekiştiren uyarıcı ortamdan çekilir ve davranış zamanla azalır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Davranış Değiştirme",
+      "difficulty": 1,
+      "text": "Hedef davranışa yakın basamakların sırayla pekiştirilerek davranışın kademeli biçimde kazandırılması hangi tekniktir?",
+      "options": { "A": "Sönme", "B": "Ceza", "C": "Şekillendirme", "D": "Genelletme" },
+      "correctOption": "C",
+      "explanation": "Şekillendirmada hedef davranışa yakın basamaklar pekiştirilerek, davranış kademeli biçimde kazandırılır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Zaman Yönetimi",
+      "difficulty": 2,
+      "text": "Sınıfta \"geçiş zamanı\" kavramı neyi ifade eder?",
+      "options": { "A": "Öğrencilerin derse hazır olma süresini", "B": "Bir etkinlikten diğerine geçişte harcanan zamanı", "C": "Öğretmenin dersi anlatma süresini", "D": "Öğrencilerin eve gitme süresini" },
+      "correctOption": "B",
+      "explanation": "Geçiş zamanı, bir etkinlikten diğerine geçişte harcanan zamanı ifade eder; bu süre kısaltılarak etkili zaman artırılır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Zaman Yönetimi",
+      "difficulty": 1,
+      "text": "Sınıf yönetiminde \"akademik öğrenme zamanı\" kavramı neyi ifade eder?",
+      "options": { "A": "Öğrencilerin öğretimsel etkinliklere gerçekten katıldığı etkili süreyi", "B": "Öğretmenin yoklama alma süresini", "C": "Ders dışı konuşmalara ayrılan süreyi", "D": "Tatil günlerini" },
+      "correctOption": "A",
+      "explanation": "Akademik öğrenme zamanı, öğrencilerin öğretimsel etkinliklere gerçekten katıldığı etkili süreyi ifade eder."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 1,
+      "text": "Öğrencinin bir konuyu öğrenmenin kendisinden zevk alarak çalışması hangi motivasyon türüdür?",
+      "options": { "A": "Dışsal motivasyon", "B": "İçsel motivasyon", "C": "Sosyal baskı", "D": "Kıskançlık" },
+      "correctOption": "B",
+      "explanation": "İçsel motivasyon, öğrenmenin kendisinden zevk alma ve merak gibi içsel nedenlerle ortaya çıkan güdülenmedir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 1,
+      "text": "Öğrencinin ödül almak ya da ceza almamak için çalışması hangi motivasyon türüne örnektir?",
+      "options": { "A": "İçsel motivasyon", "B": "Öz belirleme", "C": "Dışsal motivasyon", "D": "Bilişsel motivasyon" },
+      "correctOption": "C",
+      "explanation": "Dışsal motivasyon, not, ödül ya da ceza gibi dışsal sonuçlardan kaynaklanan güdülenmedir."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Motivasyon",
+      "difficulty": 2,
+      "text": "Maslow'un ihtiyaçlar hiyerarşisine göre öğretmenin sınıfta önce karşılaması gereken temel ihtiyaçlar hangileridir?",
+      "options": { "A": "Kendini gerçekleştirme ve saygı ihtiyaçları", "B": "Yalnızca güvenlik ihtiyacı", "C": "Yalnızca ait olma ihtiyacı", "D": "Fizyolojik ve güvenlik ihtiyaçları" },
+      "correctOption": "D",
+      "explanation": "Maslow'un hiyerarşisinde alt düzey ihtiyaçlar (fizyolojik ve güvenlik) karşılanmadan üst düzey ihtiyaçlara yönelme zorlaşır."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Sınıf İçi İletişim",
+      "difficulty": 2,
+      "text": "Gordon'un iletişim engelleri arasında aşağıdakilerden hangisi yer alır?",
+      "options": { "A": "Söyleneni yargılayıcı biçimde yanıtlama", "B": "Öğrenciyi yargılamadan dinleme", "C": "Ben dili kullanma", "D": "Yansıtıcı dinleme" },
+      "correctOption": "A",
+      "explanation": "Gordon'a göre yargılayıcı ve suçlayıcı yanıtlar, emirler, uyarılar gibi ifadeler iletişim engeli oluşturur."
+    },
+    {
+      "categorySlug": "egitim-sinif",
+      "topic": "Okul-Aile İşbirliği",
+      "difficulty": 1,
+      "text": "Etkili öğretmen-veli işbirliğinin temel koşulu aşağıdakilerden hangisidir?",
+      "options": { "A": "Velinin yalnızca sorun anında çağrılması", "B": "Veli ve öğretmen arasında açık, düzenli ve karşılıklı iletişim kurulması", "C": "Öğretmenin veliyi tüm konularda uzaklaştırması", "D": "Velinin sadece veli toplantılarına gelmesi" },
+      "correctOption": "B",
+      "explanation": "Etkili veli-öğretmen işbirliği, açık, düzenli ve karşılıklı iletişimle mümkün olur."
+    }
+  ]
+}
