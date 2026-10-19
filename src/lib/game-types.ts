@@ -16,6 +16,16 @@ export const RUN_MODES = [
 
 export type RunMode = (typeof RUN_MODES)[number];
 
+/** Yarım kalmış ve kaldığı yerden sürdürülebilecek tur. */
+export interface ResumableRun {
+  runId: string;
+  mode: RunMode;
+  /** Kategori / sınav adı (REVIEW için "Yanlışlarım"). */
+  categoryName: string | null;
+  answeredCount: number;
+  totalQuestions: number;
+}
+
 export type OptionKey = "A" | "B" | "C" | "D";
 
 export const OPTION_KEYS: OptionKey[] = ["A", "B", "C", "D"];

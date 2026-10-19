@@ -4,6 +4,7 @@ import { ModePicker } from "@/components/game/mode-picker";
 import { Progress } from "@/components/ui/progress";
 import { GUEST_RUN_LIMIT } from "@/lib/game-types";
 import { getPlayerRank } from "@/lib/leaderboard";
+import { getResumableRuns } from "@/lib/game";
 import { prisma } from "@/lib/prisma";
 import { startOfToday } from "@/lib/random";
 import { accuracy, levelProgress } from "@/lib/scoring";
@@ -24,8 +25,15 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
   const rawError = searchParams.hata;
   const initialError = Array.isArray(rawError) ? rawError[0] : rawError;
 
-  const [categories, stats, dailyRun, rank, completedRuns, wrongAnswers] =
-    await Promise.all([
+  const [
+    categories,
+    stats,
+    dailyRun,
+    rank,
+    completedRuns,
+    wrongAnswers,
+    resumableRuns,
+  ] = await Promise.all([
     prisma.category.findMany({
       where: { isActive: true },
       orderBy: { sortOrder: "asc" },
@@ -60,6 +68,7 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
       distinct: ["questionId"],
       take: 500,
     }),
+    getResumableRuns(userId),
   ]);
 
   const xp = stats?.xp ?? 0;
@@ -133,6 +142,7 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
         isGuest={isGuest}
         guestRunsLeft={guestRunsLeft}
         reviewCount={wrongAnswers.length}
+        resumableRuns={resumableRuns}
       />
 
       <p className="text-center text-xs text-ink-faint">

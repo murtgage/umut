@@ -15,6 +15,7 @@ import type {
   MissedQuestion,
   OptionKey,
   QuestionReviewItem,
+  ResumableRun,
   RunMode,
   RunQuestion,
   RunSummary,
@@ -137,6 +138,16 @@ export async function startRun({
         `Üye olmadan ${GUEST_RUN_LIMIT} tur oynayabilirsin. Ücretsiz kayıt olup ilerlemeni kalıcı hale getir!`,
       );
     }
+  }
+
+  // Aynı modda yarım kalmış eski tur varsa "bırakıldı" işaretlenir; aksi hâlde
+  // her yeni tur birikir ve "Devam et" listesi bozulur. Günlük tur istisnadır:
+  // günde bir kez oynanır ve kendi dalında zaten korunur.
+  if (mode !== "DAILY") {
+    await prisma.gameRun.updateMany({
+      where: { userId, status: "IN_PROGRESS", mode },
+      data: { status: "ABANDONED" },
+    });
   }
 
   // "Yanlışlarım" turu: kullanıcının geçmişte yanlış cevapladığı sorular.
@@ -364,6 +375,47 @@ export async function getRunView(
     questions,
     answered,
   };
+}
+
+// ---------------------------------------------------------------------------
+// Yarım kalan turu bulma
+// ---------------------------------------------------------------------------
+
+/**
+ * Kullanıcının yarım kalmış (IN_PROGRESS) turları. Oyun ekranı bu turu kaldığı
+ * yerden sürdürebilir. Soruların tamamı cevaplanmış ama tur kapatılmamış
+ * turlar listeden çıkarılır (onlar zaten tamamlanmış sayılır).
+ */
+export async function getResumableRuns(
+  userId: string,
+): Promise<ResumableRun[]> {
+  const runs = await prisma.gameRun.findMany({
+    where: { userId, status: "IN_PROGRESS" },
+    orderBy: { startedAt: "desc" },
+    take: 6,
+    select: {
+      id: true,
+      mode: true,
+      examType: true,
+      totalQuestions: true,
+      category: { select: { name: true } },
+      answers: { select: { answered: true } },
+    },
+  });
+
+  return runs
+    .map((run) => {
+      const answeredCount = run.answers.filter((answer) => answer.answered).length;
+      return {
+        runId: run.id,
+        mode: run.mode as RunMode,
+        categoryName: runCategoryName(run),
+        answeredCount,
+        totalQuestions: run.totalQuestions,
+      };
+    })
+    .filter((run) => run.answeredCount < run.totalQuestions)
+    .slice(0, 3);
 }
 
 // ---------------------------------------------------------------------------

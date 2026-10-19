@@ -9,7 +9,7 @@ import { CategoryIcon } from "@/components/category-icon";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { EXAM_TYPES, examTypeBySlug } from "@/lib/exam-types";
 import { formatNumber } from "@/lib/format";
-import type { RunMode } from "@/lib/game-types";
+import type { ResumableRun, RunMode } from "@/lib/game-types";
 import {
   DIFFICULTY_CHOICES,
   GUEST_RUN_LIMIT,
@@ -37,6 +37,7 @@ export function ModePicker({
   isGuest = false,
   guestRunsLeft = null,
   reviewCount = 0,
+  resumableRuns = [],
 }: {
   categories: CategoryOption[];
   dailyPlayed: boolean;
@@ -44,6 +45,7 @@ export function ModePicker({
   isGuest?: boolean;
   guestRunsLeft?: number | null;
   reviewCount?: number;
+  resumableRuns?: ResumableRun[];
 }) {
   const router = useRouter();
   const [pending, startTransition] = useTransition();
@@ -156,6 +158,46 @@ export function ModePicker({
         >
           {error}
         </p>
+      ) : null}
+
+      {resumableRuns.length > 0 ? (
+        <section className="surface-card flex flex-col gap-3 p-4 sm:p-5">
+          <div>
+            <p className="text-sm font-semibold text-ink">Yarım kalan turun</p>
+            <p className="text-xs text-ink-muted">
+              Kaldığın yerden devam et, puanların kaçmasın.
+            </p>
+          </div>
+          <ul className="flex flex-col gap-2">
+            {resumableRuns.map((run) => {
+              const modeLabel = MODE_INFO[run.mode]?.label ?? "Tur";
+              const title = run.categoryName ?? modeLabel;
+              return (
+                <li
+                  key={run.runId}
+                  className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-line bg-canvas/40 px-3.5 py-2.5"
+                >
+                  <div className="min-w-0">
+                    <p className="text-sm font-medium text-ink">{title}</p>
+                    <p className="text-xs text-ink-muted">
+                      {title !== modeLabel ? `${modeLabel} · ` : ""}
+                      <span className="tnum">
+                        {run.answeredCount}/{run.totalQuestions}
+                      </span>{" "}
+                      soru
+                    </p>
+                  </div>
+                  <Link
+                    href={`/oyun/${run.runId}`}
+                    className={buttonVariants({ size: "sm" })}
+                  >
+                    Devam et
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
       ) : null}
 
       {/* 1. adım — sınav türü */}
