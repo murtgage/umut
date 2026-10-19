@@ -22,6 +22,8 @@ const tunnelTrustedOrigins = [
   "https://*.trycloudflare.com",
   "https://*.ngrok-free.app",
   "https://*.ngrok.io",
+  // Vercel dağıtımları: alan adı önizleme (preview) ve üretim için değişir.
+  "https://*.vercel.app",
 ];
 
 /** Doğrulama kodunun geçerlilik süresi (saniye). */
@@ -41,7 +43,14 @@ const OTP_SUBJECTS: Record<string, string> = {
 
 export const auth = betterAuth({
   appName: "Umut",
-  baseURL: process.env.BETTER_AUTH_URL ?? "http://localhost:3001",
+  // Vercel'de alan adı ancak dağıtımdan sonra bilinir; `VERCEL_URL` ortam
+  // değişkeni (ör. "umut-abc.vercel.app") varsa ondan türetiyoruz. Böylece
+  // BETTER_AUTH_URL girilmese de köken kontrolü doğru çalışır.
+  baseURL:
+    process.env.BETTER_AUTH_URL ??
+    (process.env.VERCEL_URL
+      ? `https://${process.env.VERCEL_URL}`
+      : "http://localhost:3001"),
   secret: process.env.BETTER_AUTH_SECRET,
   trustedOrigins: [...extraTrustedOrigins, ...tunnelTrustedOrigins],
   database: prismaAdapter(prisma, { provider: "sqlite" }),
