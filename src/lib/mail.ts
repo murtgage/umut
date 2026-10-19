@@ -59,9 +59,12 @@ export async function sendMail(message: MailMessage): Promise<void> {
     return;
   }
 
-  if (IS_PRODUCTION) {
-    throw new Error(
-      "E-posta gönderilemiyor: SMTP_HOST tanımlı değil. Sunucu ortam değişkenlerini ayarlayın.",
+  // Demo/paylaşım modu: SMTP yapılandırılmamışsa (üretimde bile) iletiyi
+  // geliştirme kutusuna yazıyoruz. Aksi hâlde kayıt sonrası doğrulama kodu
+  // kullanıcıya hiçbir şekilde ulaşmaz ve akış kilitlenir.
+  if (IS_PRODUCTION && !isMailTransportConfigured) {
+    console.warn(
+      "[umut/mail] Üretimde SMTP_HOST tanımlı değil — doğrulama kodu geliştirme kutusuna yazılıyor (demo modu).",
     );
   }
 
@@ -102,7 +105,9 @@ export async function readDevOutbox(
   email: string,
   limit = 3,
 ): Promise<DevOutboxEntry[]> {
-  if (IS_PRODUCTION) return [];
+  // Gerçek SMTP varsa kutu kullanılmaz. SMTP yoksa (demo modu) kodu ekranda
+  // gösterebilmek için üretimde de okuruz.
+  if (isMailTransportConfigured) return [];
 
   try {
     const raw = await readFile(DEV_OUTBOX_PATH, "utf8");

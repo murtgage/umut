@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "categorySlug": "cografya",
+      "topic": "Barajlar",
+      "difficulty": 2,
+      "text": "Türkiye'nin en yüksek barajı hangisidir?",
+      "options": {
+        "A": "Yusufeli Barajı",
+        "D": "Atatürk Barajı",
+        "C": "Keban Barajı",
+        "B": "Karakaya Barajı"
+      },
+      "correctOption": "A",
+      "explanation": "Yusufeli Barajı 275 m gövde yüksekliği ile Türkiye'nin en yüksek barajıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaştırma",
+      "difficulty": 2,
+      "text": "Türkiye'nin en uzun kara yolu tüneli hangisidir?",
+      "options": {
+        "A": "Zigana Tüneli",
+        "C": "Ovit Tüneli",
+        "B": "Orhangazi Tüneli",
+        "D": "Bolu Dağı Tüneli"
+      },
+      "correctOption": "A",
+      "explanation": "Zigana Tüneli 14,48 km uzunluğu ile Türkiye'nin en uzun karayolu tünelidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Havzalar",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük kapalı havzası hangisidir?",
+      "options": {
+        "A": "Konya Kapalı Havzası",
+        "B": "Van Gölü Kapalı Havzası",
+        "D": "Burdur Göller Kapalı Havzası",
+        "C": "Akarçay Kapalı Havzası"
+      },
+      "correctOption": "A",
+      "explanation": "Konya Kapalı Havzası yaklaşık 4,98 milyon hektar alanıyla Türkiye'nin en büyük kapalı havzasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Fay Hatları",
+      "difficulty": 2,
+      "text": "Türkiye'nin en uzun fay hattı hangisidir?",
+      "options": {
+        "B": "Kuzey Anadolu Fay Hattı",
+        "C": "Doğu Anadolu Fay Hattı",
+        "D": "Batı Anadolu Fay Hattı",
+        "A": "Ölü Deniz Fay Hattı"
+      },
+      "correctOption": "B",
+      "explanation": "Kuzey Anadolu Fay Hattı yaklaşık 1100-1200 km uzunluğu ile Türkiye'nin en uzun fay hattıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Buzullar",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük buzulu hangi dağda bulunur?",
+      "options": {
+        "D": "Ağrı Dağı",
+        "C": "Erciyes Dağı",
+        "B": "Süphan Dağı",
+        "A": "Kaçkar Dağı"
+      },
+      "correctOption": "D",
+      "explanation": "Ağrı Dağı'ndaki takke buzulu Türkiye'nin en büyük buzuludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Havzalar",
+      "difficulty": 2,
+      "text": "Yüzölçümü bakımından Türkiye'nin en büyük akarsu havzası hangisidir?",
+      "options": {
+        "C": "Fırat Havzası",
+        "A": "Kızılırmak Havzası",
+        "D": "Sakarya Havzası",
+        "B": "Dicle Havzası"
+      },
+      "correctOption": "C",
+      "explanation": "Fırat Nehri havzası Türkiye'nin en geniş akarsu havzasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Konum",
+      "difficulty": 1,
+      "text": "Türkiye'nin en batı noktası hangi il sınırları içinde yer alır?",
+      "options": {
+        "A": "Çanakkale",
+        "B": "Edirne",
+        "C": "İzmir",
+        "D": "Balıkesir"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye'nin en batı noktası, Çanakkale'ye bağlı Gökçeada'daki Avlaka Burnu'dur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en derin gölü hangisidir?",
+      "options": {
+        "B": "Baykal Gölü",
+        "A": "Tanganyika Gölü",
+        "C": "Superior Gölü",
+        "D": "Victoria Gölü"
+      },
+      "correctOption": "B",
+      "explanation": "Baykal Gölü yaklaşık 1.642 m derinliği ile dünyanın en derin gölüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Yüzey alanı bakımından dünyanın en büyük tatlı su gölü hangisidir?",
+      "options": {
+        "D": "Superior Gölü",
+        "C": "Victoria Gölü",
+        "A": "Huron Gölü",
+        "B": "Michigan Gölü"
+      },
+      "correctOption": "D",
+      "explanation": "Superior Gölü yaklaşık 82.100 km² yüzey alanı ile dünyanın en büyük tatlı su gölüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 1,
+      "text": "Dünyanın en büyük adası hangisidir?",
+      "options": {
+        "D": "Grönland",
+        "A": "Yeni Gine",
+        "C": "Borneo",
+        "B": "Madagaskar"
+      },
+      "correctOption": "D",
+      "explanation": "Grönland yaklaşık 2,16 milyon km² alanıyla dünyanın en büyük adasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük yarımadası hangisidir?",
+      "options": {
+        "C": "Arap Yarımadası",
+        "A": "İskandinav Yarımadası",
+        "B": "Hint Yarımadası",
+        "D": "Balkan Yarımadası"
+      },
+      "correctOption": "C",
+      "explanation": "Arap Yarımadası yaklaşık 3,2 milyon km² ile dünyanın en büyük yarımadasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en uzun dağ sırası hangisidir?",
+      "options": {
+        "A": "And Dağları",
+        "B": "Himalayalar",
+        "D": "Kordiller",
+        "C": "Ural Dağları"
+      },
+      "correctOption": "A",
+      "explanation": "And Dağları yaklaşık 7.000 km uzunluğu ile dünyanın en uzun dağ sırasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük körfezi hangisidir?",
+      "options": {
+        "C": "Bengal Körfezi",
+        "B": "Meksika Körfezi",
+        "A": "Alaska Körfezi",
+        "D": "Biscay Körfezi"
+      },
+      "correctOption": "C",
+      "explanation": "Bengal Körfezi yaklaşık 2,17 milyon km² ile dünyanın en büyük körfezidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en derin okyanus çukuru hangisidir?",
+      "options": {
+        "B": "Mariana Çukuru",
+        "C": "Tonga Çukuru",
+        "D": "Japonya Çukuru",
+        "A": "Peru-Şili Çukuru"
+      },
+      "correctOption": "B",
+      "explanation": "Mariana Çukuru yaklaşık 10.994 m derinliği ile dünyanın en derin noktasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en yüksek şelalesi hangisidir?",
+      "options": {
+        "C": "Angel Şelalesi",
+        "B": "Niagara Şelalesi",
+        "A": "Victoria Şelalesi",
+        "D": "Iguazu Şelalesi"
+      },
+      "correctOption": "C",
+      "explanation": "Angel Şelalesi yaklaşık 979 m yüksekliği ile dünyanın en yüksek şelalesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük mercan resifi hangisidir?",
+      "options": {
+        "C": "Büyük Set Resifi",
+        "B": "Belize Resifi",
+        "A": "Yeni Kaledonya Resifi",
+        "D": "Kızıldeniz Resifi"
+      },
+      "correctOption": "C",
+      "explanation": "Büyük Set Resifi yaklaşık 2.300 km uzunluğu ile dünyanın en büyük mercan resifidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük yaylası hangisidir?",
+      "options": {
+        "C": "Tibet Yaylası",
+        "B": "Kolombiya Yaylası",
+        "A": "Altiplano",
+        "D": "Mongol Yaylası"
+      },
+      "correctOption": "C",
+      "explanation": "Tibet Yaylası yaklaşık 2,5 milyon km² ile dünyanın en büyük ve en yüksek yaylasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük çölü hangisidir (kutuplar hariç)?",
+      "options": {
+        "B": "Sahra Çölü",
+        "D": "Gobi Çölü",
+        "A": "Kalahari Çölü",
+        "C": "Atacama Çölü"
+      },
+      "correctOption": "B",
+      "explanation": "Sahra Çölü yaklaşık 9 milyon km² ile kutuplar hariç dünyanın en büyük çölüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en küçük okyanusu hangisidir?",
+      "options": {
+        "C": "Arktik Okyanusu",
+        "B": "Hint Okyanusu",
+        "A": "Atlantik Okyanusu",
+        "D": "Pasifik Okyanusu"
+      },
+      "correctOption": "C",
+      "explanation": "Arktik Okyanusu yaklaşık 14 milyon km² ile yüzey alanı bakımından dünyanın en küçük okyanusudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 1,
+      "text": "Dünyanın yüzölçümü bakımından en küçük ülkesi hangisidir?",
+      "options": {
+        "C": "Vatikan",
+        "A": "Monako",
+        "B": "San Marino",
+        "D": "Nauru"
+      },
+      "correctOption": "C",
+      "explanation": "Vatikan yaklaşık 0,44 km² yüzölçümü ile dünyanın en küçük ülkesidir.",
+      "source": "özgün"
+    }
+  ]
+}

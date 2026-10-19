@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "difficulty": 2,
+      "text": "Türkiye'nin 36°-42° kuzey enlemleri arasında yer almasının bir sonucu olarak, aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "A": "Yıl boyunca gece ile gündüz süresi her yerde eşittir",
+        "B": "Güneş ışınları yıl boyunca dik açıyla gelir",
+        "D": "Yıl içinde dört mevsim aynı anda yaşanır",
+        "C": "Kuzey kenarında kış gündüzleri güney kenarından daha kısadır"
+      },
+      "correctOption": "C",
+      "explanation": "Orta kuşakta enlem arttıkça kışın gündüz süresi kısalır; bu nedenle kuzeydeki noktalarda kış gündüzleri daha kısa olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "difficulty": 2,
+      "text": "Türkiye'nin bulunduğu Orta Doğu ve Balkanlar arasındaki geçiş konumu, aşağıdakilerden hangisini kolaylaştırmıştır?",
+      "options": {
+        "B": "Farklı kültür ve ticaret yollarının ülke topraklarında buluşmasını",
+        "D": "Ülke genelinde aynı iklim tipinin görülmesini",
+        "A": "Yer altı kaynaklarının ülke dışına taşınmasını",
+        "C": "Kıyılarının buzul şekilleriyle biçimlenmesini"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye Asya ile Avrupa arasında köprü konumunda olduğundan tarih boyunca kültürler ve ticaret yolları ülke topraklarında buluşmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "difficulty": 3,
+      "text": "Türkiye'nin kuzeyi ile güneyi arasındaki enlem farkı yaklaşık 6° olduğuna göre, bu farkın doğal bir sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "C": "Aynı anda farklı takvimlerin kullanılması",
+        "A": "Dağların kıyıya paralel uzanması",
+        "D": "Kıyılarındaki sıcaklık ve bitki örtüsü kuşaklarının birbirinden farklılaşması",
+        "B": "Doğusu ile batısı arasında 76 dakikalık yerel saat farkı bulunması"
+      },
+      "correctOption": "D",
+      "explanation": "Kuzey-güney doğrultusundaki enlem farkı iklim ve bitki kuşaklarının çeşitlenmesine yol açar; yerel saat farkı ise boylam farkının sonucudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'de Marmara Bölgesi'nde görülen iklimin, Akdeniz ve Karadeniz iklimleri arasında bir geçiş özelliği taşımasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Ülkenin kuzeybatısında, iki iklim bölgesi arasında yer alması",
+        "C": "En yüksek dağların bu bölgede bulunması",
+        "A": "Bölgenin bir kapalı havza olması",
+        "B": "Bölgede hiç yağış görülmemesi"
+      },
+      "correctOption": "D",
+      "explanation": "Marmara, Akdeniz iklim bölgesi ile Karadeniz iklim bölgesi arasında geçiş alanında yer aldığından her iki iklimin özelliklerini taşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Türkiye'de ortalama yükseltinin batıdan doğuya doğru artmasının doğal bir sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Doğuya gidildikçe tarım ürünlerinin olgunlaşma süresinin uzaması",
+        "B": "Doğuya gidildikçe kış mevsiminin kısalması",
+        "A": "Batıya gidildikçe kar yağışının artması",
+        "C": "Batıda yer altı suyunun azalması"
+      },
+      "correctOption": "D",
+      "explanation": "Yükselti arttıkça sıcaklık düştüğü için doğuda tarım ürünlerinin olgunlaşması gecikir ve süre uzar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Kalkerli arazilerde yer altına sızan suların oluşturduğu şekiller bir yörede yaygın biçimde görülüyorsa, bu yöre için aşağıdakilerden hangisi söylenebilir?",
+      "options": {
+        "D": "Buzul aşındırması etkilidir",
+        "C": "Yüzeydeki akarsu ağı seyrektir ve yer altı drenajı gelişmiştir",
+        "A": "Volkanik faaliyetler sürmektedir",
+        "B": "Toprak örtüsü çok kalındır ve geçirimli değildir"
+      },
+      "correctOption": "C",
+      "explanation": "Kalker geçirimli olduğundan su yer altına iner; yüzey akarsuları azalır, mağara, obruk ve düden gibi karstik şekiller oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 3,
+      "text": "Fay hatları boyunca yer kabuğunun çökmesiyle oluşan çukurluklarda göllerin dizilmesi ve bu alanlarda termal kaynakların bulunması, o yörenin hangi özelliğinin kanıtıdır?",
+      "options": {
+        "A": "Genç ve tektonik yönden hareketli bir yapıda olduğunun",
+        "D": "Karstik aşınımın etkili olduğunun",
+        "C": "Buzul örtüsü altında kaldığının",
+        "B": "Uzun süredir aşınma ile düzleştiğinin"
+      },
+      "correctOption": "A",
+      "explanation": "Faylanma, çöküntü ovaları ve kaplıca suları, yerin altındaki ısı ve hareketliliğin yani tektonik faaliyetin göstergesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Bir dağ yamacı boyunca deniz seviyesinden yükseklere çıkıldıkça sıcaklığın düşmesi ve yağış rejiminin değişmesi, aşağıdakilerden hangisiyle açıklanır?",
+      "options": {
+        "A": "Enlem etkisiyle",
+        "B": "Kara ve deniz dağılışıyla",
+        "C": "Yükseltinin etkisiyle",
+        "D": "Denizellik etkisiyle"
+      },
+      "correctOption": "C",
+      "explanation": "Yükselti arttıkça hava soğur; aynı zamanda nem yoğuşarak yağış oluşur ve bitki kuşakları değişir. Bu temel etken yükseltidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 3,
+      "text": "Aynı bölge içinde iki merkezden birinde kış yağışlarının, diğerinde yaz yağışlarının daha fazla olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "B": "Yükseltilerinin aynı olması",
+        "C": "Enlemlerinin aynı olması",
+        "D": "Farklı basınç ve rüzgâr sistemlerinin etkisinde kalmaları",
+        "A": "Merkezlerin farklı bölgelere ait olması"
+      },
+      "correctOption": "D",
+      "explanation": "Yağış rejimi büyük ölçüde egemen basınç merkezleri ve rüzgârlarca belirlenir; farklı sistemler farklı mevsimlerde yağış getirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'ye batıdan gelen hava kütlelerinin deniz üzerinden geçtikten sonra kıyılarda bol yağış bırakmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "B": "Deniz üzerinden geçerken nem yüklenen havanın dağ yamaçlarında yükselip soğuması",
+        "D": "Hava kütlelerinin kışın anakarada soğuması",
+        "A": "Yer şekillerinin denizden uzaklaştıkça alçalması",
+        "C": "Buharlaşmanın en çok yaz aylarında olması"
+      },
+      "correctOption": "B",
+      "explanation": "Denizden nem yüklenen hava kıyı dağlarının yamacında yükselerek soğur; nem yoğunlaşarak bol yağış (yamaç yağışı) bırakır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Bir akarsuyun rejiminin düzensiz olması, yani debisinin yıl içinde büyük dalgalanma göstermesi en çok hangi durumda ortaya çıkar?",
+      "options": {
+        "D": "Kaynağını sürekli beslenen karstik kaynaklardan aldığında",
+        "B": "Akış yönünde göl geçtiğinde",
+        "A": "Havzanın bitki örtüsü sık olduğunda",
+        "C": "Havzasında kar erimesinin yanında yağışların düzensiz olduğu alanlarda"
+      },
+      "correctOption": "C",
+      "explanation": "Göl ve kaynak beslenmesi debiyi düzenler; buna karşılık düzensiz yağış ve sınırlı kar birikimi rejimi düzensizleştirir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Konya Kapalı Havzası'ndaki akarsuların denize ulaşamamasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Havzanın denize göre yüksek olması ve etrafının dağlarla çevrili olması",
+        "A": "Havzadaki akarsuların çok uzun olması",
+        "C": "Havzada yeterli yağış bulunmamasından akarsuyun kuruması",
+        "B": "Akarsuların tamamen yapay kanallarla yönlendirilmesi"
+      },
+      "correctOption": "D",
+      "explanation": "Kapalı havzalarda yer şekilleri denize ulaşmayı engeller; Konya Kapalı Havzası çevresi dağlarla çevrili ve iç kesimde yer aldığı için akarsular denize ulaşamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Akarsular",
+      "difficulty": 2,
+      "text": "Akarsuların taşıdığı alüvyonların deniz kıyısında birikmesiyle oluşan delta ovalarının tarımsal açıdan verimli olmasının nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Taşınmış verimli malzemeyle sürekli beslenmeleri",
+        "C": "Yükseltilerinin çok fazla olması",
+        "B": "Yağış miktarının düşük olması",
+        "A": "Topraklarının tuzlu olması"
+      },
+      "correctOption": "D",
+      "explanation": "Delta ovaları akarsuyun taşıyıp biriktirdiği alüvyonlardan oluşur; bu malzeme bitki besin maddelerince zengin ve verimlidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Bir gölün suyunun tuzlu olmasında aşağıdakilerden hangisi etkili olur?",
+      "options": {
+        "D": "Gölün kapalı bir havzada yer alıp gideğeninin bulunmaması",
+        "C": "Göl çevresinde kar yağışının fazla olması",
+        "B": "Gölün bir vadiyi setlemesiyle oluşması",
+        "A": "Beslenmenin çok fazla olması"
+      },
+      "correctOption": "D",
+      "explanation": "Kapalı havzada suyun buharlaşmasına karşın tuzlar gölde kalır ve birikir; gideğeni olan göller tuzu boşaltır, tatlı kalır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Bir vadinin önünün heyelan, lav akıntısı veya alüvyonla kapanması sonucu oluşan göllere ne ad verilir?",
+      "options": {
+        "B": "Set gölleri",
+        "A": "Karstik göller",
+        "C": "Buzul gölleri",
+        "D": "Krater gölleri"
+      },
+      "correctOption": "B",
+      "explanation": "Doğal engelleme (set) ile suyun birikmesiyle oluşan göllere set gölü denir; oluşum biçimine göre heyelan, lav ve alüvyon seti olabilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 3,
+      "text": "Volkanik bir dağın kraterinin suyla dolmasıyla oluşan göllerin ortak özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Genellikle yuvarlak biçimli ve küçük yüzeyli olmaları",
+        "C": "Sularının denizle bağlantılı olması",
+        "B": "Alanlarının binlerce kilometre kareyi bulması",
+        "D": "Her zaman tatlı su içermeleri"
+      },
+      "correctOption": "A",
+      "explanation": "Krater çukurlukları sınırlı büyüklükte ve genellikle daireye yakın biçimde olduğundan krater gölleri küçük ve yuvarlaktır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 2,
+      "text": "Sürekli nemli ve sıcak bir iklimde, yıkanmanın şiddetli olması topraklar bakımından hangi sonucu doğurur?",
+      "options": {
+        "B": "Tuz birikiminin artması",
+        "A": "Demir ve alüminyum oksitlerinin birikmesiyle kırmızı, verimsiz toprakların oluşması",
+        "C": "Toprağın kireç bakımından zenginleşmesi",
+        "D": "Toprağın humus bakımından çok zenginleşmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Aşırı yıkanma ile besin maddeleri ve humus taşınır; geride demir-alüminyum oksitleri kalır ve laterit benzeri kırmızı topraklar oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 3,
+      "text": "Bir toprak örneğinin renginin koyu ve kireç oranının düşük olması, tarımsal verimliliğinin yüksek olması hangi ortamda oluştuğunun göstergesidir?",
+      "options": {
+        "B": "Sürekli buzullarla kaplı alanlarda",
+        "C": "Bitki örtüsünün gür olduğu, yıkanmanın ölçülü gerçekleştiği alanlarda",
+        "A": "Yeni oluşmuş volkanik arazilerde",
+        "D": "Tuzlu ve kurak kapalı havzalarda"
+      },
+      "correctOption": "C",
+      "explanation": "Dengeli yıkanma ve bol bitki artığı, toprağı humusça zenginleştirir; bu topraklar koyu renkli ve verimli olur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Türkiye'de ormanların kıyıdan iç kesimlere doğru azalmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "B": "İç kesimlerde yağışın ve nemin azalması",
+        "D": "İç kesimlerde sıcaklığın daha yüksek olması",
+        "A": "Kıyı kesimlerinde toprağın verimsiz olması",
+        "C": "İç kesimlerde yükseltinin sıfıra yakın olması"
+      },
+      "correctOption": "B",
+      "explanation": "Orman oluşumu için yeterli yağış ve nem gerekir; bu koşullar kıyıdan iç kesimlere gidildikçe azaldığı için orman örtüsü seyrelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 2,
+      "text": "Akdeniz kıyılarında maki, Karadeniz kıyılarında orman ve İç Anadolu'da step bitki örtüsünün görülmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Yer altı kaynaklarının farklı olması",
+        "C": "Denize olan uzaklığın her bölgede eşit olması",
+        "B": "Enlem farkının çok az olması",
+        "A": "Yağış ve nem koşullarının bölgeden bölgeye değişmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Bitki örtüsü temel olarak iklimle, özellikle yağış ve nem koşullarıyla belirlenir; bu koşulların faklılaşması bölgesel bitki örtüsü çeşitliliği yaratır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Bir ülkede doğum oranının hızla düşmesine karşın ortalama yaşam süresinin uzaması, nüfusun yapısı üzerinde hangi değişime yol açar?",
+      "options": {
+        "B": "Nüfus yoğunluğunun sıfırlanmasına",
+        "C": "Çalışan nüfus oranının sınırsız artmasına",
+        "A": "Nüfusun yaşlanmasına ve bağımlılık oranının değişmesine",
+        "D": "Okuma yazma oranının düşmesine"
+      },
+      "correctOption": "A",
+      "explanation": "Doğumların azalıp yaşam süresinin uzaması yaşlı nüfus payını artırır; yaşlı bağımlılık oranı yükselir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
+      "difficulty": 2,
+      "text": "Türkiye'de kent nüfusunun kır nüfusundan fazla olmasının ortaya çıkardığı sorunlardan biri aşağıdakilerden hangisidir?",
+      "options": {
+        "C": "Kentlerde konut, ulaşım ve altyapı yetersizliği",
+        "A": "Kır kesimlerinde iş gücü sıkıntısının tamamen ortadan kalkması",
+        "D": "Kentlerde doğum oranının kırlara göre hızla artması",
+        "B": "Kırsal alanlarda sanayi tesislerinin çoğalması"
+      },
+      "correctOption": "C",
+      "explanation": "Hızlı kentleşme barınma, ulaşım, su, çevre ve altyapı hizmetlerinin talebi karşılayamamasına yol açarak kentsel sorunları artırır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 2,
+      "text": "Kır yerleşmelerinden bazılarının sürekli, bazılarının geçici olmasını belirleyen temel etken aşağıdakilerden hangisidir?",
+      "options": {
+        "D": "Yerleşmenin il merkezine uzaklığı",
+        "C": "Yerleşmenin deniz kıyısında bulunması",
+        "A": "Ekonomik etkinliğin mevsimlik olup olmaması",
+        "B": "Binaların yapı malzemesi"
+      },
+      "correctOption": "A",
+      "explanation": "Yayla, oba, mezra gibi geçici yerleşmeler mevsimlik faaliyetlere (otlatma, ekim) bağlıdır; faaliyet sürekli ise yerleşme kalıcılaşır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Yerleşme",
+      "difficulty": 3,
+      "text": "Bir yörede konutların yapı malzemesinin orman varlığına, diğer bir yörede ise kolay işlenen toprağa dayanması aşağıdakilerden hangisini gösterir?",
+      "options": {
+        "D": "İklimin her yerde aynı olduğunu",
+        "B": "Konut malzemesinin doğal çevre koşullarına göre biçimlendiğini",
+        "A": "Konutların sanayi ürünü olduğunu",
+        "C": "Yerleşmenin toplu olduğunu"
+      },
+      "correctOption": "B",
+      "explanation": "Ahşap konutlar ormanın, kerpiç konutlar kurak ortamın göstergesidir; yapı malzemesi çevredeki doğal kaynaklardan sağlanır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Türkiye'de büyükbaş hayvancılığın daha çok Doğu Anadolu'da yaygın olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Geniş çayır ve mera alanlarının bulunması",
+        "D": "Kışların ılık ve yağışlı geçmesi",
+        "C": "Kent nüfusunun kabarık olması",
+        "B": "Sanayi tesislerinin yoğun olması"
+      },
+      "correctOption": "A",
+      "explanation": "Doğu Anadolu'da gür çayır ve geniş mera alanları büyükbaş hayvancılığı destekler; bu nedenle bölge hayvancılıkta öne çıkar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 3,
+      "text": "Bir sanayi tesisinin ham madde kaynağına yakın kurulması ile pazara yakın kurulması arasındaki temel tercih nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "B": "İklim koşullarının uygunluğu",
+        "D": "İş gücünün ucuz olması",
+        "A": "Tesisin devlet tarafından zorunlu kılınması",
+        "C": "Üretim maliyetini düşüren taşıma giderinin azaltılmak istenmesi"
+      },
+      "correctOption": "C",
+      "explanation": "Ham maddesi ağır ve hacimli ya da ürünü çabuk bozulan tesisler taşıma giderini azaltmak için kaynağa veya pazara yakın kurulur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya (Tarım/Sanayi/Maden)",
+      "difficulty": 2,
+      "text": "Bir madenin çıkarıldığı yerde işlenmesi yerine başka bir yöreye taşınarak işlenmesinin başlıca nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "C": "Madenin çıkarıldığı alanda rezervin bitmesi",
+        "D": "Taşımanın her zaman ücretsiz olması",
+        "A": "Madenin işlenmesinin yasak olması",
+        "B": "İşleme tesisinin gereksinim duyduğu enerji, sermaye ve iş gücünün başka yerde bulunması"
+      },
+      "correctOption": "B",
+      "explanation": "Madenin işlenmesi bol ve ucuz enerji, sermaye ile nitelikli iş gücü gerektirir; bunların bulunduğu sanayi merkezleri tercih edilir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 2,
+      "text": "Bir afetin oluşumunda doğa olayının yanı sıra zararın büyüklüğünü belirleyen temel etken aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Olayın haberleşme araçlarıyla duyurulması",
+        "C": "Olayın yalnızca gece yaşanması",
+        "D": "Olayın meydana geldiği alandaki nüfus ve yapı yoğunluğu",
+        "B": "Ülkenin yüzölçümünün büyüklüğü"
+      },
+      "correctOption": "D",
+      "explanation": "Aynı şiddetteki bir doğa olayı, insan ve yapı yoğunluğunun az olduğu alanda az zarar verirken yoğun yerleşimlerde büyük afete dönüşür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 3,
+      "text": "Eğimli ve bitki örtüsünden yoksun bırakılmış bir yamaçta şiddetli yağıştan sonra hangi iki olayın birlikte görülmesi beklenir?",
+      "options": {
+        "B": "Erozyon ve heyelan",
+        "C": "Deprem ve tsunami",
+        "D": "Volkanik patlama ve don",
+        "A": "Çığ ve kuraklık"
+      },
+      "correctOption": "B",
+      "explanation": "Bitki örtüsü tutuculuğunun kaybolması yüzeysel akışı artırır; toprağın taşınması erozyonu, doygun kütlenin kayması heyelanı doğurur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 2,
+      "text": "Bir bölgede sulak alanların kurutulmasının, aşağıdakilerden hangisine yol açması beklenir?",
+      "options": {
+        "B": "Yıllık yağışın artmasına",
+        "A": "Kuş göç yollarının ve biyolojik çeşitliliğin zarar görmesine",
+        "C": "Yer altı suyunun yükselmesine",
+        "D": "Erozyonun tamamen durmasına"
+      },
+      "correctOption": "A",
+      "explanation": "Sulak alanlar çok sayıda canlı için beslenme ve barınma ortamıdır; kurutulması habitat kaybına ve tür çeşitliliğinin azalmasına neden olur.",
+      "source": "özgün"
+    }
+  ]
+}

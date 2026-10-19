@@ -15,6 +15,15 @@ const extraTrustedOrigins = (process.env.BETTER_AUTH_TRUSTED_ORIGINS ?? "")
   .map((origin) => origin.trim())
   .filter(Boolean);
 
+// Paylaşım tünelleri (cloudflared/ngrok) rastgele alt alan adı üretir; her
+// tünel açılışında .env düzenlemek yerine joker kökenlere güveniyoruz.
+// better-auth `matchesOriginPattern` şemalı jokerleri destekliyor.
+const tunnelTrustedOrigins = [
+  "https://*.trycloudflare.com",
+  "https://*.ngrok-free.app",
+  "https://*.ngrok.io",
+];
+
 /** Doğrulama kodunun geçerlilik süresi (saniye). */
 const OTP_TTL_SECONDS = 10 * 60;
 
@@ -34,7 +43,7 @@ export const auth = betterAuth({
   appName: "Umut",
   baseURL: process.env.BETTER_AUTH_URL ?? "http://localhost:3001",
   secret: process.env.BETTER_AUTH_SECRET,
-  trustedOrigins: extraTrustedOrigins,
+  trustedOrigins: [...extraTrustedOrigins, ...tunnelTrustedOrigins],
   database: prismaAdapter(prisma, { provider: "sqlite" }),
   emailAndPassword: {
     enabled: true,

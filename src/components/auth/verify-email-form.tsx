@@ -111,8 +111,9 @@ export function VerifyEmailForm({
       <div className="rounded-xl border border-line bg-canvas/50 px-4 py-3 text-sm text-ink-muted">
         {sent ? (
           <>
-            <span className="font-semibold text-ink">{email}</span> adresine{" "}
-            {OTP_LENGTH} haneli bir doğrulama kodu gönderdik.
+            <span className="font-semibold text-ink">{email}</span>{" "}
+            {devCode ? "için" : "adresine"} {OTP_LENGTH} haneli bir doğrulama
+            kodu {devCode ? "oluşturuldu" : "gönderdik"}.
           </>
         ) : (
           <>
@@ -124,12 +125,12 @@ export function VerifyEmailForm({
 
       {devCode ? (
         <p className="rounded-xl border border-warning/40 bg-warning/10 px-4 py-2.5 text-sm text-warning">
-          Geliştirme modu — e-posta gönderilmedi. Kodun:{" "}
+          Demo modu — e-posta sunucusu ayarlı olmadığı için kod gönderilmiyor.
+          Kodun:{" "}
           <strong className="tnum tracking-[0.2em]">{devCode}</strong>
           <br />
           <span className="text-xs opacity-80">
-            (SMTP ayarlanınca bu kutu kaybolur.)
-          </span>
+            (SMTP ayarlanınca bu kutu kaybolur.)</span>
         </p>
       ) : null}
 

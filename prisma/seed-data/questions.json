@@ -18042,6 +18042,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin Ankara Savaşı hangi yılda yapılmıştır?",
+      "options": {
+        "A": "1389",
+        "B": "1402",
+        "C": "1453",
+        "D": "1517"
+      },
+      "correctOption": "B",
+      "explanation": "Ankara Savaşı 1402'de Timur ile Yıldırım Bayezid arasında yapılmıştır; Osmanlı bu savaşı kaybetmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Osmanlı Duraklama",
       "difficulty": 2,
       "text": "Osmanlı Devleti'nin Avrupa devletleriyle imzaladığı ilk eşitlik esaslı antlaşma aşağıdakilerden hangisidir?",
@@ -18068,6 +18083,21 @@
       },
       "correctOption": "A",
       "explanation": "1389 I. Kosova Savaşı kazanılmış, ancak savaş alanında I. Murad şehit düşmüştür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin Fetret Devri hangi yıllar arasında yaşanmıştır?",
+      "options": {
+        "A": "1389-1402",
+        "B": "1402-1413",
+        "C": "1413-1421",
+        "D": "1453-1481"
+      },
+      "correctOption": "B",
+      "explanation": "Fetret Devri 1402-1413 yılları arasında yaşanmıştır; bu dönemde Osmanlı 4 şehzade arasında bölünmüştür.",
       "source": "özgün"
     },
     {
@@ -18102,6 +18132,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin II. Mehmed (Fatih) hangi yılda İstanbul'u fethetmiştir?",
+      "options": {
+        "A": "1402",
+        "B": "1453",
+        "C": "1481",
+        "D": "1517"
+      },
+      "correctOption": "B",
+      "explanation": "İstanbul'un fethi 29 Mayıs 1453'te II. Mehmed (Fatih Sultan Mehmed) tarafından gerçekleştirilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Osmanlı Tarihi",
       "difficulty": 2,
       "text": "Osmanlı Devleti'nin ilk anayasası olan Kanûn-ı Esâsî hangi padişah döneminde ilan edilmiştir?",
@@ -18114,6 +18159,21 @@
       "correctOption": "D",
       "explanation": "Kanûn-ı Esâsî, 23 Aralık 1876'da II. Abdülhamit döneminde ilan edilmiş ve I. Meşrutiyet dönemi başlamıştır.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk başkenti Avrupa'da hangi şehirdir?",
+      "options": {
+        "A": "Edirne",
+        "B": "Bursa",
+        "C": "Söğüt",
+        "D": "İstanbul"
+      },
+      "correctOption": "A",
+      "explanation": "Osmanlı'nın ilk Avrupa başkenti Edirne'dir (1361'de fethedildi); daha önce başkent Bursa idi.",
+      "source": "özgün"
     },
     {
       "categorySlug": "tarih",
@@ -18132,6 +18192,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk beylerbeyi makamı hangi padişah döneminde oluşturulmuştur?",
+      "options": {
+        "A": "Orhan Bey",
+        "B": "I. Murad",
+        "C": "Yıldırım Bayezid",
+        "D": "I. Mehmed"
+      },
+      "correctOption": "B",
+      "explanation": "İlk beylerbeyi makamı I. Murad döneminde (1362-1389) oluşturulmuştur; Rumeli Beylerbeyi Lala Şahin Paşa idi.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Osmanlı Genişleme",
       "difficulty": 2,
       "text": "Osmanlı Devleti'nin ilk büyük deniz zaferi aşağıdakilerden hangisidir?",
@@ -18143,6 +18218,276 @@
       },
       "correctOption": "B",
       "explanation": "Osmanlı'nın ilk büyük deniz zaferi 1499 Zonchio (Sapienza) Deniz Savaşıdır; Preveze ikinci büyük zaferdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk camisi hangi şehirde inşa edilmiştir?",
+      "options": {
+        "A": "Söğüt",
+        "B": "Bursa",
+        "C": "İznik",
+        "D": "Edirne"
+      },
+      "correctOption": "C",
+      "explanation": "İlk Osmanlı camisi İznik'te Orhan Bey döneminde (1333) inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk defa Avrupa topraklarına geçiş yaptığı fetih hangisidir?",
+      "options": {
+        "A": "Edirne Fethi",
+        "B": "Çimpe Kalesi Fethi",
+        "C": "İstanbul Fethi",
+        "D": "Kosova Savaşı"
+      },
+      "correctOption": "B",
+      "explanation": "Osmanlı'nın ilk Avrupa topraklarına geçişi Çimpe Kalesi'nin (1353) fethiyle olmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk defa padışah unvanını kullanan hükümdar kimdir?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "C",
+      "explanation": "İlk 'padışah' unvanını I. Murad (1362-1389) almıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk defa sultan unvanını kullanan hükümdar kimdir?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "İlk 'sultan' unvanını Orhan Bey almıştır; I. Murad 'padışah' unvanını da kullanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk divanı hangi padişah döneminde kurulmuştur?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı divanı Orhan Bey döneminde kurulmuş; bu dönemde vezirlik makamı da oluşturuldu.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk donanması hangi padişah döneminde kurulmuştur?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı donanması Orhan Bey döneminde (1324-1362) kurulmuş ve Karesi Beyliği'nin donanması alınmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk hanı (kervansaray) hangi şehirde inşa edilmiştir?",
+      "options": {
+        "A": "Söğüt",
+        "B": "Bursa",
+        "C": "İznik",
+        "D": "Edirne"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı hanı Bursa'da Orhan Bey döneminde inşa edilmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk imarethanesi (aşevi) hangi padişah döneminde kurulmuştur?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı imareti Orhan Bey döneminde İznik'te kurulmuştur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk kadısı (yargıç) kimdir?",
+      "options": {
+        "A": "Dursun Fakih",
+        "B": "Davud-i Kayseri",
+        "C": "Şeyh Edebali",
+        "D": "Çandarlı Kara Halil"
+      },
+      "correctOption": "A",
+      "explanation": "İlk Osmanlı kadısı Dursun Fakih'tir; Osman Bey döneminde atanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk medresesi hangi şehirde açılmıştır?",
+      "options": {
+        "A": "Söğüt",
+        "B": "Bursa",
+        "C": "İznik",
+        "D": "Edirne"
+      },
+      "correctOption": "C",
+      "explanation": "İlk Osmanlı medresesi İznik'te Orhan Bey döneminde (1331) Davud-i Kayseri tarafından açılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk medresesi İznik'te hangi yılda açılmıştır?",
+      "options": {
+        "A": "1326",
+        "B": "1331",
+        "C": "1337",
+        "D": "1346"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı medresesi İznik'te 1331'de Davud-i Kayseri tarafından açılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk ordusu hangi biçimde kurulmuştur?",
+      "options": {
+        "A": "Yeniçeri Ocağı",
+        "B": "Timarlı Sipahiler",
+        "C": "Akıncılar",
+        "D": "Sekbanlar"
+      },
+      "correctOption": "C",
+      "explanation": "İlk Osmanlı ordusu akıncılardan (gönüllü atlılar) oluşuyordu; Yeniçeri Ocağı I. Murad döneminde kuruldu.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk resmi parası (akçe) hangi metal ile basılmıştır?",
+      "options": {
+        "A": "Altın",
+        "B": "Gümüş",
+        "C": "Bakır",
+        "D": "Demir"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı parası gümüş akçeydi; altın ve bakır paralar daha sonra kullanıldı.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk resmi parası (akçe) hangi yılda basılmıştır?",
+      "options": {
+        "A": "1326",
+        "B": "1327",
+        "C": "1331",
+        "D": "1337"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı akçesi 1327'de Orhan Bey döneminde Bursa'da basılmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk veziri kimdir?",
+      "options": {
+        "A": "Alâeddin Paşa",
+        "B": "Çandarlı Kara Halil",
+        "C": "Davud-i Kayseri",
+        "D": "Dursun Fakih"
+      },
+      "correctOption": "A",
+      "explanation": "İlk Osmanlı veziri Alâeddin Paşa'dır; Orhan Bey döneminde atanmıştır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk veziriazam (sadrazam) unvanı hangi padişah döneminde kullanılmaya başlanmıştır?",
+      "options": {
+        "A": "Orhan Bey",
+        "B": "I. Murad",
+        "C": "Yıldırım Bayezid",
+        "D": "I. Mehmed"
+      },
+      "correctOption": "B",
+      "explanation": "İlk 'veziriazam' (sadrazam) unvanı I. Murad döneminde kullanılmaya başlanmıştır; bu dönemde Çandarlı Kara Halil ilk veziriazamdı.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin ilk Yeniçeri Ocağı hangi padişah döneminde kurulmuştur?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "C",
+      "explanation": "Yeniçeri Ocağı I. Murad döneminde (1362-1389) kurulmuştur; başlangıçta esir ve reaya çocuklarından oluşuyordu.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin Kosova Savaşı hangi yılda yapılmıştır?",
+      "options": {
+        "A": "1371",
+        "B": "1389",
+        "C": "1402",
+        "D": "1453"
+      },
+      "correctOption": "B",
+      "explanation": "Kosova Savaşı 1389'da yapılmıştır; bu savaşta I. Murad şehit düşmüş, yerine Yıldırım Bayezid geçmiştir.",
       "source": "özgün"
     },
     {
@@ -18173,6 +18518,51 @@
       },
       "correctOption": "C",
       "explanation": "Osman Bey, 1299'da bağımsızlığını ilan ederek Osmanlı Devleti'ni kurmuş ve devlete adını vermiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin kuruluşundan itibaren ilk kullanılan resmi bayrak (sancak) hangi renktedir?",
+      "options": {
+        "A": "Kırmızı",
+        "B": "Yeşil",
+        "C": "Beyaz",
+        "D": "Siyah"
+      },
+      "correctOption": "C",
+      "explanation": "Osmanlı'nın ilk bayrağı beyaz zemin üzerine hilal (ay) idi; kırmızı bayrak daha sonra kullanılmaya başlandı.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin kuruluşundan itibaren ilk kullanılan resmi dil hangisidir?",
+      "options": {
+        "A": "Türkçe",
+        "B": "Farsça",
+        "C": "Arapça",
+        "D": "Yunanca"
+      },
+      "correctOption": "A",
+      "explanation": "Osmanlı'da ilk resmi dil Türkçeydi; Farsça ve Arapça daha sonra kültür dili olarak kullanıldı.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Kuruluş",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin kuruluşundan itibaren ilk kullanılan resmi mühür (tuğra) hangi padişah döneminde kullanılmaya başlanmıştır?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "B",
+      "explanation": "İlk Osmanlı tuğrası Orhan Bey döneminde kullanılmaya başlanmıştır.",
       "source": "özgün"
     },
     {
@@ -18222,6 +18612,21 @@
     },
     {
       "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin timar sistemi hangi padişah döneminde kurulmuştur?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "C",
+      "explanation": "Timar sistemi I. Murad döneminde (1362-1389) kurulmuştur; bu sistem sipahilere toprak verilmesi esasına dayanıyordu.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
       "topic": "Osmanlı Dağılma Dönemi",
       "difficulty": 3,
       "text": "Osmanlı Devleti'nin XIX. yüzyılda Avrupa devletleri arasındaki çıkar çatışmalarından yararlanarak toprak bütünlüğünü korumaya çalıştığı politikaya ne ad verilir?",
@@ -18248,6 +18653,21 @@
       },
       "correctOption": "B",
       "explanation": "Coğrafi Keşifler'le önemli ticaret yolları Atlas Okyanusu'na kaymış, Osmanlı topraklarından geçen ticaret azalarak gümrük gelirleri düşmüştür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "tarih",
+      "topic": "Osmanlı Yükselme",
+      "difficulty": 2,
+      "text": "Osmanlı Devleti'nin Yeniçeri Ocağı hangi padişah döneminde kurulmuştur?",
+      "options": {
+        "A": "Osman Bey",
+        "B": "Orhan Bey",
+        "C": "I. Murad",
+        "D": "Yıldırım Bayezid"
+      },
+      "correctOption": "C",
+      "explanation": "Yeniçeri Ocağı I. Murad döneminde (1362-1389) kurulmuştur; başlangıçta esir ve reaya çocuklarından oluşuyordu.",
       "source": "özgün"
     },
     {
@@ -19092,6 +19512,51 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Bölgeler",
+      "difficulty": 2,
+      "text": "'Göller Yöresi' olarak bilinen alan hangi coğrafi bölgede yer alır?",
+      "options": {
+        "A": "Akdeniz Bölgesi",
+        "B": "İç Anadolu Bölgesi",
+        "C": "Ege Bölgesi",
+        "D": "Marmara Bölgesi"
+      },
+      "correctOption": "A",
+      "explanation": "Göller Yöresi; Isparta, Burdur ve çevresinde, Akdeniz Bölgesi'nde yer alır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Turizm",
+      "difficulty": 2,
+      "text": "'Turizm başkenti' olarak anılan il aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Antalya",
+        "B": "Muğla",
+        "C": "İstanbul",
+        "D": "Nevşehir"
+      },
+      "correctOption": "A",
+      "explanation": "Antalya, turizm altyapısı ve yatak kapasitesi nedeniyle 'turizm başkenti' olarak anılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Doğal Afetler",
+      "difficulty": 3,
+      "text": "1999 Marmara depremi hangi fay hattı ile ilişkilidir?",
+      "options": {
+        "A": "Doğu Anadolu Fay Hattı",
+        "B": "Ege Graben Sistemi",
+        "C": "Kuzey Anadolu Fay Hattı",
+        "D": "Toros Fay Zonu"
+      },
+      "correctOption": "C",
+      "explanation": "1999 Marmara depremi, Kuzey Anadolu Fay Hattı üzerinde meydana gelmiştir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "İklim ve Bitki Örtüsü",
       "difficulty": 2,
       "text": "Akdeniz ikliminin doğal bitki örtüsü aşağıdakilerden hangisidir?",
@@ -19104,6 +19569,21 @@
       "correctOption": "A",
       "explanation": "Akdeniz ikliminin görüldüğü kıyılarda doğal bitki örtüsü, kuraklığa dayanıklı, yazın yaprağını dökmeyen çalı ve ağaç topluluğu olan makidir.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim Tipleri",
+      "difficulty": 1,
+      "text": "Akdeniz ikliminin en belirgin özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yıl boyu bol yağışlı ve serin olması",
+        "B": "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçmesi",
+        "C": "Kışlar çok soğuk, yazlar serin geçmesi",
+        "D": "Yağışın her mevsim eşit dağılması"
+      },
+      "correctOption": "B",
+      "explanation": "Akdeniz ikliminde yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır; bu mevsimlik dağılım tipiktir.",
+      "source": "özgün"
     },
     {
       "categorySlug": "cografya",
@@ -19302,6 +19782,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Tarihi Coğrafya",
+      "difficulty": 2,
+      "text": "Çatalhöyük Neolitik yerleşimi hangi il sınırları içindedir?",
+      "options": {
+        "A": "Konya",
+        "B": "Ankara",
+        "C": "Çorum",
+        "D": "Şanlıurfa"
+      },
+      "correctOption": "A",
+      "explanation": "Çatalhöyük, Konya il sınırları içinde yer alan önemli bir Neolitik yerleşimdir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Bitki Örtüsü",
       "difficulty": 2,
       "text": "Doğu Karadeniz kıyılarında nemli ve ılıman iklimin etkisiyle yaygın olan bitki örtüsü aşağıdakilerden hangisidir?",
@@ -19332,6 +19827,51 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Madencilik",
+      "difficulty": 2,
+      "text": "Dünya bor rezervlerinin büyük bir bölümünün bulunduğu ülke aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Rusya",
+        "B": "Çin",
+        "C": "ABD",
+        "D": "Türkiye"
+      },
+      "correctOption": "D",
+      "explanation": "Dünya bor rezervlerinin büyük bir kısmı Türkiye'de bulunmaktadır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünya üzerindeki en geniş delta hangi nehir sistemi tarafından oluşturulmuştur?",
+      "options": {
+        "A": "Nil",
+        "B": "Amazon",
+        "C": "Ganj-Brahmaputra",
+        "D": "Yangtze (Chang Jiang)"
+      },
+      "correctOption": "C",
+      "explanation": "Ganj ve Brahmaputra nehirlerinin oluşturduğu delta, yüzölçümü bakımından dünyanın en geniş deltasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 1,
+      "text": "Dünyanın en büyük adası hangisidir?",
+      "options": {
+        "A": "Yeni Gine",
+        "B": "Madagaskar",
+        "C": "Borneo",
+        "D": "Grönland"
+      },
+      "correctOption": "D",
+      "explanation": "Grönland yaklaşık 2,16 milyon km² alanıyla dünyanın en büyük adasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Dünya Coğrafyası",
       "difficulty": 2,
       "text": "Dünyanın en büyük çölü (soğuk çöl dahil) aşağıdakilerden hangisidir?",
@@ -19343,6 +19883,21 @@
       },
       "correctOption": "C",
       "explanation": "Antarktika ≈14 milyon km² ile dünyanın en büyük çölüdür (soğuk çöl); Sahra en büyük SICAK çöldür (~9.2M km²).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük çölü hangisidir (kutuplar hariç)?",
+      "options": {
+        "A": "Kalahari Çölü",
+        "B": "Sahra Çölü",
+        "C": "Atacama Çölü",
+        "D": "Gobi Çölü"
+      },
+      "correctOption": "B",
+      "explanation": "Sahra Çölü yaklaşık 9 milyon km² ile kutuplar hariç dünyanın en büyük çölüdür.",
       "source": "özgün"
     },
     {
@@ -19364,6 +19919,36 @@
       "categorySlug": "cografya",
       "topic": "Dünya Coğrafyası",
       "difficulty": 2,
+      "text": "Dünyanın en büyük körfezi hangisidir?",
+      "options": {
+        "A": "Alaska Körfezi",
+        "B": "Meksika Körfezi",
+        "C": "Bengal Körfezi",
+        "D": "Biscay Körfezi"
+      },
+      "correctOption": "C",
+      "explanation": "Bengal Körfezi yaklaşık 2,17 milyon km² ile dünyanın en büyük körfezidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük mercan resifi hangisidir?",
+      "options": {
+        "A": "Yeni Kaledonya Resifi",
+        "B": "Belize Resifi",
+        "C": "Büyük Set Resifi",
+        "D": "Kızıldeniz Resifi"
+      },
+      "correctOption": "C",
+      "explanation": "Büyük Set Resifi yaklaşık 2.300 km uzunluğu ile dünyanın en büyük mercan resifidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
       "text": "Dünyanın en büyük okyanusu hangisidir?",
       "options": {
         "A": "Atlantik",
@@ -19373,6 +19958,96 @@
       },
       "correctOption": "C",
       "explanation": "En büyük okyanus Pasifik'tir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük yarımadası hangisidir?",
+      "options": {
+        "A": "İskandinav Yarımadası",
+        "B": "Hint Yarımadası",
+        "C": "Arap Yarımadası",
+        "D": "Balkan Yarımadası"
+      },
+      "correctOption": "C",
+      "explanation": "Arap Yarımadası yaklaşık 3,2 milyon km² ile dünyanın en büyük yarımadasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en büyük yaylası hangisidir?",
+      "options": {
+        "A": "Altiplano",
+        "B": "Kolombiya Yaylası",
+        "C": "Tibet Yaylası",
+        "D": "Mongol Yaylası"
+      },
+      "correctOption": "C",
+      "explanation": "Tibet Yaylası yaklaşık 2,5 milyon km² ile dünyanın en büyük ve en yüksek yaylasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en derin gölü hangisidir?",
+      "options": {
+        "A": "Tanganyika Gölü",
+        "B": "Baykal Gölü",
+        "C": "Superior Gölü",
+        "D": "Victoria Gölü"
+      },
+      "correctOption": "B",
+      "explanation": "Baykal Gölü yaklaşık 1.642 m derinliği ile dünyanın en derin gölüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en derin okyanus çukuru hangisidir?",
+      "options": {
+        "A": "Peru-Şili Çukuru",
+        "B": "Mariana Çukuru",
+        "C": "Tonga Çukuru",
+        "D": "Japonya Çukuru"
+      },
+      "correctOption": "B",
+      "explanation": "Mariana Çukuru yaklaşık 10.994 m derinliği ile dünyanın en derin noktasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en küçük okyanusu hangisidir?",
+      "options": {
+        "A": "Atlantik Okyanusu",
+        "B": "Hint Okyanusu",
+        "C": "Arktik Okyanusu",
+        "D": "Pasifik Okyanusu"
+      },
+      "correctOption": "C",
+      "explanation": "Arktik Okyanusu yaklaşık 14 milyon km² ile yüzey alanı bakımından dünyanın en küçük okyanusudur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en uzun dağ sırası hangisidir?",
+      "options": {
+        "A": "And Dağları",
+        "B": "Himalayalar",
+        "C": "Ural Dağları",
+        "D": "Kordiller"
+      },
+      "correctOption": "A",
+      "explanation": "And Dağları yaklaşık 7.000 km uzunluğu ile dünyanın en uzun dağ sırasıdır.",
       "source": "özgün"
     },
     {
@@ -19403,6 +20078,36 @@
       },
       "correctOption": "B",
       "explanation": "En yüksek dağ Everest'tir (8848 m).",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Dünyanın en yüksek şelalesi hangisidir?",
+      "options": {
+        "A": "Victoria Şelalesi",
+        "B": "Niagara Şelalesi",
+        "C": "Angel Şelalesi",
+        "D": "Iguazu Şelalesi"
+      },
+      "correctOption": "C",
+      "explanation": "Angel Şelalesi yaklaşık 979 m yüksekliği ile dünyanın en yüksek şelalesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 1,
+      "text": "Dünyanın yüzölçümü bakımından en küçük ülkesi hangisidir?",
+      "options": {
+        "A": "Monako",
+        "B": "San Marino",
+        "C": "Vatikan",
+        "D": "Nauru"
+      },
+      "correctOption": "C",
+      "explanation": "Vatikan yaklaşık 0,44 km² yüzölçümü ile dünyanın en küçük ülkesidir.",
       "source": "özgün"
     },
     {
@@ -19448,6 +20153,36 @@
       },
       "correctOption": "C",
       "explanation": "Erzurum-Kars yöresindeki geniş ve gür çayırlar, büyükbaş hayvancılık için uygun beslenme ortamı sağlar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus Yapısı",
+      "difficulty": 3,
+      "text": "Genç nüfus oranının yüksek olduğu ülkelerde aşağıdakilerden hangisi daha sık görülür?",
+      "options": {
+        "A": "Eğitim ve istihdam altyapısına baskı",
+        "B": "Yaşlı nüfus için bakım hizmetlerinin artması",
+        "C": "Nüfus piramidinin üst kısmının genişlemesi",
+        "D": "Bağımlılık oranının belirgin biçimde düşmesi"
+      },
+      "correctOption": "A",
+      "explanation": "Genç nüfusun fazla olması eğitim, istihdam ve konut gibi altyapılara baskı oluşturur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Tarihi Coğrafya",
+      "difficulty": 2,
+      "text": "Göbeklitepe arkeolojik alanı hangi ilde yer alır?",
+      "options": {
+        "A": "Şanlıurfa",
+        "B": "Gaziantep",
+        "C": "Diyarbakır",
+        "D": "Mardin"
+      },
+      "correctOption": "A",
+      "explanation": "Göbeklitepe, Şanlıurfa ilinde bulunan Neolitik dönem tapınak alanıdır.",
       "source": "özgün"
     },
     {
@@ -19542,6 +20277,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Göç",
+      "difficulty": 2,
+      "text": "İç göçte 'itici' (itme) faktörü olarak aşağıdakilerden hangisi öne çıkar?",
+      "options": {
+        "A": "İş imkânlarının artması",
+        "B": "Tarımsal gelirin düşmesi",
+        "C": "Eğitim olanaklarının gelişmesi",
+        "D": "Sağlık hizmetlerinin iyileşmesi"
+      },
+      "correctOption": "B",
+      "explanation": "Ekonomik zorluklar, işsizlik ve tarımsal gelirin düşmesi gibi itici faktörler iç göçü tetikler.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Bitki Örtüsü",
       "difficulty": 1,
       "text": "İlkbahar yağışlarıyla yeşerip yaz kuraklığında kuruyan, küçük otsu bitkilerden oluşan ve İç Anadolu'da yaygın olan doğal bitki örtüsü aşağıdakilerden hangisidir?",
@@ -19553,6 +20303,21 @@
       },
       "correctOption": "A",
       "explanation": "Bozkır (step), ilkbaharda yeşerip yazın kuruyan otsu bitki örtüsüdür ve özellikle İç Anadolu ile Güneydoğu Anadolu'da görülür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+      "options": {
+        "A": "Ege - Akdeniz",
+        "B": "Marmara - Ege",
+        "C": "Karadeniz - Marmara",
+        "D": "Akdeniz - Adriyatik"
+      },
+      "correctOption": "C",
+      "explanation": "İstanbul Boğazı, Karadeniz ile Marmara Denizi'ni birbirine bağlar.",
       "source": "özgün"
     },
     {
@@ -19583,6 +20348,21 @@
       },
       "correctOption": "B",
       "explanation": "Bu yörelerde yer altı sıcak su kaynaklarına imkân veren fay hatları ve volkanik etkinlik bulunduğundan jeotermal potansiyel yüksektir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim Özellikleri",
+      "difficulty": 2,
+      "text": "Karadeniz Bölgesi'nin iç kesimlerinde (ör. Gümüşhane, Bayburt) karasal iklimin görülmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Enlemin yüksek olması",
+        "B": "Denizden uzaklık ve dağların engel oluşturması",
+        "C": "Güneşlenme süresinin fazla olması",
+        "D": "Bitki örtüsünün gür olması"
+      },
+      "correctOption": "B",
+      "explanation": "Denizden uzaklık ve dağların deniz etkisini engellemesi iç kesimlerde karasal iklimi ortaya çıkarır.",
       "source": "özgün"
     },
     {
@@ -19662,6 +20442,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Körfez Akıntısı (Gulf Stream) aşağıdakilerden hangisi üzerinde ılımanlaştırıcı etki yapar?",
+      "options": {
+        "A": "Güney Amerika",
+        "B": "Orta Afrika",
+        "C": "Güneydoğu Asya",
+        "D": "Kuzeybatı Avrupa"
+      },
+      "correctOption": "D",
+      "explanation": "Körfez Akıntısı, Kuzeybatı Avrupa'nın iklimini ılımanlaştırır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Toprak Tipleri",
       "difficulty": 2,
       "text": "Kurak ve yarı kurak bölgelerde yıkanmanın az olduğu alanlarda oluşan ve üzerinde bozkır bitkilerinin yetiştiği toprak tipi aşağıdakilerden hangisidir?",
@@ -19673,6 +20468,36 @@
       },
       "correctOption": "D",
       "explanation": "Kahverengi step toprakları, İç Anadolu gibi yarı kurak bölgelerde oluşur ve üzerinde bozkır bitki örtüsü gelişir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Çevre Sorunları",
+      "difficulty": 3,
+      "text": "Küresel ısınmanın temel nedeni olarak aşağıdakilerden hangisi kabul edilir?",
+      "options": {
+        "A": "Ozon tabakasının incelmesi",
+        "B": "Sera gazlarının artması",
+        "C": "Güneş lekelerinin artması",
+        "D": "Volkanik aktivitenin azalması"
+      },
+      "correctOption": "B",
+      "explanation": "Fosil yakıt kullanımının artmasıyla sera gazları yükselir ve küresel ısınma oluşur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Toprak Tipleri",
+      "difficulty": 3,
+      "text": "Laterit toprakların en yaygın olduğu iklim tipi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Akdeniz",
+        "B": "Ekvatoral",
+        "C": "Karasal",
+        "D": "Çöl"
+      },
+      "correctOption": "B",
+      "explanation": "Laterit topraklar, yüksek sıcaklık ve bol yağışın görüldüğü ekvatoral iklimde yaygındır.",
       "source": "özgün"
     },
     {
@@ -19719,6 +20544,21 @@
       "correctOption": "C",
       "explanation": "Seyhan ve Ceyhan nehirlerinin taşıdığı alüvyonlarla oluşan Çukurova, Türkiye'nin en büyük delta ovasıdır.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Bitki Örtüsü",
+      "difficulty": 1,
+      "text": "Step (bozkır) bitki örtüsünün en yaygın olduğu bölge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Karadeniz",
+        "B": "Ege",
+        "C": "Akdeniz",
+        "D": "İç Anadolu"
+      },
+      "correctOption": "D",
+      "explanation": "İç Anadolu'da yağışın az olması nedeniyle step (bozkır) bitki örtüsü yaygındır.",
+      "source": "özgün"
     },
     {
       "categorySlug": "cografya",
@@ -20037,6 +20877,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Tarım",
+      "difficulty": 2,
+      "text": "Türkiye'de çay üretiminin en yoğun olduğu bölge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğu Karadeniz",
+        "B": "Ege",
+        "C": "Akdeniz",
+        "D": "Marmara"
+      },
+      "correctOption": "A",
+      "explanation": "Çay tarımı, iklim koşulları nedeniyle en yoğun biçimde Doğu Karadeniz'de yapılır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Doğal Afetler",
       "difficulty": 1,
       "text": "Türkiye'de çığ olaylarının en çok görüldüğü bölge aşağıdakilerden hangisidir?",
@@ -20262,6 +21117,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Türkiye'de en geniş iç (karasal) ova aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eskişehir Ovası",
+        "B": "Ankara Ovası",
+        "C": "Konya Ovası",
+        "D": "Tuz Gölü Ovası"
+      },
+      "correctOption": "C",
+      "explanation": "Konya Ovası, Türkiye'nin en geniş iç (karasal) ovası olarak bilinir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Ekonomi",
       "difficulty": 1,
       "text": "Türkiye'de fındık üretiminin en yoğun olarak yapıldığı bölge aşağıdakilerden hangisidir?",
@@ -20454,6 +21324,21 @@
       "correctOption": "B",
       "explanation": "Cumhuriyet döneminde Türkiye'de ilk nüfus sayımı 1927 yılında yapılmıştır.",
       "source": "Umut özgün soru bankası"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Enerji",
+      "difficulty": 2,
+      "text": "Türkiye'de jeotermal enerji potansiyelinin en yüksek olduğu bölge aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğu Anadolu",
+        "B": "Ege",
+        "C": "Karadeniz",
+        "D": "Güneydoğu Anadolu"
+      },
+      "correctOption": "B",
+      "explanation": "Ege Bölgesi, Türkiye'nin jeotermal enerji potansiyelinin en yüksek olduğu bölgedir.",
+      "source": "özgün"
     },
     {
       "categorySlug": "cografya",
@@ -20788,6 +21673,21 @@
     {
       "categorySlug": "cografya",
       "topic": "Nüfus",
+      "difficulty": 1,
+      "text": "Türkiye'de nüfusun en yoğun olduğu il aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ankara",
+        "B": "İzmir",
+        "C": "İstanbul",
+        "D": "Bursa"
+      },
+      "correctOption": "C",
+      "explanation": "İstanbul, Türkiye'nin nüfus bakımından en kalabalık ve en yoğun ilidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Nüfus",
       "difficulty": 2,
       "text": "Türkiye'de nüfusun seyrek olduğu alanlar aşağıdakilerden hangisidir?",
       "options": {
@@ -20798,6 +21698,21 @@
       },
       "correctOption": "B",
       "explanation": "Yüksek ve engebeli alanlarda iklim sert, ulaşım güç olduğundan nüfus seyrektir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ormanlar",
+      "difficulty": 2,
+      "text": "Türkiye'de orman varlığının en fazla olduğu coğrafi bölge hangisidir?",
+      "options": {
+        "A": "Karadeniz Bölgesi",
+        "B": "Akdeniz Bölgesi",
+        "C": "Ege Bölgesi",
+        "D": "Marmara Bölgesi"
+      },
+      "correctOption": "A",
+      "explanation": "Karadeniz Bölgesi, Türkiye'de orman örtüsünün en yoğun olduğu bölgedir.",
       "source": "özgün"
     },
     {
@@ -21028,6 +21943,36 @@
     {
       "categorySlug": "cografya",
       "topic": "İklim",
+      "difficulty": 1,
+      "text": "Türkiye'de yıllık ortalama sıcaklığın en düşük olduğu il aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ağrı",
+        "B": "Kars",
+        "C": "Erzurum",
+        "D": "Ardahan"
+      },
+      "correctOption": "D",
+      "explanation": "Ardahan, Türkiye'de yıllık ortalama sıcaklığın en düşük olduğu ildir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
+      "difficulty": 2,
+      "text": "Türkiye'de yıllık ortalama yağışın en az olduğu il aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Iğdır",
+        "B": "Konya",
+        "C": "Ankara",
+        "D": "Sivas"
+      },
+      "correctOption": "A",
+      "explanation": "Iğdır, yıllık ortalama 261 mm yağışla Türkiye'nin en kurak ilidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İklim",
       "difficulty": 2,
       "text": "Türkiye'de yıllık yağış miktarının en fazla olduğu alan aşağıdakilerden hangisidir?",
       "options": {
@@ -21177,6 +22122,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Ekonomik Coğrafya",
+      "difficulty": 2,
+      "text": "Türkiye'nin dış ticaretinde en büyük paya sahip ürün grubu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarım ürünleri",
+        "B": "Otomotiv ve yan sanayi",
+        "C": "Madenler",
+        "D": "Enerji"
+      },
+      "correctOption": "B",
+      "explanation": "Türkiye'nin ihracatında otomotiv ve yan sanayi ürünleri en büyük paya sahip kalem olarak öne çıkar.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Türkiye'nin Coğrafi Konumu",
       "difficulty": 2,
       "text": "Türkiye'nin doğusu ile batısı arasındaki boylam farkı yaklaşık 19°'dir. Bu durum aşağıdakilerden hangisine neden olur?",
@@ -21188,6 +22148,21 @@
       },
       "correctOption": "A",
       "explanation": "Boylam farkı yerel saat farkına yol açar; 19°'lik fark yaklaşık 76 dakikalık zaman farkı demektir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Konum",
+      "difficulty": 1,
+      "text": "Türkiye'nin en batı noktası hangi il sınırları içinde yer alır?",
+      "options": {
+        "A": "Çanakkale",
+        "B": "Edirne",
+        "C": "İzmir",
+        "D": "Balıkesir"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye'nin en batı noktası, Çanakkale'ye bağlı Gökçeada'daki Avlaka Burnu'dur.",
       "source": "özgün"
     },
     {
@@ -21267,6 +22242,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Buzullar",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük buzulu hangi dağda bulunur?",
+      "options": {
+        "A": "Kaçkar Dağı",
+        "B": "Süphan Dağı",
+        "C": "Erciyes Dağı",
+        "D": "Ağrı Dağı"
+      },
+      "correctOption": "D",
+      "explanation": "Ağrı Dağı'ndaki takke buzulu Türkiye'nin en büyük buzuludur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Yer Şekilleri",
       "difficulty": 2,
       "text": "Türkiye'nin en büyük delta ovası olan Çukurova'nın oluşumunda aşağıdakilerden hangisi etkili olmuştur?",
@@ -21312,6 +22302,36 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Havzalar",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük kapalı havzası hangisidir?",
+      "options": {
+        "A": "Konya Kapalı Havzası",
+        "B": "Van Gölü Kapalı Havzası",
+        "C": "Akarçay Kapalı Havzası",
+        "D": "Burdur Göller Kapalı Havzası"
+      },
+      "correctOption": "A",
+      "explanation": "Konya Kapalı Havzası yaklaşık 4,98 milyon hektar alanıyla Türkiye'nin en büyük kapalı havzasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 3,
+      "text": "Türkiye'nin en büyük krater gölü hangisidir?",
+      "options": {
+        "A": "Nemrut Krater Gölü",
+        "B": "Gölcük Krater Gölü",
+        "C": "Meke Krater Gölü",
+        "D": "Acıgöl"
+      },
+      "correctOption": "A",
+      "explanation": "Nemrut Krater Gölü (Bitlis), Türkiye'nin en büyük krater gölüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Türkiye Coğrafyası",
       "difficulty": 2,
       "text": "Türkiye'nin en büyük ovası hangisidir?",
@@ -21327,6 +22347,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin en büyük şelalesi hangisidir?",
+      "options": {
+        "A": "Tortum Şelalesi",
+        "B": "Manavgat Şelalesi",
+        "C": "Düden Şelalesi",
+        "D": "Kurşunlu Şelalesi"
+      },
+      "correctOption": "A",
+      "explanation": "Tortum Şelalesi, 48 m yüksekliğiyle Türkiye'nin en büyük şelalesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Göller",
       "difficulty": 2,
       "text": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir?",
@@ -21338,6 +22373,36 @@
       },
       "correctOption": "C",
       "explanation": "Beyşehir Gölü, Türkiye'nin en büyük tatlı su gölüdür. Van Gölü sodalı, Tuz Gölü ise tuzlu olduğundan bu göllerin suları içme ve sulamada kullanılamaz.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 1,
+      "text": "Türkiye'nin en büyük tuz gölü hangisidir?",
+      "options": {
+        "A": "Tuz Gölü",
+        "B": "Van Gölü",
+        "C": "Burdur Gölü",
+        "D": "Acıgöl"
+      },
+      "correctOption": "A",
+      "explanation": "Tuz Gölü, yaklaşık 1500 km² yüzölçümüyle Türkiye'nin en büyük tuz gölüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Göller",
+      "difficulty": 2,
+      "text": "Türkiye'nin en derin gölü hangisidir?",
+      "options": {
+        "A": "Van Gölü",
+        "B": "Tuz Gölü",
+        "C": "Beyşehir Gölü",
+        "D": "Eğirdir Gölü"
+      },
+      "correctOption": "A",
+      "explanation": "Van Gölü, 451 metrelik derinliğiyle Türkiye'nin en derin gölüdür.",
       "source": "özgün"
     },
     {
@@ -21387,6 +22452,51 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Fay Hatları",
+      "difficulty": 2,
+      "text": "Türkiye'nin en uzun fay hattı hangisidir?",
+      "options": {
+        "A": "Ölü Deniz Fay Hattı",
+        "B": "Kuzey Anadolu Fay Hattı",
+        "C": "Doğu Anadolu Fay Hattı",
+        "D": "Batı Anadolu Fay Hattı"
+      },
+      "correctOption": "B",
+      "explanation": "Kuzey Anadolu Fay Hattı yaklaşık 1100-1200 km uzunluğu ile Türkiye'nin en uzun fay hattıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaştırma",
+      "difficulty": 2,
+      "text": "Türkiye'nin en uzun kara yolu tüneli hangisidir?",
+      "options": {
+        "A": "Zigana Tüneli",
+        "B": "Orhangazi Tüneli",
+        "C": "Ovit Tüneli",
+        "D": "Bolu Dağı Tüneli"
+      },
+      "correctOption": "A",
+      "explanation": "Zigana Tüneli 14,48 km uzunluğu ile Türkiye'nin en uzun karayolu tünelidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Ulaşım",
+      "difficulty": 2,
+      "text": "Türkiye'nin en uzun köprüsü hangisidir?",
+      "options": {
+        "A": "1915 Çanakkale Köprüsü",
+        "B": "Osmangazi Köprüsü",
+        "C": "Fatih Sultan Mehmet Köprüsü",
+        "D": "Boğaz Köprüsü"
+      },
+      "correctOption": "A",
+      "explanation": "1915 Çanakkale Köprüsü, Türkiye'nin en uzun köprüsüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Türkiye Coğrafyası",
       "difficulty": 2,
       "text": "Türkiye'nin en uzun nehri hangisidir?",
@@ -21432,6 +22542,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Barajlar",
+      "difficulty": 2,
+      "text": "Türkiye'nin en yüksek barajı hangisidir?",
+      "options": {
+        "A": "Yusufeli Barajı",
+        "B": "Karakaya Barajı",
+        "C": "Keban Barajı",
+        "D": "Atatürk Barajı"
+      },
+      "correctOption": "A",
+      "explanation": "Yusufeli Barajı 275 m gövde yüksekliği ile Türkiye'nin en yüksek barajıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Yer Şekilleri",
       "difficulty": 1,
       "text": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
@@ -21462,6 +22587,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Yer Şekilleri",
+      "difficulty": 2,
+      "text": "Türkiye'nin en yüksek volkanik dağı hangisidir?",
+      "options": {
+        "A": "Ağrı Dağı",
+        "B": "Erciyes Dağı",
+        "C": "Süphan Dağı",
+        "D": "Nemrut Dağı"
+      },
+      "correctOption": "A",
+      "explanation": "Ağrı Dağı (5137 m), Türkiye'nin en yüksek ve en büyük volkanik dağıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Ticaret",
       "difficulty": 2,
       "text": "Türkiye'nin ihracatında önemli paya sahip ürün grupları aşağıdakilerden hangisidir?",
@@ -21477,6 +22617,21 @@
     },
     {
       "categorySlug": "cografya",
+      "topic": "Korunan Alanlar",
+      "difficulty": 2,
+      "text": "Türkiye'nin ilk milli parkı hangisidir?",
+      "options": {
+        "A": "Yozgat Çamlığı Milli Parkı",
+        "B": "Uludağ Milli Parkı",
+        "C": "Yedigöller Milli Parkı",
+        "D": "Kuşcenneti Milli Parkı"
+      },
+      "correctOption": "A",
+      "explanation": "Yozgat Çamlığı Milli Parkı, 1958'de ilan edilen Türkiye'nin ilk milli parkıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
       "topic": "Ticaret",
       "difficulty": 2,
       "text": "Türkiye'nin ithalatında büyük yer tutan ürün grubu aşağıdakilerden hangisidir?",
@@ -21488,6 +22643,21 @@
       },
       "correctOption": "A",
       "explanation": "Enerji ihtiyacının büyük bölümünü dışarıdan karşılayan Türkiye'nin ithalatında petrol ve doğal gaz başta gelir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Sınır Komşuları",
+      "difficulty": 2,
+      "text": "Türkiye'nin kara sınırının en uzun olduğu ülke hangisidir?",
+      "options": {
+        "A": "Suriye",
+        "B": "Irak",
+        "C": "İran",
+        "D": "Gürcistan"
+      },
+      "correctOption": "A",
+      "explanation": "Türkiye ile Suriye arasındaki kara sınırı yaklaşık 877 km ile en uzundur.",
       "source": "özgün"
     },
     {
@@ -21578,6 +22748,81 @@
       },
       "correctOption": "D",
       "explanation": "Adı geçen dört bölüm Doğu Anadolu Bölgesi'ni oluşturur.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Yüzey alanı bakımından dünyanın en büyük tatlı su gölü hangisidir?",
+      "options": {
+        "A": "Huron Gölü",
+        "B": "Michigan Gölü",
+        "C": "Victoria Gölü",
+        "D": "Superior Gölü"
+      },
+      "correctOption": "D",
+      "explanation": "Superior Gölü yaklaşık 82.100 km² yüzey alanı ile dünyanın en büyük tatlı su gölüdür.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Dünya Coğrafyası",
+      "difficulty": 2,
+      "text": "Yüzölçümü bakımından dünyanın en büyük ülkesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kanada",
+        "B": "Çin",
+        "C": "ABD",
+        "D": "Rusya"
+      },
+      "correctOption": "D",
+      "explanation": "Rusya, yüzölçümü bakımından dünyanın en büyük ülkesidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "Havzalar",
+      "difficulty": 2,
+      "text": "Yüzölçümü bakımından Türkiye'nin en büyük akarsu havzası hangisidir?",
+      "options": {
+        "A": "Kızılırmak Havzası",
+        "B": "Dicle Havzası",
+        "C": "Fırat Havzası",
+        "D": "Sakarya Havzası"
+      },
+      "correctOption": "C",
+      "explanation": "Fırat Nehri havzası Türkiye'nin en geniş akarsu havzasıdır.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İller",
+      "difficulty": 1,
+      "text": "Yüzölçümü bakımından Türkiye'nin en büyük ili hangisidir?",
+      "options": {
+        "A": "Konya",
+        "B": "Ankara",
+        "C": "Sivas",
+        "D": "Antalya"
+      },
+      "correctOption": "A",
+      "explanation": "Konya, yaklaşık 40.813 km² yüzölçümüyle Türkiye'nin en büyük ilidir.",
+      "source": "özgün"
+    },
+    {
+      "categorySlug": "cografya",
+      "topic": "İller",
+      "difficulty": 1,
+      "text": "Yüzölçümü bakımından Türkiye'nin en küçük ili hangisidir?",
+      "options": {
+        "A": "Yalova",
+        "B": "Kilis",
+        "C": "Bartın",
+        "D": "Düzce"
+      },
+      "correctOption": "A",
+      "explanation": "Yalova, yaklaşık 798 km² yüzölçümüyle Türkiye'nin en küçük ilidir.",
       "source": "özgün"
     },
     {

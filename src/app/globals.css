@@ -67,8 +67,15 @@
         color-mix(in oklab, var(--color-accent) 7%, transparent),
         transparent
       );
-    background-attachment: fixed;
     background-repeat: no-repeat;
+  }
+
+  /* `background-attachment: fixed` mobil tarayıcılarda kaydırmayı kilitler ve
+     takılmaya yol açar; yalnızca geniş ekranlarda sabit tutuyoruz. */
+  @media (min-width: 768px) {
+    body {
+      background-attachment: fixed;
+    }
   }
 
   /* Tailwind v4'te kenarlık rengi currentColor'a düşer; tema ile tutarlı olsun. */
