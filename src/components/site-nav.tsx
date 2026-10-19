@@ -24,6 +24,7 @@ export interface NavUser {
 
 const LINKS = [
   { href: "/oyna", label: "Oyna" },
+  { href: "/soru-bankasi", label: "Soru Bankası" },
   { href: "/siralama", label: "Sıralama" },
   { href: "/profil", label: "Profil" },
 ] as const;

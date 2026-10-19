@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 import { ModePicker } from "@/components/game/mode-picker";
 import { Progress } from "@/components/ui/progress";
@@ -146,9 +147,14 @@ export default async function PlayPage(props: PageProps<"/oyna">) {
       />
 
       <p className="text-center text-xs text-ink-faint">
-        Soru bankasında toplam{" "}
-        <span className="tnum text-ink-muted">{formatNumber(totalQuestions)}</span>{" "}
-        soru var.
+        <Link
+          href="/soru-bankasi"
+          className="underline underline-offset-4 transition hover:text-ink-muted"
+        >
+          Soru bankasında toplam{" "}
+          <span className="tnum text-ink-muted">{formatNumber(totalQuestions)}</span>{" "}
+          soru var.
+        </Link>
       </p>
     </div>
   );
